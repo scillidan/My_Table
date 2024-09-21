@@ -1,5 +1,5 @@
 group   | tag                       | link
-:   -   | :-                        | :-
+:-      | :-                        | :-
 entry   | `/bin`                    | [What's the purpose of $HOME/bin directory?](https://askubuntu.com/questions/1408441/whats-the-purpose-of-home-bin-directory)
 entry   | `44100Hz`                 | [Eigentechno](https://www.isik.dev/posts/Eigentechno.html)
 entry   | `attribute`               | [Etymonline](https://www.etymonline.com/search?q=Attribution)
