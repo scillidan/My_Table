@@ -19,6 +19,7 @@ dictionary:yomichan   | 00  | [How Do I Make A Yomichan Dictionary?](https://git
 driver:cudnn          | 11  | [Installing cuDNN on Windows](https://docs.nvidia.com/deeplearning/cudnn/latest/installation/windows.html)
 driver:numpy          | 11  | [Issue while training: AttributeError: module 'numpy' has no attribute 'int'](https://github.com/WongKinYiu/yolov7/issues/1280)
 editor:aegisub        | 00  | [Aegisub 卡拉 OK 特效模板](https://note.tonycrane.cc/others/subs/aegisub/karaoke/)
+espanso:variable|01 | [Espanso](https://espanso.org/docs/matches/variables/)
 emulator:switch       | 00  | [road-to-ryujinx-without-switch](https://github.com/HerXayah/road-to-ryujinx-without-switch)
 f-droid:repo          | 11  | [Mirror Monitor](https://gitlab.com/fdroid/mirror-monitor)
 f-droid:repo          | 11  | [添加国内源和存储库](https://sspai.com/post/63647)

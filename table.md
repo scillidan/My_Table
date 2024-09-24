@@ -17,6 +17,7 @@ ai:mode:-                        | 00   | Generative Models by Stability AI     
 ai:tts:-                         | 00   | Parler-TTS                                                         | https://github.com/huggingface/parler-tts
 ai:video:-                       | 00   | LivePortrait                                                       | https://github.com/KwaiVGI/LivePortrait
 ai:video:-                       | 00   | MagicAnimate                                                       | https://github.com/magic-research/magic-animate
+ai:audio:- | 00 | VoiceStreamAI | https://github.com/alesaccoia/VoiceStreamAI
 ai:video:-                       | 00   | RAD-NeRF                                                           | https://github.com/ashawkey/RAD-NeRF
 ai:video:-                       | 00   | Rerender_A_Video                                                   | https://github.com/williamyang1991/Rerender_A_Video
 neovim:editor:-                  | 11   | truncateline.nvim                                                  | https://github.com/rlychrisg/truncateline.nvim
@@ -409,6 +410,7 @@ chrome:cache:-                   | 00   | Forget Button                         
 chrome:cache:-                   | 11   | Cookie AutoDelete                                                  | https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
 chrome:cache:-                   | 11   | Cookie-Editor                                                      | https://cookie-editor.cgagnier.ca
 chrome:control:-                 | 11   | nextpage                                                           | https://github.com/sylecn/nextpage-we
+chrome:ocr:- | 11 | OCR - Image Reader | https://webextension.org/listing/ocr.html
 chrome:develop:-                 | 00   | Allow CORS                                                         | https://mybrowseraddon.com/access-control-allow-origin.html
 chrome:develop:-                 | 00   | Block image                                                        | https://chrome.google.com/webstore/detail/block-image/pehaalcefcjfccdpbckoablngfkfgfgj
 chrome:develop:-                 | 00   | Broken Link Checker                                                | https://webextension.org/listing/broken-link-checker.html
@@ -818,7 +820,7 @@ device:watch:library             | 00   | LVGL                                  
 device:watch:os                  | 00   | Open-Smartwatch Operating System                                   | https://github.com/Open-Smartwatch/open-smartwatch-os
 device:weather:eink              | 001  | eink-weather-display                                               | https://github.com/kimmobrunfeldt/eink-weather-display
 dictionary:cli:-                 | 11   | sdcv                                                               | https://github.com/Dushistov/sdcv
-dictionary:convert:-             | 00   | PyGlossary                                                         | https://github.com/ilius/pyglossary
+dictionary:convert:-             | 10   | PyGlossary                                                         | https://github.com/ilius/pyglossary
 dictionary:dictd:-               | 00   | dict-ecdict                                                        | https://github.com/tuberry/dict-ecdict
 dictionary:dictd:cygwin          | 00   | dict-wrapper                                                       | https://github.com/dekerser/dict-wrapper
 dictionary:dictd:linux           | 00   | ClipDict                                                           | https://github.com/github-young/ClipDict
@@ -832,9 +834,9 @@ dictionary:goldendict:-          | 00   | GoldenDict tools                      
 dictionary:goldendict:-          | 00   | GoldenDict-ng                                                      | https://github.com/xiaoyifang/goldendict-ng
 dictionary:goldendict:-          | 00   | TMX to Goldendict Convertor                                        | https://github.com/Celso-Scott/TMX-to-Goldendict-Converter
 dictionary:goldendict:-          | 11   | GoldenDict                                                         | https://github.com/goldendict/goldendict
-dictionary:goldendict:dsl        | 00   | dictzip for Windows 10 (x64)                                       | https://github.com/KaseyJenkins/dictzip-win64
+dictionary:goldendict:dsl        | 10   | dictzip for Windows 10 (x64)                                       | https://github.com/KaseyJenkins/dictzip-win64
 dictionary:goldendict:tmx2       | 00   | TMX to Goldendict Convertor                                        | https://github.com/Celso-Scott/TMX-to-Goldendict-Converter
-dictionary:mdx:-                 | 00   | MDict Tool                                                         | https://github.com/liuyug/mdict-utils
+dictionary:mdx:-                 | 10   | MDict Tool                                                         | https://github.com/liuyug/mdict-utils
 dictionary:mecab:-               | 01   | mecab-python3                                                      | https://github.com/SamuraiT/mecab-python3
 dictionary:mecab:-               | 10   | UniDic                                                             | https://clrd.ninjal.ac.jp/unidic/
 dictionary:mecab:korean          | 00   | mecab-ko-msvc                                                      | https://github.com/Pusnow/mecab-ko-msvc
@@ -3339,6 +3341,8 @@ rss:feed:manga                   | 00   | MDRSS-TS                              
 rss:feed:mkdocs                  | 00   | catalog                                                            | https://github.com/mkdocs/catalog
 rss:feed:powershell              | 00   | Awesome PowerShell                                                 | https://github.com/janikvonrotz/awesome-powershell
 rss:feed:rofi                    | 00   | rofi                                                               | https://github.com/davatorium/rofi/wiki/User-scripts
+rss:feed:-                       | 00   | F-Droid_Newapps_RSS                                                | https://github.com/yzqzss/f-Droid_Newapps_RSS
+rss:feed:-                       | 00   | Hacker News RSS                                                    | https://github.com/hnrss/hnrss
 rss:newsboat:-                   | 11   | Newsboat                                                           | https://github.com/newsboat/newsboat
 rss:newsboat:linux               | 001  | link-handler                                                       | https://github.com/mrdotx/link-handler
 rss:reader:tui                   | 00   | goread                                                             | https://github.com/TypicalAM/goread
@@ -3934,6 +3938,7 @@ video:av1:-                      | 00   | Av1ador                               
 video:av1:-                      | 00   | Av1an                                                              | https://github.com/master-of-zen/Av1an
 video:av1:-                      | 00   | Av1an Win Script                                                   | https://github.com/Hishiro64/av1an-win-script
 video:convert:-                  | 11   | FFmpeg Batch AV Converter                                          | https://github.com/eibol/ffmpeg_batch
+video:mkv:- | 00 | MKV Muxing Batch GUI | https://github.com/yaser01/mkv-muxing-batch-gui
 video:cut:-                      | 00   | VidCutter                                                          | https://github.com/ozmartian/vidcutter
 video:cut:-                      | 11   | LosslessCut                                                        | https://github.com/mifi/lossless-cut
 video:diff:-                     | 10   | video-compare                                                      | https://github.com/pixop/video-compare
