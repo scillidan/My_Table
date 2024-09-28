@@ -1,23 +1,34 @@
 tag                              | mark | title                                                              | url
 :-                               | :-   | :-                                                                 | :-
 ai:audio:-                       | 00   | AniPortrait                                                        | https://github.com/Zejun-Yang/AniPortrait
-ai:audio:-                       | 00   | Bark                                                               | https://github.com/suno-ai/bark
+ai:audio:-                       | 10   | Bark                                                               | https://github.com/suno-ai/bark
 ai:audio:-                       | 00   | CosyVoice                                                          | https://github.com/FunAudioLLM/CosyVoice
 ai:audio:-                       | 00   | Fish Speech                                                        | https://github.com/fishaudio/fish-speech
 ai:audio:-                       | 00   | Real-Time Voice Cloning                                            | https://github.com/CorentinJ/Real-Time-Voice-Cloning
 ai:audio:tta                     | 00   | AudioLDM                                                           | https://github.com/haoheliu/AudioLDM
 ai:audio:tta                     | 00   | Coqui.ai TTS                                                       | https://github.com/coqui-ai/TTS
+ai:image:-                       | 00   | IOPaint                                                            | https://github.com/Sanster/IOPaint
 ai:audio:tta                     | 00   | GPT-SoVITS-WebUI                                                   | https://github.com/RVC-Boss/GPT-SoVITS
+ai:rag:-                         | 00   | Verba                                                              | https://github.com/weaviate/Verba
+ai:ocr:-                         | 00   | docTR                                                              | https://github.com/mindee/doctr
+ai:translate:-                   | 00   | ChatGPT API SRT Subtitle Translator                                | https://github.com/Cerlancism/chatgpt-subtitle-translator
+ai:audio:-                       | 00   | VoiceStreamAI                                                      | https://github.com/alesaccoia/VoiceStreamAI
+ai:audio:-                       | 00   | OpenVoice                                                          | https://github.com/myshell-ai/OpenVoice
+ai:audio:-                       | 00   | FluxMusic                                                          | https://github.com/feizc/FluxMusic
+ai:chat:-                        | 00   | Dify                                                               | https://github.com/langgenius/dify
+tool:check:-                     | 00   | Sigma                                                              | https://github.com/SigmaHQ/sigma
+ai:chat:-                        | 00   | Letta                                                              | https://github.com/cpacker/MemGPT
 ai:chat:webui                    | 00   | Text generation web UI                                             | https://github.com/oobabooga/text-generation-webui
 ai:github:issue                  | 00   | SWE-agent                                                          | https://github.com/princeton-nlp/SWE-agent
+ai:translate:-                   | 00   | BallonsTranslator                                                  | https://github.com/dmMaze/BallonsTranslator
 paste:cross:-                    | 01   | CrossPaste                                                         | https://github.com/CrossPaste/crosspaste-desktop
+ai:image:-                       | 00   | Draw2Img                                                           | https://github.com/GradientSurfer/Draw2Img
 ai:image:-                       | 00   | ComfyUI IPAdapter plus                                             | https://github.com/cubiq/ComfyUI_IPAdapter_plus
 ai:image:-                       | 00   | Grounded-Segment-Anything                                          | https://github.com/IDEA-Research/Grounded-Segment-Anything
 ai:mode:-                        | 00   | Generative Models by Stability AI                                  | https://github.com/Stability-AI/generative-models
 ai:tts:-                         | 00   | Parler-TTS                                                         | https://github.com/huggingface/parler-tts
 ai:video:-                       | 00   | LivePortrait                                                       | https://github.com/KwaiVGI/LivePortrait
 ai:video:-                       | 00   | MagicAnimate                                                       | https://github.com/magic-research/magic-animate
-ai:audio:- | 00 | VoiceStreamAI | https://github.com/alesaccoia/VoiceStreamAI
 ai:video:-                       | 00   | RAD-NeRF                                                           | https://github.com/ashawkey/RAD-NeRF
 ai:video:-                       | 00   | Rerender_A_Video                                                   | https://github.com/williamyang1991/Rerender_A_Video
 neovim:editor:-                  | 11   | truncateline.nvim                                                  | https://github.com/rlychrisg/truncateline.nvim
@@ -25,6 +36,7 @@ ai:video:-                       | 00   | VideoReTalking                        
 ai:video:-                       | 00   | vid2vid                                                            | https://github.com/NVIDIA/vid2vid
 ai:video:camera                  | 00   | Disclaimer                                                         | https://github.com/hacksider/Deep-Live-Cam
 andirod:-:-                      | 00   | love-11.3-android                                                  | https://github.com/love2d/love/releases
+andriod:app:- | 00 | Stride | https://github.com/stride-tasks/stride
 andriod:app:-                    | 00   | App Manager                                                        | https://github.com/MuntashirAkon/AppManager
 andriod:app:-                    | 00   | Obtainium                                                          | https://github.com/ImranR98/Obtainium
 andriod:app:-                    | 11   | Neo Store                                                          | https://github.com/NeoApplications/Neo-Store
@@ -75,6 +87,7 @@ andriod:tool:-                   | 00   | GuessIron                             
 andriod:tool:-                   | 00   | Save Locally                                                       | https://github.com/MateusRodCosta/Share2Storage
 andriod:tool:-                   | 00   | ScreenshotTile                                                     | https://github.com/cvzi/ScreenshotTile
 andriod:tool:-                   | 00   | localsend                                                          | https://github.com/localsend/localsend
+ai:image:-                       | 00   | img2img-turbo                                                      | https://github.com/GaParmar/img2img-turbo
 andriod:tool:light               | 00   | FlashDim                                                           | https://github.com/cyb3rko/flashdim
 andriod:tool:light               | 00   | Simple-Flashlight                                                  | https://github.com/SimpleMobileTools/Simple-Flashlight
 andriod:tool:scan                | 00   | BinaryEye                                                          | https://github.com/markusfisch/BinaryEye
@@ -410,7 +423,7 @@ chrome:cache:-                   | 00   | Forget Button                         
 chrome:cache:-                   | 11   | Cookie AutoDelete                                                  | https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
 chrome:cache:-                   | 11   | Cookie-Editor                                                      | https://cookie-editor.cgagnier.ca
 chrome:control:-                 | 11   | nextpage                                                           | https://github.com/sylecn/nextpage-we
-chrome:ocr:- | 11 | OCR - Image Reader | https://webextension.org/listing/ocr.html
+chrome:ocr:-                     | 11   | OCR - Image Reader                                                 | https://webextension.org/listing/ocr.html
 chrome:develop:-                 | 00   | Allow CORS                                                         | https://mybrowseraddon.com/access-control-allow-origin.html
 chrome:develop:-                 | 00   | Block image                                                        | https://chrome.google.com/webstore/detail/block-image/pehaalcefcjfccdpbckoablngfkfgfgj
 chrome:develop:-                 | 00   | Broken Link Checker                                                | https://webextension.org/listing/broken-link-checker.html
@@ -823,6 +836,7 @@ dictionary:cli:-                 | 11   | sdcv                                  
 dictionary:convert:-             | 10   | PyGlossary                                                         | https://github.com/ilius/pyglossary
 dictionary:dictd:-               | 00   | dict-ecdict                                                        | https://github.com/tuberry/dict-ecdict
 dictionary:dictd:cygwin          | 00   | dict-wrapper                                                       | https://github.com/dekerser/dict-wrapper
+image:2ascii:-                   | 10   | ASCII Silhouettify                                                 | https://meatfighter.com/ascii-silhouettify
 dictionary:dictd:linux           | 00   | ClipDict                                                           | https://github.com/github-young/ClipDict
 dictionary:etymolog:-            | 00   | ety                                                                | https://github.com/Calder-Ty/ety
 dictionary:etymolog:-            | 00   | ety-python                                                         | https://github.com/jmsv/ety-python
@@ -1010,7 +1024,6 @@ emulator:engine:-                | 00   | TIC-80                                
 emulator:engine:python           | 00   | pyxel                                                              | https://github.com/kitao/pyxel
 emulator:es-de:theme             | 00   | mister-menu-es-de                                                  | https://github.com/anthonycaccese/mister-menu-es-de
 emulator:es-de:theme             | 01   | Modern                                                             | https://gitlab.com/es-de/themes/modern-es-de
-emulator:front-end:-             | 00   | Pegasus                                                            | https://pegasus-frontend.org/
 emulator:os:linux                | 00   | Lakka                                                              | https://lakka.tv
 emulator:os:linux                | 01   | ROCKNIX                                                            | https://github.com/ROCKNIX/distribution
 emulator:pegasus:-               | 01   | Pegasus Frontend                                                   | https://github.com/mmatyas/pegasus-frontend
@@ -1023,6 +1036,7 @@ emulator:pegasus:theme           | 01   | Grid Micro theme for Pegasus          
 emulator:pegasus:theme           | 01   | Retro Mega Next                                                    | https://github.com/plaidman/retromega-next
 emulator:pegasus:theme           | 01   | Sleipnir                                                           | https://github.com/y-muller/retromega-sleipnir
 emulator:pegasus:theme           | 01   | pegasus-theme-gpiOS                                                | https://github.com/SinisterSpatula/pegasus-theme-gpiOS
+
 emulator:retroarch:-             | 00   | retroarch-links-generator                                          | https://github.com/memob0x/retroarch-links-generator
 emulator:retroarch:-             | 01   | RetroArch asset server                                             | https://github.com/NickHeap2/retroarch-asset-server
 emulator:retroarch:-             | 11   | RetroArch                                                          | https://retroarch.com
@@ -1071,6 +1085,7 @@ explorer:search:-                | 11   | EverythingToolbar                     
 explorer:switch:-                | 00   | Listary                                                            | https://listary.com
 explorer:unlock:-                | 11   | LockHunter                                                         | https://lockhunter.com/index.htm
 filterpipe:pinyin:api            | 00   | pinyin-pro                                                         | https://github.com/zh-lx/pinyin-pro
+font:-:-                         | 001  | handwriter.ttf                                                     | https://github.com/hsfzxjy/handwriter.ttf
 font:-:-                         | 00   | Ligaturizer                                                        | https://github.com/ToxicFrog/Ligaturizer
 font:-:-                         | 00   | pyftsubset                                                         | https://github.com/web-wyj/pyftsubset
 font:2png:-                      | 00   | ttf2png                                                            | https://github.com/regulad/ttf2png
@@ -1543,6 +1558,7 @@ graphic:aseprite:theme           | 00   | Theme Preferences                     
 graphic:aseprite:theme           | 00   | Warm Recolor                                                       | https://trixelized.itch.io/warm-recolor
 graphic:aseprite:theme           | 00   | minimal dark hd                                                    | https://2dchaos.itch.io/minimal-dark-aseprite-theme
 graphic:aseprite:tile            | 00   | Aseprite Tile Bleeder                                              | https://mpdacey.itch.io/aseprite-tile-bleeder
+graphic:cad:-                    | 00   | Logisim-evolution                                                  | https://github.com/logisim-evolution/logisim-evolution
 graphic:cad:-                    | 00   | Cadmapper                                                          | https://cadmapper.com
 graphic:cad:-                    | 00   | FreeCAD                                                            | https://github.com/FreeCAD/FreeCAD
 graphic:cad:-                    | 00   | KiCad                                                              | https://kicad.org
@@ -1617,7 +1633,7 @@ image:2svg:-                     | 00   | AutoTrace                             
 image:2svg:-                     | 00   | CairoSVG                                                           | https://courtbouillon.org/cairosvg
 image:2svg:-                     | 00   | Potrace                                                            | https://potrace.sourceforge.net
 image:2svg:png                   | 00   | png2svg                                                            | https://github.com/xyproto/png2svg
-image:browser:-                  | 00   | FastStone                                                          | https://faststone.org/FSViewerDetail.htm
+image:browser:-                  | 00   | FastStone Image Viewer                                             | https://faststone.org/FSViewerDetail.htm
 image:browser:-                  | 00   | XnView MP                                                          | https://xnview.com/en/xnviewmp
 image:color:-                    | 00   | ImageTheming                                                       | https://github.com/daniel-seiler/ImageTheming
 image:color:-                    | 00   | Img2Palette                                                        | https://grinnch.itch.io/img2palette
@@ -1658,7 +1674,6 @@ image:optimize:png               | 00   | pngquant                              
 image:optimize:svg               | 00   | SVGO                                                               | https://github.com/svg/svgo
 image:photo                      | 00   | RawTherapee                                                        | https://rawtherapee.com
 image:photo                      | 00   | digiKam                                                            | https://digikam.org
-image:pureref:script             | 001  | PureRef-format                                                     | https://github.com/FyorDev/PureRef-format
 image:resize:pixel               | 00   | Image Filter Collection                                            | https://github.com/Salmakis/ImageFilterCollection
 image:rezise:-                   | 00   | Cupscale                                                           | https://github.com/n00mkrad/cupscale
 image:rezise:-                   | 00   | Final2x                                                            | https://github.com/Tohrusky/Final2x
@@ -1667,7 +1682,7 @@ image:rezise:-                   | 00   | Real-ESRGAN_GUI                       
 image:rezise:-                   | 00   | Waifu2x-Extension-GUI                                              | https://github.com/AaronFeng753/Waifu2x-Extension-GUI
 image:rezise:-                   | 00   | waifu2x - Snowshell                                                | https://github.com/YukihoAA/waifu2x_snowshell
 image:tag:-                      | 00   | Hydrus                                                             | https://github.com/hydrusnetwork/hydrus
-image:tag:-                      | 00   | Tsuki-tag                                                          | https://github.com/ngelsi/tsuki-tag-native
+image:tag:-                      | 000  | Tsuki-tag                                                          | https://github.com/ngelsi/tsuki-tag-native
 image:tag:ai                     | 00   | TagGUI                                                             | https://github.com/jhc13/taggui
 image:tool:-                     | 00   | sic image cli                                                      | https://github.com/foresterre/sic
 image:tool:background            | 11   | Rembg                                                              | https://github.com/danielgatis/rembg
@@ -1916,6 +1931,8 @@ library:npm:-                    | 00   | yrm                                   
 library:npm:-                    | 11   | fnm                                                                | https://github.com/Schniz/fnm
 library:npm:-                    | 11   | npms-cli                                                           | https://github.com/npms-io/npms-cli
 library:npm:-                    | 11   | pnpm                                                               | https://pnpm.io
+library:python:-                 | 00   | portable-python-maker                                              | https://github.com/dreamsavior/portable-python-maker
+library:python:-                 | 11   | pyenv for Windows                                                  | https://github.com/pyenv-win/pyenv-win
 library:python:-                 | 00   | Rye                                                                | https://github.com/mitsuhiko/rye
 library:python:-                 | 11   | pip_search                                                         | https://github.com/victorgarric/pip_search
 library:python:-                 | 11   | python                                                             | https://python.org
@@ -1926,13 +1943,16 @@ library:ruby:-                   | 11   | rbenv for Windows                     
 library:ruby:-                   | 11   | rvm                                                                | https://github.com/rvm/rvm
 library:tui:-                    | 00   | Typer                                                              | https://github.com/tiangolo/typer
 library:yomichan:-               | 001  | Jitendex                                                           | https://github.com/stephenmk/Jitendex
+ai:rag:-                         | 00   | MemoRAG                                                            | https://github.com/qhjqhj00/MemoRAG
 linux:desktop:theme              | 00   | Material-Original gtk theme                                        | https://github.com/Macintosh98/Material-Original
 linux:dotfiles:-                 | 00   | @diffficult                                                        | https://github.com/diffficult/dotfiles_220
 linux:dotfiles:arch              | 00   | @bibjaw99                                                          | https://github.com/bibjaw99/workstation
 linux:dotfiles:hyprland          | 00   | @qxb3                                                              | https://github.com/qxb3/gruvbox.hypr/tree/vim_styled
 linux:firmware:gnome             | 00   | Firmware                                                           | https://gitlab.gnome.org/World/gnome-firmware
+linux:flatpak:grep | 00 | Clapgrep | https://flathub.org/apps/de.leopoldluley.Clapgrep
 linux:flatpak:gnome              | 10   | Warehouse                                                          | https://github.com/flattool/warehouse
 linux:front-end:game             | 10   | Lutris                                                             | https://lutris.net
+linux:flatpak:-                  | 00   | Trelby                                                             | https://flathub.org/apps/org.trelby.Trelby
 linux:game:-                     | 00   | Cave Story NX                                                      | https://flathub.org/apps/com.gitlab.coringao.cavestory-nx
 linux:game:-                     | 00   | RetroPlus                                                          | https://github.com/Vysp3r/RetroPlus
 linux:image:-                    | 00   | Halftone                                                           | https://github.com/tfuxu/Halftone
@@ -2318,6 +2338,7 @@ manga:reader:-                   | 00   | Kavita                                
 manga:reader:-                   | 11   | YACReader                                                          | https://yacreader.com
 midi:bin:-                       | 00   | TiMidity++                                                         | https://timidity.sourceforge.net
 midi:bin:-                       | 10   | timidity-bin                                                       | https://github.com/nanakochi123456/timidity-bin
+midi:editor:-                    | 00   | Giada                                                              | https://github.com/monocasual/giada
 midi:convert:                    | 10   | Keppy's MIDI Converter                                             | https://github.com/KeppySoftware/KMC
 midi:convert:-                   | 10   | Keppy's MIDI Converter                                             | https://github.com/KeppySoftware/KMC
 midi:convert:2csv                | 00   | midicsv                                                            | https://fourmilab.ch/webtools/midicsv
@@ -3195,6 +3216,7 @@ obsidian:view:-                  | 00   | Gallery                               
 obsidian:view:-                  | 00   | \-                                                                 | https://github.com/slnsys/obsidian-canvas2document
 obsidian:write:-                 | 11   | Line Width Slider                                                  | https://github.com/MugishoMp/obsidian-editor-width-slider
 obsidian:write:-                 | 11   | Novel Word Count                                                   | https://github.com/isaaclyman/novel-word-count-obsidian
+ocr:-:-                          | 00   | tabula-java                                                        | https://github.com/tabulapdf/tabula-java
 ocr:-:-                          | 00   | Snipping-Ocr                                                       | https://github.com/thepirat000/Snipping-Ocr
 ocr:-:-                          | 00   | TextShot                                                           | https://github.com/ianzhao05/textshot
 ocr:-:-                          | 00   | Textractor                                                         | https://github.com/Artikash/Textractor
@@ -3237,7 +3259,7 @@ password:keepass:extension       | 00   | KeePassHttp                           
 password:keepassxc:-             | 11   | KeepassXC                                                          | https://keepassxc.org
 password:keepassxc:extension     | 11   | KeePassXC-Browser                                                  | https://github.com/keepassxreboot/keepassxc-browser
 password:qtpass:-                | 00   | QtPass                                                             | https://github.com/IJHack/QtPass
-paste:-:-                        | 11   | ditto                                                              | https://ditto-cp.sourceforge.io
+paste:-:-                        | 11   | Ditto                                                              | https://ditto-cp.sourceforge.io
 paste:image:-                    | 00   | kuadro                                                             | https://kruelgames.com/tools/kuadro
 paste:image:-                    | 00   | opti                                                               | https://torcado.itch.io/opti
 paste:image:-                    | 10   | PureRef-format                                                     | https://github.com/FyorDev/PureRef-format
@@ -3360,6 +3382,7 @@ screenshot:web:-                 | 00   | pageres-cli                           
 screenshot:web:-                 | 00   | shot-scraper                                                       | https://github.com/simonw/shot-scraper
 screenshot:web:-                 | 000  | SpaceCapture                                                       | https://github.com/SpaceView/SpaceCapture
 sd-webui:-:-                     | 11   | Stable Diffusion web UI                                            | https://github.com/AUTOMATIC1111/stable-diffusion-webui
+sd-webui:image:-                 | 01   | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
 sd-webui:action:-                | 00   | sd-webui-densediff                                                 | https://github.com/uiyo/sd-webui-densediff
 sd-webui:action:-                | 01   | COpenpose Editor for ControlNet ...                                | https://github.com/huchenlei/sd-webui-openpose-editor
 sd-webui:action:-                | 01   | ControlNet Preprocessor in extras tab                              | https://github.com/light-and-ray/sd-webui-cn-in-extras-tab
@@ -3855,6 +3878,7 @@ subtitle:merge:-                 | 00   | merge-srt-subtitles                   
 subtitle:ocr:-                   | 00   | Video-subtitle-extractor                                           | https://github.com/YaoFANGUK/video-subtitle-extractor
 switch:dev:os                    | 00   | Atmosphère                                                         | https://github.com/Atmosphere-NX/Atmosphere
 switch:mpv:jellyfin              | 00   | Switchfin                                                          | https://github.com/dragonflylee/switchfin
+switch:archive:-                 | 00   | NSZ                                                                | https://github.com/nicoboss/nsz
 sync:-:-                         | 00   | sync-directory                                                     | https://github.com/hoperyy/sync-directory
 sync:rclone:-                    | 00   | Rclone browser                                                     | https://github.com/kapitainsky/RcloneBrowser
 sync:rclone:-                    | 00   | RcloneTray                                                         | https://github.com/dimitrov-adrian/RcloneTray
@@ -3938,7 +3962,8 @@ video:av1:-                      | 00   | Av1ador                               
 video:av1:-                      | 00   | Av1an                                                              | https://github.com/master-of-zen/Av1an
 video:av1:-                      | 00   | Av1an Win Script                                                   | https://github.com/Hishiro64/av1an-win-script
 video:convert:-                  | 11   | FFmpeg Batch AV Converter                                          | https://github.com/eibol/ffmpeg_batch
-video:mkv:- | 00 | MKV Muxing Batch GUI | https://github.com/yaser01/mkv-muxing-batch-gui
+video:mkv:-                      | 00   | MKV Muxing Batch GUI                                               | https://github.com/yaser01/mkv-muxing-batch-gui
+video:mkv:-                      | 00   | MKVToolNix Batch Tool                                              | https://github.com/iPzard/mkvtoolnix-batch-tool
 video:cut:-                      | 00   | VidCutter                                                          | https://github.com/ozmartian/vidcutter
 video:cut:-                      | 11   | LosslessCut                                                        | https://github.com/mifi/lossless-cut
 video:diff:-                     | 10   | video-compare                                                      | https://github.com/pixop/video-compare
@@ -3979,6 +4004,7 @@ video:player:memento             | 00   | verb_inflections_jmdict               
 video:player:subtitle            | 00   | xy-VSFilter                                                        | https://github.com/Cyberbeing/xy-VSFilter
 video:record:-                   | 00   | LICEcap                                                            | https://cockos.com/licecap
 video:record:-                   | 00   | Screen Recorder                                                    | https://github.com/MiniCube11/screen-recorder
+video:record:-                   | 00   | streamlit-webrtc                                                   | https://github.com/whitphx/streamlit-webrtc
 video:record:-                   | 00   | ScreenToGif                                                        | https://screentogif.com
 video:record:-                   | 10   | wcap                                                               | https://github.com/mmozeiko/wcap
 video:record:background          | 00   | VCam                                                               | https://xsplit.com/vcam
