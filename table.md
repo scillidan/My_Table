@@ -103,6 +103,7 @@ andriod:wallpaper:-              | 11   | Doodle                                
 andriod:webdav:-                 | 00   | Round Sync                                                         | https://github.com/newhinton/Round-Sync
 andriod:youtube-music            | 00   | InnerTune                                                          | https://github.com/z-huang/InnerTune
 andriod:zerotier:-               | 10   | Zerotier Fix                                                       | https://github.com/kaaass/ZerotierFix
+zsh:banner:- | 00 | zsh-banner | https://github.com/drkhsh/zsh-banner
 anki:-:-                         | 01   | Anki                                                               | https://github.com/ankitects/anki
 anki:analyze:-                   | 00   | Anki History Visualization                                         | https://github.com/xiety/AnkiHistoryVisualization
 anki:analyze:-                   | 00   | Search Stats Extended                                              | https://github.com/Luc-Mcgrady/Anki-Search-Stats-Extended
@@ -202,6 +203,7 @@ arch:dotfiles:sway               | 00   | ArchSway                              
 arch:dotfiles:xfce_i3            | 11   | @fathulfahmy                                                       | https://github.com/fathulfahmy/dotfiles-linux
 archive:-:-                      | 00   | Universal Extractor 2                                              | https://github.com/Bioruebe/UniExtract2
 archive:-:-                      | 11   | 7zip                                                               | https://7-zip.org
+archive:-:- | 00 | Gzip for Windows | https://gnuwin32.sourceforge.net/packages/gzip.htm
 archive:-:-                      | 10   | UnRar for Windows                                                  | https://gnuwin32.sourceforge.net/packages/unrar.htm
 audio:convert:multi              | 00   | music-tools                                                        | https://github.com/mauvedeity/music-tools
 audio:cue:-                      | 10   | CUETools                                                           | https://cue.tools/wiki/Main_Page
@@ -2233,6 +2235,8 @@ vscode:syntax:-                  | 10   | ink                                   
 neovim:ime:-                     | 00   | fcitx5.nvim                                                        | https://github.com/tonyfettes/fcitx5.nvim
 neovim:lsp:-                     | 001  | rime-ls                                                            | https://github.com/wlh320/rime-ls
 love:-:-                         | 00   | LÖVE                                                               | https://love2d.org
+love:packager:- | 00 | löve-build | https://github.com/ellraiser/love-build
+love:ui:- | 00 |lovr-ui2d | https://github.com/immortalx74/lovr-ui2d
 love:action:-                    | 00   | Walt                                                               | https://github.com/davisdude/Walt
 love:action:-                    | 00   | deep                                                               | https://github.com/Nikaoto/deep
 love:action:-                    | 00   | turtle.lua                                                         | https://github.com/arthurealike/turtle.lua
@@ -2366,6 +2370,7 @@ midi:studio:tui                  | 00   | QasarBeach                            
 midi:synthesis:track             | 00   | Pata Tracker                                                       | https://pixwlk.itch.io/pata-tracker
 midi:transcript:sheet            | 001  | pianotrans                                                         | https://github.com/azuwis/pianotrans
 mkdocs:-:-                       | 00   | MkDocs                                                             | https://mkdocs.org/
+mkdocs:quiz:- | 001 | Mkdocs Quiz | https://github.com/bdallard/mkdocs_quiz
 mkdocs:admonition:-              | 00   | GitHub Admonitions for MkDocs                                      | https://github.com/PGijsbers/admonitions
 mkdocs:admonition:-              | 00   | markdown-callouts                                                  | https://github.com/oprypin/markdown-callouts
 mkdocs:audio:-                   | 00   | MkDocs Audio                                                       | https://github.com/jfcmontmorency/mkdocs-audio
@@ -3382,20 +3387,19 @@ screenshot:web:-                 | 00   | pageres-cli                           
 screenshot:web:-                 | 00   | shot-scraper                                                       | https://github.com/simonw/shot-scraper
 screenshot:web:-                 | 000  | SpaceCapture                                                       | https://github.com/SpaceView/SpaceCapture
 sd-webui:-:-                     | 11   | Stable Diffusion web UI                                            | https://github.com/AUTOMATIC1111/stable-diffusion-webui
-sd-webui:image:-                 | 01   | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
+sd-webui:image:-                 | 001   | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
 sd-webui:action:-                | 00   | sd-webui-densediff                                                 | https://github.com/uiyo/sd-webui-densediff
-sd-webui:action:-                | 01   | COpenpose Editor for ControlNet ...                                | https://github.com/huchenlei/sd-webui-openpose-editor
+sd-webui:action:-                | 01   | Openpose Editor for ControlNet ...                                | https://github.com/huchenlei/sd-webui-openpose-editor
 sd-webui:action:-                | 01   | ControlNet Preprocessor in extras tab                              | https://github.com/light-and-ray/sd-webui-cn-in-extras-tab
 sd-webui:action:-                | 01   | ControlNet for Stable Diffusion WebUI                              | https://github.com/Mikubill/sd-webui-controlnet
-sd-webui:action:-                | 01   | Openpose Editor                                                    | https://github.com/fkunn1326/openpose-editor
 sd-webui:anime:-                 | 00   | AnimateDiff for Stable Diffusion WebUI                             | https://github.com/continue-revolution/sd-webui-animatediff
 sd-webui:anime:-                 | 00   | Deforum Stable Diffusion                                           | https://github.com/deforum-art/sd-webui-deforum
 sd-webui:color:-                 | 00   | SD Webui Diffusion Color Grading                                   | https://github.com/Haoming02/sd-webui-diffusion-cg
 sd-webui:comfyui:-               | 00   | ComfyUI-Inspyrenet-Rembg                                           | https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg
 sd-webui:comfyui:-               | 01   | CImaGen                                                            | https://github.com/ServOKio/CImaGen
-sd-webui:comfyui:-               | 01   | ComfyUI                                                            | https://github.com/comfyanonymous/ComfyUI
+sd-webui:comfyui:-               | 11   | ComfyUI                                                            | https://github.com/comfyanonymous/ComfyUI
 sd-webui:comfyui:-               | 01   | ComfyUI Manager                                                    | https://github.com/ltdrdata/ComfyUI-Manager
-sd-webui:comfyui:-               | 01   | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
+sd-webui:comfyui:-               | 001   | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
 sd-webui:comfyui:liveportrait    | 00   | ComfyUI nodes to use LivePortrait                                  | https://github.com/kijai/ComfyUI-LivePortraitKJ
 sd-webui:comfyui:txt2img         | 00   | ComfyUI wrapper for Kwai-Kolors                                    | https://github.com/kijai/ComfyUI-KwaiKolorsWrapper
 sd-webui:data:-                  | 00   | db-storage1111                                                     | https://github.com/takoyaro/db-storage1111
@@ -3411,15 +3415,15 @@ sd-webui:edit:-                  | 00   | openOutpaint                          
 sd-webui:edit:-                  | 00   | sd-forge-layerdiffuse                                              | https://github.com/layerdiffusion/sd-forge-layerdiffuse
 sd-webui:edit:-                  | 00   | sd-webui-miniPaint                                                 | https://github.com/ye7iaserag/sd-webui-miniPaint
 sd-webui:edit:-                  | 00   | stable-diffusion-webui-embedding-editor                            | https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor
-sd-webui:edit:-                  | 11   | PBRemTools                                                         | https://github.com/mattyamonaca/PBRemTools
+sd-webui:edit:-                  | 00   | PBRemTools                                                         | https://github.com/mattyamonaca/PBRemTools
 sd-webui:edit:-                  | 11   | SD Webui Vectorscope CC                                            | https://github.com/Haoming02/sd-webui-vectorscope-cc
 sd-webui:edit:img2img            | 00   | Replacer                                                           | https://github.com/light-and-ray/sd-webui-replacer
 sd-webui:edit:img2img            | 00   | StableSR for Stable Diffusion WebUI                                | https://github.com/pkuliyi2015/sd-webui-stablesr
 sd-webui:edit:img2img            | 00   | Topaz Photo AI integration                                         | https://github.com/light-and-ray/sd-webui-topaz-photo-ai-integration
 sd-webui:edit:img2img            | 00   | sd-webui-pixelart                                                  | https://github.com/mrreplicart/sd-webui-pixelart
 sd-webui:edit:img2img            | 01   | Horizontal Tiling Script for StableDiffusion                       | https://xanthius.itch.io/horizontal-tiling-script-for-stablediffusion
-sd-webui:export:-                | 001  | sd-webui-compress                                                  | https://github.com/injet-zhou/sd-webui-compress
-sd-webui:extension:-             | 01   | Readme browser                                                     | https://github.com/light-and-ray/sd-webui-readme-browser
+sd-webui:export:-                | 00  | sd-webui-compress                                                  | https://github.com/injet-zhou/sd-webui-compress
+sd-webui:extension:-             | 00   | Readme browser                                                     | https://github.com/light-and-ray/sd-webui-readme-browser
 sd-webui:face:-                  | 00   | FaceFuison extension for StableDiffusion Webui                     | https://github.com/diffus-me/sd-webui-facefusion
 sd-webui:face:-                  | 00   | FaceSwapLab for a1111/Vlad                                         | https://github.com/glucauze/sd-webui-faceswaplab
 sd-webui:face:-                  | 00   | ReActor for Stable Diffusion                                       | https://github.com/Navezjt/sd-webui-reactor
@@ -3427,10 +3431,10 @@ sd-webui:face:-                  | 00   | roop for StableDiffusion              
 sd-webui:gif2gif:-               | 00   | gif2gif                                                            | https://github.com/LonicaMewinsky/gif2gif
 sd-webui:img2txt:-               | 11   | CLIP Interrogator extension ...                                    | https://github.com/pharmapsychotic/clip-interrogator-ext
 sd-webui:img2txt:-               | 11   | Danbooru Prompt                                                    | https://github.com/EnsignMK/danbooru-prompt
-sd-webui:img2vid:-               | 10   | ToonCrafter                                                        | https://github.com/ToonCrafter/ToonCrafter
-sd-webui:info:-                  | 11   | Checker of "enable" statuses in SD Web UI                          | https://github.com/shirayu/sd-webui-enable-checker
+ai:img2vid:-               | 00   | ToonCrafter                                                        | https://github.com/ToonCrafter/ToonCrafter
+sd-webui:info:-                  | 00   | Checker of "enable" statuses in SD Web UI                          | https://github.com/shirayu/sd-webui-enable-checker
 sd-webui:info:-                  | 11   | System Info tab extensions for SD Automatic WebUI                  | https://github.com/vladmandic/sd-extension-system-info
-sd-webui:info:-                  | 11   | VRAM Estimator for stable-diffusion-webui                          | https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator
+sd-webui:info:-                  | 00   | VRAM Estimator for stable-diffusion-webui                          | https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator
 sd-webui:lora:-                  | 00   | Additional Networks for generating images                          | https://github.com/kohya-ss/sd-webui-additional-networks
 sd-webui:lora:-                  | 00   | Composable LoRA/LyCORIS with steps                                 | https://github.com/a2569875/stable-diffusion-webui-composable-lora
 sd-webui:lora:-                  | 00   | LLuL - Local Latent upscaLer                                       | https://github.com/hnmr293/sd-webui-llul
@@ -3438,7 +3442,7 @@ sd-webui:lora:-                  | 00   | Weight Helper                         
 sd-webui:manager:-               | 00   | Prompt Gallery                                                     | https://github.com/dr413677671/PromptGallery-stable-diffusion-webui
 sd-webui:manager:-               | 00   | stable-diffusion-webui-images-browser                              | https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
 sd-webui:manager:-               | 01   | Stable Diffusion webui Infinite Image Browsing                     | https://github.com/zanllp/sd-webui-infinite-image-browsing
-sd-webui:manager:-               | 11   | Diffusion Toolkit                                                  | https://github.com/RupertAvery/DiffusionToolkit
+sd-webui:manager:-               | 00   | Diffusion Toolkit                                                  | https://github.com/RupertAvery/DiffusionToolkit
 sd-webui:mask:-                  | 00   | ADetailer                                                          | https://github.com/Bing-su/adetailer
 sd-webui:mask:-                  | 00   | Background Mask                                                    | https://github.com/Scholar01/sd-webui-bg-mask
 sd-webui:mask:-                  | 00   | Detection Detailer                                                 | https://github.com/dustysys/ddetailer
@@ -3447,7 +3451,7 @@ sd-webui:merge:-                 | 00   | Marge Board                           
 sd-webui:merge:-                 | 00   | Merge Block Weighted - GUI                                         | https://github.com/bbc-mc/sdweb-merge-block-weighted-gui#how-to-use
 sd-webui:merge:-                 | 00   | multi-subject-render                                               | https://github.com/Extraltodeus/multi-subject-render
 sd-webui:merge:-                 | 01   | Checkpoint Model Mixer extension                                   | https://github.com/wkpark/sd-webui-model-mixer
-sd-webui:merge:-                 | 01   | SuperMerger                                                        | https://github.com/hako-mikan/sd-webui-supermerger
+sd-webui:merge:-                 | 00   | SuperMerger                                                        | https://github.com/hako-mikan/sd-webui-supermerger
 sd-webui:metadata:-              | 00   | Dataset Tag Editor                                                 | https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor
 sd-webui:metadata:-              | 00   | Hardware Info in metadata                                          | https://github.com/light-and-ray/sd-webui-hardware-info-in-metadata
 sd-webui:metadata:-              | 11   | SD WebUI Tag Autocomplete                                          | https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
@@ -3465,24 +3469,23 @@ sd-webui:modify:-                | 00   | BMAB                                  
 sd-webui:modify:-                | 00   | Detail Daemon                                                      | https://github.com/muerrilla/sd-webui-detail-daemon
 sd-webui:modify:-                | 00   | SD Webui ReSharpen                                                 | https://github.com/Haoming02/sd-webui-resharpen
 sd-webui:modify:-                | 00   | sd-webui-Stable-Makeup                                             | https://github.com/kigy1/sd-webui-Stable-Makeup
-sd-webui:modify:-                | 001  | SD Webui Vectorscope CC                                            | https://github.com/Haoming02/sd-webui-vectorscope-cc
 sd-webui:mov2mov:-               | 00   | Mov2mov                                                            | https://github.com/Scholar01/sd-webui-mov2mov
-sd-webui:node:-                  | 01   | sd-webui-comfyui                                                   | https://github.com/ModelSurge/sd-webui-comfyui
+sd-webui:node:-                  | 001   | sd-webui-comfyui                                                   | https://github.com/ModelSurge/sd-webui-comfyui
 sd-webui:node:prompt             | 00   | One Button Prompt                                                  | https://github.com/AIrjen/OneButtonPrompt
 sd-webui:node:prompt             | 00   | Stable Diffusion Dynamic Prompts extension                         | https://github.com/adieyal/sd-dynamic-prompts
 sd-webui:preset:-                | 00   | sd-webui-lightdiffusionflow                                        | https://github.com/Tencent/LightDiffusionFlow
-sd-webui:preset:-                | 11   | Aesthetic Gradients                                                | https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients
+sd-webui:preset:-                | 00   | Aesthetic Gradients                                                | https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients
 sd-webui:prompt:-                | 00   | LCM Sampler                                                        | https://github.com/light-and-ray/sd-webui-lcm-sampler
 sd-webui:prompt:-                | 00   | Rich-Text-to-Image for Stable Diffusion WebUI                      | https://github.com/songweige/sd-webui-rich-text
-sd-webui:prompt:-                | 001  | Stable Diffusion Web UI Temporal Extension                         | https://github.com/Iniquitatis/sd-webui-temporal
+sd-webui:prompt:-                | 00  | Stable Diffusion Web UI Temporal Extension                         | https://github.com/Iniquitatis/sd-webui-temporal
 sd-webui:prompt:-                | 01   | Neutral Prompt                                                     | https://github.com/ljleb/sd-webui-neutral-prompt
 sd-webui:prompt:-                | 01   | SD WebUI Prompt Style                                              | https://github.com/bandifiu/sd-webui-prompt-style
 sd-webui:prompt:-                | 01   | sd-webui-prompt-history                                            | https://github.com/namkazt/sd-webui-prompt-history
 sd-webui:prompt:-                | 01   | stable-diffusion-webui-prompt-utilities                            | https://github.com/hallatore/stable-diffusion-webui-prompt-utilities
-sd-webui:prompt:-                | 11   | Cross Attention Control with Stable Diffusion                      | https://github.com/bloc97/CrossAttentionControl
-sd-webui:prompt:-                | 11   | Latent Couple extension (two shot diffusion port)                  | https://github.com/ashen-sensored/stable-diffusion-webui-two-shot
+sd-webui:prompt:-                | 000   | Cross Attention Control with Stable Diffusion                      | https://github.com/bloc97/CrossAttentionControl
+sd-webui:prompt:-                | 00   | Latent Couple extension (two shot diffusion port)                  | https://github.com/ashen-sensored/stable-diffusion-webui-two-shot
 sd-webui:prompt:-                | 11   | NegPiP - Negative Prompt in Prompt                                 | https://github.com/hako-mikan/sd-webui-negpip
-sd-webui:prompt:-                | 11   | Negative Prompt Weight                                             | https://github.com/muerrilla/stable-diffusion-NPW
+sd-webui:prompt:-                | 00   | Negative Prompt Weight                                             | https://github.com/muerrilla/stable-diffusion-NPW
 sd-webui:prompt:-                | 11   | Prompt Fusion                                                      | https://github.com/ljleb/prompt-fusion-extension
 sd-webui:prompt:-                | 11   | Regional Prompter                                                  | https://github.com/hako-mikan/sd-webui-regional-prompter
 sd-webui:prompt:format           | 00   | SD Webui Prompt Format                                             | https://github.com/Haoming02/sd-webui-prompt-format
@@ -3498,7 +3501,7 @@ sd-webui:style:-                 | 00   | Style Editor                          
 sd-webui:style:-                 | 00   | StylePile                                                          | https://github.com/some9000/StylePile
 sd-webui:style:-                 | 00   | img2tiles                                                          | https://github.com/arcanite24/img2tiles
 sd-webui:style:-                 | 00   | stable-diffusion-webui-inspiration                                 | https://github.com/yfszzx/stable-diffusion-webui-inspiration
-sd-webui:tab:-                   | 01   | SD Webui Tabs Extension                                            | https://github.com/Haoming02/sd-webui-tabs-extension
+sd-webui:tab:-                   | 00   | SD Webui Tabs Extension                                            | https://github.com/Haoming02/sd-webui-tabs-extension
 sd-webui:theme:-                 | 00   | Stability Matrix                                                   | https://github.com/LykosAI/StabilityMatrix
 sd-webui:theme:-                 | 11   | Lobe Theme                                                         | https://github.com/lobehub/sd-webui-lobe-theme
 sd-webui:video:-                 | 00   | DiffSynth Studio                                                   | https://github.com/modelscope/DiffSynth-Studio
