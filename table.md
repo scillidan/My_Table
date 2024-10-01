@@ -1025,19 +1025,19 @@ emulator:database:-              | 00   | Arcade Database                       
 emulator:engine:-                | 00   | TIC-80                                                             | https://tic80.com
 emulator:engine:python           | 00   | pyxel                                                              | https://github.com/kitao/pyxel
 emulator:es-de:theme             | 00   | mister-menu-es-de                                                  | https://github.com/anthonycaccese/mister-menu-es-de
-emulator:es-de:theme             | 01   | Modern                                                             | https://gitlab.com/es-de/themes/modern-es-de
+emulator:es-de:theme             | 00   | Modern                                                             | https://gitlab.com/es-de/themes/modern-es-de
 emulator:os:linux                | 00   | Lakka                                                              | https://lakka.tv
-emulator:os:linux                | 01   | ROCKNIX                                                            | https://github.com/ROCKNIX/distribution
+emulator:os:linux                | 001   | ROCKNIX                                                            | https://github.com/ROCKNIX/distribution
 emulator:pegasus:-               | 01   | Pegasus Frontend                                                   | https://github.com/mmatyas/pegasus-frontend
 emulator:pegasus:theme           | 00   | Flixnet theme for Pegasus                                          | https://github.com/mmatyas/pegasus-theme-flixnet
 emulator:pegasus:theme           | 00   | Pegasus Grid theme for Retroid Pocket 2                            | https://github.com/DFOXpro/rp2-pegasus-theme-grid
 emulator:pegasus:theme           | 00   | RefiOS                                                             | https://github.com/eleo95/pegasus-theme-refiOS
 emulator:pegasus:theme           | 00   | Retro Mega                                                         | https://github.com/djfumberger/retromega
 emulator:pegasus:theme           | 00   | Slick theme for Pegasus                                            | https://github.com/buzz/pegasus-theme-slick
-emulator:pegasus:theme           | 01   | Grid Micro theme for Pegasus                                       | https://github.com/mmatyas/pegasus-theme-grid-micro
+emulator:pegasus:theme           | 00   | Grid Micro theme for Pegasus                                       | https://github.com/mmatyas/pegasus-theme-grid-micro
 emulator:pegasus:theme           | 01   | Retro Mega Next                                                    | https://github.com/plaidman/retromega-next
 emulator:pegasus:theme           | 01   | Sleipnir                                                           | https://github.com/y-muller/retromega-sleipnir
-emulator:pegasus:theme           | 01   | pegasus-theme-gpiOS                                                | https://github.com/SinisterSpatula/pegasus-theme-gpiOS
+emulator:pegasus:theme           | 00   | pegasus-theme-gpiOS                                                | https://github.com/SinisterSpatula/pegasus-theme-gpiOS
 
 emulator:retroarch:-             | 00   | retroarch-links-generator                                          | https://github.com/memob0x/retroarch-links-generator
 emulator:retroarch:-             | 01   | RetroArch asset server                                             | https://github.com/NickHeap2/retroarch-asset-server
@@ -3389,14 +3389,14 @@ screenshot:web:-                 | 000  | SpaceCapture                          
 sd-webui:-:-                     | 11   | Stable Diffusion web UI                                            | https://github.com/AUTOMATIC1111/stable-diffusion-webui
 sd-webui:image:-                 | 001   | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
 sd-webui:action:-                | 00   | sd-webui-densediff                                                 | https://github.com/uiyo/sd-webui-densediff
-sd-webui:action:-                | 01   | Openpose Editor for ControlNet ...                                | https://github.com/huchenlei/sd-webui-openpose-editor
-sd-webui:action:-                | 01   | ControlNet Preprocessor in extras tab                              | https://github.com/light-and-ray/sd-webui-cn-in-extras-tab
-sd-webui:action:-                | 01   | ControlNet for Stable Diffusion WebUI                              | https://github.com/Mikubill/sd-webui-controlnet
+sd-webui:action:-                | 00   | Openpose Editor for ControlNet ...                                | https://github.com/huchenlei/sd-webui-openpose-editor
+sd-webui:action:-                | 00   | ControlNet Preprocessor in extras tab                              | https://github.com/light-and-ray/sd-webui-cn-in-extras-tab
+sd-webui:action:-                | 11   | ControlNet for Stable Diffusion WebUI                              | https://github.com/Mikubill/sd-webui-controlnet
 sd-webui:anime:-                 | 00   | AnimateDiff for Stable Diffusion WebUI                             | https://github.com/continue-revolution/sd-webui-animatediff
 sd-webui:anime:-                 | 00   | Deforum Stable Diffusion                                           | https://github.com/deforum-art/sd-webui-deforum
 sd-webui:color:-                 | 00   | SD Webui Diffusion Color Grading                                   | https://github.com/Haoming02/sd-webui-diffusion-cg
 sd-webui:comfyui:-               | 00   | ComfyUI-Inspyrenet-Rembg                                           | https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg
-sd-webui:comfyui:-               | 01   | CImaGen                                                            | https://github.com/ServOKio/CImaGen
+sd-webui:comfyui:-               | 00   | CImaGen                                                            | https://github.com/ServOKio/CImaGen
 sd-webui:comfyui:-               | 11   | ComfyUI                                                            | https://github.com/comfyanonymous/ComfyUI
 sd-webui:comfyui:-               | 01   | ComfyUI Manager                                                    | https://github.com/ltdrdata/ComfyUI-Manager
 sd-webui:comfyui:-               | 001   | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
@@ -3464,7 +3464,7 @@ sd-webui:model:-                 | 00   | sd-model-downloader                   
 sd-webui:model:-                 | 00   | sd-model-preview-xd                                                | https://github.com/CurtisDS/sd-model-preview-xd
 sd-webui:model:-                 | 00   | sd-webui-modal-overlay                                             | https://github.com/luminouspear/sd-webui-modal-info
 sd-webui:model:-                 | 00   | stable-diffusion-model-toolkit                                     | https://github.com/arenasys/stable-diffusion-webui-model-toolkit
-sd-webui:model:-                 | 01   | CivitAI Browser+                                                   | https://github.com/BlafKing/sd-civitai-browser-plus
+sd-webui:model:-                 | 00   | CivitAI Browser+                                                   | https://github.com/BlafKing/sd-civitai-browser-plus
 sd-webui:modify:-                | 00   | BMAB                                                               | https://github.com/portu-sim/sd-webui-bmab
 sd-webui:modify:-                | 00   | Detail Daemon                                                      | https://github.com/muerrilla/sd-webui-detail-daemon
 sd-webui:modify:-                | 00   | SD Webui ReSharpen                                                 | https://github.com/Haoming02/sd-webui-resharpen
@@ -3494,7 +3494,7 @@ sd-webui:segment-anything:-      | 00   | Segment Anything for Stable Diffusion 
 sd-webui:segment-anything:-      | 00   | Segment Anything preprocessor for ControlNet                       | https://github.com/light-and-ray/sd-webui-cn-sam-preprocessor
 sd-webui:sequence:-              | 00   | embedding-merge                                                    | https://github.com/klimaleksus/stable-diffusion-webui-embedding-merge
 sd-webui:sequence:-              | 00   | sd-webui-samplers-scheduler Seniorious                             | https://github.com/Carzit/sd-webui-samplers-scheduler-for-v1.6
-sd-webui:sequence:-              | 01   | batch Checkpoints with Prompt                                      | https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt
+sd-webui:sequence:-              | 00   | batch Checkpoints with Prompt                                      | https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt
 sd-webui:sequence:-              | 11   | Agent Scheduler                                                    | https://github.com/ArtVentureX/sd-webui-agent-scheduler
 sd-webui:style:-                 | 00   | Pixel                                                              | https://github.com/Leodotpy/sd-pixel
 sd-webui:style:-                 | 00   | Style Editor                                                       | https://github.com/chrisgoringe/Styles-Editor
