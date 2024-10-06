@@ -36,6 +36,7 @@ ai:video:-                       | 00   | VideoReTalking                        
 ai:video:-                       | 00   | vid2vid                                                            | https://github.com/NVIDIA/vid2vid
 ai:video:camera                  | 00   | Disclaimer                                                         | https://github.com/hacksider/Deep-Live-Cam
 andirod:-:-                      | 00   | love-11.3-android                                                  | https://github.com/love2d/love/releases
+andriod:app:- | 00 | Qalculate! | https://f-droid.org/packages/com.jherkenhoff.qalculate
 andriod:app:- | 00 | Stride | https://github.com/stride-tasks/stride
 andriod:app:-                    | 00   | App Manager                                                        | https://github.com/MuntashirAkon/AppManager
 andriod:app:-                    | 00   | Obtainium                                                          | https://github.com/ImranR98/Obtainium
@@ -1038,7 +1039,6 @@ emulator:pegasus:theme           | 00   | Grid Micro theme for Pegasus          
 emulator:pegasus:theme           | 01   | Retro Mega Next                                                    | https://github.com/plaidman/retromega-next
 emulator:pegasus:theme           | 01   | Sleipnir                                                           | https://github.com/y-muller/retromega-sleipnir
 emulator:pegasus:theme           | 00   | pegasus-theme-gpiOS                                                | https://github.com/SinisterSpatula/pegasus-theme-gpiOS
-
 emulator:retroarch:-             | 00   | retroarch-links-generator                                          | https://github.com/memob0x/retroarch-links-generator
 emulator:retroarch:-             | 01   | RetroArch asset server                                             | https://github.com/NickHeap2/retroarch-asset-server
 emulator:retroarch:-             | 11   | RetroArch                                                          | https://retroarch.com
@@ -1595,6 +1595,7 @@ gui:git:github                   | 00   | GitHub Desktop                        
 gui:rename:-                     | 00   | ReNamer                                                            | https://den4b.com/products/renamer
 gui:rename:-                     | 11   | Advanced Renamer                                                   | https://advancedrenamer.com
 gui:thumbnail:-                  | 00   | qmtn                                                               | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
+hardware:controller:- | 00 | GP2040 | https://gp2040.info
 hardware:archivist:-             | 00   | Archivist                                                          | https://diybookscanner.org/archivist/index.html
 hardware:archivist:-             | 00   | Pi Scan                                                            | https://github.com/Tenrec-Builders/pi-scan
 hardware:audio:-                 | 00   | AudioRelay                                                         | https://audiorelay.net
