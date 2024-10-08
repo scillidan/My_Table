@@ -3,6 +3,7 @@ tag                              | mark | title                                 
 ai:audio:-                       | 00   | AniPortrait                                                        | https://github.com/Zejun-Yang/AniPortrait
 ai:audio:-                       | 10   | Bark                                                               | https://github.com/suno-ai/bark
 ai:audio:-                       | 00   | CosyVoice                                                          | https://github.com/FunAudioLLM/CosyVoice
+ai:image:- | 00 | FacePoke | https://github.com/jbilcke-hf/FacePoke
 ai:audio:-                       | 00   | Fish Speech                                                        | https://github.com/fishaudio/fish-speech
 ai:audio:-                       | 00   | Real-Time Voice Cloning                                            | https://github.com/CorentinJ/Real-Time-Voice-Cloning
 ai:audio:tta                     | 00   | AudioLDM                                                           | https://github.com/haoheliu/AudioLDM
@@ -91,6 +92,7 @@ andriod:tool:-                   | 00   | localsend                             
 ai:image:-                       | 00   | img2img-turbo                                                      | https://github.com/GaParmar/img2img-turbo
 andriod:tool:light               | 00   | FlashDim                                                           | https://github.com/cyb3rko/flashdim
 andriod:tool:light               | 00   | Simple-Flashlight                                                  | https://github.com/SimpleMobileTools/Simple-Flashlight
+github:action:- | 00 | Torrent Webseed Creator | https://github.com/AnimMouse/torrent-webseed-creator
 andriod:tool:scan                | 00   | BinaryEye                                                          | https://github.com/markusfisch/BinaryEye
 andriod:tool:timer               | 00   | Sleep Timer                                                        | https://github.com/SimonMarquis/SleepTimer
 andriod:torrent:-                | 00   | Torrents-csv                                                       | https://git.torrents-csv.com/heretic/torrents-csv-android
@@ -419,6 +421,7 @@ chat:irc:-                       | 00   | HexChat                               
 chat:irc:-                       | 00   | WeeChat                                                            | https://weechat.org
 chrome:account:-                 | 11   | Gmail                                                              | https://apkmirror.com/apk/google-inc/gmail
 chrome:automate:-                | 10   | Automa                                                             | https://automa.site
+chrome:file:- | 11 | Markdown Reader | https://github.com/md-reader/md-reader
 chrome:bookmark:-                | 00   | Json Bookmarks                                                     | https://github.com/1nfiniteloop/json-bookmarks
 chrome:bookmark:-                | 00   | xBrowserSync                                                       | https://xbrowsersync.org/
 chrome:bookmark:-                | 11   | floccus bookmarks sync                                             | https://github.com/floccusAddon
@@ -966,9 +969,10 @@ download:youtube:-               | 00   | ytdlp-interface                       
 ebook:manage:-                   | 00   | Calibre                                                            | https://calibre-ebook.com
 ebook:metadata:-                 | 00   | calibre-douban                                                     | https://github.com/fugary/calibre-douban
 ebook:reader:-                   | 00   | Foliate                                                            | https://johnfactotum.github.io/foliate/
+editor:ide:- | 00 | Positron | https://github.com/posit-dev/positron
 editor:database:-                | 00   | DBeaver                                                            | https://dbeaver.io
 editor:database:-                | 00   | SQL Notebook                                                       | https://github.com/electroly/sqlnotebook
-editor:database:-                | 10   | Trilium Notes                                                      | https://github.com/zadam/trilium
+editor:database:-                | 10   | TriliumNext Notes                                                  | https://github.com/TriliumNext/Notes
 editor:database:cli              | 00   | mycli                                                              | https://github.com/dbcli/mycli
 editor:database:cli              | 00   | sq                                                                 | https://github.com/neilotoole/sq
 editor:database:cli              | 00   | trdsql                                                             | https://github.com/noborus/trdsql
