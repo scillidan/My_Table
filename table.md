@@ -3,7 +3,7 @@ tag                              | mark | title                                 
 ai:audio:-                       | 00   | AniPortrait                                                        | https://github.com/Zejun-Yang/AniPortrait
 ai:audio:-                       | 10   | Bark                                                               | https://github.com/suno-ai/bark
 ai:audio:-                       | 00   | CosyVoice                                                          | https://github.com/FunAudioLLM/CosyVoice
-ai:image:- | 00 | FacePoke | https://github.com/jbilcke-hf/FacePoke
+ai:image:-                       | 00   | FacePoke                                                           | https://github.com/jbilcke-hf/FacePoke
 ai:audio:-                       | 00   | Fish Speech                                                        | https://github.com/fishaudio/fish-speech
 ai:audio:-                       | 00   | Real-Time Voice Cloning                                            | https://github.com/CorentinJ/Real-Time-Voice-Cloning
 ai:audio:tta                     | 00   | AudioLDM                                                           | https://github.com/haoheliu/AudioLDM
@@ -12,6 +12,7 @@ ai:image:-                       | 00   | IOPaint                               
 ai:audio:tta                     | 00   | GPT-SoVITS-WebUI                                                   | https://github.com/RVC-Boss/GPT-SoVITS
 ai:rag:-                         | 00   | Verba                                                              | https://github.com/weaviate/Verba
 ai:ocr:-                         | 00   | docTR                                                              | https://github.com/mindee/doctr
+linux:flatpak:-                  | 00   | Open TV                                                            | https://flathub.org/apps/dev.fredol.open-tv
 ai:translate:-                   | 00   | ChatGPT API SRT Subtitle Translator                                | https://github.com/Cerlancism/chatgpt-subtitle-translator
 ai:audio:-                       | 00   | VoiceStreamAI                                                      | https://github.com/alesaccoia/VoiceStreamAI
 ai:audio:-                       | 00   | OpenVoice                                                          | https://github.com/myshell-ai/OpenVoice
@@ -37,8 +38,8 @@ ai:video:-                       | 00   | VideoReTalking                        
 ai:video:-                       | 00   | vid2vid                                                            | https://github.com/NVIDIA/vid2vid
 ai:video:camera                  | 00   | Disclaimer                                                         | https://github.com/hacksider/Deep-Live-Cam
 andirod:-:-                      | 00   | love-11.3-android                                                  | https://github.com/love2d/love/releases
-andriod:app:- | 00 | Qalculate! | https://f-droid.org/packages/com.jherkenhoff.qalculate
-andriod:app:- | 00 | Stride | https://github.com/stride-tasks/stride
+andriod:app:-                    | 00   | Qalculate!                                                         | https://f-droid.org/packages/com.jherkenhoff.qalculate
+andriod:app:-                    | 00   | Stride                                                             | https://github.com/stride-tasks/stride
 andriod:app:-                    | 00   | App Manager                                                        | https://github.com/MuntashirAkon/AppManager
 andriod:app:-                    | 00   | Obtainium                                                          | https://github.com/ImranR98/Obtainium
 andriod:app:-                    | 11   | Neo Store                                                          | https://github.com/NeoApplications/Neo-Store
@@ -92,7 +93,7 @@ andriod:tool:-                   | 00   | localsend                             
 ai:image:-                       | 00   | img2img-turbo                                                      | https://github.com/GaParmar/img2img-turbo
 andriod:tool:light               | 00   | FlashDim                                                           | https://github.com/cyb3rko/flashdim
 andriod:tool:light               | 00   | Simple-Flashlight                                                  | https://github.com/SimpleMobileTools/Simple-Flashlight
-github:action:- | 00 | Torrent Webseed Creator | https://github.com/AnimMouse/torrent-webseed-creator
+github:action:-                  | 00   | Torrent Webseed Creator                                            | https://github.com/AnimMouse/torrent-webseed-creator
 andriod:tool:scan                | 00   | BinaryEye                                                          | https://github.com/markusfisch/BinaryEye
 andriod:tool:timer               | 00   | Sleep Timer                                                        | https://github.com/SimonMarquis/SleepTimer
 andriod:torrent:-                | 00   | Torrents-csv                                                       | https://git.torrents-csv.com/heretic/torrents-csv-android
@@ -106,7 +107,7 @@ andriod:wallpaper:-              | 11   | Doodle                                
 andriod:webdav:-                 | 00   | Round Sync                                                         | https://github.com/newhinton/Round-Sync
 andriod:youtube-music            | 00   | InnerTune                                                          | https://github.com/z-huang/InnerTune
 andriod:zerotier:-               | 10   | Zerotier Fix                                                       | https://github.com/kaaass/ZerotierFix
-zsh:banner:- | 00 | zsh-banner | https://github.com/drkhsh/zsh-banner
+zsh:banner:-                     | 00   | zsh-banner                                                         | https://github.com/drkhsh/zsh-banner
 anki:-:-                         | 01   | Anki                                                               | https://github.com/ankitects/anki
 anki:analyze:-                   | 00   | Anki History Visualization                                         | https://github.com/xiety/AnkiHistoryVisualization
 anki:analyze:-                   | 00   | Search Stats Extended                                              | https://github.com/Luc-Mcgrady/Anki-Search-Stats-Extended
@@ -206,7 +207,7 @@ arch:dotfiles:sway               | 00   | ArchSway                              
 arch:dotfiles:xfce_i3            | 11   | @fathulfahmy                                                       | https://github.com/fathulfahmy/dotfiles-linux
 archive:-:-                      | 00   | Universal Extractor 2                                              | https://github.com/Bioruebe/UniExtract2
 archive:-:-                      | 11   | 7zip                                                               | https://7-zip.org
-archive:-:- | 00 | Gzip for Windows | https://gnuwin32.sourceforge.net/packages/gzip.htm
+archive:-:-                      | 00   | Gzip for Windows                                                   | https://gnuwin32.sourceforge.net/packages/gzip.htm
 archive:-:-                      | 10   | UnRar for Windows                                                  | https://gnuwin32.sourceforge.net/packages/unrar.htm
 audio:convert:multi              | 00   | music-tools                                                        | https://github.com/mauvedeity/music-tools
 audio:cue:-                      | 10   | CUETools                                                           | https://cue.tools/wiki/Main_Page
@@ -249,7 +250,8 @@ audio:podcast:-                  | 00   | gPodder                               
 audio:process:-                  | 00   | PyMusicLooper                                                      | https://github.com/arkrow/PyMusicLooper
 audio:process:-                  | 00   | SpleeterGUI                                                        | https://github.com/boy1dr/SpleeterGui
 audio:process:-                  | 00   | vaporiser                                                          | https://github.com/rnnh/vaporiser
-audio:process:-                  | 10   | MP3Gain                                                            | https://github.com/Sound-Linux-More/mp3gain
+audio:process:-                  | 00   | MP3Gain                                                            | https://github.com/Sound-Linux-More/mp3gain
+audio:process:-  | 10 | wxMP3gain | https://github.com/cfgnunes/wxmp3gain
 audio:spotify:-                  | 00   | Spicetify                                                          | https://github.com/spicetify/spicetify-cli
 audio:spotify:-                  | 00   | spotify-qt                                                         | https://github.com/kraxarn/spotify-qt
 audio:spotify:-                  | 10   | Spytify                                                            | https://github.com/jwallet/spy-spotify
@@ -421,7 +423,7 @@ chat:irc:-                       | 00   | HexChat                               
 chat:irc:-                       | 00   | WeeChat                                                            | https://weechat.org
 chrome:account:-                 | 11   | Gmail                                                              | https://apkmirror.com/apk/google-inc/gmail
 chrome:automate:-                | 10   | Automa                                                             | https://automa.site
-chrome:file:- | 11 | Markdown Reader | https://github.com/md-reader/md-reader
+chrome:file:-                    | 11   | Markdown Reader                                                    | https://github.com/md-reader/md-reader
 chrome:bookmark:-                | 00   | Json Bookmarks                                                     | https://github.com/1nfiniteloop/json-bookmarks
 chrome:bookmark:-                | 00   | xBrowserSync                                                       | https://xbrowsersync.org/
 chrome:bookmark:-                | 11   | floccus bookmarks sync                                             | https://github.com/floccusAddon
@@ -969,7 +971,7 @@ download:youtube:-               | 00   | ytdlp-interface                       
 ebook:manage:-                   | 00   | Calibre                                                            | https://calibre-ebook.com
 ebook:metadata:-                 | 00   | calibre-douban                                                     | https://github.com/fugary/calibre-douban
 ebook:reader:-                   | 00   | Foliate                                                            | https://johnfactotum.github.io/foliate/
-editor:ide:- | 00 | Positron | https://github.com/posit-dev/positron
+editor:ide:-                     | 00   | Positron                                                           | https://github.com/posit-dev/positron
 editor:database:-                | 00   | DBeaver                                                            | https://dbeaver.io
 editor:database:-                | 00   | SQL Notebook                                                       | https://github.com/electroly/sqlnotebook
 editor:database:-                | 10   | TriliumNext Notes                                                  | https://github.com/TriliumNext/Notes
@@ -1032,7 +1034,7 @@ emulator:engine:python           | 00   | pyxel                                 
 emulator:es-de:theme             | 00   | mister-menu-es-de                                                  | https://github.com/anthonycaccese/mister-menu-es-de
 emulator:es-de:theme             | 00   | Modern                                                             | https://gitlab.com/es-de/themes/modern-es-de
 emulator:os:linux                | 00   | Lakka                                                              | https://lakka.tv
-emulator:os:linux                | 001   | ROCKNIX                                                            | https://github.com/ROCKNIX/distribution
+emulator:os:linux                | 001  | ROCKNIX                                                            | https://github.com/ROCKNIX/distribution
 emulator:pegasus:-               | 01   | Pegasus Frontend                                                   | https://github.com/mmatyas/pegasus-frontend
 emulator:pegasus:theme           | 00   | Flixnet theme for Pegasus                                          | https://github.com/mmatyas/pegasus-theme-flixnet
 emulator:pegasus:theme           | 00   | Pegasus Grid theme for Retroid Pocket 2                            | https://github.com/DFOXpro/rp2-pegasus-theme-grid
@@ -1568,6 +1570,7 @@ graphic:cad:-                    | 00   | Logisim-evolution                     
 graphic:cad:-                    | 00   | Cadmapper                                                          | https://cadmapper.com
 graphic:cad:-                    | 00   | FreeCAD                                                            | https://github.com/FreeCAD/FreeCAD
 graphic:cad:-                    | 00   | KiCad                                                              | https://kicad.org
+graphic:cad:-                    | 00   | KiKit – Automation for KiCAD                                       | https://github.com/yaqwsx/KiKit
 graphic:cad:-                    | 00   | OpenSCAD                                                           | https://github.com/openscad/openscad
 graphic:cad:-                    | 00   | QCAD                                                               | https://qcad.org
 graphic:geo:-                    | 00   | 2D-isoedit                                                         | https://github.com/Grille/2D-isometricRenderer
@@ -1599,7 +1602,7 @@ gui:git:github                   | 00   | GitHub Desktop                        
 gui:rename:-                     | 00   | ReNamer                                                            | https://den4b.com/products/renamer
 gui:rename:-                     | 11   | Advanced Renamer                                                   | https://advancedrenamer.com
 gui:thumbnail:-                  | 00   | qmtn                                                               | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
-hardware:controller:- | 00 | GP2040 | https://gp2040.info
+hardware:controller:-            | 00   | GP2040                                                             | https://gp2040.info
 hardware:archivist:-             | 00   | Archivist                                                          | https://diybookscanner.org/archivist/index.html
 hardware:archivist:-             | 00   | Pi Scan                                                            | https://github.com/Tenrec-Builders/pi-scan
 hardware:audio:-                 | 00   | AudioRelay                                                         | https://audiorelay.net
@@ -1956,7 +1959,7 @@ linux:dotfiles:-                 | 00   | @diffficult                           
 linux:dotfiles:arch              | 00   | @bibjaw99                                                          | https://github.com/bibjaw99/workstation
 linux:dotfiles:hyprland          | 00   | @qxb3                                                              | https://github.com/qxb3/gruvbox.hypr/tree/vim_styled
 linux:firmware:gnome             | 00   | Firmware                                                           | https://gitlab.gnome.org/World/gnome-firmware
-linux:flatpak:grep | 00 | Clapgrep | https://flathub.org/apps/de.leopoldluley.Clapgrep
+linux:flatpak:grep               | 00   | Clapgrep                                                           | https://flathub.org/apps/de.leopoldluley.Clapgrep
 linux:flatpak:gnome              | 10   | Warehouse                                                          | https://github.com/flattool/warehouse
 linux:front-end:game             | 10   | Lutris                                                             | https://lutris.net
 linux:flatpak:-                  | 00   | Trelby                                                             | https://flathub.org/apps/org.trelby.Trelby
@@ -2240,8 +2243,8 @@ vscode:syntax:-                  | 10   | ink                                   
 neovim:ime:-                     | 00   | fcitx5.nvim                                                        | https://github.com/tonyfettes/fcitx5.nvim
 neovim:lsp:-                     | 001  | rime-ls                                                            | https://github.com/wlh320/rime-ls
 love:-:-                         | 00   | LÖVE                                                               | https://love2d.org
-love:packager:- | 00 | löve-build | https://github.com/ellraiser/love-build
-love:ui:- | 00 |lovr-ui2d | https://github.com/immortalx74/lovr-ui2d
+love:packager:-                  | 00   | löve-build                                                         | https://github.com/ellraiser/love-build
+love:ui:-                        | 00   | lovr-ui2d                                                          | https://github.com/immortalx74/lovr-ui2d
 love:action:-                    | 00   | Walt                                                               | https://github.com/davisdude/Walt
 love:action:-                    | 00   | deep                                                               | https://github.com/Nikaoto/deep
 love:action:-                    | 00   | turtle.lua                                                         | https://github.com/arthurealike/turtle.lua
@@ -2375,7 +2378,7 @@ midi:studio:tui                  | 00   | QasarBeach                            
 midi:synthesis:track             | 00   | Pata Tracker                                                       | https://pixwlk.itch.io/pata-tracker
 midi:transcript:sheet            | 001  | pianotrans                                                         | https://github.com/azuwis/pianotrans
 mkdocs:-:-                       | 00   | MkDocs                                                             | https://mkdocs.org/
-mkdocs:quiz:- | 001 | Mkdocs Quiz | https://github.com/bdallard/mkdocs_quiz
+mkdocs:quiz:-                    | 001  | Mkdocs Quiz                                                        | https://github.com/bdallard/mkdocs_quiz
 mkdocs:admonition:-              | 00   | GitHub Admonitions for MkDocs                                      | https://github.com/PGijsbers/admonitions
 mkdocs:admonition:-              | 00   | markdown-callouts                                                  | https://github.com/oprypin/markdown-callouts
 mkdocs:audio:-                   | 00   | MkDocs Audio                                                       | https://github.com/jfcmontmorency/mkdocs-audio
@@ -3377,6 +3380,7 @@ rss:feed:-                       | 00   | F-Droid_Newapps_RSS                   
 rss:feed:-                       | 00   | Hacker News RSS                                                    | https://github.com/hnrss/hnrss
 rss:newsboat:-                   | 11   | Newsboat                                                           | https://github.com/newsboat/newsboat
 rss:newsboat:linux               | 001  | link-handler                                                       | https://github.com/mrdotx/link-handler
+rss:reader:- | 00 | Follow | https://github.com/RSSNext/Follow
 rss:reader:tui                   | 00   | goread                                                             | https://github.com/TypicalAM/goread
 rss:reader:tui                   | 00   | russ                                                               | https://github.com/ckampfe/russ
 rss:serve:-                      | 00   | diffengine                                                         | https://github.com/DocNow/diffengine
@@ -3392,9 +3396,9 @@ screenshot:web:-                 | 00   | pageres-cli                           
 screenshot:web:-                 | 00   | shot-scraper                                                       | https://github.com/simonw/shot-scraper
 screenshot:web:-                 | 000  | SpaceCapture                                                       | https://github.com/SpaceView/SpaceCapture
 sd-webui:-:-                     | 11   | Stable Diffusion web UI                                            | https://github.com/AUTOMATIC1111/stable-diffusion-webui
-sd-webui:image:-                 | 001   | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
+sd-webui:image:-                 | 001  | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
 sd-webui:action:-                | 00   | sd-webui-densediff                                                 | https://github.com/uiyo/sd-webui-densediff
-sd-webui:action:-                | 00   | Openpose Editor for ControlNet ...                                | https://github.com/huchenlei/sd-webui-openpose-editor
+sd-webui:action:-                | 00   | Openpose Editor for ControlNet ...                                 | https://github.com/huchenlei/sd-webui-openpose-editor
 sd-webui:action:-                | 00   | ControlNet Preprocessor in extras tab                              | https://github.com/light-and-ray/sd-webui-cn-in-extras-tab
 sd-webui:action:-                | 11   | ControlNet for Stable Diffusion WebUI                              | https://github.com/Mikubill/sd-webui-controlnet
 sd-webui:anime:-                 | 00   | AnimateDiff for Stable Diffusion WebUI                             | https://github.com/continue-revolution/sd-webui-animatediff
@@ -3404,7 +3408,7 @@ sd-webui:comfyui:-               | 00   | ComfyUI-Inspyrenet-Rembg              
 sd-webui:comfyui:-               | 00   | CImaGen                                                            | https://github.com/ServOKio/CImaGen
 sd-webui:comfyui:-               | 11   | ComfyUI                                                            | https://github.com/comfyanonymous/ComfyUI
 sd-webui:comfyui:-               | 01   | ComfyUI Manager                                                    | https://github.com/ltdrdata/ComfyUI-Manager
-sd-webui:comfyui:-               | 001   | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
+sd-webui:comfyui:-               | 001  | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
 sd-webui:comfyui:liveportrait    | 00   | ComfyUI nodes to use LivePortrait                                  | https://github.com/kijai/ComfyUI-LivePortraitKJ
 sd-webui:comfyui:txt2img         | 00   | ComfyUI wrapper for Kwai-Kolors                                    | https://github.com/kijai/ComfyUI-KwaiKolorsWrapper
 sd-webui:data:-                  | 00   | db-storage1111                                                     | https://github.com/takoyaro/db-storage1111
@@ -3427,7 +3431,7 @@ sd-webui:edit:img2img            | 00   | StableSR for Stable Diffusion WebUI   
 sd-webui:edit:img2img            | 00   | Topaz Photo AI integration                                         | https://github.com/light-and-ray/sd-webui-topaz-photo-ai-integration
 sd-webui:edit:img2img            | 00   | sd-webui-pixelart                                                  | https://github.com/mrreplicart/sd-webui-pixelart
 sd-webui:edit:img2img            | 01   | Horizontal Tiling Script for StableDiffusion                       | https://xanthius.itch.io/horizontal-tiling-script-for-stablediffusion
-sd-webui:export:-                | 00  | sd-webui-compress                                                  | https://github.com/injet-zhou/sd-webui-compress
+sd-webui:export:-                | 00   | sd-webui-compress                                                  | https://github.com/injet-zhou/sd-webui-compress
 sd-webui:extension:-             | 00   | Readme browser                                                     | https://github.com/light-and-ray/sd-webui-readme-browser
 sd-webui:face:-                  | 00   | FaceFuison extension for StableDiffusion Webui                     | https://github.com/diffus-me/sd-webui-facefusion
 sd-webui:face:-                  | 00   | FaceSwapLab for a1111/Vlad                                         | https://github.com/glucauze/sd-webui-faceswaplab
@@ -3436,7 +3440,7 @@ sd-webui:face:-                  | 00   | roop for StableDiffusion              
 sd-webui:gif2gif:-               | 00   | gif2gif                                                            | https://github.com/LonicaMewinsky/gif2gif
 sd-webui:img2txt:-               | 11   | CLIP Interrogator extension ...                                    | https://github.com/pharmapsychotic/clip-interrogator-ext
 sd-webui:img2txt:-               | 11   | Danbooru Prompt                                                    | https://github.com/EnsignMK/danbooru-prompt
-ai:img2vid:-               | 00   | ToonCrafter                                                        | https://github.com/ToonCrafter/ToonCrafter
+ai:img2vid:-                     | 00   | ToonCrafter                                                        | https://github.com/ToonCrafter/ToonCrafter
 sd-webui:info:-                  | 00   | Checker of "enable" statuses in SD Web UI                          | https://github.com/shirayu/sd-webui-enable-checker
 sd-webui:info:-                  | 11   | System Info tab extensions for SD Automatic WebUI                  | https://github.com/vladmandic/sd-extension-system-info
 sd-webui:info:-                  | 00   | VRAM Estimator for stable-diffusion-webui                          | https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator
@@ -3475,19 +3479,19 @@ sd-webui:modify:-                | 00   | Detail Daemon                         
 sd-webui:modify:-                | 00   | SD Webui ReSharpen                                                 | https://github.com/Haoming02/sd-webui-resharpen
 sd-webui:modify:-                | 00   | sd-webui-Stable-Makeup                                             | https://github.com/kigy1/sd-webui-Stable-Makeup
 sd-webui:mov2mov:-               | 00   | Mov2mov                                                            | https://github.com/Scholar01/sd-webui-mov2mov
-sd-webui:node:-                  | 001   | sd-webui-comfyui                                                   | https://github.com/ModelSurge/sd-webui-comfyui
+sd-webui:node:-                  | 001  | sd-webui-comfyui                                                   | https://github.com/ModelSurge/sd-webui-comfyui
 sd-webui:node:prompt             | 00   | One Button Prompt                                                  | https://github.com/AIrjen/OneButtonPrompt
 sd-webui:node:prompt             | 00   | Stable Diffusion Dynamic Prompts extension                         | https://github.com/adieyal/sd-dynamic-prompts
 sd-webui:preset:-                | 00   | sd-webui-lightdiffusionflow                                        | https://github.com/Tencent/LightDiffusionFlow
 sd-webui:preset:-                | 00   | Aesthetic Gradients                                                | https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients
 sd-webui:prompt:-                | 00   | LCM Sampler                                                        | https://github.com/light-and-ray/sd-webui-lcm-sampler
 sd-webui:prompt:-                | 00   | Rich-Text-to-Image for Stable Diffusion WebUI                      | https://github.com/songweige/sd-webui-rich-text
-sd-webui:prompt:-                | 00  | Stable Diffusion Web UI Temporal Extension                         | https://github.com/Iniquitatis/sd-webui-temporal
+sd-webui:prompt:-                | 00   | Stable Diffusion Web UI Temporal Extension                         | https://github.com/Iniquitatis/sd-webui-temporal
 sd-webui:prompt:-                | 01   | Neutral Prompt                                                     | https://github.com/ljleb/sd-webui-neutral-prompt
 sd-webui:prompt:-                | 01   | SD WebUI Prompt Style                                              | https://github.com/bandifiu/sd-webui-prompt-style
 sd-webui:prompt:-                | 01   | sd-webui-prompt-history                                            | https://github.com/namkazt/sd-webui-prompt-history
 sd-webui:prompt:-                | 01   | stable-diffusion-webui-prompt-utilities                            | https://github.com/hallatore/stable-diffusion-webui-prompt-utilities
-sd-webui:prompt:-                | 000   | Cross Attention Control with Stable Diffusion                      | https://github.com/bloc97/CrossAttentionControl
+sd-webui:prompt:-                | 000  | Cross Attention Control with Stable Diffusion                      | https://github.com/bloc97/CrossAttentionControl
 sd-webui:prompt:-                | 00   | Latent Couple extension (two shot diffusion port)                  | https://github.com/ashen-sensored/stable-diffusion-webui-two-shot
 sd-webui:prompt:-                | 11   | NegPiP - Negative Prompt in Prompt                                 | https://github.com/hako-mikan/sd-webui-negpip
 sd-webui:prompt:-                | 00   | Negative Prompt Weight                                             | https://github.com/muerrilla/stable-diffusion-NPW

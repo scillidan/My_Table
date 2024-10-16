@@ -9,6 +9,8 @@ font:-         | 11   | LXGW WenKai GB                                | https://
 font:-         | 11   | Sarasa Gothic                                 | https://github.com/be5invis/Sarasa-Gothic
 font:-         | 11   | Source Han Sans                               | https://github.com/adobe-fonts/source-han-sans
 font:-         | 11   | Source Han Serif                              | https://github.com/adobe-fonts/source-han-serif
+font:-         | 00   | Departure Mono                                | https://github.com/rektdeckard/departure-mono
+font:-         | 00   | Illusion Book                                 | https://github.com/StevenLZH/IllusionBook
 svg:arrow      | 00   | Hand-Drawn Arrows                             | https://github.com/eronred/handy-arrows
 windows:theme  | 00   | Macindows for Windows 10                      | https://www.deviantart.com/niivu/art/Macindows-for-Windows-10-870073866
 windows:theme  | 00   | Gruvbox for Windows                           | https://www.deviantart.com/niivu/art/Gruvbox-for-Windows-913766735
