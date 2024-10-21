@@ -1,5 +1,6 @@
 tag                              | mark | title                                                              | url
 :-                               | :-   | :-                                                                 | :-
+ai:rag:- | 00 | LightRAG | https://github.com/HKUDS/LightRAG
 ai:audio:-                       | 00   | AniPortrait                                                        | https://github.com/Zejun-Yang/AniPortrait
 ai:audio:-                       | 10   | Bark                                                               | https://github.com/suno-ai/bark
 ai:audio:-                       | 00   | CosyVoice                                                          | https://github.com/FunAudioLLM/CosyVoice
@@ -510,6 +511,7 @@ chrome:read-later:-              | 11   | Read Later                            
 chrome:read:-                    | 00   | Jiffy Reader                                                       | https://github.com/ansh/jiffyreader.com
 chrome:read:-                    | 00   | Text Mode                                                          | https://chrome.google.com/webstore/detail/text-mode/adelhekhakakocomdfejiipdnaadiiib
 chrome:read:-                    | 00   | Unclutter                                                          | https://github.com/lindylearn/unclutter
+chrome:translate:- | 00 | 鼠标工具提示翻译器 | https://github.com/ttop32/MouseTooltipTranslator
 chrome:read:-                    | 11   | Dark Reader                                                        | https://darkreader.org
 chrome:read:-                    | 11   | Smart TOC                                                          | https://github.com/FallenMax/smart-toc
 chrome:rss:-                     | 11   | RSSHub                                                             | https://github.com/DIYgod/RSSHub-Radar
@@ -530,8 +532,8 @@ chrome:translate:-               | 11   | immersive-translate                   
 chrome:view:-                    | 00   | Fullscreen                                                         | https://github.com/xieby1/fullscreen
 chrome:view:-                    | 00   | View Image                                                         | https://github.com/bijij/ViewImage
 chrome:view:-                    | 00   | arXiv Vanity                                                       | https://github.com/arxiv-vanity/arxiv-vanity
-chrome:view:-                    | 00   | doqment PDF Reader                                                 | https://github.com/shivaprsd/doqment
-chrome:view:-                    | 00   | ePub Reader                                                        | https://add0n.com/epub-reader.html
+chrome:view:-                    | 10   | doqment PDF Reader                                                 | https://github.com/shivaprsd/doqment
+chrome:view:-                    | 10   | ePub Reader                                                        | https://add0n.com/epub-reader.html
 chrome:view:-                    | 11   | BetterViewer                                                       | https://github.com/Ademking/BetterViewer
 chrome:view:-                    | 11   | GIF Scrubber                                                       | https://github.com/0ui/gif-scrubber
 chrome:view:-                    | 11   | Imagus                                                             | https://github.com/TheFantasticWarrior/chrome-extension-imagus
@@ -1674,6 +1676,7 @@ image:library:-                  | 00   | ImageMagick                           
 image:optimize:-                 | 00   | Bamboo                                                             | https://github.com/christopherwk210/bamboo
 image:optimize:-                 | 00   | Guetzli Converter GUI                                              | https://guetzliconverter.net
 image:optimize:-                 | 00   | Pixxia                                                             | https://github.com/dhhruv/Pixxia
+image:optimize:-                 | 11   | YOGA | https://github.com/wanadev/yoga
 image:optimize:-                 | 00   | YOGA Image Optimizer                                               | https://github.com/flozz/yoga-image-optimizer
 image:optimize:-                 | 00   | tinifier                                                           | https://github.com/tarampampam/tinifier
 image:optimize:batch             | 00   | Compress-images                                                    | https://github.com/Yuriy-Svetlov/compress-images
@@ -2304,7 +2307,7 @@ love:moon:library                | 00   | pathfun                               
 love:moon:template               | 00   | selene                                                             | https://github.com/novafacing/selene
 love:packager:-                  | 00   | AppImageKit                                                        | https://github.com/AppImage/AppImageKit
 love:packager:-                  | 00   | GameImage                                                          | https://github.com/ruanformigoni/gameimage
-love:packager:-                  | 00   | boon                                                               | https://github.com/camchenry/boon
+love:packager:-                  | 10   | boon                                                               | https://github.com/camchenry/boon
 love:packager:-                  | 00   | love-fuser                                                         | https://github.com/MikuAuahDark/love-fuser
 love:packager:-                  | 00   | love-packager                                                      | https://github.com/simplifylabs/love-packager
 love:packager:-                  | 00   | makelove                                                           | https://github.com/pfirsich/makelove

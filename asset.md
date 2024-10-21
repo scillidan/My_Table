@@ -18,3 +18,9 @@ windows:cursor | 00   | mini.cur                                      | https://
 ui:-           | 00   | shadcn/ui                                     | https://github.com/shadcn-ui/ui
 image:-        | 001  | Analogue openFPGA Platform Art Set            | https://github.com/spiritualized1997/openFPGA-Platform-Art-Set
 license:-      | 00   | Creative Commons Licenses for GitHub Projects | https://github.com/santisoler/cc-licenses
+dotfile:i3     | 00   | statusBar                                     | http://dotshare.it/dots/24/
+dotfile:i3     | 00   | UnaSemana                                     | http://dotshare.it/dots/307/
+dotfile:i3     | 00   | boring2                                       | http://dotshare.it/dots/588/
+dotfile:i3     | 00   | Simple Arc Dark                               | http://dotshare.it/dots/1446/
+ai:role        | 00   | Cursor Directory                              | https://cursor.directory/
+ai:image       | 00   | Art style gallery                             | https://airtable.com/appGc7YdwCFVYwTK8/shrY4CRFRaIhLjiBe/tbldCHol3ABwHG9ex
