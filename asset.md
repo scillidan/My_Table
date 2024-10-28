@@ -18,6 +18,9 @@ windows:cursor | 00   | mini.cur                                      | https://
 ui:-           | 00   | shadcn/ui                                     | https://github.com/shadcn-ui/ui
 image:-        | 001  | Analogue openFPGA Platform Art Set            | https://github.com/spiritualized1997/openFPGA-Platform-Art-Set
 license:-      | 00   | Creative Commons Licenses for GitHub Projects | https://github.com/santisoler/cc-licenses
+cheatsheet:-   | 00 | ISO-3166-Countries-with-Regional-Codes | https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv)
+cheatsheet:- | 00 | HTML Characters | https://cheatsheets.zip/html-char
+cheatsheet:- | 00 | RegEX | https://cheatsheets.zip/regex
 dotfile:i3     | 00   | statusBar                                     | http://dotshare.it/dots/24/
 dotfile:i3     | 00   | UnaSemana                                     | http://dotshare.it/dots/307/
 dotfile:i3     | 00   | boring2                                       | http://dotshare.it/dots/588/

@@ -1,1663 +1,1672 @@
-tag                              | mark | title                                                              | url
-:-                               | :-   | :-                                                                 | :-
-ai:rag:- | 00 | LightRAG | https://github.com/HKUDS/LightRAG
-ai:audio:-                       | 00   | AniPortrait                                                        | https://github.com/Zejun-Yang/AniPortrait
-ai:audio:-                       | 10   | Bark                                                               | https://github.com/suno-ai/bark
-ai:audio:-                       | 00   | CosyVoice                                                          | https://github.com/FunAudioLLM/CosyVoice
-ai:image:-                       | 00   | FacePoke                                                           | https://github.com/jbilcke-hf/FacePoke
-ai:audio:-                       | 00   | Fish Speech                                                        | https://github.com/fishaudio/fish-speech
-ai:audio:-                       | 00   | Real-Time Voice Cloning                                            | https://github.com/CorentinJ/Real-Time-Voice-Cloning
-ai:audio:tta                     | 00   | AudioLDM                                                           | https://github.com/haoheliu/AudioLDM
-ai:audio:tta                     | 00   | Coqui.ai TTS                                                       | https://github.com/coqui-ai/TTS
-ai:image:-                       | 00   | IOPaint                                                            | https://github.com/Sanster/IOPaint
-ai:audio:tta                     | 00   | GPT-SoVITS-WebUI                                                   | https://github.com/RVC-Boss/GPT-SoVITS
-ai:rag:-                         | 00   | Verba                                                              | https://github.com/weaviate/Verba
-ai:ocr:-                         | 00   | docTR                                                              | https://github.com/mindee/doctr
-linux:flatpak:-                  | 00   | Open TV                                                            | https://flathub.org/apps/dev.fredol.open-tv
-ai:translate:-                   | 00   | ChatGPT API SRT Subtitle Translator                                | https://github.com/Cerlancism/chatgpt-subtitle-translator
-ai:audio:-                       | 00   | VoiceStreamAI                                                      | https://github.com/alesaccoia/VoiceStreamAI
-ai:audio:-                       | 00   | OpenVoice                                                          | https://github.com/myshell-ai/OpenVoice
-ai:audio:-                       | 00   | FluxMusic                                                          | https://github.com/feizc/FluxMusic
-ai:chat:-                        | 00   | Dify                                                               | https://github.com/langgenius/dify
-tool:check:-                     | 00   | Sigma                                                              | https://github.com/SigmaHQ/sigma
-ai:chat:-                        | 00   | Letta                                                              | https://github.com/cpacker/MemGPT
-ai:chat:webui                    | 00   | Text generation web UI                                             | https://github.com/oobabooga/text-generation-webui
-ai:github:issue                  | 00   | SWE-agent                                                          | https://github.com/princeton-nlp/SWE-agent
-ai:translate:-                   | 00   | BallonsTranslator                                                  | https://github.com/dmMaze/BallonsTranslator
-paste:cross:-                    | 01   | CrossPaste                                                         | https://github.com/CrossPaste/crosspaste-desktop
-ai:image:-                       | 00   | Draw2Img                                                           | https://github.com/GradientSurfer/Draw2Img
-ai:image:-                       | 00   | ComfyUI IPAdapter plus                                             | https://github.com/cubiq/ComfyUI_IPAdapter_plus
-ai:image:-                       | 00   | Grounded-Segment-Anything                                          | https://github.com/IDEA-Research/Grounded-Segment-Anything
-ai:mode:-                        | 00   | Generative Models by Stability AI                                  | https://github.com/Stability-AI/generative-models
-ai:tts:-                         | 00   | Parler-TTS                                                         | https://github.com/huggingface/parler-tts
-ai:video:-                       | 00   | LivePortrait                                                       | https://github.com/KwaiVGI/LivePortrait
-ai:video:-                       | 00   | MagicAnimate                                                       | https://github.com/magic-research/magic-animate
-ai:video:-                       | 00   | RAD-NeRF                                                           | https://github.com/ashawkey/RAD-NeRF
-ai:video:-                       | 00   | Rerender_A_Video                                                   | https://github.com/williamyang1991/Rerender_A_Video
-neovim:editor:-                  | 11   | truncateline.nvim                                                  | https://github.com/rlychrisg/truncateline.nvim
-ai:video:-                       | 00   | VideoReTalking                                                     | https://github.com/OpenTalker/video-retalking
-ai:video:-                       | 00   | vid2vid                                                            | https://github.com/NVIDIA/vid2vid
-ai:video:camera                  | 00   | Disclaimer                                                         | https://github.com/hacksider/Deep-Live-Cam
-andirod:-:-                      | 00   | love-11.3-android                                                  | https://github.com/love2d/love/releases
-andriod:app:-                    | 00   | Qalculate!                                                         | https://f-droid.org/packages/com.jherkenhoff.qalculate
-andriod:app:-                    | 00   | Stride                                                             | https://github.com/stride-tasks/stride
-andriod:app:-                    | 00   | App Manager                                                        | https://github.com/MuntashirAkon/AppManager
-andriod:app:-                    | 00   | Obtainium                                                          | https://github.com/ImranR98/Obtainium
-andriod:app:-                    | 11   | Neo Store                                                          | https://github.com/NeoApplications/Neo-Store
-andriod:bible:-                  | 00   | and-bible                                                          | https://github.com/AndBible/and-bible
-andriod:bookmark:-               | 00   | floccus bookmark sync                                              | https://github.com/floccusaddon/floccus
-andriod:browser:-                | 00   | Brave                                                              | https://github.com/brave/brave-browser
-andriod:browser:-                | 00   | firefox-android                                                    | https://github.com/mozilla-mobile/firefox-android
-andriod:camera:-                 | 00   | Hypocam                                                            | https://www.hypocam.com/index.php/app/
-andriod:chat:-                   | 00   | Telegram-FOSS                                                      | https://github.com/Telegram-FOSS-Team/Telegram-FOSS
-andriod:cleaner:-                | 00   | Universal Android Debloater GUI                                    | https://github.com/0x192/universal-android-debloater
-andriod:dictionary               | 00   | SilverDict                                                         | https://github.com/Crissium/SilverDict-mobile
-andriod:dictionary               | 00   | aard2-android                                                      | https://github.com/itkach/aard2-android
-andriod:display:-                | 00   | spacedesk                                                          | https://www.spacedesk.net
-andriod:ebook:-                  | 001  | KOReader                                                           | https://koreader.rocks
-andriod:editor:-                 | 00   | Squircle CE                                                        | https://github.com/massivemadness/Squircle-CE
-andriod:explorer:-               | 00   | File Manager Plus                                                  | https://alphainventor.com/file-manager-plus
-andriod:explorer:-               | 10   | Material Files                                                     | https://github.com/zhanghai/MaterialFiles
-andriod:explorer:-               | 11   | Amaze                                                              | https://github.com/TeamAmaze/AmazeFileManager
-andriod:game:-                   | 00   | Forkyz Scanner                                                     | https://gitlab.com/Hague/forkyzscanner
-andriod:game:-                   | 00   | RetroArch                                                          | https://github.com/libretro/RetroArch
-andriod:habit:-                  | 00   | Habit Builder                                                      | https://github.com/ofalvai/HabitBuilder
-andriod:hacker-news:-            | 00   | Hacki                                                              | https://github.com/Livinglist/Hacki
-andriod:lan:-                    | 00   | Vector Camera                                                      | https://github.com/dozingcat/VectorCamera
-andriod:lan:-                    | 00   | tailscale                                                          | https://github.com/tailscale/tailscale
-andriod:lan:-                    | 11   | Zerotier Fix                                                       | https://github.com/kaaass/ZerotierFix
-andriod:log:-                    | 00   | LogFox                                                             | https://github.com/F0x1d/LogFox
-andriod:map:-                    | 00   | OpenTracks                                                         | https://github.com/OpenTracksApp/OpenTracks
-andriod:map:-                    | 00   | Organic Maps                                                       | https://github.com/organicmaps/organicmaps
-andriod:map:-                    | 00   | Trail-Sense                                                        | https://github.com/kylecorry31/Trail-Sense
-andriod:note:-                   | 00   | 蜜蜂便签                                                           | https://mp.weixin.qq.com/s/6v_1CnkOGsUgGaRIiXKFIg
-andriod:photo:-                  | 00   | Photok                                                             | https://github.com/leonlatsch/Photok
-andriod:player:-                 | 00   | APlayer                                                            | https://github.com/rRemix/APlayer
-andriod:player:-                 | 11   | mpvKt                                                              | https://github.com/abdallahmehiz/mpvKt
-andriod:podcast:-                | 00   | AntennaPod                                                         | https://github.com/AntennaPod/AntennaPod
-andriod:reader:-                 | 00   | LibreraReader                                                      | https://github.com/foobnix/LibreraReader
-andriod:reader:-                 | 00   | Lithium                                                            | https://github.com/pgaskin/lithiumpatch
-andriod:rss-torrent:-            | 00   | AniVu                                                              | https://github.com/SkyD666/AniVu
-andriod:rss:-                    | 00   | Flux News                                                          | https://github.com/KevinCFechtel/FluxNews
-andriod:scan:-                   | 00   | OSS Document Scanner                                               | https://github.com/Akylas/OSS-DocumentScanner
-andriod:serve:-                  | 00   | AudioRelay                                                         | https://audiorelay.net/downloads
-andriod:sync:-                   | 00   | Syncthing-Fork                                                     | https://github.com/Catfriend1/syncthing-android
-andriod:termux:-                 | 00   | Termux                                                             | https://github.com/termux/termux-app
-andriod:termux:-                 | 00   | Termux:API                                                         | https://github.com/termux/termux-api
-andriod:termux:-                 | 00   | Termux:Styling                                                     | https://github.com/termux/termux-styling
-andriod:termux:style             | 10   | Termux Style                                                       | https://github.com/adi1090x/termux-style
-andriod:tool:-                   | 00   | Aegis                                                              | https://github.com/beemdevelopment/Aegis
-andriod:tool:-                   | 00   | GuessIron                                                          | https://github.com/mobeil1/GuessIron
-andriod:tool:-                   | 00   | Save Locally                                                       | https://github.com/MateusRodCosta/Share2Storage
-andriod:tool:-                   | 00   | ScreenshotTile                                                     | https://github.com/cvzi/ScreenshotTile
-andriod:tool:-                   | 00   | localsend                                                          | https://github.com/localsend/localsend
-ai:image:-                       | 00   | img2img-turbo                                                      | https://github.com/GaParmar/img2img-turbo
-andriod:tool:light               | 00   | FlashDim                                                           | https://github.com/cyb3rko/flashdim
-andriod:tool:light               | 00   | Simple-Flashlight                                                  | https://github.com/SimpleMobileTools/Simple-Flashlight
-github:action:-                  | 00   | Torrent Webseed Creator                                            | https://github.com/AnimMouse/torrent-webseed-creator
-andriod:tool:scan                | 00   | BinaryEye                                                          | https://github.com/markusfisch/BinaryEye
-andriod:tool:timer               | 00   | Sleep Timer                                                        | https://github.com/SimonMarquis/SleepTimer
-andriod:torrent:-                | 00   | Torrents-csv                                                       | https://git.torrents-csv.com/heretic/torrents-csv-android
-andriod:track:-                  | 00   | aw-android                                                         | https://github.com/ActivityWatch/aw-android
-andriod:translate:-              | 00   | Rtranslator                                                        | https://github.com/niedev/RTranslator
-andriod:ubuntu:-                 | 00   | Ubuntu on android                                                  | https://github.com/RandomCoderOrg/ubuntu-on-android
-andriod:viewer                   | 00   | Simple-Gallery                                                     | https://github.com/SimpleMobileTools/Simple-Gallery
-andriod:vnc:-                    | 00   | bVNC Free                                                          | https://github.com/iiordanov/remote-desktop-clients
-andriod:wallpaper:-              | 00   | Code Rain Wallpaper                                                | https://gitlab.com/_zagura/code-rain-wallpaper
-andriod:wallpaper:-              | 11   | Doodle                                                             | https://github.com/patzly/doodle-android
-andriod:webdav:-                 | 00   | Round Sync                                                         | https://github.com/newhinton/Round-Sync
-andriod:youtube-music            | 00   | InnerTune                                                          | https://github.com/z-huang/InnerTune
-andriod:zerotier:-               | 10   | Zerotier Fix                                                       | https://github.com/kaaass/ZerotierFix
-zsh:banner:-                     | 00   | zsh-banner                                                         | https://github.com/drkhsh/zsh-banner
-anki:-:-                         | 01   | Anki                                                               | https://github.com/ankitects/anki
-anki:analyze:-                   | 00   | Anki History Visualization                                         | https://github.com/xiety/AnkiHistoryVisualization
-anki:analyze:-                   | 00   | Search Stats Extended                                              | https://github.com/Luc-Mcgrady/Anki-Search-Stats-Extended
-anki:analyze:pandas              | 00   | AnkiPandas                                                         | https://github.com/klieret/AnkiPandas
-anki:answer:-                    | 01   | Answer Set                                                         | https://github.com/scott2000/answerset
-anki:choice:-                    | 00   | Anki-Multiple-Choice                                               | https://github.com/ale18V/Anki-Multiple-Choice
-anki:cli:-                       | 00   | apy                                                                | https://github.com/lervag/apy
-anki:cli:-                       | 00   | vocage                                                             | https://github.com/proycon/vocage
-anki:cli:add                     | 00   | apy                                                                | https://github.com/lervag/apy
-anki:cloze:-                     | 00   | Anki Card Text Randomizer                                          | https://github.com/Yustynn/anki-card-text-randomizer
-anki:code:-                      | 01   | Anki themes                                                        | https://github.com/badlydrawnrob/anki
-anki:convert:-                   | 00   | Converter for LaTeX to Anki                                        | https://github.com/Iqwertz/Tum_Kontrollfragen_Physik_Anki
-anki:convert:-                   | 00   | markdown-anki-decks                                                | https://github.com/lukesmurray/markdown-anki-decks
-anki:convert:-                   | 01   | AnkiPoetry                                                         | https://github.com/xiety/AnkiPoetry
-anki:convert:dev                 | 00   | yanki                                                              | https://github.com/kitschpatrol/yanki
-anki:create:-                    | 00   | Tool for creating complex Anki notes quickly                       | https://github.com/FilipTarajko/anki-card-generator
-anki:export:-                    | 00   | anki-export-as-picture                                             | https://github.com/hienstorfer/anki-export-as-picture
-anki:field:-                     | 00   | FrequencyMan                                                       | https://github.com/Rct567/FrequencyMan
-anki:field:-                     | 01   | anki-field-autocomplete                                            | https://github.com/AnKing-VIP/anki-field-autocomplete
-anki:flow:-                      | 00   | srs-toolbelt                                                       | https://github.com/balta2ar/srs-toolbelt
-anki:format:-                    | 00   | Anki Panky                                                         | https://github.com/kamalsacranie/anki-panky
-anki:format:-                    | 00   | Anki.md                                                            | https://github.com/timgreen/Anki.md
-anki:format:-                    | 00   | Autoanki                                                           | https://github.com/chenlijun99/autoanki
-anki:frequency:-                 | 00   | Bulk Generate Japanese Vocab Frequency                             | https://github.com/christopher-chandler/bulk_generate_japanese_vocab_frequency
-anki:game:-                      | 01   | Ankimon                                                            | https://github.com/Unlucky-Life/ankimon
-anki:generate:-                  | 00   | Dexter Note Ankify                                                 | https://github.com/duydl/dexter-tripos-notes-anki
-anki:generate:-                  | 00   | ocr_to_anki_public                                                 | https://github.com/NeverConvex/ocr_to_anki_public
-anki:generate:-                  | 01   | Yochimu                                                            | https://github.com/ernestohegi/japanese-text-parser
-anki:generate:-                  | 01   | dictpopup                                                          | https://github.com/Ajatt-Tools/dictpopup
-anki:image:-                     | 01   | AJT Media Converter                                                | https://github.com/Ajatt-Tools/PasteImagesAsWebP
-anki:image:zoom                  | 01   | Anki Image Scaler                                                  | https://github.com/gregorias/anki-image-scaler
-anki:import:-                    | 01   | Cross Profile Search and Import                                    | https://github.com/Ajatt-Tools/cropro
-anki:keyboard:-                  | 00   | AJT Flexible Grading                                               | https://github.com/Ajatt-Tools/FlexibleGrading
-anki:koreader:-                  | 00   | korvo-to-anki                                                      | https://github.com/Dankoy/korvo-to-anki
-anki:koreader:-                  | 01   | Anki plugin for KOReader                                           | https://github.com/Ajatt-Tools/anki.koplugin
-anki:leetcode:-                  | 00   | Leetcode Study Tool                                                | https://github.com/johnsutor/leetcode-study-tool
-anki:manga:-                     | 00   | MangAnki                                                           | https://github.com/doraeneko/MangAnki
-anki:mark:-                      | 00   | Exam Notifier for Anki                                             | https://github.com/AnKing-VIP/exam-notifierd
-anki:mark:-                      | 00   | Pass/Fail 2                                                        | https://github.com/lambdadog/passfail2
-anki:math:-                      | 00   | Anki Math OCR                                                      | https://github.com/telotortium/anki-math-ocr
-anki:nlp:-                       | 00   | Textile                                                            | https://github.com/SalahEddineGhamri/textile
-anki:obsidian:-                  | 00   | Flashcards                                                         | https://github.com/reuseman/flashcards-obsidian
-anki:order:-                     | 00   | FSRS4Anki                                                          | https://github.com/open-spaced-repetition/fsrs4anki
-anki:order:-                     | 00   | FSRS4Anki Helper                                                   | https://github.com/open-spaced-repetition/fsrs4anki-helper
-anki:order:-                     | 00   | Limit New by Young                                                 | https://github.com/lune-stone/anki-addon-limit-new-by-young
-anki:order:-                     | 01   | AnkiMorphs                                                         | https://github.com/mortii/anki-morphs
-anki:order:-                     | 01   | AnnA : Anki neuronal Appendix                                      | https://github.com/thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix/
-anki:post:-                      | 00   | CSV-to-ANKI                                                        | https://github.com/AnkiMonkey/CSV-to-ANKI
-anki:post:-                      | 01   | Anki Cards                                                         | https://github.com/MNandor/anki-cards
-anki:poup:-                      | 00   | JL                                                                 | https://github.com/rampaa/JL
-anki:read:-                      | 00   | Bionic Reading                                                     | https://github.com/AnKing-VIP/anki-bionic-reading
-anki:scrap:-                     | 00   | web-scraping-for-sentence-mining                                   | https://github.com/AtilioA/web-scraping-for-sentence-mining
-anki:size:-                      | 01   | Note Size Anki addon                                               | https://github.com/Aleks-Ya/note-size-anki-addon
-anki:sound:-                     | 00   | Anki Addon for Chinese Pronunciation                               | https://github.com/spkgyk/anki-pinyin
-anki:sound:-                     | 00   | Generate Batch Audio                                               | https://github.com/DillonWall/generate-batch-audio-anki-addon
-anki:sound:-                     | 00   | adjust-sound-volume                                                | https://github.com/mnogu/adjust-sound-volume
-anki:sound:-                     | 000  | vocab-tts                                                          | https://github.com/pkubowicz/vocab-tts
-anki:sound:-                     | 000  | voicevox-anki                                                      | https://github.com/0xspringtime/voicevox-anki
-anki:sound:-                     | 01   | Anki-Simple-Forvo-Audio                                            | https://github.com/Rascalov/Anki-Simple-Forvo-Audio
-anki:sound:-                     | 01   | anki-forvo-dl                                                      | https://github.com/realmayus/anki_forvo_dl
-anki:stroke-diagram:-            | 00   | anki-kanji                                                         | https://github.com/bzhoek/anki-kanji
-anki:style:-                     | 00   | Anki Code Highlighter                                              | https://github.com/gregorias/anki-code-highlighter
-anki:style:-                     | 01   | Rainbow Cloze                                                      | https://github.com/gyuudon3187/rainbow-cloze
-anki:style:-                     | 01   | pin1yin1 → pīnyīn                                                  | https://github.com/maltevonehren/pinyin-numbers-to-tone-marks
-anki:tempate:-                   | 00   | Anki Templates                                                     | https://github.com/nico-lechatnoir/Anki-Templates
-anki:tempate:-                   | 00   | Anki-Card-Templates                                                | https://github.com/dnydlk/Anki-Card-Templates
-anki:tempate:-                   | 01   | Anki Word Wizard Template                                          | https://github.com/ankiwords/anki-word-wizard-template
-anki:tempate:-                   | 01   | Anki-Card-Templates                                                | https://github.com/SweetMeh/Anki-Card-Templates
-anki:text:-                      | 01   | Anki Word Hyphenator                                               | https://github.com/gregorias/anki-word-hyphenator
-anki:textograph:-                | 00   | anki-add-on                                                        | https://github.com/textograph/anki-add-on
-anki:textograph:-                | 01   | Anki Note Type for Textograph                                      | https://github.com/textograph/anki-note-type
-anki:track:-                     | 00   | Review Heatmap for Anki                                            | https://github.com/glutanimate/review-heatmap
-anki:tui:-                       | 00   | Anki TUI (morphman)                                                | https://github.com/xyaman/anki-tui
-anki:tui:-                       | 00   | Demonstration                                                      | https://github.com/fedorst/attic-anki
-anki:tui:-                       | 00   | anki_helper                                                        | https://github.com/aramrw/anki_helper
-anki:tui:-                       | 00   | donkey                                                             | https://github.com/takacs/donkey
-anki:tui:-                       | 00   | memotica                                                           | https://github.com/dnlzrgz/memotica
-anki:ui:theme                    | 01   | Prettify                                                           | https://github.com/pranavdeshai/anki-prettify
-anki:web:-                       | 00   | VocabSieve                                                         | https://github.com/FreeLanguageTools/vocabsieve
-anki:web:-                       | 00   | srf                                                                | https://github.com/ig3/srf
-anki:web:-                       | 01   | 2anki/server                                                       | https://github.com/2anki/server
-anki:web:-                       | 01   | Anki Note Linker                                                   | https://github.com/gugutu/Anki-Note-Linker
-anki:web:-                       | 01   | web                                                                | https://github.com/2anki/web
-annotate:hypothesis:-            | 00   | Hypothesis                                                         | https://hypothes.is
-annotate:hypothesis:-            | 00   | Hypothesis Direct-Link Bouncer Service                             | https://github.com/hypothesis/bouncer
-annotate:hypothesis:-            | 00   | h                                                                  | https://github.com/hypothesis/h
-annotate:hypothesis:-            | 00   | via                                                                | https://via.hypothes.is/https://github.com/hypothesis/via
-annotate:hypothesis:extension    | 10   | Hypothesis                                                         | https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek
-annotate:memex:extension         | 00   | memex                                                              | https://memex.garden
-annotate:obsidian:extension      | 00   | Obsidian clipper                                                   | https://github.com/Ruoyu-Klaus/obsidian-clipper
-annotate:omnivore:extension      | 00   | Omnivore                                                           | https://github.com/omnivore-app/omnivore
-annotate:omnivore:extension      | 00   | Omnivore List Popup                                                | https://github.com/herrherrmann/omnivore-list-popup
-annotate:pieces:extension        | 00   | Pieces                                                             | https://docs.pieces.app/extensions-plugins/chrome
-arch:dotfiles:guide              | 00   | Arch linux installation guide                                      | https://github.com/arcbjorn/arc-arch-linux-installation-guide
-arch:dotfiles:i3                 | 00   | @Fluffy-Bean                                                       | https://github.com/Fluffy-Bean/dots
-arch:dotfiles:sway               | 00   | ArchSway                                                           | https://github.com/Ultra-Code/archsway
-arch:dotfiles:xfce_i3            | 11   | @fathulfahmy                                                       | https://github.com/fathulfahmy/dotfiles-linux
-archive:-:-                      | 00   | Universal Extractor 2                                              | https://github.com/Bioruebe/UniExtract2
-archive:-:-                      | 11   | 7zip                                                               | https://7-zip.org
-archive:-:-                      | 00   | Gzip for Windows                                                   | https://gnuwin32.sourceforge.net/packages/gzip.htm
-archive:-:-                      | 10   | UnRar for Windows                                                  | https://gnuwin32.sourceforge.net/packages/unrar.htm
-audio:convert:multi              | 00   | music-tools                                                        | https://github.com/mauvedeity/music-tools
-audio:cue:-                      | 10   | CUETools                                                           | https://cue.tools/wiki/Main_Page
-audio:cue:-                      | 10   | fre:ac                                                             | https://freac.org
-audio:cut:-                      | 00   | Auto-Editor                                                        | https://github.com/WyattBlue/auto-editor
-audio:cut:-                      | 00   | Unsilence                                                          | https://github.com/lagmoellertim/unsilence
-audio:cut:-                      | 00   | mp3DirectCut                                                       | https://mpesch3.de/
-audio:editor:-                   | 00   | Tenacity                                                           | https://codeberg.org/tenacityteam/tenacity
-audio:editor:-                   | 00   | ocenaudio                                                          | https://github.com/ocenaudio/ocenaudio-translations
-audio:editor:-                   | 11   | Audacity                                                           | https://audacityteam.org/
-audio:encode:-                   | 00   | FlicFlac                                                           | https://github.com/DannyBen/FlicFlac
-audio:encode:-                   | 11   | XMedia Recode                                                      | https://xmedia-recode.de
-audio:generate:-                 | 00   | Lip Synced Character Animator Generator                            | https://github.com/EternalDusk/LipSyncVideoGenerator
-audio:generate:-                 | 00   | MusicVideoGenerator                                                | https://github.com/EtaletaiRecords/MusicVideoGenerator
-audio:generate:-                 | 10   | Audio Waveform Image Generator                                     | https://github.com/bbc/audiowaveform
-audio:karaok:-                   | 00   | Karaoke Mugen Application                                          | https://gitlab.com/karaokemugen/code/karaokemugen-app
-audio:karaok:-                   | 00   | Karaoke Mugen Server                                               | https://gitlab.com/karaokemugen/code/karaokemugen-server
-audio:karaok:-                   | 00   | UltraSinger                                                        | https://github.com/rakuri255/UltraSinger
-audio:keyboard:-                 | 00   | daktilo                                                            | https://github.com/orhun/daktilo
-audio:lyric:-                    | 00   | LrcHelper                                                          | https://github.com/ludoux/LrcHelper
-audio:lyric:-                    | 00   | Song Database                                                      | https://github.com/mathisdt/sdb2
-audio:lyric:-                    | 00   | Song splitter                                                      | https://github.com/ArciAndres/song_splitter
-audio:lyric:-                    | 00   | ZonyLrcToolsX                                                      | https://github.com/real-zony/ZonyLrcToolsX
-audio:metadata:-                 | 11   | AudioShell                                                         | https://audioshell.en.lo4d.com/windows
-audio:metadata:-                 | 11   | Mp3tag                                                             | https://mp3tag.de
-audio:metadata:-                 | 11   | Tag Editor                                                         | https://github.com/Martchus/tageditor
-audio:player:-                   | 00   | AIMP                                                               | https://aimp.ru
-audio:player:-                   | 00   | Exaile                                                             | https://exaile.org
-audio:player:-                   | 00   | Garlmap                                                            | https://github.com/Jelmerro/Garlmap
-audio:player:-                   | 00   | MusicBee                                                           | https://getmusicbee.com
-audio:player:-                   | 00   | Qmmp                                                               | https://qmmp.ylsoftware.com/screenshots.php
-audio:player:-                   | 00   | Quod Libet                                                         | https://quodlibet.readthedocs.io
-audio:player:-                   | 00   | Symphonia                                                          | https://github.com/pdeljanov/Symphonia
-audio:player:multi               | 00   | Listen 1                                                           | https://listen1.github.io/listen1
-audio:player:multi               | 00   | Moosync                                                            | https://github.com/Moosync/Moosync
-audio:player:multi               | 00   | muffon                                                             | https://github.com/staniel359/muffon
-audio:player:multi               | 11   | YouTube Music                                                      | https://github.com/th-ch/youtube-music
-audio:playlist:-                 | 00   | Playlist-Duration                                                  | https://framagit.org/Bromind/playlist-duration
-audio:podcast:-                  | 00   | gPodder                                                            | https://gpodder.github.io/
-audio:process:-                  | 00   | PyMusicLooper                                                      | https://github.com/arkrow/PyMusicLooper
-audio:process:-                  | 00   | SpleeterGUI                                                        | https://github.com/boy1dr/SpleeterGui
-audio:process:-                  | 00   | vaporiser                                                          | https://github.com/rnnh/vaporiser
-audio:process:-                  | 00   | MP3Gain                                                            | https://github.com/Sound-Linux-More/mp3gain
-audio:process:-  | 10 | wxMP3gain | https://github.com/cfgnunes/wxmp3gain
-audio:spotify:-                  | 00   | Spicetify                                                          | https://github.com/spicetify/spicetify-cli
-audio:spotify:-                  | 00   | spotify-qt                                                         | https://github.com/kraxarn/spotify-qt
-audio:spotify:-                  | 10   | Spytify                                                            | https://github.com/jwallet/spy-spotify
-audio:spotify:-                  | 10   | spotDL v4                                                          | https://github.com/spotDL/spotify-downloader
-audio:sync:-                     | 00   | Ascanius                                                           | https://github.com/hljodbokasafnid/Ascanius
-audio:sync:-                     | 00   | AudiobookTextSync                                                  | https://github.com/kanjieater/AudiobookTextSync
-autohotkey:-:-                   | 11   | AutoHotkey                                                         | https://autohotkey.com
-autohotkey:audio:-               | 00   | AutoAccent                                                         | https://github.com/hamurlik/AutoAccent
-autohotkey:audio:-               | 00   | Mute on focus lost                                                 | https://github.com/TomiBelan/mute-on-focus-lost
-autohotkey:complete:-            | 10   | Autocomplete                                                       | https://github.com/Uberi/Autocomplete
-autohotkey:control:-             | 00   | Control sound autohotkey                                           | https://github.com/ArturTkaczuk/control-sound-autohotkey
-autohotkey:control:-             | 11   | Toggle screen autohotkey                                           | https://github.com/ArturTkaczuk/toggle-screen-autohotkey
-autohotkey:development:-         | 00   | AHK Studio                                                         | https://maestrith.com/ahk-studio
-autohotkey:development:-         | 00   | AmHotkey                                                           | https://github.com/chjfth/AmHotkey
-autohotkey:development:-         | 00   | ColorButton.ahk                                                    | https://github.com/nperovic/ColorButton.ahk
-autohotkey:development:-         | 00   | Easy AutoGUI                                                       | https://github.com/samfisherirl/Easy-Auto-GUI-for-AHK-v2
-autohotkey:development:-         | 00   | Github.ahk                                                         | https://github.com/samfisherirl/Github.ahk-API-for-AHKv2
-autohotkey:development:-         | 00   | Rufaydium                                                          | https://github.com/Xeo786/Rufaydium-Webdriver
-autohotkey:development:-         | 00   | SystemThemeAwareToolTip                                            | https://github.com/nperovic/SystemThemeAwareToolTip
-autohotkey:development:-         | 00   | eAutocomplete                                                      | https://github.com/A-AhkUser/eAutocomplete
-autohotkey:environment:-         | 00   | Environment.ahk                                                    | https://github.com/iseahound/Environment.ahk
-autohotkey:explorer:switch       | 11   | QuickSwitch                                                        | https://github.com/fenchai23/QuickSwitch
-autohotkey:filterpipe:-          | 00   | Autocorrector                                                      | https://github.com/joshuar/autocorrector
-autohotkey:filterpipe:-          | 00   | GachiTyper                                                         | https://github.com/cringenuity/GachiTyper
-autohotkey:filterpipe:-          | 00   | HeckR_Replace                                                      | https://github.com/Heck-R/HeckR_Replace
-autohotkey:filterpipe:-          | 00   | Unicode Hotstrings                                                 | https://github.com/dspinellis/unicode-hotstrings
-autohotkey:filterpipe:-          | 00   | a2                                                                 | https://github.com/ewerybody/a2
-autohotkey:filterpipe:-          | 00   | betterletter                                                       | https://github.com/alexpovel/betterletter
-autohotkey:game:-                | 00   | Dota 2 Queue-And-Go                                                | https://github.com/etofok/Dota-2-Queue-and-Go
-autohotkey:ime:-                 | 00   | AHK                                                                | https://github.com/ouweiya/AHK
-autohotkey:ime:-                 | 00   | 玉兔毫                                                             | https://github.com/amorphobia/rabbit
-autohotkey:ime:-                 | 11   | KBLAutoSwitch                                                      | https://github.com/flyinclouds/KBLAutoSwitch
-autohotkey:ime:suggest           | 00   | shortcut_suggest                                                   | https://github.com/sgriffin53/shortcut_suggest
-autohotkey:input:-               | 00   | AHKExpansionsList                                                  | https://github.com/GavinPen/AHKExpansionsList
-autohotkey:input:-               | 00   | AutoHotKey_Time-stamp                                              | https://github.com/elnao/AutoHotKey_Time-stamp
-autohotkey:input:-               | 00   | ICM Shortcuts for AutoHotkey                                       | https://github.com/ayeseeem/ICM-shortcuts
-autohotkey:input:-               | 00   | InputTip                                                           | https://github.com/abgox/InputTip
-autohotkey:input:-               | 00   | Real-time-translation-typing                                       | https://github.com/sxzxs/Real-time-translation-typing
-autohotkey:input:-               | 00   | ahk_RegExHotstring                                                 | https://github.com/8LWXpg/RegExHotstring
-autohotkey:input:-               | 00   | in-line calculator                                                 | https://github.com/davebrny/in-line-calculator
-autohotkey:input:-               | 00   | vimmer-ahk                                                         | https://github.com/koirand/vimmer-ahk
-autohotkey:input:-               | 00   | wincoding_ANSI                                                     | https://github.com/su-pull/wincoding
-autohotkey:input:-               | 11   | AHK-KeyMap                                                         | https://github.com/Gustice/AHK-KeyMap
-autohotkey:keyboard:-            | 00   | KBLayerHelper                                                      | https://github.com/RaphCoder13/KBLayerHelper
-autohotkey:keyboard:-            | 00   | capsicain                                                          | https://github.com/cajhin/capsicain
-autohotkey:launch:-              | 00   | ALTRun                                                             | https://github.com/zhugecaomao/ALTRun
-autohotkey:launch:-              | 00   | Barrel                                                             | https://github.com/phantomdiorama/barrel
-autohotkey:launch:-              | 00   | KeyChain                                                           | https://github.com/JaredCH/KeyChain
-autohotkey:lintalist:-           | 11   | Lintalist                                                          | https://lintalist.github.io
-autohotkey:lintalist:theme       | 00   | Themes for Lintalist                                               | https://github.com/lintalist/lintalist-themes
-autohotkey:manage:-              | 00   | AHK v2.0 auto update template                                      | https://github.com/Nigh/ahk-autoupdate-template
-autohotkey:manage:-              | 00   | ahkpm                                                              | https://github.com/joshuacc/ahkpm
-autohotkey:notify:-              | 00   | CuToaster                                                          | https://github.com/cy-gh/CuToaster
-autohotkey:ocr:-                 | 00   | GoldenDictAide                                                     | https://github.com/debugfan/GoldenDictAide
-autohotkey:ocr:-                 | 00   | Vis2                                                               | https://github.com/iseahound/Vis2
-autohotkey:ocr:-                 | 11   | GoldenDictOCR                                                      | https://github.com/VimWei/GoldenDictOCR
-autohotkey:paste:-               | 00   | Autohokey copy and paste for data entry                            | https://github.com/Tran1595/autohokey-copypaste-for-data-entry
-autohotkey:paste:-               | 00   | CL3                                                                | https://github.com/hi5/CL3
-autohotkey:paste:-               | 00   | copyWaste                                                          | https://github.com/MuhamKAldin/copyWaste
-autohotkey:paste:-               | 11   | ShortScript                                                        | https://github.com/RichKMLS/ShortScript
-autohotkey:process:-             | 00   | WinExeCommander                                                    | https://github.com/XMCQCX/WinExeCommander
-autohotkey:quick:-               | 00   | AHK Command Picker                                                 | https://github.com/deadlydog/AHKCommandPicker
-autohotkey:record:-              | 00   | OBS WebSocket for AutoHotKey v2.0+                                 | https://github.com/5ony/OBSWebSocketAHK
-autohotkey:record:-              | 00   | autohotkey-game-record-playback                                    | https://github.com/kostiantyn-dvornik/autohotkey-game-record-playback
-autohotkey:scripts:-             | 11   | Mouse Gesture Script                                               | https://github.com/ayuanx/AutoHotKey_MouseGesture
-autohotkey:translate:-           | 00   | TransAnywhere by Song                                              | https://github.com/verlane/trans-anywhere
-autohotkey:window:-              | 00   | AltDrag, AltResize, AltMove                                        | https://github.com/andreapizzigoni/altdrag_ahk
-autohotkey:window:-              | 00   | Better-Big-Screen-Window-Manager                                   | https://github.com/indigofairyx/Better-Big-Screen-Window-Manager
-autohotkey:window:-              | 00   | Desktop Shifter                                                    | https://github.com/capitanbarbosa/Active-Desktop_Shifter
-autohotkey:window:-              | 00   | Polygon                                                            | https://github.com/thesobercoder/polygon
-autohotkey:window:-              | 00   | Right-Button-Ninja                                                 | https://github.com/hansenwangvip/right-button-ninja
-autohotkey:window:-              | 00   | SnapX                                                              | https://github.com/benallred/SnapX
-autohotkey:window:-              | 00   | TSolidBackground                                                   | https://github.com/Onurtag/TSolidBackground
-autohotkey:window:-              | 00   | VD.ahk: Virtual Desktop                                            | https://github.com/FuPeiJiang/VD.ahk
-autohotkey:window:-              | 00   | VirtualDesktopAccessor.dll                                         | https://github.com/Ciantic/VirtualDesktopAccessor
-autohotkey:window:-              | 00   | Windows AHK Script                                                 | https://github.com/arlbibek/windows-ahk
-autohotkey:window:-              | 00   | ahk-scripts                                                        | https://github.com/basghar/ahk-scripts
-autohotkey:window:-              | 00   | desktop.ahk                                                        | https://github.com/TheCrether/ahkscripts#desktopahk
-autohotkey:window:-              | 00   | windows-desktop-switcher                                           | https://github.com/pmb6tz/windows-desktop-switcher
-autohotkey:window:-              | 00   | 「見苦窓経営」笑                                                   | https://github.com/imawizard/MiguruWM
-autohotkey:window:-              | 11   | ahk-resize-windows                                                 | https://github.com/IsacEkeroth/ahk-resize-windows
-autohotkey:workflow:-            | 00   | CJK Material Processing                                            | https://github.com/ahlisbon/CJKmaterialProcessing
-autohotkey:workflow:-            | 00   | Kevin's AutoHotKey Application                                     | https://github.com/KevinHJoe/Auto-App
-autohotkey:workflow:-            | 00   | ahk                                                                | https://github.com/Tomshiii/ahk
-bin:brower:-                     | 11   | open-cli                                                           | https://github.com/sindresorhus/open-cli
-bin:cat:-                        | 00   | bat                                                                | https://github.com/sharkdp/bat
-bin:cat:-                        | 00   | ccat                                                               | https://github.com/owenthereal/ccat
-bin:cat:-                        | 00   | gat                                                                | https://github.com/koki-develop/gat
-bin:cat:-                        | 00   | treecat                                                            | https://github.com/Knio/treecat
-bin:cd:-                         | 00   | ls Xtended                                                         | https://github.com/souvikinator/lsx
-bin:cd:-                         | 11   | tere                                                               | https://github.com/mgunyho/tere
-bin:curl:-                       | 00   | Curl                                                               | https://github.com/curl/curl
-bin:curl:-                       | 00   | Curlie                                                             | https://github.com/rs/curlie
-bin:curl:-                       | 00   | httpstat                                                           | https://github.com/davecheney/httpstat
-bin:curl:-                       | 11   | Reproducible curl binaries                                         | https://github.com/curl/curl-for-win
-bin:dig:-                        | 00   | bind                                                               | https://isc.org/bind
-bin:dig:-                        | 11   | dog                                                                | https://github.com/ogham/dog
-bin:du:-                         | 00   | Dust                                                               | https://github.com/bootandy/dust
-bin:du:-                         | 00   | dua                                                                | https://github.com/Byron/dua-cli
-bin:du:-                         | 00   | duf                                                                | https://github.com/muesli/duf
-bin:du:-                         | 00   | go DiskUsage()                                                     | https://github.com/dundee/gdu
-bin:du:-                         | 00   | lsdsk                                                              | https://github.com/rasa/lsdsk
-bin:echo:-                       | 11   | echo-cli                                                           | https://github.com/iamakulov/echo-cli
-bin:explorer:-                   | 00   | Yazi                                                               | https://github.com/sxyazi/yazi
-bin:explorer:-                   | 00   | lf                                                                 | https://github.com/gokcehan/lf
-bin:explorer:-                   | 00   | xplr                                                               | https://github.com/sayanarijit/xplr
-bin:explorer:-                   | 11   | Broot                                                              | https://dystroy.org/broot
-bin:find:-                       | 00   | fd                                                                 | https://github.com/sharkdp/fd
-bin:find:replace                 | 00   | amber                                                              | https://github.com/dalance/amber
-bin:find:replace                 | 11   | sd                                                                 | https://github.com/chmln/sd
-bin:grep:-                       | 00   | Grepz                                                              | https://github.com/shockz-offsec/Grepz
-bin:grep:-                       | 00   | RoughGrep                                                          | https://github.com/vivainio/RoughGrep
-bin:grep:-                       | 00   | grepWin                                                            | https://github.com/stefankueng/grepWin
-bin:grep:-                       | 00   | qgrep                                                              | https://github.com/zeux/qgrep
-bin:grep:-                       | 00   | rga                                                                | https://github.com/phiresky/ripgrep-all
-bin:grep:-                       | 00   | sg                                                                 | https://github.com/ast-grep/ast-grep
-bin:grep:-                       | 00   | sig                                                                | https://github.com/ynqa/sig
-bin:grep:-                       | 00   | ugrep                                                              | https://github.com/Genivia/ugrep
-bin:grep:-                       | 00   | vgrep                                                              | https://github.com/vrothberg/vgrep
-bin:grep:-                       | 00   | w2vgrep - Semantic Grep                                            | https://github.com/arunsupe/semantic-grep
-bin:grep:-                       | 11   | dnGrep                                                             | https://dngrep.github.io
-bin:grep:-                       | 11   | ripgrep                                                            | https://github.com/BurntSushi/ripgrep
-bin:jq:-                         | 00   | jq                                                                 | https://jqlang.github.io
-bin:less:epub                    | 00   | epr                                                                | https://github.com/wustho/epr
-bin:less:epub                    | 00   | epy                                                                | https://github.com/wustho/epy
-bin:less:html                    | 00   | reader                                                             | https://github.com/mrusme/reader
-bin:less:linux                   | 00   | peep                                                               | https://github.com/ryochack/peep
-bin:less:markdown                | 00   | Glow                                                               | https://github.com/charmbracelet/glow
-bin:less:markdown                | 00   | mdr                                                                | https://github.com/MichaelMure/mdr
-bin:man:color                    | 00   | rose-pine-man                                                      | https://github.com/const-void/rose-pine-man
-bin:mkdir:-                      | 00   | Mkdirs                                                             | https://github.com/dolanor/mkdirs
-bin:ping:-                       | 00   | PowerPing                                                          | https://github.com/Killeroo/PowerPing
-bin:ping:-                       | 00   | pingu                                                              | https://github.com/sheepla/pingu
-bin:rm:-                         | 00   | recycle-bin                                                        | https://github.com/sindresorhus/recycle-bin
-bin:rm:-                         | 00   | trash-cli                                                          | https://github.com/andreafrancia/trash-cli
-bin:rm:-                         | 11   | trash-cli                                                          | https://github.com/sindresorhus/trash-cli
-bin:rm:-                         | 11   | trashy                                                             | https://github.com/oberblastmeister/trashy
-bin:sed:-                        | 11   | sed-windows                                                        | https://github.com/mbuilov/sed-windows
-bin:select:-                     | 00   | Heatseeker                                                         | https://github.com/rschmitt/heatseeker
-bin:sync:-                       | 00   | cwRsync                                                            | https://itefix.net/cwrsync
-bin:sync:-                       | 00   | rsync                                                              | https://rsync.samba.org
-bin:tldr:-                       | 00   | tealdeer                                                           | https://github.com/dbrgn/tealdeer
-bin:tldr:-                       | 00   | tldr++                                                             | https://github.com/isacikgoz/tldr
-bin:tldr:-                       | 00   | tldr-pages                                                         | https://github.com/tldr-pages/tldr
-bin:touch:-                      | 00   | fsutil                                                             | https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/administration/windows-commands/fsutil.md
-bin:touch:-                      | 11   | feel                                                               | https://github.com/jbr/feel
-bin:tree:-                       | 00   | Untree                                                             | https://github.com/codeinred/untree
-bin:tree:-                       | 00   | erdtree                                                            | https://github.com/solidiquis/erdtree
-bin:tree:-                       | 00   | ki-cli-hyphen                                                      | https://github.com/scillidan/ki-cli-hyphen
-bin:tree:-                       | 11   | tree                                                               | https://github.com/a8m/tree
-bookmark:buku:-                  | 00   | bukubrow-host                                                      | https://github.com/samhh/bukubrow-host
-bookmark:buku:-                  | 00   | bukuserver                                                         | https://github.com/jarun/buku/tree/master/bukuserver
-bookmark:buku:extension          | 00   | bukubrow-webext                                                    | https://github.com/SamHH/bukubrow-webext
-bookmark:linkding:-              | 00   | Linkding Archiver                                                  | https://github.com/sebw/linkding-archiver
-bookmark:linkding:-              | 00   | linkding-cli                                                       | https://github.com/bachya/linkding-cli
-bookmark:linkding:extension      | 10   | linkding injector                                                  | https://github.com/fivefold/linkding-injector
-bookmark:linkding:extension      | 11   | linkding extension                                                 | https://github.com/sissbruecker/linkding-extension
-browser:brave:-                  | 11   | Brave                                                              | https://brave.com
-browser:chrome:-                 | 00   | Chrome                                                             | https://google.com/intl/zh-cn/chrome
-browser:firefox:-                | 10   | Firefox                                                            | https://mozilla.org/en-US/firefox
-browser:firefox:-                | 10   | LibreWolf                                                          | https://librewolf.net
-browser:gopher:-                 | 00   | Kristall                                                           | https://github.com/MasterQ32/kristall
-browser:gopher:tui               | 00   | Bombadillo                                                         | https://bombadillo.colorfield.space
-browser:http:extension           | 11   | simple-modify-headers                                              | https://github.com/didierfred/SimpleModifyHeaders
-browser:qutebrowser:-            | 00   | Catppuccin for qutebrowser                                         | https://github.com/catppuccin/qutebrowser
-browser:qutebrowser:-            | 00   | qutebrowser                                                        | https://qutebrowser.org
-browser:script:extension         | 11   | Violentmonkey                                                      | https://violentmonkey.github.io
-chat:irc:-                       | 00   | HexChat                                                            | https://hexchat.github.io
-chat:irc:-                       | 00   | WeeChat                                                            | https://weechat.org
-chrome:account:-                 | 11   | Gmail                                                              | https://apkmirror.com/apk/google-inc/gmail
-chrome:automate:-                | 10   | Automa                                                             | https://automa.site
-chrome:file:-                    | 11   | Markdown Reader                                                    | https://github.com/md-reader/md-reader
-chrome:bookmark:-                | 00   | Json Bookmarks                                                     | https://github.com/1nfiniteloop/json-bookmarks
-chrome:bookmark:-                | 00   | xBrowserSync                                                       | https://xbrowsersync.org/
-chrome:bookmark:-                | 11   | floccus bookmarks sync                                             | https://github.com/floccusAddon
-chrome:cache:-                   | 00   | Forget Button                                                      | https://webextension.org/listing/ecleaner.html
-chrome:cache:-                   | 11   | Cookie AutoDelete                                                  | https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
-chrome:cache:-                   | 11   | Cookie-Editor                                                      | https://cookie-editor.cgagnier.ca
-chrome:control:-                 | 11   | nextpage                                                           | https://github.com/sylecn/nextpage-we
-chrome:ocr:-                     | 11   | OCR - Image Reader                                                 | https://webextension.org/listing/ocr.html
-chrome:develop:-                 | 00   | Allow CORS                                                         | https://mybrowseraddon.com/access-control-allow-origin.html
-chrome:develop:-                 | 00   | Block image                                                        | https://chrome.google.com/webstore/detail/block-image/pehaalcefcjfccdpbckoablngfkfgfgj
-chrome:develop:-                 | 00   | Broken Link Checker                                                | https://webextension.org/listing/broken-link-checker.html
-chrome:develop:-                 | 00   | Luminous                                                           | https://gbaptista.github.io/luminous/doc/en-US/
-chrome:develop:-                 | 00   | NoScript                                                           | https://noscript.net
-chrome:develop:-                 | 00   | Robots Exclusion Checke                                            | https://samgipson.com/robots-exclusion-checker-chrome-extension
-chrome:develop:-                 | 00   | Talend API Tester                                                  | https://talend.com
-chrome:develop:-                 | 00   | Test IE                                                            | https://browserstack.com/test-in-internet-explorer
-chrome:develop:-                 | 000  | Live Reload                                                        | https://chrome.google.com/webstore/detail/live-reload/jcejoncdonagmfohjcdgohnmecaipidc
-chrome:develop:-                 | 10   | CSS Used                                                           | https://github.com/painty/CSS-Used-ChromeExt
-chrome:develop:-                 | 10   | Wappalyzer                                                         | https://wappalyzer.com
-chrome:develop:-                 | 11   | Chrome extension source viewer                                     | https://github.com/Rob--W/crxviewer
-chrome:dictionary:-              | 00   | Dictionariez                                                       | https://github.com/pnlpal/dictionariez
-chrome:dictionary:-              | 00   | Mouse Dictionary                                                   | https://github.com/wtetsu/mouse-dictionary
-chrome:dictionary:-              | 00   | ODH                                                                | https://github.com/ninja33/ODH
-chrome:dictionary:-              | 00   | Rikaitan                                                           | https://github.com/Ajatt-Tools/rikaitan
-chrome:dictionary:-              | 00   | Yomikiri                                                           | https://github.com/BlueGreenMagick/yomikiri
-chrome:dictionary:-              | 11   | Yomitan                                                            | https://github.com/themoeway/yomitan
-chrome:document:-                | 11   | DevDocs Web Ext                                                    | https://github.com/arianrhodsandlot/devdocs-web-ext
-chrome:download:-                | 00   | Aria2 Explorer                                                     | https://aria2e.com
-chrome:download:-                | 00   | Dezoomify                                                          | https://lovasoa.github.io/dezoomify-extension/
-chrome:download:-                | 00   | Download all Images                                                | https://webextension.org/listing/save-images.html
-chrome:download:-                | 00   | EpubPress                                                          | https://epub.press
-chrome:download:-                | 00   | Gif Frames                                                         | https://chrome.google.com/webstore/detail/gif-frames/khkbfocobajjjkojjgpmnhdgbmlnlnef
-chrome:download:-                | 00   | Print Edit WE                                                      | https://chrome.google.com/webstore/detail/print-edit-we/olnblpmehglpcallpnbgmikjblmkopia
-chrome:download:-                | 00   | Save Page WE                                                       | https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof
-chrome:download:-                | 10   | Imageye                                                            | https://imageye.net
-chrome:download:-                | 10   | SVG Export                                                         | https://svgexport.io
-chrome:download:-                | 10   | Simple mass downloader                                             | https://gelprec.github.io/quick_start_v2.html
-chrome:download:-                | 10   | SingleFile                                                         | https://github.com/gildas-lormeau/SingleFile
-chrome:download:-                | 11   | MarkDownload                                                       | https://github.com/deathau/markdownload
-chrome:download:-                | 11   | Table range select and copy                                        | https://chrome.google.com/webstore/detail/table-range-select-and-co/klojbfbefcejadioohmnkhjmbmecfapg
-chrome:edit:-                    | 00   | Text Blaze                                                         | https://blaze.today
-chrome:edit:-                    | 00   | Vimium                                                             | https://github.com/philc/vimium
-chrome:edit:-                    | 11   | Emoji Keyboard                                                     | https://chrome.google.com/webstore/detail/emoji-keyboard-online-cop/kgmeffmlnkfnjpgmdndccklfigfhajen
-chrome:edit:-                    | 11   | LanguageTool                                                       | https://languagetool.org
-chrome:edit:-                    | 11   | Scramble                                                           | https://github.com/zlwaterfield/scramble
-chrome:extension:-               | 00   | Extension Exporter                                                 | https://chromewebstore.google.com/detail/extension-sync/kimbiihomiiklblgkdllffbakadjgakoS
-chrome:extension:-               | 00   | Extension Manager                                                  | https://chrome.google.com/webstore/detail/extension-manager/nddeiknmamlpagmnabfdlljlikeoanch
-chrome:extension:-               | 00   | Little Rat                                                         | https://github.com/dnakov/little-rat
-chrome:extension:-               | 11   | Custom Chrome                                                      | https://github.com/ciaranmag/customchrome
-chrome:extension:-               | 11   | Extension Sync                                                     | https://chromewebstore.google.com/detail/extension-sync/kimbiihomiiklblgkdllffbakadjgako
-chrome:find:-                    | 11   | find+                                                              | https://github.com/brandon1024/find
-chrome:flash:-                   | 00   | Ruffle                                                             | https://ruffle.rs
-chrome:github:-                  | 00   | Gist User Script Manager                                           | https://github.com/ste-xx/gist-userscript-manager
-chrome:github:-                  | 00   | Sight                                                              | https://github.com/tsenart/sight
-chrome:github:-                  | 11   | Better Pull Request for GitHub                                     | https://github.com/berzniz/github_pr_tree
-chrome:github:-                  | 11   | Enhanced GitHub                                                    | https://github.com/softvar/enhanced-github
-chrome:github:-                  | 11   | GitHub File Icons                                                  | https://github.com/lvarayut/github-file-icons
-chrome:github:-                  | 11   | GitHub Recommender                                                 | https://github.com/IndexStorm/git-rec-back
-chrome:github:-                  | 11   | GitHub Web IDE                                                     | https://github.com/zvizvi/GitHub-Web-IDE
-chrome:github:-                  | 11   | GitZip for github                                                  | https://gitzip.org
-chrome:github:-                  | 11   | Gitako                                                             | https://github.com/EnixCoda/Gitako
-chrome:github:-                  | 11   | JSON Formatter                                                     | https://github.com/callumlocke/json-formatter
-chrome:github:-                  | 11   | OctoLinker                                                         | https://octolinker.vercel.app
-chrome:github:-                  | 11   | Refined GitHub                                                     | https://github.com/refined-github/refined-github
-chrome:github:-                  | 11   | Useful Forks                                                       | https://github.com/useful-forks/useful-forks.github.io
-chrome:image:-                   | 00   | ImageQuilts                                                        | https://edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00041U
-chrome:link:-                    | 00   | Copy Text Fragment URL                                             | https://github.com/andrewrabon/copy-text-fragment-url
-chrome:link:-                    | 00   | Link to Text Fragment                                              | https://github.com/GoogleChromeLabs/link-to-text-fragment
-chrome:link:-                    | 11   | Prevue Popup                                                       | https://chrome.google.com/webstore/detail/prevue-popup/afencccmfcofdgnigbenkpplpanigajd
-chrome:mouse:-                   | 00   | Allow Right Click                                                  | https://webextension.org/listing/allow-right-click.html
-chrome:mpv:-                     | 00   | Play with MPV                                                      | https://github.com/Thann/play-with-mpv
-chrome:mpv:-                     | 00   | ff2mpv                                                             | https://github.com/woodruffw/ff2mpv
-chrome:mpv:-                     | 00   | mpv for Chrome                                                     | https://github.com/taupiqueur/chrome-mpv
-chrome:mpv:-                     | 00   | open-in-mpv                                                        | https://github.com/Tatsh/open-in-mpv
-chrome:open:-                    | 00   | Open In Firefox                                                    | https://webextension.org/listing/open-in.html
-chrome:open:-                    | 00   | Open in new tab                                                    | https://chrome.google.com/webstore/detail/open-in-new-tab/cplillmhmcegjlhcbedmgmalbgjpmlkh
-chrome:player:-                  | 00   | Global Speed                                                       | https://github.com/polywock/globalSpeed
-chrome:player:-                  | 11   | asbplayer                                                          | https://github.com/killergerbah/asbplayer
-chrome:quick:-                   | 00   | QuicKey                                                            | https://github.com/fwextensions/QuicKey
-chrome:quick:-                   | 00   | Tab Switcher                                                       | https://flowapps.co/tabswitcher
-chrome:quick:-                   | 11   | Linkclump                                                          | https://github.com/benblack86/linkclump
-chrome:quick:-                   | 11   | Open Multiple URLs                                                 | https://github.com/htrinter/Open-Multiple-URLs/
-chrome:read-later:-              | 11   | Read Later                                                         | https://github.com/willbchang/chrome-read-later
-chrome:read:-                    | 00   | Jiffy Reader                                                       | https://github.com/ansh/jiffyreader.com
-chrome:read:-                    | 00   | Text Mode                                                          | https://chrome.google.com/webstore/detail/text-mode/adelhekhakakocomdfejiipdnaadiiib
-chrome:read:-                    | 00   | Unclutter                                                          | https://github.com/lindylearn/unclutter
-chrome:translate:- | 00 | 鼠标工具提示翻译器 | https://github.com/ttop32/MouseTooltipTranslator
-chrome:read:-                    | 11   | Dark Reader                                                        | https://darkreader.org
-chrome:read:-                    | 11   | Smart TOC                                                          | https://github.com/FallenMax/smart-toc
-chrome:rss:-                     | 11   | RSSHub                                                             | https://github.com/DIYgod/RSSHub-Radar
-chrome:screenshot:-              | 11   | Screenshot Capture                                                 | https://github.com/simov/screenshot-capture
-chrome:search:-                  | 00   | Selection Search                                                   | https://chrome.google.com/webstore/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe
-chrome:search:-                  | 11   | All Acronyms                                                       | https://allacronyms.com/
-chrome:search:-                  | 11   | Chikamichi                                                         | https://github.com/kawamataryo/chikamichi
-chrome:settings:-                | 11   | Adjust Screen Brightness                                           | https://webextension.org/listing/screen-brightness.html
-chrome:settings:-                | 11   | Earth View from Google Earth                                       | https://earthview.withgoogle.com
-chrome:settings:-                | 11   | Hide Scrollbar                                                     | https://chrome.google.com/webstore/detail/hide-scrollbar/mljepckcnbghmcdmaebjhejiplcngbkm
-chrome:settings:-                | 11   | Modern scrollbar                                                   | https://github.com/luandersonn/Modern-scrollbar
-chrome:text-analyze:-            | 00   | enwords                                                            | https://github.com/aykutkardas/enwords
-chrome:tool:ruler                | 10   | Screen Ruler                                                       | https://chromewebstore.google.com/detail/screen-ruler-measure-the/jfbbgijjljfbolelfkopkhbfjajjampm
-chrome:translate:-               | 00   | Saladict                                                           | https://saladict.crimx.com/
-chrome:translate:-               | 00   | Trancy                                                             | https://trancy.org
-chrome:translate:-               | 00   | 腾讯翻译                                                           | https://chrome.google.com/webstore/detail/%E8%85%BE%E8%AE%AF%E7%BF%BB%E8%AF%91/lkjkfecdnfjopaeaibboihfkmhdjmanm
-chrome:translate:-               | 11   | immersive-translate                                                | https://github.com/immersive-translate/immersive-translate
-chrome:view:-                    | 00   | Fullscreen                                                         | https://github.com/xieby1/fullscreen
-chrome:view:-                    | 00   | View Image                                                         | https://github.com/bijij/ViewImage
-chrome:view:-                    | 00   | arXiv Vanity                                                       | https://github.com/arxiv-vanity/arxiv-vanity
-chrome:view:-                    | 10   | doqment PDF Reader                                                 | https://github.com/shivaprsd/doqment
-chrome:view:-                    | 10   | ePub Reader                                                        | https://add0n.com/epub-reader.html
-chrome:view:-                    | 11   | BetterViewer                                                       | https://github.com/Ademking/BetterViewer
-chrome:view:-                    | 11   | GIF Scrubber                                                       | https://github.com/0ui/gif-scrubber
-chrome:view:-                    | 11   | Imagus                                                             | https://github.com/TheFantasticWarrior/chrome-extension-imagus
-chrome:website:-                 | 00   | Awoobooru                                                          | https://github.com/TypeA2/Awoobooru
-chrome:website:-                 | 00   | Content Farm Terminator                                            | https://github.com/danny0838/content-farm-terminator
-chrome:website:-                 | 00   | GitLab-Project-Favicon                                             | https://github.com/SogoKato/gitlab-project-favicon
-chrome:website:-                 | 00   | Privacy Badger                                                     | https://eff.org/pages/privacy-badger
-chrome:website:-                 | 00   | Redirect Path                                                      | https://ayima.com/insights/redirect-checker.html
-chrome:website:-                 | 00   | Wikiwand                                                           | https://wikiwand.com
-chrome:website:-                 | 01   | DanTagCopy                                                         | https://github.com/MichinariNukazawa/DanTagCopy_diffusion_tags_clipboard_webextension
-chrome:website:-                 | 11   | Augmented Steam                                                    | https://augmentedsteam.com
-chrome:website:-                 | 11   | Block Site                                                         | https://webextension.org/listing/block-site.html
-chrome:website:-                 | 11   | Bookmark Favicon Changer                                           | https://chrome.google.com/webstore/detail/bookmark-favicon-changer/acmfnomgphggonodopogfbmkneepfgnh
-chrome:website:-                 | 11   | Modern for Wikipedia                                               | https://modernwiki.app
-chrome:website:-                 | 11   | Powerful Pixiv Downloader                                          | https://pixiv.download
-chrome:website:-                 | 11   | SteamDB                                                            | https://steamdb.info/extension
-chrome:website:-                 | 11   | Stylus                                                             | https://add0n.com/stylus.html
-chrome:website:-                 | 11   | Superb Copy                                                        | https://chrome.google.com/webstore/detail/superb-copy/agdjnnfibbfdffpdljlilaldngfheapb
-chrome:website:-                 | 11   | URL in title                                                       | https://github.com/guilryder/chrome-extensions/tree/main/urlintitle
-chrome:website:-                 | 11   | uBlacklist                                                         | https://iorate.github.io/ublacklist/docs
-chrome:website:-                 | 11   | uBlock Origin                                                      | https://github.com/gorhill/uBlock
-chrome:window:-                  | 00   | Double Read                                                        | https://chrome.google.com/webstore/detail/double-read/kcacjknamjmflfkgibhnidhhddiaidao
-chrome:window:-                  | 00   | Side_side                                                          | https://github.com/frederickk/side-by-side
-chrome:window:-                  | 00   | Sideview Plus                                                      | https://parimalam.me/pages/sideview.html
-chrome:window:-                  | 00   | Window Resizer                                                     | https://coolx10.com/window-resizer/
-chrome:window:-                  | 11   | Tab to Window/Popup                                                | https://acarabott.github.io/tabToWindow
-cli:2csv:-                       | 00   | json2csv                                                           | https://github.com/jehiah/json2csv
-cli:2csv:-                       | 00   | mdtable2csv                                                        | https://github.com/515hikaru/mdtable2csv
-cli:2csv:-                       | 00   | xlsx2csv                                                           | https://github.com/zitsen/xlsx2csv.rs
-cli:abbreviate:-                 | 00   | abbr-cli                                                           | https://github.com/mhadidg/abbr-cli
-cli:abbreviate:-                 | 00   | abbreviate                                                         | https://github.com/dnnrly/abbreviate
-cli:abbreviate:-                 | 00   | wtf-cli                                                            | https://github.com/haixiangyan/wtf-cli
-cli:api:-                        | 00   | VirusTotal CLI                                                     | https://github.com/VirusTotal/vt-cli
-cli:attribute:-                  | 00   | licensor                                                           | https://github.com/raftario/licensor
-cli:cheat:-                      | 00   | cheat.sh                                                           | https://github.com/chubin/cheat.sh
-cli:cheat:-                      | 00   | kb                                                                 | https://github.com/gnebbia/kb
-cli:cheat:-                      | 00   | navi                                                               | https://github.com/denisidoro/navi
-cli:cloud:-                      | 00   | COSCMD                                                             | https://github.com/tencentyun/coscmdf
-cli:cloud:-                      | 00   | coscli                                                             | https://github.com/tencentyun/coscli
-cli:code:record                  | 00   | Silicon                                                            | https://github.com/Aloxaf/silicon
-cli:code:record                  | 00   | carbon-now-cli                                                     | https://github.com/mixn/carbon-now-cli
-cli:color:-                      | 00   | coloro                                                             | https://github.com/Insolita/coloro
-cli:command:-                    | 00   | concurrently                                                       | https://github.com/open-cli-tools/concurrently
-cli:command:-                    | 00   | loop                                                               | https://github.com/mateodelnorte/loop
-cli:command:-                    | 00   | parallel                                                           | https://github.com/amishshah/parallel
-cli:command:-                    | 00   | retry                                                              | https://github.com/timofurrer/retry-cmd
-cli:command:-                    | 11   | mprocs                                                             | https://github.com/pvolok/mprocs
-cli:command:linux                | 00   | hoard                                                              | https://github.com/Hyde46/hoard
-cli:complete:-                   | 00   | The Fuck                                                           | https://github.com/nvbn/thefuck
-cli:count:-                      | 00   | Tokei                                                              | https://github.com/XAMPPRocky/tokei
-cli:count:-                      | 11   | scc                                                                | https://github.com/boyter/scc
-cli:csv:-                        | 00   | csview                                                             | https://github.com/wfxr/csview
-cli:csv:-                        | 11   | Tidy Viewer                                                        | https://github.com/alexhallam/tv
-cli:csv:color                    | 00   | clr                                                                | https://github.com/furuhama/clr
-cli:csv:color                    | 00   | csvu                                                               | https://github.com/hachi8833/csvu
-cli:currency:-                   | 00   | gocash                                                             | https://github.com/basebandit/gocash
-cli:data:-                       | 00   | Mille                                                              | https://github.com/johnkerl/miller
-cli:data:-                       | 00   | ramda-cli                                                          | https://github.com/raine/ramda-cli
-cli:data:-                       | 00   | teip                                                               | https://github.com/greymd/teip
-cli:data:-                       | 11   | xsv                                                                | https://github.com/BurntSushi/xsv
-cli:dictionary:-                 | 00   | thes                                                               | https://github.com/grantshandy/thes
-cli:dictionary:-                 | 00   | zdic-cli                                                           | https://github.com/LingDong-/zdic-cli
-cli:dictionary:-                 | 11   | Cambridge-Dictionary                                               | https://github.com/spignelon/cambridge-dictionary
-cli:dictionary:color             | 00   | Colorpedia                                                         | https://github.com/joowani/colorpedia
-cli:dictionary:color             | 10   | pastel                                                             | https://github.com/sharkdp/pastel
-cli:document:-                   | 00   | dedoc                                                              | https://github.com/toiletbril/dedoc
-cli:dryrun:-                     | 00   | try                                                                | https://github.com/binpash/try
-cli:fetch:-                      | 00   | Winfetch                                                           | https://github.com/M4cs/winfetch
-cli:fetch:-                      | 00   | cpufetch                                                           | https://github.com/Dr-Noob/cpufetch
-cli:fetch:-                      | 00   | neofetch                                                           | https://github.com/dylanaraps/neofetch
-cli:fetch:-                      | 00   | onefetch                                                           | https://github.com/o2sh/onefetch
-cli:fetch:-                      | 00   | winfetch                                                           | https://github.com/lptstr/winfetch
-cli:filterpipe:-                 | 00   | AnyAscii                                                           | https://github.com/anyascii/anyascii
-cli:filterpipe:-                 | 00   | COOK                                                               | https://github.com/glitchedgitz/cook
-cli:filterpipe:-                 | 00   | Go OpenCC                                                          | https://github.com/razonyang/gopencc
-cli:filterpipe:-                 | 00   | Python Slugify                                                     | https://github.com/un33k/python-slugify
-cli:filterpipe:-                 | 00   | Vapyrwave                                                          | https://github.com/jonesmartins/vapyrwave
-cli:filterpipe:-                 | 00   | sttr                                                               | https://github.com/abhimanyu003/sttr
-cli:filterpipe:-                 | 00   | text-transform-cli                                                 | https://github.com/maxlath/text-transform-cli
-cli:filterpipe:-                 | 00   | uwuify                                                             | https://github.com/Daniel-Liu-c0deb0t/uwu
-cli:github:issue                 | 00   | mtng                                                               | https://github.com/paulgessinger/mtng
-cli:gpt:-                        | 00   | shell-gpt                                                          | https://github.com/TheR1D/shell_gpt
-cli:http:-                       | 00   | ASNmap                                                             | https://github.com/projectdiscovery/asnmap
-cli:http:-                       | 00   | HTTPie CLI                                                         | https://github.com/httpie/httpie
-cli:http:-                       | 00   | fuzzuli                                                            | https://github.com/musana/fuzzuli
-cli:http:-                       | 00   | q                                                                  | https://github.com/natesales/q
-cli:http:-                       | 00   | xh                                                                 | https://github.com/ducaale/xh
-cli:http:test                    | 00   | oha                                                                | https://github.com/hatoo/oha
-cli:http:test                    | 00   | speedtest-cli                                                      | https://github.com/sivel/speedtest-cli
-cli:http:test                    | 00   | uro                                                                | https://github.com/s0md3v/uro
-cli:jackett:-                    | 001  | jsc                                                                | https://github.com/rodrigo-sys/jsc
-cli:json:-                       | 00   | tv                                                                 | https://github.com/uzimaru0000/tv
-cli:log:-                        | 00   | humanlog                                                           | https://github.com/aybabtme/humanlog
-cli:log:-                        | 00   | klogg                                                              | https://klogg.filimonov.dev
-cli:log:-                        | 00   | l'oGGo                                                             | https://github.com/aurc/loggo
-cli:log:-                        | 00   | tailspin                                                           | https://github.com/bensadeh/tailspin
-cli:loop:-                       | 00   | loop                                                               | https://github.com/Miserlou/Loop
-cli:mangadex:-                   | 00   | mdx                                                                | https://github.com/arimatakao/mdx
-cli:movie:-                      | 00   | FLIX-CLI                                                           | https://github.com/DemonKingSwarn/flix-cli
-cli:movie:-                      | 00   | imdbtr                                                             | https://github.com/fernahh/imdbtr
-cli:package:-                    | 00   | mpm                                                                | https://github.com/kdeldycke/meta-package-manager
-cli:print:-                      | 00   | Boxes                                                              | https://boxes.thomasjensen.com
-cli:print:-                      | 00   | Neo Cowsay                                                         | https://github.com/Code-Hex/Neo-cowsay
-cli:process:-                    | 00   | Glances                                                            | https://github.com/nicolargo/glances
-cli:process:-                    | 00   | Sampler                                                            | https://sampler.dev
-cli:process:-                    | 00   | bottom                                                             | https://github.com/ClementTsang/bottom
-cli:process:-                    | 00   | procs                                                              | https://github.com/dalance/procs
-cli:process:-                    | 11   | NTop                                                               | https://github.com/gsass1/NTop
-cli:regex:-                      | 00   | grex                                                               | https://github.com/pemistahl/grex
-cli:rename:-                     | 00   | F2                                                                 | https://github.com/ayoisaiah/f2
-cli:rename:-                     | 00   | RnR                                                                | https://github.com/ismaelgv/rnr
-cli:rename:-                     | 00   | mrf                                                                | https://github.com/kerlilow/mrf
-cli:rename:-                     | 00   | renamer                                                            | https://github.com/75lb/renamer
-cli:rename:-                     | 000  | replacer                                                           | https://github.com/guerinoni/replacer
-cli:rename:-                     | 10   | pipe-rename                                                        | https://github.com/marcusbuffett/pipe-rename
-cli:rename:-                     | 11   | Renamer                                                            | https://github.com/innocenzi/rename
-cli:rename:replace               | 00   | lcNrD                                                              | https://github.com/Jabrils/lcNrD
-cli:search:-                     | 00   | SmartImage                                                         | https://github.com/Decimation/SmartImage
-cli:search:-                     | 00   | What Anime CLI                                                     | https://github.com/irevenko/what-anime-cli
-cli:search:-                     | 00   | fileinfo                                                           | https://github.com/sdushantha/fileinfo
-cli:search:-                     | 00   | s                                                                  | https://github.com/zquestz/s
-cli:search:tui                   | 00   | Go Around                                                          | https://github.com/glendsoza/goaround
-cli:search:tui                   | 00   | so                                                                 | https://github.com/samtay/so
-cli:semantic:-                   | 001  | Semantra                                                           | https://github.com/freedmand/semantra
-cli:sentence:-                   | 00   | Pragmatic Segmenter                                                | https://github.com/diasks2/pragmatic_segmenter
-cli:sentence:-                   | 11   | Sentences                                                          | https://github.com/neurosnap/sentences
-cli:serve:-                      | 00   | http-server                                                        | https://github.com/http-party/http-server
-cli:serve:-                      | 00   | miniserve                                                          | https://github.com/svenstaro/miniserve
-cli:serve:-                      | 00   | serve                                                              | https://github.com/syntaqx/serve
-cli:serve:-                      | 00   | serve                                                              | https://github.com/vercel/serve
-cli:serve:-                      | 10   | Dufs                                                               | https://github.com/sigoden/dufs
-cli:social:-                     | 00   | Sherlock                                                           | https://github.com/sherlock-project/sherlock
-cli:social:-                     | 00   | Social Analyzer                                                    | https://github.com/qeeqbox/social-analyzer
-cli:social:-                     | 00   | UOSINT                                                             | https://github.com/uosint-project/uosint
-cli:social:github                | 00   | GitFive                                                            | https://github.com/mxrch/GitFive
-cli:spell:-                      | 00   | DidYouMean                                                         | https://github.com/hisbaan/didyoumean
-cli:spellcheck:-                 | 00   | GuwenBERT                                                          | https://github.com/Ethan-yt/guwenbert
-cli:spellcheck:-                 | 00   | word-checker                                                       | https://github.com/houbb/word-checker
-cli:spellcheck:aspell            | 10   | spell-win32                                                        | https://github.com/adamyg/aspell-win32
-cli:syncabook:-                  | 00   | syncabook                                                          | https://github.com/r4victor/syncabook
-cli:syncabook:afaligner          | 00   | afaligner                                                          | https://github.com/r4victor/afaligner
-cli:syncabook:file               | 00   | synclibrivox                                                       | https://github.com/r4victor/synclibrivox
-cli:thumbnail:-                  | 00   | mt                                                                 | https://github.com/mutschler/mt
-cli:thumbnail:-                  | 00   | mtn                                                                | https://gitlab.com/movie_thumbnailer/mtn
-cli:thumbnail:-                  | 00   | vcsi                                                               | https://github.com/amietn/vcsi
-cli:tiker:-                      | 00   | Ticker                                                             | https://github.com/achannarasappa/ticker
-cli:tiker:-                      | 00   | tick-rs                                                            | https://github.com/tarkah/tickrs
-cli:track:-                      | 00   | Transity                                                           | https://github.com/ad-si/Transity
-cli:track:-                      | 00   | ttrack                                                             | https://github.com/eckyputrady/ttrack
-cli:type:-                       | 00   | spacer                                                             | https://github.com/samwho/spacer
-cli:version:-                    | 00   | has                                                                | https://github.com/kdabir/has
-cli:weather:-                    | 00   | wttr.in                                                            | https://github.com/chubin/wttr.in
-cli:youtube:mpv                  | 00   | YouTerm                                                            | https://github.com/marcoradocchia/youterm
-cli:zim:-                        | 00   | ZIM-converter                                                      | https://github.com/Bartvelp/zim-converter
-cmder:-:-                        | 11   | Cmder                                                              | https://cmder.app
-cmder:clink:-                    | 00   | CheatCompletions                                                   | https://github.com/HeyItsJono/CheatCompletions
-cmder:clink:-                    | 11   | Clink                                                              | https://chrisant996.github.io/clink
-cmder:clink:-                    | 11   | HomeClink                                                          | https://github.com/HeyItsJono/HomeClink
-cmder:clink:complete             | 11   | clink-completions                                                  | https://github.com/vladimir-kotikov/clink-completions
-cmder:clink:fzf                  | 11   | Clink Gizmos                                                       | https://github.com/chrisant996/clink-gizmos
-cmder:clink:fzf                  | 11   | FZF integration for Clink                                          | https://github.com/chrisant996/clink-fzf
-cmder:clink:git                  | 10   | clink-git-extensions                                               | https://github.com/davidmarek/clink-git-extensions
-cmder:clink:jump                 | 10   | z.lua                                                              | https://github.com/skywind3000/z.lua
-cmder:clink:jump                 | 11   | zoxide support for clink                                           | https://github.com/shunsambongi/clink-zoxide
-cmder:conemu:-                   | 11   | ConEmu                                                             | https://conemu.github.io
-color:manage:linux               | 00   | Color Manager                                                      | https://github.com/NicklasVraa/Color-manager
-color:manage:linux               | 00   | Themix GUI designer                                                | https://github.com/themix-project/themix-gui
-css:image:hover                  | 00   | Inline Menu Layout with Gallery Panel                              | https://github.com/codrops/InlineMenuLayout
-css:image:shape                  | 00   | Shape Slideshow with Clip-path                                     | https://github.com/codrops/ShapesSlideshow
-database:sqlite:-                | 00   | pelican-to-sqlite                                                  | https://github.com/ryancheley/pelican-to-sqlite
-database:sqlite:-                | 001  | csvs-to-sqlite                                                     | https://github.com/simonw/csvs-to-sqlite
-datasette:-:-                    | 001  | Datasette                                                          | https://datasette.io
-datasette:board:-                | 000  | datasette-dashboards                                               | https://github.com/rclement/datasette-dashboards
-datasette:data:-                 | 00   | datasette-gzip                                                     | https://github.com/simonw/datasette-gzip
-datasette:data:-                 | 001  | datasette-backup                                                   | https://github.com/simonw/datasette-backup
-datasette:data:-                 | 001  | datasette-jq                                                       | https://github.com/simonw/datasette-jq
-datasette:data:-                 | 001  | datasette-mutable-downloads                                        | https://github.com/cldellow/datasette-mutable-downloads
-datasette:data:-                 | 001  | datasette-parquet                                                  | https://github.com/cldellow/datasette-parquet
-datasette:data:-                 | 001  | github-to-sqlite                                                   | https://github.com/dogsheep/github-to-sqlite
-datasette:edit:-                 | 00   | datasette-edit-templates                                           | https://github.com/simonw/datasette-edit-templates
-datasette:edit:-                 | 00   | datasette-saved-queries                                            | https://github.com/simonw/datasette-saved-queries
-datasette:edit:-                 | 00   | datasette-upload-dbs                                               | https://github.com/simonw/datasette-upload-dbs
-datasette:edit:-                 | 001  | datasette-copyable                                                 | https://github.com/simonw/datasette-copyable
-datasette:edit:-                 | 001  | datasette-edit-schema                                              | https://github.com/simonw/datasette-edit-schema
-datasette:edit:-                 | 001  | datasette-export                                                   | https://github.com/simonw/datasette-export
-datasette:edit:-                 | 001  | datasette-insert                                                   | https://github.com/simonw/datasette-insert
-datasette:edit:-                 | 001  | datasette-upload-csvs                                              | https://github.com/simonw/datasette-upload-csvs
-datasette:edit:-                 | 001  | datasette-webhook-write                                            | https://github.com/mfa/datasette-webhook-write
-datasette:edit:-                 | 001  | datasette-write-ui                                                 | https://github.com/datasette-io/datasette-write-ui
-datasette:import:-               | 00   | datapackage-to-datasette                                           | https://github.com/chris48s/datapackage-to-datasette
-datasette:metadata:-             | 00   | datasette-metadata-editable                                        | https://github.com/datasette/datasette-metadata-editable
-datasette:other:-                | 00   | datasette-css-properties                                           | https://github.com/simonw/datasette-css-properties
-datasette:other:-                | 00   | datasette-screenshots                                              | https://github.com/simonw/datasette-screenshots
-datasette:other:-                | 00   | datasette-table                                                    | https://github.com/simonw/datasette-table
-datasette:other:-                | 001  | datasette-atom                                                     | https://github.com/simonw/datasette-atom
-datasette:render:-               | 00   | datasette-mailto-links                                             | https://github.com/chris48s/datasette-mailto-links
-datasette:render:-               | 00   | datasette-media                                                    | https://github.com/simonw/datasette-media
-datasette:render:-               | 00   | datasette-mp3-audio                                                | https://github.com/simonw/datasette-mp3-audio
-datasette:render:-               | 00   | datasette-pretty-json                                              | https://github.com/simonw/datasette-pretty-json
-datasette:render:-               | 00   | datasette-render-html                                              | https://github.com/simonw/datasette-render-html
-datasette:render:-               | 00   | datasette-render-image-tags                                        | https://github.com/simonw/datasette-render-image-tags
-datasette:render:-               | 00   | datasette-render-images                                            | https://github.com/simonw/datasette-render-images
-datasette:render:-               | 00   | datasette-render-timestamps                                        | https://github.com/simonw/datasette-render-timestamps
-datasette:render:-               | 00   | datasette-spotify-embed                                            | https://github.com/chekos/datasette-spotify-embed
-datasette:render:-               | 00   | datasette-tiddlywiki                                               | https://github.com/simonw/datasette-tiddlywiki
-datasette:render:-               | 001  | datasette-external-links-new-tabs                                  | https://github.com/ocdtrekkie/datasette-external-links-new-tabs
-datasette:render:-               | 001  | datasette-linkify                                                  | https://github.com/ernstki/datasette-linkify
-datasette:render:-               | 001  | datasette-multiline-links                                          | https://github.com/simonw/datasette-multiline-links
-datasette:render:-               | 001  | datasette-render-markdown                                          | https://github.com/simonw/datasette-render-markdown
-datasette:render:templ           | 000  | data-tourism                                                       | https://github.com/LNshuti/data-tourism
-datasette:search:-               | 00   | datasette-configure-fts                                            | https://github.com/simonw/datasette-configure-fts
-datasette:search:-               | 00   | datasette-ripgrep                                                  | https://github.com/simonw/datasette-ripgrep
-datasette:search:-               | 001  | datasette-search-all                                               | https://github.com/simonw/datasette-search-all
-datasette:studio:-               | 000  | Datasette Studio                                                   | https://github.com/datasette/studio
-datasette:studio:-               | 000  | datasette-studio                                                   | https://github.com/datasette/datasette-studio
-datasette:theme:-                | 001  | Datasette charcoal theme                                           | https://github.com/julien040/charcoal-datasette-theme
-datasette:tool:-                 | 001  | datasette-pins                                                     | https://github.com/datasette/datasette-pins
-datasette:user:-                 | 00   | datasette-permissions-sql                                          | https://github.com/simonw/datasette-permissions-sql
-datasette:user:-                 | 00   | datasette-public                                                   | https://github.com/simonw/datasette-public
-datasette:view:-                 | 00   | datasette-seaborn                                                  | https://github.com/simonw/datasette-seaborn
-datasette:view:-                 | 00   | datasette-total-page-time                                          | https://github.com/simonw/datasette-total-page-time
-datasette:view:-                 | 001  | datasette-mask-columns                                             | https://github.com/simonw/datasette-mask-columns
-datasette:view:-                 | 001  | datasette-nteract-data-explorer                                    | https://github.com/hydrosquall/datasette-nteract-data-explorer
-datasette:web:-                  | 00   | datasette-auth-github                                              | https://github.com/simonw/datasette-auth-github
-datasette:web:-                  | 00   | datasette-block-robots                                             | https://github.com/simonw/datasette-block-robots
-datasette:web:-                  | 001  | datasette-publish-vercel                                           | https://github.com/simonw/datasette-publish-vercel
-datasette:web:-                  | 001  | datasette-sitemap                                                  | https://github.com/simonw/datasette-sitemap
-desktop:icon-layout:-            | 00   | ReIcon                                                             | https://sordum.org/8366/reicon-v2-0-restore-desktop-icon-layouts
-desktop:menu:-                   | 00   | SystemTrayMenu                                                     | https://github.com/Hofknecht/SystemTrayMenu
-desktop:menu:-                   | 00   | Taskbar Groups                                                     | https://github.com/tjackenpacken/taskbar-groups
-desktop:menu:-                   | 10   | NeXuS                                                              | https://winstep.net/nexus.asp
-desktop:menu:-                   | 11   | Open-Shell                                                         | https://github.com/Open-Shell/Open-Shell-Menu
-desktop:pet:-                    | 00   | Desktop Goose                                                      | https://samperson.itch.io/desktop-goose
-desktop:taskbar:-                | 00   | Tiny Taskbar                                                       | https://github.com/HooferDevelops/TinyTaskbar
-desktop:taskbar:-                | 10   | SmartTaskbar                                                       | https://github.com/ChanpleCai/SmartTaskbar
-desktop:taskbar:-                | 10   | T-Clock Redux                                                      | https://github.com/White-Tiger/T-Clock
-desktop:taskbar:-                | 10   | TranslucentTB                                                      | https://github.com/TranslucentTB/TranslucentTB
-desktop:taskbar:-                | 11   | CenterTaskbar                                                      | https://github.com/mdhiggins/CenterTaskbar
-desktop:theme:-                  | 00   | 7TSP GUI 2019 Edition                                              | https://deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422
-desktop:theme:-                  | 00   | SecureUxTheme                                                      | https://github.com/namazso/SecureUxTheme
-desktop:theme:-                  | 00   | msstyleEditor                                                      | https://github.com/nptr/msstyleEditor
-desktop:tray:-                   | 00   | Tray Weather                                                       | https://github.com/FelixdelasPozas/TrayWeather
-desktop:tray:-                   | 00   | Traymond                                                           | https://github.com/fcFn/traymond
-desktop:wallpaper:-              | 00   | Flowy                                                              | https://github.com/vineetred/flowy
-desktop:wallpaper:-              | 00   | Splash CLI                                                         | https://github.com/splash-cli/splash-cli
-desktop:wallpaper:-              | 00   | WinDynamicDesktop                                                  | https://github.com/t1m0thyj/WinDynamicDesktop
-desktop:wallpaper:-              | 00   | wfwp                                                               | https://github.com/fjn308/wfwp
-desktop:wallpaper:-              | 10   | Wallpaper Engine                                                   | https://wallpaperengine.io/
-desktop:wallpaper:-              | 11   | Lively                                                             | https://github.com/rocksdanister/lively
-development:api:-                | 00   | Hoppscotch                                                         | https://github.com/hoppscotch/hoppscotch
-development:api:-                | 00   | Infisical                                                          | https://github.com/Infisical/infisical
-development:database:-           | 00   | sqlite-vec                                                         | https://github.com/asg017/sqlite-vec
-device:bluetooth:-               | 00   | toolBLEx                                                           | https://github.com/emericg/toolBLEx
-device:camera:-                  | 001  | Frigate                                                            | https://github.com/blakeblackshear/frigate
-device:cb1:-                     | 00   | CB1                                                                | https://github.com/bigtreetech/CB1
-device:cb1:drive                 | 00   | CB1 3d Acceleration running Armbian Bookworm                       | https://gist.github.com/adelyser/4e31409cd9c99ba4cb78a31fa9d12bb1
-device:cb1:os                    | 00   | RatOS-on-CB1                                                       | https://github.com/koder-guy/RatOS-on-CB1
-device:cb1:os                    | 00   | armbian-build                                                      | https://github.com/uberlinuxguy/armbian-build
-device:cb1:setup                 | 00   | CB1-setup                                                          | https://github.com/ToyVo/CB1-setup
-device:cb1:setup                 | 00   | Debian Build for Biqu/BTT CB1                                      | https://github.com/freakydude/cb1-os-build
-device:controller:-              | 00   | Gopher                                                             | https://github.com/irungentoo/Gopher360
-device:desktop-switch:-          | 001  | DeskHop                                                            | https://github.com/hrvach/deskhop
-device:display:-                 | 11   | LCD-show-retropie                                                  | https://github.com/lcdwiki/LCD-show-retropie
-device:dns:-                     | 00   | Pi-hole                                                            | https://github.com/pi-hole/pi-hole
-device:drone:-                   | 00   | ODM                                                                | https://github.com/OpenDroneMap/ODM
-device:game:handheld             | 00   | NucDeck                                                            | https://github.com/dmcke5/NucDeck
-device:game:handheld             | 00   | Retro ESP32                                                        | https://github.com/retro-esp32/RetroESP32
-device:gameshell:-               | 00   | GameShell                                                          | https://forum.clockworkpi.com/t/device:armbian:build-system-with-clockwork-gameshell-support/11995
-device:gps:-                     | 00   | SARfish                                                            | https://github.com/MJCruickshank/SARfish
-device:keyboard:-                | 00   | rafaelromao's keyboard layout                                      | https://github.com/rafaelromao/keyboards
-device:keyboard:audio            | 00   | kbd-audio                                                          | https://github.com/ggerganov/kbd-audio
-device:keyboard:trackball        | 00   | Charybdis                                                          | https://github.com/Bastardkb/Charybdis
-device:label-printer:-           | 00   | NiimBlue                                                           | https://github.com/MultiMote/niimblue
-device:label-printer:-           | 00   | NiimPrintX                                                         | https://github.com/labbots/NiimPrintX
-device:label-printer:-           | 00   | NiimbotJS                                                          | https://github.com/dtgreene/niimbotjs
-device:led:-                     | 00   | LedFx                                                              | https://github.com/LedFx/LedFx
-device:led:-                     | 00   | WLED                                                               | https://github.com/Aircoookie/WLED
-device:log:-                     | 00   | Blackout Logger                                                    | https://github.com/dr-mod/blackout-logger
-device:music:card                | 00   | Music Cards                                                        | https://github.com/hoveeman/music-cards
-device:music:visualize           | 00   | Audio Reactive LED Strip                                           | https://github.com/scottlawsonbc/audio-reactive-led-strip
-device:nas:-                     | 00   | OMV-Extras                                                         | https://wiki.omv-extras.org/
-device:nas:-                     | 00   | openmediavault                                                     | https://github.com/openmediavault/openmediavault
-device:notify:-                  | 001  | The Guardian Duck                                                  | https://github.com/dr-mod/guardian-duck
-device:phillips-hue:-            | 00   | hue-tui                                                            | https://github.com/channel-42/hue-tui
-device:pios:-                    | 00   | Pi-Apps                                                            | https://github.com/Botspot/pi-apps
-device:printer:label             | 00   | E-TKT                                                              | https://github.com/andreisperid/E-TKT
-device:python:embed              | 00   | MicroPython                                                        | https://github.com/micropython/micropython
-device:read:eink                 | 00   | piEreader                                                          | https://gitlab.com/guyjeangilles/piereader
-device:remote:-                  | 00   | QtScrcpy                                                           | https://github.com/barry-ran/QtScrcpy
-device:remote:-                  | 00   | RustDesk                                                           | https://github.com/rustdesk/rustdesk
-device:remote:-                  | 00   | scrcpy                                                             | https://github.com/Genymobile/scrcpy
-device:sampler:-                 | 001  | SOURC                                                              | https://github.com/ffont/source
-device:sensor:linux              | 00   | WatchFlower                                                        | https://flathub.org/apps/io.emeric.watchflower
-device:transfer:audio            | 00   | ggwave                                                             | https://github.com/ggerganov/ggwave
-device:uconsole:-                | 00   | uConsole                                                           | https://github.com/clockworkpi/uConsole
-device:uconsole:i3               | 00   | Uconsole-i3                                                        | https://github.com/dzaczek/Uconsole-i3
-device:uconsole:postmarketos     | 00   | PostmarketOS - uConsole CM4                                        | https://forum.clockworkpi.com/t/postmarketos-uconsole-cm4/12458
-device:uconsole:rp2040           | 00   | μPico                                                              | https://github.com/dotcypress/upico
-device:uconsole:sway             | 00   | uConsole Sway Configuration                                        | https://github.com/emdash/uConsole_sway_config
-device:uconsole:usb              | 00   | μHub                                                               | https://github.com/dotcypress/uhub
-device:usb-token:-               | 001  | Tillitis TKey                                                      | https://github.com/tillitis/tillitis-key1
-device:virtual:-                 | 00   | EmuGUI                                                             | https://github.com/Tech-FZ/EmuGUI
-device:virtual:-                 | 00   | QEMU                                                               | https://qemu.org
-device:voice-assistant:-         | 00   | Pi-C.A.R.D                                                         | https://github.com/nkasmanoff/pi-card
-device:watch:eink                | 00   | Watchy                                                             | https://watchy.sqfmi.com
-device:watch:library             | 00   | LVGL                                                               | https://lvgl.io
-device:watch:os                  | 00   | Open-Smartwatch Operating System                                   | https://github.com/Open-Smartwatch/open-smartwatch-os
-device:weather:eink              | 001  | eink-weather-display                                               | https://github.com/kimmobrunfeldt/eink-weather-display
-dictionary:cli:-                 | 11   | sdcv                                                               | https://github.com/Dushistov/sdcv
-dictionary:convert:-             | 10   | PyGlossary                                                         | https://github.com/ilius/pyglossary
-dictionary:dictd:-               | 00   | dict-ecdict                                                        | https://github.com/tuberry/dict-ecdict
-dictionary:dictd:cygwin          | 00   | dict-wrapper                                                       | https://github.com/dekerser/dict-wrapper
-image:2ascii:-                   | 10   | ASCII Silhouettify                                                 | https://meatfighter.com/ascii-silhouettify
-dictionary:dictd:linux           | 00   | ClipDict                                                           | https://github.com/github-young/ClipDict
-dictionary:etymolog:-            | 00   | ety                                                                | https://github.com/Calder-Ty/ety
-dictionary:etymolog:-            | 00   | ety-python                                                         | https://github.com/jmsv/ety-python
-dictionary:etymolog:-            | 00   | etym                                                               | https://github.com/tetrismegistus/etym
-dictionary:etymolog:-            | 00   | etymolog                                                           | https://github.com/uzak/etymolog
-dictionary:game:-                | 00   | Game2Text-Lightning                                                | https://github.com/mathewthe2/Game2Text-Lightning
-dictionary:game:-                | 00   | JL                                                                 | https://github.com/rampaa/JL
-dictionary:goldendict:-          | 00   | GoldenDict tools                                                   | https://github.com/Ajatt-Tools/gd-tools
-dictionary:goldendict:-          | 00   | GoldenDict-ng                                                      | https://github.com/xiaoyifang/goldendict-ng
-dictionary:goldendict:-          | 00   | TMX to Goldendict Convertor                                        | https://github.com/Celso-Scott/TMX-to-Goldendict-Converter
-dictionary:goldendict:-          | 11   | GoldenDict                                                         | https://github.com/goldendict/goldendict
-dictionary:goldendict:dsl        | 10   | dictzip for Windows 10 (x64)                                       | https://github.com/KaseyJenkins/dictzip-win64
-dictionary:goldendict:tmx2       | 00   | TMX to Goldendict Convertor                                        | https://github.com/Celso-Scott/TMX-to-Goldendict-Converter
-dictionary:mdx:-                 | 10   | MDict Tool                                                         | https://github.com/liuyug/mdict-utils
-dictionary:mecab:-               | 01   | mecab-python3                                                      | https://github.com/SamuraiT/mecab-python3
-dictionary:mecab:-               | 10   | UniDic                                                             | https://clrd.ninjal.ac.jp/unidic/
-dictionary:mecab:korean          | 00   | mecab-ko-msvc                                                      | https://github.com/Pusnow/mecab-ko-msvc
-dictionary:mecab:linux           | 00   | mecab_dictionaries                                                 | https://github.com/tetutaro/mecab_dictionaries
-dictionary:yomichan:-            | 00   | Jitendex                                                           | https://github.com/stephenmk/Jitendex
-dictionary:yomichan:-            | 00   | Local Audio Server for Yomichan                                    | https://github.com/themoeway/local-audio-yomichan
-dictionary:yomichan:-            | 00   | Yomichan Audio Server                                              | https://github.com/caseyscarborough/yomichan-audio-server
-dictionary:yomichan:-            | 00   | Yomichan Frequency List Generator                                  | https://github.com/kamui-fin/yomi-freq
-dictionary:yomichan:-            | 00   | Yomichan Grammar Dictionaries                                      | https://github.com/aiko-tanaka/Grammar-Dictionaries
-dictionary:yomichan:-            | 00   | Yomichan/Yomitan Dictionaries                                      | https://github.com/MarvNC/yomichan-dictionaries
-dictionary:yomichan:-            | 00   | yomichan-jlpt-vocab                                                | https://github.com/stephenmk/yomichan-jlpt-vocab
-dictionary:yomichan:-            | 00   | yomichan_audio_server                                              | https://github.com/aramrw/yomichan_audio_server
-dictionary:yomichan:-            | 001  | My Yomichan Setup                                                  | https://github.com/aramrw/yomichan-dict-css
-dictionary:yomichan:-            | 001  | Yomichan-Custom-CSS-Template                                       | https://github.com/AmadoouXC/Yomichan-Custom-CSS
-dictionary:yomichan:-            | 001  | yomichan-dict-css                                                  | https://github.com/themoeway/yomichan-dict-css
-dictionary:yomichan:extension    | 00   | Yomichan                                                           | https://foosoft.net/projects/yomichan
-dictionary:yomitan:-             | 01   | Yomitan                                                            | https://github.com/themoeway/yomitan
-directory-opus:-:-               | 11   | Directory Opus                                                     | https://gpsoft.com.au
-directory-opus:backup:-          | 11   | Automatic backup of Opus config?                                   | https://resource.dopus.com/t/automatic-backup-of-opus-config/16485
-directory-opus:cd:-              | 00   | GoRootArchive                                                      | https://resource.dopus.com/t/gorootarchive-jump-back-to-the-root-of-an-archive/51408
-directory-opus:clean:-           | 00   | Folder Cleaner                                                     | https://resource.dopus.com/t/folder-cleaner-delete-folders-but-keep-files/52555
-directory-opus:clipboard:-       | 00   | Paste URL from clipboard as .url file                              | https://resource.dopus.com/t/paste-url-from-clipboard-as-url-file/44678
-directory-opus:command:-         | 001  | Running Various Commands When Entering Specific Paths              | https://resource.dopus.com/t/script-for-running-various-commands-when-entering-specific-paths/51839/2
-directory-opus:compress:-        | 11   | Folder packer+                                                     | https://resource.dopus.com/t/folder-packer/48891
-directory-opus:copy:-            | 00   | CopyRecreatePath                                                   | https://resource.dopus.com/t/copyrecreatepath-recreate-paths-for-archive-files/51431
-directory-opus:copy:-            | 00   | FastCopy Buttons & Drop Menu                                       | https://resource.dopus.com/t/fastcopy-buttons-drop-menu/9351
-directory-opus:copy:-            | 11   | FastCopy - How to Integrate or Install It                          | https://resource.dopus.com/t/fastcopy-how-to-integrate-or-install-it-integration-use-commands/35158
-directory-opus:decompress:-      | 11   | Smart archive extraction                                           | https://resource.dopus.com/t/smart-archive-extraction-enhanced/40637
-directory-opus:download:-        | 00   | Download file from clipboard URL directly to folder                | https://resource.dopus.com/t/download-file-from-clipboard-url-directly-to-folder/44679
-directory-opus:file:-            | 00   | Better "New Text Document" Script                                  | https://resource.dopus.com/t/better-new-text-document-script/50180
-directory-opus:file:-            | 00   | copy file/folder name(s) or path(s) ...                            | https://resource.dopus.com/t/scripts-to-copy-file-folder-name-s-or-path-s-with-automatic-surrounding-quotes-based-on-spaces/51122
-directory-opus:filter:-          | 00   | EverythingFolderSize                                               | https://resource.dopus.com/t/everythingfoldersize-use-everything-to-calculate-folder-sizes/44281
-directory-opus:filter:-          | 00   | Filter by Column                                                   | https://resource.dopus.com/t/filter-by-column-filter-bar-for-all-columns/47559
-directory-opus:filter:-          | 11   | Save and restore QuickFilter settings                              | https://resource.dopus.com/t/save-and-restore-quickfilter-settings/43718
-directory-opus:foobar2000:-      | 00   | WatchFoobar                                                        | https://resource.dopus.com/t/watchfoobar-monitor-what-foobar2000-is-playing/51286
-directory-opus:git:-             | 00   | Open Remote URL for git repositories                               | https://resource.dopus.com/t/open-remote-url-for-git-repositories/49447/1
-directory-opus:hash:-            | 11   | Tool: Hash file creation & validation                              | https://resource.dopus.com/t/tool-hash-file-creation-validation/24378
-directory-opus:history:-         | 00   | Reopen multiple closed tabs via GUI or a command                   | https://resource.dopus.com/t/reopen-multiple-closed-tabs-via-gui-or-a-command/50158
-directory-opus:history:v13       | 00   | RecentToCollection                                                 | https://resource.dopus.com/t/recenttocollection-create-a-collection-from-recent-folders/48571
-directory-opus:icon:-            | 00   | IconTools                                                          | https://resource.dopus.com/t/icontools-extract-single-icons-from-iconset-html-reference-page/51407
-directory-opus:icon:-            | 11   | Directory Opus 12 Flat AEicon Set v1.0                             | https://resource.dopus.com/t/directory-opus-12-flat-aeicon-set-v1-0/29096
-directory-opus:icon:-            | 11   | Directory Opus BASIC Icons                                         | https://resource.dopus.com/t/directory-opus-basic-icons-v2-0-delta-drop-in-replacement/25840/2
-directory-opus:image:-           | 00   | Resize image                                                       | https://resource.dopus.com/t/resize-image/49090
-directory-opus:image:-           | 11   | Button - Crop Image Fixed Ratio                                    | https://resource.dopus.com/t/button-crop-image-fixed-ratio/44741
-directory-opus:layout:-          | 11   | Cycle through Layouts                                              | https://resource.dopus.com/t/cycle-through-layouts/51223
-directory-opus:log:-             | 00   | CommonLogger                                                       | https://resource.dopus.com/t/commonlogger-a-logger-for-opus-js-scripting/52058
-directory-opus:metadata:-        | 00   | BackupMeta                                                         | https://resource.dopus.com/t/backupmeta-backup-and-restore-opus-metadata/45497
-directory-opus:metadata:-        | 10   | Photo Exif                                                         | https://resource.dopus.com/t/photo-exif/35015
-directory-opus:metadata:-        | 11   | CuMediaExtenders                                                   | https://github.com/cy-gh/DOpus_CuMediaExtenders
-directory-opus:metadata:-        | 11   | PrintMeta                                                          | https://resource.dopus.com/t/printmeta-write-metadata-to-text-files/42786
-directory-opus:metadata:v13      | 00   | DO Meta Wizard Command                                             | https://resource.dopus.com/t/do-meta-wizard-command/48578
-directory-opus:metadata:v13      | 00   | Mp3 Tag File                                                       | https://resource.dopus.com/t/mp3-tag-file/48563
-directory-opus:project:-         | 00   | Current Projects buttons (+hotkeys)                                | https://resource.dopus.com/t/current-projects-buttons-hotkeys/48908
-directory-opus:rename:-          | 11   | Extended functionality for F2                                      | https://resource.dopus.com/t/extended-functionality-for-f2/43765
-directory-opus:retroarch:-       | 00   | CreateRetroArchPlaylist                                            | https://resource.dopus.com/t/command-createretroarchplaylist/52127
-directory-opus:search:-          | 00   | EverythingDopus                                                    | https://github.com/TheZoc/EverythingDopus/
-directory-opus:shortcut          | 00   | copying Shortcut (.lnk) targets                                    | https://resource.dopus.com/t/script-command-for-copying-shortcut-lnk-targets-including-arguments/51593
-directory-opus:signature:-       | 00   | Column - Verify Digital Signatures                                 | https://resource.dopus.com/t/column-verify-digital-signatures/51462
-directory-opus:theme:-           | 11   | Simple Windows 10 Dark Theme                                       | https://resource.dopus.com/t/simple-windows-10-dark-theme/30055
-directory-opus:torrent:-         | 00   | Column_TorrentInfo                                                 | https://resource.dopus.com/t/column-torrentinfo-bt-bdecode-parsing-torrent-file-to-generate-metadata-columns/49741
-directory-opus:tree:-            | 00   | copying tree view of selected files & folders                      | https://resource.dopus.com/t/script-command-for-copying-tree-view-of-selected-files-folders/51628
-directory-opus:viewer:-          | 00   | Sync viewer and file selection                                     | https://gist.github.com/ScribbleGhost/e88738769df7f67a335eae634500cbe1
-discord:-:-                      | 00   | Discord                                                            | https://discord.com
-discord:bot:-                    | 00   | JMusicBot                                                          | https://github.com/jagrosh/MusicBot
-discord:image:-                  | 00   | Discord Image Gallery                                              | https://github.com/ELginas/discord-image-gallery
-discord:joplin:-                 | 00   | Joplin Discord Rich Presence Plugin                                | https://github.com/mahancoder/joplin-discord-rich-presence
-discord:obsidian:-               | 00   | Discord Share                                                      | https://github.com/phd20/obsidian-discord-share
-discord:tool:-                   | 00   | DiscordChatExporter                                                | https://github.com/Tyrrrz/DiscordChatExporter
-docker:-:-                       | 00   | podman-tui                                                         | https://github.com/containers/podman-tui
-docker:serve:-                   | 00   | 辞書                                                               | https://github.com/denonia/jisho
-docker:tui:-                     | 00   | lazydocker                                                         | https://github.com/jesseduffield/lazydocker
-document:docset:-                | 00   | Dashing                                                            | https://github.com/technosophos/dashing
-document:docset:-                | 00   | Velocity                                                           | https://velocity.silverlakesoftware.com
-document:docset:-                | 11   | Zeal                                                               | https://zealdocs.org
-document:docset:-                | 11   | doc2dash                                                           | https://github.com/hynek/doc2dash
-document:docset:godot            | 00   | Godot Dash Docset                                                  | https://github.com/poga/godot-dash-docset
-document:docset:zeal             | 00   | Dash's user contributed docset feed                                | https://github.com/hashhar/dash-contrib-docset-feeds
-document:zim:-                   | 00   | Plugins                                                            | https://github.com/jaap-karssenberg/zim-wiki/wiki/Plugins
-document:zim:-                   | 00   | Zim                                                                | https://zim-wiki.org
-document:zim:convert             | 00   | ZIM-converter                                                      | https://github.com/Bartvelp/zim-converter
-godot:src:dialogue               | 11   | Monologue                                                          | https://github.com/atomic-junky/Monologue
-download:-:-                     | 00   | ArrowDL                                                            | https://github.com/setvisible/ArrowDL
-download:-:-                     | 00   | Bandcamp Downloader                                                | https://github.com/Otiel/BandcampDownloader
-download:-:-                     | 00   | File centipede                                                     | https://github.com/filecxx/FileCentipede
-download:-:-                     | 00   | GAP decoder                                                        | https://github.com/MdSauravChowdhury/Google-artsandculture-image-downlaod
-download:-:-                     | 00   | IPFS Desktop                                                       | https://github.com/ipfs/ipfs-desktop
-download:-:-                     | 00   | M3U8                                                               | https://github.com/oopsguy/m3u8
-download:-:-                     | 00   | Mangal 4                                                           | https://github.com/metafates/mangal
-download:-:-                     | 00   | PixivUtil2                                                         | https://github.com/Nandaka/PixivUtil2
-download:-:-                     | 00   | Powerful Pixiv Downloader                                          | https://github.com/xuejianxianzun/PixivBatchDownloader
-download:-:-                     | 00   | bcdl                                                               | https://github.com/daot/bcdl
-download:-:-                     | 00   | bilix                                                              | https://github.com/HFrost0/bilix
-download:-:-                     | 00   | dezoomify-rs                                                       | https://github.com/lovasoa/dezoomify-rs
-download:-:-                     | 00   | gallery-dl                                                         | https://github.com/mikf/gallery-dl
-download:-:-                     | 00   | internetarchive                                                    | https://github.com/jjjake/internetarchive
-download:-:-                     | 00   | spotify_dl                                                         | https://github.com/SathyaBhat/spotify-dl
-download:aria2:-                 | 00   | Persepolis Download Manager                                        | https://persepolisdm.github.io
-download:aria2:-                 | 00   | aria2                                                              | https://aria2.github.io
-download:aria2:-                 | 00   | aria2-rpc-conf                                                     | https://github.com/swgrhck/aria2-rpc-conf
-download:aria2:-                 | 00   | aria2p                                                             | https://github.com/pawamoy/aria2p
-download:qbittorrent:-           | 00   | QbtManager                                                         | https://github.com/Webreaper/QbtManager
-download:qbittorrent:-           | 11   | qBittorrent-Enhanced-Edition                                       | https://github.com/c0re100/qBittorrent-Enhanced-Edition
-download:scrape:-                | 00   | HTTrack                                                            | https://httrack.com
-download:torrent:-               | 00   | Intermodal                                                         | https://github.com/casey/intermodal
-download:torrent:-               | 00   | Torrent File Editor                                                | https://torrent-file-editor.github.io
-download:torrent:-               | 00   | WebTorrent CLI                                                     | https://github.com/webtorrent/webtorrent-cli
-download:youtube:-               | 00   | YoutubeDownloader                                                  | https://github.com/Tyrrrz/YoutubeDownloader
-download:youtube:-               | 00   | media-downloader                                                   | https://github.com/mhogomchungu/media-downloader
-download:youtube:-               | 00   | ytdlp-interface                                                    | https://github.com/ErrorFlynn/ytdlp-interface
-ebook:manage:-                   | 00   | Calibre                                                            | https://calibre-ebook.com
-ebook:metadata:-                 | 00   | calibre-douban                                                     | https://github.com/fugary/calibre-douban
-ebook:reader:-                   | 00   | Foliate                                                            | https://johnfactotum.github.io/foliate/
-editor:ide:-                     | 00   | Positron                                                           | https://github.com/posit-dev/positron
-editor:database:-                | 00   | DBeaver                                                            | https://dbeaver.io
-editor:database:-                | 00   | SQL Notebook                                                       | https://github.com/electroly/sqlnotebook
-editor:database:-                | 10   | TriliumNext Notes                                                  | https://github.com/TriliumNext/Notes
-editor:database:cli              | 00   | mycli                                                              | https://github.com/dbcli/mycli
-editor:database:cli              | 00   | sq                                                                 | https://github.com/neilotoole/sq
-editor:database:cli              | 00   | trdsql                                                             | https://github.com/noborus/trdsql
-editor:diff:-                    | 00   | Diffable                                                           | https://github.com/yaroslavyaroslav/Diffable
-editor:emacs:-                   | 00   | Doom Emacs                                                         | https://github.com/doomemacs/doomemacs
-editor:emacs:-                   | 00   | Doom N Λ N O Themes                                                | https://github.com/ronisbr/doom-nano-themes
-editor:emacs:-                   | 00   | Emacs                                                              | https://gnu.org/software/emacs
-editor:emacs:-                   | 00   | Org Mode                                                           | https://orgmode.org
-editor:emacs:-                   | 00   | Org Rainbow Tags                                                   | https://github.com/KaratasFurkan/org-rainbow-tags
-editor:emacs:-                   | 00   | Org Roam BibTeX                                                    | https://github.com/org-roam/org-roam-bibtex
-editor:emacs:-                   | 00   | Org-roam                                                           | https://orgroam.com
-editor:emacs:-                   | 00   | Spacemacs                                                          | https://github.com/syl20bnr/spacemacs
-editor:emacs:-                   | 00   | Vulpea                                                             | https://github.com/d12frosted/vulpea
-editor:emacs:-                   | 00   | yomikun                                                            | https://github.com/dmgerman/yomikun
-editor:hex:-                     | 00   | ImHex                                                              | https://github.com/WerWolv/ImHex
-editor:hex:tui                   | 00   | Radare2                                                            | https://radare.org/n/radare2.html
-editor:hex:tui                   | 00   | heh                                                                | https://github.com/ndd7xv/heh
-editor:ide:-                     | 00   | ZeroBrane Studio                                                   | https://github.com/pkulchenko/ZeroBraneStudio
-editor:journal:tui               | 00   | Caps-Log                                                           | https://github.com/NikolaDucak/caps-log
-editor:jupter:-                  | 00   | JupyterLab                                                         | https://jupyter.org
-editor:jupyter:-                 | 00   | euporie                                                            | https://github.com/joouha/euporie
-editor:latex:-                   | 00   | KLatexFormula                                                      | https://klatexformula.sourceforge.io
-editor:latex:-                   | 00   | MiKTeX                                                             | https://miktex.org
-editor:latex:-                   | 00   | Texmaker                                                           | https://xm1math.net/texmaker
-editor:lite-xl:-                 | 00   | Lite XL                                                            | https://github.com/lite-xl/lite-xl
-editor:lite-xl:-                 | 00   | Lite XL colors                                                     | https://github.com/lite-xl/lite-xl-colors
-editor:lite-xl:-                 | 00   | Lite XL plugins                                                    | https://github.com/lite-xl/lite-xl-plugins
-editor:markdown:-                | 00   | Asciidoc FX                                                        | https://asciidocfx.com
-editor:markdown:-                | 00   | MarkText                                                           | https://github.com/marktext/marktext
-editor:markdown:-                | 00   | QOwnNotes                                                          | https://qownnotes.org
-editor:markdown:-                | 00   | VNote                                                              | https://vnotex.github.io/vnote
-editor:notepad:-                 | 00   | Notepad Next                                                       | https://github.com/dail8859/NotepadNext
-editor:notepad:-                 | 00   | Notepad++                                                          | https://github.com/notepad-plus-plus
-editor:office:-                  | 00   | LibreOffice                                                        | https://libreoffice.org
-editor:office:-                  | 00   | Office Tool Plus                                                   | https://github.com/YerongAI/Office-Tool
-editor:office:-                  | 00   | OpenOffice                                                         | https://openoffice.org
-editor:qownnotes:extension       | 00   | QOwnNotes Web Companion                                            | https://github.com/qownnotes/web-companion
-editor:quarto:-                  | 00   | Quarto                                                             | https://quarto.org
-editor:quarto:-                  | 00   | quarto-site-template                                               | https://github.com/Openscapes/quarto-website-tutorial
-editor:slide:-                   | 00   | Slides                                                             | https://github.com/maaslalani/slides
-editor:slide:-                   | 00   | present                                                            | https://github.com/vinayak-mehta/present
-editor:slide:-                   | 00   | presenterm                                                         | https://github.com/mfontanini/presenterm
-editor:tabular:-                 | 00   | CsvTextEditor                                                      | https://github.com/WildGums/CsvTextEditor
-editor:tabular:-                 | 00   | Tabular Editor                                                     | https://github.com/TabularEditor/TabularEditor
-editor:tabular:-                 | 00   | Tad                                                                | https://github.com/antonycourtney/tad
-editor:text:-                    | 00   | BabelPad                                                           | https://babelstone.co.uk/Software/BabelPad.html
-editor:tui:-                     | 00   | micro                                                              | https://github.com/zyedidia/micro
-email:-:-                        | 00   | SeaMonkey                                                          | https://seamonkey-project.org
-email:-:-                        | 11   | Thunderbird                                                        | https://thunderbird.net
-email:cli:-                      | 00   | PingMe CLI                                                         | https://github.com/kha7iq/pingme
-emulator:batocera:linux          | 00   | Batocera.linux                                                     | https://github.com/batocera-linux/batocera.linux
-emulator:bios:-                  | 01   | Retro BIOSes                                                       | https://github.com/Abdess/retroarch_system
-emulator:data:neo                | 00   | FinalBurn Neo                                                      | https://github.com/libretro/FBNeo
-emulator:database:-              | 00   | Arcade Database                                                    | https://adb.arcadeitalia.net/default.php
-emulator:engine:-                | 00   | TIC-80                                                             | https://tic80.com
-emulator:engine:python           | 00   | pyxel                                                              | https://github.com/kitao/pyxel
-emulator:es-de:theme             | 00   | mister-menu-es-de                                                  | https://github.com/anthonycaccese/mister-menu-es-de
-emulator:es-de:theme             | 00   | Modern                                                             | https://gitlab.com/es-de/themes/modern-es-de
-emulator:os:linux                | 00   | Lakka                                                              | https://lakka.tv
-emulator:os:linux                | 001  | ROCKNIX                                                            | https://github.com/ROCKNIX/distribution
-emulator:pegasus:-               | 01   | Pegasus Frontend                                                   | https://github.com/mmatyas/pegasus-frontend
-emulator:pegasus:theme           | 00   | Flixnet theme for Pegasus                                          | https://github.com/mmatyas/pegasus-theme-flixnet
-emulator:pegasus:theme           | 00   | Pegasus Grid theme for Retroid Pocket 2                            | https://github.com/DFOXpro/rp2-pegasus-theme-grid
-emulator:pegasus:theme           | 00   | RefiOS                                                             | https://github.com/eleo95/pegasus-theme-refiOS
-emulator:pegasus:theme           | 00   | Retro Mega                                                         | https://github.com/djfumberger/retromega
-emulator:pegasus:theme           | 00   | Slick theme for Pegasus                                            | https://github.com/buzz/pegasus-theme-slick
-emulator:pegasus:theme           | 00   | Grid Micro theme for Pegasus                                       | https://github.com/mmatyas/pegasus-theme-grid-micro
-emulator:pegasus:theme           | 01   | Retro Mega Next                                                    | https://github.com/plaidman/retromega-next
-emulator:pegasus:theme           | 01   | Sleipnir                                                           | https://github.com/y-muller/retromega-sleipnir
-emulator:pegasus:theme           | 00   | pegasus-theme-gpiOS                                                | https://github.com/SinisterSpatula/pegasus-theme-gpiOS
-emulator:retroarch:-             | 00   | retroarch-links-generator                                          | https://github.com/memob0x/retroarch-links-generator
-emulator:retroarch:-             | 01   | RetroArch asset server                                             | https://github.com/NickHeap2/retroarch-asset-server
-emulator:retroarch:-             | 11   | RetroArch                                                          | https://retroarch.com
-emulator:rom:-                   | 10   | igir                                                               | https://github.com/emmercm/igir
-emulator:rom:database            | 00   | RetroArch Database                                                 | https://github.com/libretro/libretro-database
-epub:editor:-                    | 00   | Sigil-plugins                                                      | https://mobileread.com/forums/showthread.php?t=247431
-epub:editor:-                    | 001  | Sigil                                                              | https://sigil-ebook.com
-epub:extract:-                   | 00   | ebookatty                                                          | https://github.com/alexpdev/ebookatty
-epub:extract:-                   | 00   | epubtool                                                           | https://github.com/pgaskin/epubtool
-epub:reader:-                    | 00   | crqt-ng                                                            | https://gitlab.com/coolreader-ng/crqt-ng/
-epub:reader:-                    | 00   | pubReader                                                          | https://github.com/vers-one/EpubReader
-explorer:-:-                     | 00   | Camelot                                                            | https://github.com/IngvarX/Camelot
-explorer:-:-                     | 00   | Files                                                              | https://github.com/files-community/Files
-explorer:-:-                     | 00   | Sigma File Manager                                                 | https://github.com/aleksey-hoffman/sigma-file-manage
-explorer:-:-                     | 00   | Spacedrive                                                         | https://spacedrive.com/
-explorer:-:-                     | 00   | Total Commander                                                    | https://ghisler.com/
-explorer:context-menu:-          | 00   | SendTo Menu Editor                                                 | https://sordum.org/10830/sendto-menu-editor-v1-3
-explorer:context-menu:-          | 000  | EasyShell                                                          | https://github.com/anb0s/EasyShell
-explorer:context-menu:-          | 11   | Shell-X                                                            | https://github.com/oleg-shilo/shell-x
-explorer:copy:-                  | 00   | Copy Dialog Lunar Lander                                           | https://github.com/Sanakan8472/copy-dialog-lunar-lande
-explorer:copy:-                  | 11   | FastCopy                                                           | https://fastcopy.jp/
-explorer:decompress:-            | 11   | SmartZip                                                           | https://github.com/vvyoko/SmartZip
-explorer:editor:-                | 10   | Resource Hacker                                                    | https://angusj.com/resourcehacker
-explorer:exe:-                   | 00   | OpenArk                                                            | https://openark.blackint3.com
-explorer:folder:-                | 00   | Folder Painter                                                     | https://sordum.org/10124/folder-painter-v1-3
-explorer:lauch:-                 | 00   | Flow Launcher                                                      | https://flowlauncher.com
-explorer:lauch:-                 | 00   | SnipDo                                                             | https://snipdo-app.com
-explorer:lauch:-                 | 00   | Wox                                                                | https://wox.one
-explorer:lauch:-                 | 00   | uTools                                                             | https://u.tools/
-explorer:lauch:-                 | 00   | ueli                                                               | https://ueli.app
-explorer:link:-                  | 00   | Move Links                                                         | https://github.com/Adoliin/move-links
-explorer:link:-                  | 00   | mklink                                                             | https://github.com/kkysen/mklink
-explorer:link:-                  | 11   | Link Shell Extension                                               | https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
-explorer:link:shortcut           | 10   | go-windows-shortcut                                                | https://github.com/nyaosorg/go-windows-shortcut
-explorer:mount:-                 | 00   | WinCDEmu                                                           | https://wincdemu.sysprogs.org
-explorer:preview:-               | 00   | MOSViewer                                                          | https://github.com/mrfearless/MOSViewer
-explorer:preview:quicklook       | 00   | Available Plugins                                                  | https://github.com/QL-Win/QuickLook/wiki/Available-Plugins
-explorer:preview:quicklook       | 00   | QuickLook                                                          | https://github.com/QL-Win/QuickLook
-explorer:thumbnail:stl           | 11   | stl-thumb                                                          | https://github.com/unlimitedbacon/stl-thumb
-explorer:thumbnail:svg           | 11   | SVG Viewer Extension for Windows Explorer                          | https://github.com/tibold/svg-explorer-extension
-explorer:thumbnail:-             | 00   | Icaros                                                             | https://majorgeeks.com/files/details/icaros.html
-explorer:thumbnail:-             | 11   | DarkThumbs                                                         | https://github.com/fire-eggs/DarkThumbs
-explorer:restart:-               | 11   | Restart Explorer                                                   | https://sordum.org/9192/restart-explorer-v1-7
-explorer:search-                 | 11   | Everything                                                         | https://voidtools.com
-explorer:search:-                | 11   | EverythingToolbar                                                  | https://github.com/srwi/EverythingToolbar
-explorer:switch:-                | 00   | Listary                                                            | https://listary.com
-explorer:unlock:-                | 11   | LockHunter                                                         | https://lockhunter.com/index.htm
-filterpipe:pinyin:api            | 00   | pinyin-pro                                                         | https://github.com/zh-lx/pinyin-pro
-font:-:-                         | 001  | handwriter.ttf                                                     | https://github.com/hsfzxjy/handwriter.ttf
-font:-:-                         | 00   | Ligaturizer                                                        | https://github.com/ToxicFrog/Ligaturizer
-font:-:-                         | 00   | pyftsubset                                                         | https://github.com/web-wyj/pyftsubset
-font:2png:-                      | 00   | ttf2png                                                            | https://github.com/regulad/ttf2png
-font:2woff:-                     | 11   | ttf2woff2                                                          | https://github.com/nfroidure/ttf2woff2
-font:edit:-                      | 00   | FontForge                                                          | https://fontforge.org
-font:edit:-                      | 00   | YosemiForge                                                        | https://github.com/fontforge/YosemiForge
-font:manage:-                    | 00   | FontBase                                                           | https://fontba.se
-font:manege:-                    | 11   | nexusfont                                                          | https://xiles.app
-font:readme:-                    | 001  | 剔骨仿宋                                                           | https://github.com/LingDong-/tk-fangsong-font
-font:readme:-                    | 001  | 齊伋體                                                             | https://github.com/LingDong-/qiji-font
-font:tool:-                      | 00   | MacType                                                            | https://mactype.net
-font:tool:-                      | 10   | fontbm                                                             | https://github.com/vladimirgamalyan/fontbm
-font:tool:-                      | 11   | No!! MeiryoUI                                                      | https://github.com/Tatsu-syo/noMeiryoUI
-font:webfont:-                   | 11   | Webify                                                             | https://github.com/ananthakumaran/webify
-game:-:-                         | 00   | Cataclysm: Dark Days Ahead                                         | https://github.com/CleverRaven/Cataclysm-DDA
-game:-:-                         | 00   | Cave Story MD                                                      | https://github.com/andwn/cave-story-md
-game:-:-                         | 00   | Doukutsu Randamu                                                   | https://trashboxbobylev.itch.io/doukutsu-randamu
-game:-:-                         | 00   | NXEngine-evo                                                       | https://github.com/nxengine/nxengine-evo
-game:-:-                         | 00   | Shattered Pixel Dungeon                                            | https://github.com/00-Evan/shattered-pixel-dungeon
-game:c:-                         | 00   | dungeonrush                                                        | https://github.com/rapiz1/DungeonRush
-game:font:-                      | 00   | Font Friend                                                        | https://baku.itch.io/font-friend
-game:font:-                      | 00   | Pixel Font Comuertzr                                               | https://yellowafterlife.itch.io/pixelfont
-game:ink:-                       | 00   | Calico                                                             | https://elliotherriman.itch.io/calico
-game:ink:-                       | 00   | Catmint                                                            | https://elliotherriman.itch.io/catmint
-game:ink:-                       | 00   | Ink Objects                                                        | https://jsk.itch.io/ink-objects
-game:ink:-                       | 00   | inky                                                               | https://inklestudios.com/ink
-game:instead:-                   | 00   | INSTEAD                                                            | https://instead.hugeping.ru/en
-game:instead:-                   | 00   | InsteadMan 3                                                       | https://github.com/jhekasoft/insteadman
-game:itch:-                      | 00   | gui-butler                                                         | https://github.com/seleb/gui-butler
-game:itch:-                      | 10   | Itch-Sort-And-Export                                               | https://github.com/6uhrmittag/Itch-Sort-And-Export
-game:itch:player                 | 00   | Scritch                                                            | https://github.com/torcado194/scritch-player
-game:itch:player                 | 00   | blamscamp                                                          | https://github.com/blackle/blamscamp
-game:js:-                        | 00   | snakisms                                                           | https://github.com/pippinbarr/SNAKISMS
-game:lua:-                       | 00   | mari0                                                              | https://github.com/Stabyourself/mari0
-game:lua:-                       | 000  | BYTEPATH                                                           | https://github.com/a327ex/BYTEPATH
-game:lua:-                       | 000  | SNKMD                                                              | https://github.com/sharpdev-me/SNKMD
-game:lua:-                       | 000  | SNKRX                                                              | https://github.com/a327ex/SNKRX
-game:lua:-                       | 000  | pacpac                                                             | https://github.com/tylerneylon/pacpac
-game:lua:-                       | 000  | termtris                                                           | https://github.com/tylerneylon/termtris
-game:lua:-                       | 10   | SNKRX                                                              | https://github.com/Luminware/SNKRX
-game:lua:music                   | 00   | Rit                                                                | https://github.com/AGORI-Studios/Rit
-game:manage:-                    | 00   | Playnite                                                           | https://github.com/JosefNemec/Playnite
-game:manage:-                    | 00   | hydra                                                              | https://github.com/hydralauncher/hydra
-game:mtga:photoshop              | 001  | MTG Photoshop Automation                                           | https://github.com/chilli-axe/mtg-photoshop-automation
-game:playnite:-                  | 00   | Nova X                                                             | https://github.com/darklinkpower/Nova-X
-game:playnite:-                  | 00   | NowPlaying Game Cacher                                             | https://github.com/gittromney/Playnite-NowPlaying
-game:playnite:-                  | 00   | Playnite PCGamingWiki Metadata Provider                            | https://github.com/sharkusmanch/playnite-pcgamingwiki-metadata-provider
-game:renpy:-                     | 00   | Katawa Shoujo: Re-Engineered                                       | https://codeberg.org/fhs/katawa-shoujo-re-engineered
-game:server:-                    | 00   | PPSSPP Adhoc Server                                                | https://github.com/Souler/ppsspp-adhoc-server
-game:server:-                    | 00   | Torchlight 2 Lan Game Server Tool                                  | https://github.com/jhj0411jhj/torchlight2_lan_game_server_tool
-game:simulator:-                 | 00   | Citra                                                              | https://github.com/citra-emu/citra
-game:simulator:-                 | 00   | PPSSPP                                                             | https://ppsspp.org
-game:simulator:-                 | 00   | RPCS3                                                              | https://github.com/RPCS3/rpcs3
-game:simulator:-                 | 00   | Ryujinx                                                            | https://github.com/Ryujinx/Ryujinx
-game:simulator:-                 | 00   | YuzuToolbox                                                        | https://zachar3.itch.io/yuzutoolbox
-game:simulator:-                 | 00   | suyu                                                               | https://github.com/suyu-emu/suyu
-game:simulator:-                 | 00   | yuzu                                                               | https://github.com/yuzu-emu/yuzu
-game:steam:-                     | 00   | NVIDIA Profile Inspector                                           | https://github.com/Orbmu2k/nvidiaProfileInspector
-game:steam:-                     | 00   | RemotePlayWhatever                                                 | https://github.com/m4dEngi/RemotePlayWhatever
-game:steam:-                     | 00   | Steam Shortcut Generator                                           | https://github.com/JeeZeh/steam-shortcut-generator
-game:steam:-                     | 00   | steamctl                                                           | https://github.com/ValvePython/steamctl
-game:steam:dev                   | 00   | Steam Comment Bot                                                  | https://github.com/HerrEurobeat/steam-comment-service-bot
-game:steam:dev                   | 00   | Steam Upload GUI                                                   | https://github.com/RPicster/Steam-Upload-GUI
-game:stream:-                    | 00   | Moonlight PC                                                       | https://github.com/moonlight-stream/moonlight-qt
-game:stream:-                    | 00   | Sunshine                                                           | https://github.com/LizardByte/Sunshine
-game:team-voice:-                | 00   | TeamSpeak                                                          | https://teamspeak.com
-game:tool:-                      | 00   | AI Toolkit                                                         | https://github.com/linkdd/aitoolkit
-game:tool:-                      | 00   | ONScripter_Multi_Converter                                         | https://github.com/Prince-of-sea/ONScripter_Multi_Converter
-game:tool:-                      | 00   | ShoeBox                                                            | https://renderhjs.net/shoebox
-game:tool:audio                  | 00   | EZ Game Audio Conversion                                           | https://github.com/SpaceFoon/Ez-Game-Audio-Conversion
-game:tool:audio                  | 00   | bfxr                                                               | https://github.com/increpare/bfxr
-game:unity:-                     | 00   | PowerQuest                                                         | https://powerhoof.itch.io/powerquest
-game:war3:-                      | 00   | GoWarcraft3                                                        | https://github.com/nielsAD/gowarcraft3
-game:war3:-                      | 00   | W3x2Lni                                                            | https://github.com/sumneko/w3x2lni
-game:war3:-                      | 00   | war3map                                                            | https://github.com/invoker-bot/war3map
-game:war3:server                 | 00   | EuropeBattle                                                       | https://europebattle.net/w3/
-git:-:-                          | 00   | Git                                                                | https://git-scm.com
-git:action:-                     | 00   | GitHub Actions Runner Images                                       | https://github.com/actions/runner-images
-git:action:-                     | 10   | act                                                                | https://github.com/nektos/act
-git:cli:-                        | 00   | bit                                                                | https://github.com/chriswalz/bit
-git:commit:-                     | 00   | Branchless workflow for Git                                        | https://github.com/arxanas/git-branchless
-git:commit:-                     | 00   | git-notify                                                         | https://github.com/jevakallio/git-notify
-git:commit:-                     | 10   | commitizen                                                         | https://github.com/commitizen-tools/commitizen
-git:data:-                       | 00   | GitRows                                                            | https://gitrows.com
-git:data:-                       | 00   | Qri                                                                | https://qri.io
-git:dotfiles:sync                | 00   | rcm                                                                | https://github.com/thoughtbot/rcm
-git:dotfiles:sync                | 01   | chezmoi                                                            | https://chezmoi.io
-git:download:-                   | 10   | degit                                                              | https://github.com/Rich-Harris/degit
-git:gh:-                         | 00   | GitHub CLI                                                         | https://cli.github.com
-git:gh:action                    | 00   | gh-actions-cache                                                   | https://github.com/actions/gh-actions-cache
-git:gh:action                    | 00   | gh-actions-status                                                  | https://github.com/rsese/gh-actions-status
-git:gh:branch                    | 00   | Clean Branches                                                     | https://github.com/davidraviv/gh-clean-branches
-git:gh:branch                    | 00   | gh branch                                                          | https://github.com/mislav/gh-branch
-git:gh:branch                    | 00   | gh-home                                                            | https://github.com/norwd/gh-home
-git:gh:branch                    | 001  | Tidy                                                               | https://github.com/HaywardMorihara/gh-tidy
-git:gh:branch                    | 001  | poi                                                                | https://github.com/seachicken/gh-poi
-git:gh:brower                    | 00   | gh repo-explore                                                    | https://github.com/samcoe/gh-repo-explore
-git:gh:brower                    | 000  | gh xplr                                                            | https://github.com/sayanarijit/gh-xplr
-git:gh:brower                    | 11   | gh-ls                                                              | https://github.com/wuwe1/gh-ls
-git:gh:changelog                 | 00   | gh-cl                                                              | https://github.com/tmkx/gh-cl
-git:gh:chat                      | 00   | gh chat                                                            | https://github.com/vilmibm/gh-chat
-git:gh:contrib                   | 00   | gh contrib                                                         | https://github.com/mislav/gh-contrib
-git:gh:contrib                   | 00   | gh-contribs                                                        | https://github.com/mintarchit/gh-contribs
-git:gh:contrib                   | 00   | gh-graph                                                           | https://github.com/kawarimidoll/gh-graph
-git:gh:dev                       | 00   | gh gp                                                              | https://github.com/gitpod-io/gh-gp
-git:gh:download                  | 00   | gh-cp                                                              | https://github.com/mislav/gh-cp
-git:gh:download                  | 00   | gh-get-asset                                                       | https://github.com/chmouel/gh-get-asset
-git:gh:download                  | 10   | gh-install                                                         | https://github.com/redraw/gh-install
-git:gh:download                  | 11   | gh-download                                                        | https://github.com/yuler/gh-download
-git:gh:grep                      | 00   | gh-grep                                                            | https://github.com/k1LoW/gh-grep
-git:gh:hook                      | 00   | gh-hook                                                            | https://github.com/lucasmelin/gh-hook
-git:gh:ignore                    | 00   | gh gitignore                                                       | https://github.com/garnertb/gh-gitignore
-git:gh:issue                     | 00   | gh label                                                           | https://github.com/heaths/gh-label
-git:gh:issue                     | 00   | gh-iz                                                              | https://github.com/gennaro-tedesco/gh-i
-git:gh:issue                     | 00   | gh-workon                                                          | https://github.com/chmouel/gh-workon
-git:gh:milestone                 | 00   | gh milestone                                                       | https://github.com/valeriobelli/gh-milestone
-git:gh:notify                    | 00   | gh-notify                                                          | https://github.com/meiji163/gh-notify
-git:gh:org                       | 00   | gh-clone-org                                                       | https://github.com/matt-bartel/gh-clone-org
-git:gh:org                       | 00   | gh-org-browse-repo                                                 | https://github.com/gh-cli-for-education/gh-org-browse-repo
-git:gh:org                       | 00   | gh-org-users                                                       | https://github.com/yermulnik/gh-org-users
-git:gh:pr                        | 00   | auto                                                               | https://github.com/intuit/auto
-git:gh:pr                        | 00   | gh-dash                                                            | https://github.com/dlvhdr/gh-dash
-git:gh:pr                        | 00   | gh-difftool                                                        | https://github.com/speedyleion/gh-difftool
-git:gh:pr                        | 001  | gh-combine-prs                                                     | https://github.com/rnorth/gh-combine-prs
-git:gh:preview                   | 00   | gh markdown-preview                                                | https://github.com/yusukebe/gh-markdown-preview
-git:gh:pull                      | 00   | gh-pulls                                                           | https://github.com/AaronMoat/gh-pulls
-git:gh:release                   | 00   | GitHub Releaser                                                    | https://github.com/carlsberg/gh-releaser
-git:gh:release                   | 001  | gh bump                                                            | https://github.com/johnmanjiro13/gh-bump
-git:gh:release                   | 001  | gh describe                                                        | https://github.com/proudust/gh-describe
-git:gh:release                   | 001  | gh-semver                                                          | https://github.com/koozz/gh-semver
-git:gh:repo                      | 00   | GitHub Archive                                                     | https://github.com/Justintime50/github-archive
-git:gh:repo                      | 00   | gh validate-repo                                                   | https://github.com/govindsme/gh-validate-repo
-git:gh:repo                      | 00   | gh-gr                                                              | https://github.com/sarumaj/gh-gr
-git:gh:repo                      | 00   | gh-repo-fzf                                                        | https://github.com/kavinvalli/gh-repo-fzf
-git:gh:repo                      | 11   | gh-f                                                               | https://github.com/gennaro-tedesco/gh-f
-git:gh:save                      | 00   | gh fire                                                            | https://github.com/maximousblk/gh-fire
-git:gh:screen                    | 00   | gh-screensaver                                                     | https://github.com/vilmibm/gh-screensaver
-git:gh:search                    | 00   | gh-fzrepo                                                          | https://github.com/sheepla/gh-fzrepo
-git:gh:search                    | 00   | gh-s                                                               | https://github.com/gennaro-tedesco/gh-s
-git:gh:sql                       | 00   | gh-sql                                                             | https://github.com/KOBA789/gh-sql
-git:gh:star                      | 00   | gh-star                                                            | https://github.com/aymanbagabas/gh-stars
-git:gh:star                      | 00   | gh-user-stars                                                      | https://github.com/korosuke613/gh-user-stars
-git:gh:status                    | 00   | gh user-status                                                     | https://github.com/vilmibm/gh-user-status
-git:gh:timer                     | 10   | gh-timer                                                           | https://github.com/anmalkov/gh-timer
-git:gh:token                     | 00   | GH Token                                                           | https://github.com/Link-/gh-token
-git:gh:tool                      | 00   | gh-look                                                            | https://github.com/LangLangBart/gh-look
-git:gh:tool                      | 00   | gh-oblique                                                         | https://github.com/vilmibm/gh-oblique
-git:gh:tool                      | 10   | gh-inspire                                                         | https://github.com/lakuapik/gh-inspire
-git:gh:upload                    | 00   | ghr                                                                | https://github.com/tcnksm/ghr
-git:gh:upload                    | 00   | github-release                                                     | https://github.com/github-release/github-release
-git:gh:user                      | 00   | gh-eco                                                             | https://github.com/jrnxf/gh-eco
-git:gh:user                      | 00   | gh-profile                                                         | https://github.com/gabe565/gh-profile
-git:gh:user                      | 00   | gh-userfetch                                                       | https://github.com/sheepla/gh-userfetch
-git:gist:-                       | 00   | snpt                                                               | https://github.com/mike182uk/snpt
-git:issue:-                      | 11   | pro                                                                | https://github.com/Wowu/pro
-git:mercurial:-                  | 00   | Mercurial                                                          | https://mercurial-scm.org
-git:notify:-                     | 00   | Gitify                                                             | https://gitify.io
-git:seach:-                      | 00   | RepoZ                                                              | https://github.com/awaescher/RepoZ
-git:status:-                     | 11   | mgitstatus                                                         | https://github.com/fboender/multi-git-status
-git:sync:-                       | 11   | git-sync                                                           | https://github.com/simonthum/git-sync
-git:tui:-                        | 00   | GitUI                                                              | https://github.com/extrawurst/gitui
-git:tui:-                        | 00   | Lazygit                                                            | https://github.com/jesseduffield/lazygit
-git:tui:-                        | 00   | git-bug                                                            | https://github.com/MichaelMure/git-bug
-git:user:-                       | 00   | Git Profile Switcher                                               | https://github.com/TheYkk/git-switcher
-github:action:-                  | 00   | Tencent Cloud COS and CDN action                                   | https://github.com/sylingd/tencent-cos-and-cdn-action
-github:action:-                  | 000  | Mediawiki to GitHub Flavoured Markdown                             | https://github.com/outofcontrol/mediawiki-to-gfm
-github:action:-                  | 001  | upload-artifact                                                    | https://github.com/actions/upload-artifact
-github:action:markdown           | 10   | Markdown autodocs                                                  | https://github.com/dineshsonachalam/markdown-autodocs
-github:action:mkdocs             | 11   | Publishing your site                                               | https://squidfunk.github.io/mkdocs-material/publishing-your-site
-github:action:pdf                | 00   | Markdown to PDF                                                    | https://github.com/BaileyJM02/markdown-to-pdf
-github:css:-                     | 00   | Markdown to GitHub style web                                       | https://github.com/KrauseFx/markdown-to-html-github-style
-github:css:-                     | 00   | github-markdown-css                                                | https://github.com/sindresorhus/github-markdown-css
-github:js:-                      | 00   | gh-md-toc                                                          | https://github.com/ekalinin/github-markdown-toc
-gnome:linux:screensaver          | 00   | gnome-shell-extension-caffeine                                     | https://github.com/eonpatapon/gnome-shell-extension-caffeine
-godot:-:-                        | 00   | godot                                                              | https://godotengine.org
-godot:dl:2d                      | 00   | LDtk Importer                                                      | https://github.com/heygleeson/godot-ldtk-importer
-godot:dl:3d                      | 00   | Blender Spritesheet Import Plugin                                  | https://github.com/oddmode-studio/BlenderSpriteSheetImporter
-godot:dl:3d                      | 00   | DeformableMesh                                                     | https://github.com/cloudofoz/godot-deformablemesh
-godot:dl:3d                      | 00   | Godot Procedural Recoil                                            | https://github.com/vi4hu/godot-procedural-recoil
-godot:dl:3d                      | 00   | GodotVMF Project Template                                          | https://github.com/H2xDev/GodotVMF
-godot:dl:3d                      | 00   | Line Renderer                                                      | https://github.com/LemiSt24/line-renderer/
-godot:dl:3d                      | 00   | Scene Builder                                                      | https://github.com/sci-comp/SceneBuilder
-godot:dl:3d                      | 00   | SpriteMesh                                                         | https://github.com/98teg/SpriteMesh
-godot:dl:action                  | 00   | ActionReaction                                                     | https://github.com/SrColoma/ActionReaction
-godot:dl:ai                      | 00   | Fuku - Ollama Integration for Godot                                | https://github.com/af009/fuku
-godot:dl:ai                      | 00   | Godot RL Agents                                                    | https://github.com/edbeeching/godot_rl_agents_plugin
-godot:dl:ai                      | 00   | LimboAI: Behavior Trees & State Machines                           | https://github.com/limbonaut/limboai
-godot:dl:anime                   | 00   | Animated Shape 2D                                                  | https://github.com/Goutte/godot-addon-animated-shape-2d
-godot:dl:anime                   | 00   | AnimationPlayer Refactor                                           | https://github.com/poohcom1/godot-animation-player-refactor
-godot:dl:anime                   | 001  | Anima for Godot 4                                                  | https://github.com/ceceppa/anima-godot-4
-godot:dl:anime                   | 11   | AnimatedButton                                                     | https://github.com/AdilDevStuff/AnimatedButton
-godot:dl:asset                   | 00   | File Access Web                                                    | https://github.com/Scrawach/godot-file-access-web
-godot:dl:asset                   | 00   | Godot Resource Groups                                              | https://github.com/derkork/godot-resource-groups
-godot:dl:asset                   | 00   | Godot Safe Resource Loader                                         | https://github.com/derkork/godot-safe-resource-loader/
-godot:dl:audio                   | 00   | Audio Haptics                                                      | https://github.com/timoschwarzer/godot-audio-haptics
-godot:dl:audio                   | 00   | AudioEffectGate                                                    | https://github.com/Visssarion/audio-gate
-godot:dl:audio                   | 00   | Godot Midi                                                         | https://github.com/nlaha/godot-midi
-godot:dl:audio                   | 00   | GodotSfxr                                                          | https://github.com/tomeyro/godot-sfxr
-godot:dl:audio                   | 00   | Midi File Parser                                                   | https://github.com/brainfoolong/gdscript-midi-parser
-godot:dl:audio                   | 00   | Simple Sampler                                                     | https://github.com/ClementRivaille/godot-simple-sampler
-godot:dl:audio                   | 00   | gdfxr                                                              | https://github.com/timothyqiu/gdfxr
-godot:dl:audio                   | 001  | Audio Mixer Visualizer                                             | https://github.com/Landeplage/Godot-Audio-Mixer-Visualizer
-godot:dl:audio                   | 001  | AudioStream Subtitle                                               | https://github.com/S83gamedev/AudioStream-Subtitle-Plugin
-godot:dl:audio                   | 11   | QuickAudio                                                         | https://github.com/BtheDestroyer/Godot_QuickAudio
-godot:dl:audio                   | 11   | Resonate                                                           | https://github.com/hugemenace/resonate
-godot:dl:audio                   | 11   | Sound Manager                                                      | https://github.com/nathanhoad/godot_sound_manager
-godot:dl:audio                   | 11   | gdsam for Godot                                                    | https://github.com/deadpixelsociety/gdsam-plugin
-godot:dl:camera                  | 00   | Focus camera with mouse                                            | https://github.com/GustJc/godot_focus_camera_with_mouse
-godot:dl:camera                  | 00   | Little Camera Preview                                              | https://github.com/anthonyec/godot_little_camera_preview
-godot:dl:camera                  | 00   | Phantom Camera                                                     | https://github.com/ramokz/phantom-camera
-godot:dl:card                    | 00   | Godot Card Layout                                                  | https://github.com/cyanglaz/gcard_layout
-godot:dl:card                    | 00   | Simple Card Pile UI                                                | https://github.com/insideout-andrew/simple-card-pile-ui
-godot:dl:card                    | 001  | Godot Card Parallax                                                | https://github.com/Trixelized/godotCardParallax
-godot:dl:color                   | 11   | Color Preview                                                      | https://github.com/Qubus0/GodotColorPreview
-godot:dl:database                | 00   | CSV-Typed-Data-Importer                                            | https://github.com/citizenll/godot-csv-typed-importer
-godot:dl:database                | 00   | DataTable                                                          | https://github.com/Ward727a/godot_datatable_plugin
-godot:dl:database                | 001  | Godot-SQLite                                                       | https://github.com/2shady4u/godot-sqlite
-godot:dl:database                | 001  | Text Database                                                      | https://github.com/KoBeWi/Godot-Text-Database
-godot:dl:demo                    | 00   | 2D Train/Railroad Demo                                             | https://github.com/moonbench/simple-godot-train
-godot:dl:demo                    | 00   | COGITO : Immersive Sim Template                                    | https://github.com/Phazorknight/Cogito
-godot:dl:demo                    | 00   | Dark Peace's BulletUpHell                                          | https://github.com/Dark-Peace/BulletUpHell
-godot:dl:demo                    | 00   | Deflection (ballistics) Formula                                    | https://github.com/neclor/deflection-ballistics-formula-godot
-godot:dl:demo                    | 00   | Dodge the Creeps Demo                                              | https://github.com/godotengine/godot-demo-projects/tree/4.2-31d1c0c/2d/dodge_the_creeps
-godot:dl:demo                    | 00   | Godot Chess                                                        | https://codeberg.org/Crowded-Games/Godot-Chess
-godot:dl:demo                    | 00   | Godot Tactical RPG                                                 | https://github.com/ramaureirac/godot-tactical-rpg
-godot:dl:demo                    | 00   | Horror FPS Template                                                | https://github.com/ThiDiamondDev/horror-fps-template
-godot:dl:demo                    | 00   | Multi-channel Signed Distance Field Font Demo                      | https://github.com/godotengine/godot-demo-projects/tree/4.2-31d1c0c/gui/msdf_font
-godot:dl:demo                    | 00   | PerfBullets                                                        | https://github.com/Moonzel/Godot-PerfBullets
-godot:dl:demo                    | 00   | Retro Terrain                                                      | https://github.com/NickToony/gd-retroterrain
-godot:dl:demo                    | 00   | Survivors Starter Kit                                              | https://github.com/DarkRewar/SurvivorsStarterKit
-godot:dl:demo                    | 001  | Puzzle Dependencies                                                | https://github.com/nathanhoad/godot_puzzle_dependencies
-godot:dl:dialogue                | 00   | Native Dialogs                                                     | https://github.com/98teg/NativeDialogs
-godot:dl:dialogue                | 00   | ink                                                                | https://github.com/paulloz/godot-ink
-godot:dl:dialogue                | 001  | Clyde Dialogue                                                     | https://github.com/viniciusgerevini/godot-clyde-dialogue
-godot:dl:dialogue                | 001  | Dialogue Nodes                                                     | https://github.com/nagidev/DialogueNodes
-godot:dl:dialogue                | 001  | Theatre                                                            | https://github.com/nndda/Theatre
-godot:dl:dialogue                | 11   | GDrama                                                             | https://github.com/moraguma/GDrama
-godot:dl:dialogue                | 11   | Dialogue Engine                                                    | https://github.com/Rubonnek/dialogue-engine
-godot:dl:edit                    | 001  | AutoSaver Toggle for Godot Editor (C#)                             | https://github.com/vrravalos/AutoSaver-for-Godot
-godot:dl:editor                  | 001  | Godot Tabs                                                         | https://github.com/Cevantime/godot_tabs
-godot:dl:editor                  | 001  | Script-IDE                                                         | https://github.com/Maran23/script-ide
-godot:dl:editor                  | 11   | GodotSize                                                          | https://github.com/the-sink/godotsize
-godot:dl:environment             | 00   | Globalize Plugins                                                  | https://github.com/dugramen/godot-globalize-plugins
-godot:dl:event                   | 00   | Switch Manager                                                     | https://github.com/AlecSouthward/Switch-Manager
-godot:dl:explorer                | 00   | Asset Dock                                                         | https://github.com/Reetro/Asset-Dock
-godot:dl:explorer                | 00   | Tabby Explorer                                                     | https://github.com/luxmargos/godot_tabby_explorer_plugin
-godot:dl:explorer                | 11   | Dock Slot Expander                                                 | https://github.com/bypell/dock_slot_expander
-godot:dl:fade                    | 11   | Universal Fade                                                     | https://github.com/KoBeWi/Godot-Universal-Fade
-godot:dl:format                  | 001  | Format on Save                                                     | https://github.com/ryan-haskell/gdformat-on-save
-godot:dl:generate                | 00   | Wave Function Collapse (WFC)                                       | https://github.com/AlexeyBond/godot-constraint-solving
-godot:dl:graphic                 | 00   | Auto Polygon2D Triangulation                                       | https://github.com/dweremeichik/godot_autopoly_plugin
-godot:dl:graphic                 | 00   | GUI Auto Layout                                                    | https://github.com/don-tnowe/godot-auto-layout
-godot:dl:graphic                 | 00   | Godot Annotate                                                     | https://github.com/zarstensen/GodotAnnotate
-godot:dl:graphic                 | 00   | Godot Krita Importer                                               | https://github.com/2shady4u/godot-krita-importer
-godot:dl:graphic                 | 00   | Vector2 Array Resource Editor                                      | https://github.com/Bugwan91/vector2_array_resource_editor
-godot:dl:graphic                 | 001  | Godot GIF                                                          | https://github.com/BOTLANNER/godot-gif
-godot:dl:graphic                 | 001  | Godot QOI                                                          | https://github.com/DmitriySalnikov/godot_qoi
-godot:dl:grep                    | 00   | Find Everywhere                                                    | https://github.com/MakovWait/godot-find-everywhere
-godot:dl:icon                    | 00   | Icon Explorer                                                      | https://github.com/kenyoni-software/godot-addons
-godot:dl:icon                    | 00   | Material Design Icons for Godot                                    | https://github.com/rakugoteam/Godot-Material-Icons
-godot:dl:icon                    | 11   | 2D Shapes                                                          | https://github.com/TechnocatDev/2d-shapes
-vscode:extension:-               | 10   | Extension Export & Import                                          | https://github.com/aslamanver/vsc-export
-godot:dl:input                   | 00   | Input Helper                                                       | https://github.com/nathanhoad/godot_input_helper
-neovim:ime:-                     | 11   | cmp-lsp-rimels                                                     | https://github.com/liubianshi/cmp-lsp-rimels
-godot:dl:input                   | 00   | Input Mapper Preset Loader                                         | https://github.com/EladKarni/InputMapperPresetLoader
-godot:dl:input                   | 00   | KBM/Controller Switch Detector                                     | https://godotengine.org/asset-library/asset/2904
-godot:dl:input                   | 00   | Multiplayer Input                                                  | https://github.com/matjlars/godot-multiplayer-input
-godot:dl:input                   | 00   | Onscreen Keyboard                                                  | https://github.com/martinfuchs/Godot-Onscreen-Keyboard
-godot:dl:input                   | 00   | Slider Gamepad                                                     | https://github.com/MrEliptik/slider_gamepad
-godot:dl:input                   | 00   | Virtual Joystick                                                   | https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot
-godot:dl:input                   | 001  | ControlsRemap resource                                             | https://github.com/KoBeWi/Godot-Input-Remap
-godot:dl:input                   | 001  | Inputty                                                            | https://codeberg.org/MxSophie/Inputty
-godot:dl:input                   | 001  | SmoothScroll                                                       | https://github.com/SpyrexDE/SmoothScroll
-godot:dl:input                   | 11   | Action Icon                                                        | https://github.com/KoBeWi/Godot-Action-Icon
-godot:dl:input                   | 11   | Controller Icons                                                   | https://github.com/rsubtil/controller_icons/
-vscode:archive:-                 | 00   | VSCode Archive                                                     | https://github.com/tjx666/vscode-archive
-vscode:archive:-                 | 10   | Zip Tools                                                          | https://github.com/AdamRaichu/vscode-zip-viewer.git
-godot:dl:input                   | 11   | Cursor Shape Previewer                                             | https://github.com/zaevi/godot-cursor-shape-previewer
-godot:dl:input                   | 11   | Godot_multidirectional_joystick for Godot 4                        | https://github.com/JstnJrg/Godot_multidirectional_joystick
-godot:dl:input                   | 11   | InputController                                                    | https://github.com/sscovil/godot-input-controller-addon
-godot:dl:inspector               | 001  | Dictionary Inspector                                               | https://github.com/don-tnowe/godot-dictionary-inspector
-godot:dl:inspector               | 001  | Inspector Extender - Buttons, Warnings, More                       | https://github.com/don-tnowe/godot-inspector-extender
-godot:dl:item                    | 00   | Lootie                                                             | https://github.com/ninetailsrabbit/Lootie
-godot:dl:item                    | 00   | Wyvernbox - Inventory System                                       | https://github.com/don-tnowe/godot-wyvernbox-inventory
-godot:dl:keymap                  | 00   | Previous Tab                                                       | https://github.com/MakovWait/godot-previous-tab
-godot:dl:kit                     | 00   | DungeonCrawler3D                                                   | https://github.com/Rebelion-Board-game/DungonCrawler
-godot:dl:kit                     | 00   | Skelerealms - Open World RPG Framework                             | https://github.com/SlashScreen/skelerealms
-godot:dl:kit                     | 001  | Godot Essentials                                                   | https://gitlab.com/godot-tools/godot-essentials
-godot:dl:kit                     | 001  | Godot Gameplay Systems                                             | https://github.com/OctoD/godot-gameplay-systems
-godot:dl:kit                     | 001  | Popochiu                                                           | https://github.com/carenalgas/popochiu
-godot:dl:library                 | 00   | Advanced Radial Menu                                               | https://github.com/diklor/advanced_radial_menu
-godot:dl:library                 | 00   | Calendar Library                                                   | https://github.com/peterhoglund/Calendar-Library
-godot:dl:light                   | 00   | 2D Editor Light Toggle                                             | https://github.com/aXu-AP/LightToggle2D
-godot:dl:light                   | 00   | Instant Realistic Light                                            | https://github.com/soykhaler/Instant-Realistic-Light-Godot-Engine
-godot:dl:map                     | 00   | 	Shape Manipulation Basics                                         | https://github.com/Goldenlion5648/GodotSlicingGeometryExample
-godot:dl:map                     | 00   | Gaea                                                               | https://github.com/BenjaTK/Gaea
-godot:dl:map                     | 00   | Hex Grid                                                           | https://github.com/Goldenlion5648/GodotHexGridBasics
-godot:dl:map                     | 00   | Icosaedron Sphere (IcoSphere) Mesh                                 | https://github.com/MAGGen-hub/Icosphere-Mesh-Godot-Plugin
-godot:dl:map                     | 00   | Procedural World Map Generator                                     | https://github.com/edwin-cox/godot-infinite-worldmap
-godot:dl:map                     | 00   | TerraBrush                                                         | https://github.com/spimort/TerraBrush
-godot:dl:map                     | 00   | TileMapsChef                                                       | https://github.com/Pardok/TileMapsChef
-godot:dl:movie                   | 00   | Frog Subtitles                                                     | https://github.com/Frog-Collective/frog-subtitles
-godot:dl:movie                   | 00   | Movie Maker Timestamp                                              | https://gitlab.com/timkrief/movie_maker_timestamp
-godot:dl:music                   | 00   | MIDI Importer                                                      | https://github.com/G0retZ/godot-midi-mport
-godot:dl:music                   | 00   | MusicManager                                                       | https://github.com/Promptineer/MusicManager
-godot:dl:node                    | 00   | Orchestrator: Unleashing Creativity with Visual Scripting          | https://github.com/CraterCrash/godot-orchestrator
-godot:dl:node                    | 00   | SignalVisualizer                                                   | https://github.com/Ericdowney/SignalVisualizer
-godot:dl:node                    | 001  | Line Up Tool                                                       | https://github.com/KaanAlpar/godot-plugin-course-line-up-tool
-godot:dl:node                    | 001  | Prefab                                                             | https://github.com/KoBeWi/Godot-Prefab
-godot:dl:node                    | 001  | Visibility shortcut                                                | https://github.com/Janders1800/godot-visibility-shortcut
-godot:dl:path                    | 001  | A Star 2D Grid Node                                                | https://github.com/Firemanarg/godot-astar-2d-grid-node
-godot:dl:path                    | 11   | Template for pathfinding games                                     | https://github.com/xolatgames/Pathfinding/
-godot:dl:scene                   | 00   | Godot V4 Scene Browser                                             | https://github.com/Krosh/Godot-Scene-Browser
-godot:dl:scene                   | 00   | Interactive Scene Changer                                          | https://github.com/VP-GAMES/Godot4InteractiveSceneChanger
-godot:dl:scene                   | 00   | Polygon Knife Tool                                                 | https://github.com/mrkdji/knife-tool
-godot:dl:scene                   | 00   | Quick Scenes                                                       | https://github.com/KoBeWi/Godot-Quick-Scenes
-godot:dl:scene                   | 00   | Simple Scene Manager                                               | https://github.com/symbol24/Simple-Scene-Manager
-godot:dl:scene                   | 001  | Scene Manager                                                      | https://github.com/glass-brick/Scene-Manager
-godot:dl:scene                   | 001  | Scene Manager                                                      | https://github.com/m-canton/godot-scene-manager
-godot:dl:scene                   | 001  | Scene Manager                                                      | https://github.com/maktoobgar/scene_manager
-godot:dl:scene                   | 001  | Scene Palette                                                      | https://github.com/cixil/godot-scene-palette
-godot:dl:scene                   | 11   | Most Simple Scene Loader                                           | https://github.com/MikeAmputer/godot-simple-scene-loader
-godot:dl:scene                   | 11   | Parallax2D Preview                                                 | https://github.com/KoBeWi/Godot-Parallax2D-Preview
-godot:dl:script                  | 00   | Dice Syntax Godot4                                                 | https://github.com/oganm/dice_syntax_gd
-godot:dl:script                  | 00   | GDExpr                                                             | https://github.com/dementive/gdexpr
-godot:dl:script                  | 00   | GDScript Promise Async Utils                                       | https://github.com/kuruk-mm/gdscript-promise-async-utils
-godot:dl:script                  | 00   | GodotSx - Signal Extensions                                        | https://github.com/TheWalruzz/godot-sx
-godot:dl:script                  | 00   | Gosu                                                               | https://github.com/yunusey/gosu
-godot:dl:script                  | 001  | GDScript ECS framework                                             | https://github.com/yihrmc/gdscript-ecs
-godot:dl:script                  | 001  | Godot MVC                                                          | https://github.com/baiXfeng/godot-mvc
-godot:dl:script                  | 001  | Godot Rollback Netcode                                             | https://gitlab.com/snopek-games/godot-rollback-netcode
-godot:dl:script                  | 11   | Godot ECS                                                          | https://github.com/baiXfeng/godot-ecs
-godot:dl:script                  | 11   | Script Panel +                                                     | https://github.com/Loregret/script-panel-plus/
-godot:dl:setting                 | 00   | Godot Game Settings                                                | https://github.com/PunchablePlushie/godot-game-settings
-godot:dl:shader                  | 00   | 	EasyCompute                                                       | https://github.com/Tymec/EasyCompute
-godot:dl:shader                  | 00   | Compute Shader Plus                                                | https://github.com/DevPoodle/compute-shader-plus
-godot:dl:shader                  | 00   | Copy Correct Shader Parameters                                     | https://github.com/Dev-Marco/CCSP---Copy-Correct-Shader-Parameters
-godot:dl:shader                  | 00   | Palette swap shader with animation support                         | https://github.com/KoBeWi/Godot-Palette-Swap-Shader
-godot:dl:shader                  | 00   | Portal                                                             | https://github.com/3Dvachevsky/Portals
-godot:dl:shader                  | 00   | Sprite Shader Mixer                                                | https://github.com/spheras/godot-sprite-shader-mixer
-godot:dl:shader                  | 11   | ShaderV - 2D Visual Shader Node Library (Godot 4)                  | https://github.com/arkology/ShaderV
-godot:dl:shaker                  | 00   | Shaker                                                             | https://github.com/Eneskp3441/Shaker
-godot:dl:sound                   | 001  | Kenney Interface Sounds                                            | https://github.com/Calinou/kenney-interface-sounds
-godot:dl:sound                   | 001  | Kenney UI Audio                                                    | https://github.com/Calinou/kenney-ui-audio
-godot:dl:sound                   | 11   | Godot Audio Events                                                 | https://github.com/FreekDS/GodotAudioEvents
-godot:dl:srite                   | 00   | Aseprite Wizard                                                    | https://github.com/viniciusgerevini/godot-aseprite-wizard
-godot:dl:state                   | 00   | Cognite                                                            | https://github.com/matheus-s-arruda/Cognite
-godot:dl:state                   | 00   | Statechart Sharp: a state machine plugin                           | https://github.com/laoguowangCP/godot-statechart-sharp
-godot:dl:state                   | 001  | Saturn - Simple Cascade State Machine                              | https://github.com/GumpDev/saturn
-godot:dl:status                  | 00   | XSM 4                                                              | https://gitlab.com/atn_games/xsm2-g4
-godot:dl:steam                   | 001  | GodotSteam 4 Example Project                                       | https://github.com/GodotSteam/GodotSteam-Example-Project
-godot:dl:steam                   | 001  | Sync Deck                                                          | https://github.com/Michael-Jalloh/SyncDeck
-godot:dl:stream                  | 11   | Steam API                                                          | https://github.com/samsface/godot-steam-api
-godot:dl:system                  | 00   | Metroidvania System                                                | https://github.com/KoBeWi/Metroidvania-System
-godot:dl:system                  | 00   | Weather System                                                     | https://codeberg.org/matiaslavik/GodotWeatherSystem
-godot:dl:system                  | 001  | Wyvernshield 2 - Character Upgrades for Combat Systems             | https://github.com/don-tnowe/godot-wyvernshield-triggers
-godot:dl:table                   | 00   | Edit Resources as Spreadsheet                                      | https://github.com/don-tnowe/godot-resources-as-sheets-plugin
-godot:dl:test                    | 00   | Delta Rollback                                                     | https://gitlab.com/BimDav/delta-rollback/
-godot:dl:test                    | 00   | Diagnostic List                                                    | https://github.com/mphe/godot-diagnostic-list
-godot:dl:test                    | 00   | Log - A logging plugin for Godot                                   | https://github.com/albinaask/Log
-godot:dl:test                    | 00   | Runtime Debug Tools                                                | https://github.com/bbbscarter/GodotRuntimeDebugTools
-godot:dl:test                    | 00   | rpc-await                                                          | https://github.com/dominiks/rpc-await
-godot:dl:test                    | 001  | Panku Console                                                      | https://github.com/Ark2000/PankuConsole
-godot:dl:test                    | 11   | Pinned Debugger Tabs                                               | https://github.com/Wierdox/godot_pinned_debugger_tabs
-godot:dl:test                    | 11   | Tracer                                                             | https://github.com/wyvernbw/tracer.gd
-godot:dl:text                    | 00   | Rich Text Label with BBCode Demo                                   | https://github.com/godotengine/godot-demo-projects/tree/4.2-31d1c0c/gui/rich_text_bbcode
-godot:dl:text                    | 11   | Label Font Auto Sizer - Godot 4                                    | https://github.com/LuisEscorza/GodotLabelFontAutoSizer
-godot:dl:text                    | 11   | RichTextLabel2                                                     | https://github.com/chairfull/GodotRichTextLabel2
-godot:dl:texture                 | 00   | NinePatchSprite2D                                                  | https://github.com/ninstar/Godot-NinePatchSprite2D
-godot:dl:texture                 | 001  | TextureFont                                                        | https://github.com/Mickeon/Godot-Texture-Font
-godot:dl:theme                   | 00   | Editor Theme Explorer                                              | https://github.com/YuriSizov/godot-editor-theme-explorer
-godot:dl:theme                   | 00   | ThemeGen                                                           | https://github.com/Inspiaaa/ThemeGen
-godot:dl:tile                    | 11   | TileMapLayer Basics in 4.3                                         | https://github.com/Goldenlion5648/TileMapLayersTutorial
-godot:dl:tilemap                 | 001  | YATI (Yet Another Tiled Importer)                                  | https://github.com/Kiamo2/YATI
-godot:dl:tool                    | 00   | Block Coding                                                       | https://github.com/endlessm/godot-block-coding
-godot:dl:tool                    | 00   | CyberAssets+                                                       | https://github.com/CypherDoesStuff/CyberAssets
-godot:dl:tool                    | 00   | Directory Watcher                                                  | https://github.com/KoBeWi/Godot-Directory-Watcher
-godot:dl:tool                    | 00   | EditorScriptManager                                                | https://github.com/bbMercy/EditorScriptManager
-godot:dl:tool                    | 00   | Game Jolt API                                                      | https://github.com/murikistudio/game-jolt-api
-godot:dl:tool                    | 00   | GodotBoy GDExtention                                               | https://gitlab.com/greenfox/godot-boy
-godot:dl:tool                    | 00   | MarkdownLabel                                                      | https://github.com/daenvil/MarkdownLabel
-godot:dl:tool                    | 00   | Multirun For Godot 4                                               | https://github.com/xiezi5160/MultirunForGodot4
-godot:dl:tool                    | 00   | Ref Serializer                                                     | https://github.com/KoBeWi/Godot-Ref-Serializer
-godot:dl:tool                    | 00   | RemoteContainer                                                    | https://github.com/ninstar/Godot-RemoteContainer
-godot:dl:tool                    | 00   | Resource Path                                                      | https://github.com/huwpascoe/godot_resource_path
-godot:dl:tool                    | 00   | SignalSentry                                                       | https://github.com/kidManuel/SignalSentry
-godot:dl:tool                    | 001  | GDShell                                                            | https://github.com/Kubulambula/Godot-GDShell
-godot:dl:tool                    | 11   | Github To Itch                                                     | https://github.com/MeagherGames/github_to_itch
-godot:dl:tool                    | 11   | YAT - Yet Another Terminal (C#)                                    | https://github.com/MASSHUU12/godot-yat
-godot:dl:tower                   | 00   | Tower Defense Game Template                                        | https://github.com/alpapaydin/Godot-4-Tower-Defense-Template
-godot:dl:track                   | 00   | GodotOwl                                                           | https://github.com/Yoshiip/godot-owl
-godot:dl:translate               | 00   | Localization Editor                                                | https://github.com/VP-GAMES/Godot4LocalizationEditor
-godot:dl:translate               | 001  | POT Word - POT and PO file editor                                  | https://github.com/diklor/pot_word
-godot:dl:translate               | 11   | Fluent Translation                                                 | https://github.com/RedMser/godot-fluent-translation
-godot:dl:ui                      | 00   | Slider Label                                                       | https://github.com/KoBeWi/Godot-Slider-Label
-godot:dl:ui                      | 11   | Spin Button - Horizontal Selector with extended options            | https://github.com/yudinikita/godot-spin-button
-godot:dl:voice                   | 00   | Godot Whisper - Speech to Text                                     | https://github.com/V-Sekai/godot-whisper
-godot:dl:voice                   | 00   | Text to Speech                                                     | https://github.com/kdik/godot-text-to-speech
-godot:dl:wiki                    | 00   | Cider Wiki                                                         | https://github.com/apples/cider_wiki
-godot:dl:window                  | 001  | GameGUI                                                            | https://github.com/brombres/Godot-GameGUI
-godot:src:dialogue               | 001  | Dialogic 2                                                         | https://github.com/dialogic-godot/dialogic
-godot:src:dialogue               | 00   | Rakugo Dialogue System                                             | https://github.com/rakugoteam/Rakugo-Dialogue-System
-godot:src:generate               | 00   | Hoodie                                                             | https://github.com/GreenCrowDev/hoodie
-godot:src:item                   | 00   | Expresso Inventory System                                          | https://github.com/expressobits/inventory-system
-godot:src:physical               | 00   | Cyclops Level Builder                                              | https://github.com/blackears/cyclopsLevelBuilder
-godot:src:physical               | 00   | Godot Jolt                                                         | https://github.com/godot-jolt/godot-jolt
-godot:src:physical               | 00   | Rapier Extension for Godot                                         | https://github.com/appsinacup/godot-rapier-physics
-godot:src:physical               | 00   | SoftBody2D                                                         | https://github.com/appsinacup/godot-softbody2d
-godot:src:physical               | 00   | WiggleBone                                                         | https://github.com/detomon/wigglebone
-godot:src:physical               | 00   | WigglyAppendage2D                                                  | https://github.com/Tameno-01/GodotWigglyAppendage2D
-godot:src:tool                   | 00   | GriddyCode                                                         | https://github.com/face-hh/griddycode
-godot:theme:-                    | 11   | Minimal Godot Theme                                                | https://github.com/passivestar/godot-minimal-theme
-goldendict:command:linux         | 00   | Acute                                                              | https://terokarvinen.com/2017/acute-0-2-2-integrate-help-commands-to-single-interface-pydoc3-puppet-describe-and-man-in-goldendict/
-goldendict:dictionary:hunspell   | 00   | Dictionaries for Sublime Text                                      | https://github.com/titoBouzout/Dictionaries
-goldendict:programs:translate    | 00   | deep-translator                                                    | https://github.com/nidhaloff/deep-translator
-goldendict:service:translate     | 00   | DeepLX API Load Balancer                                           | https://github.com/yym68686/DeepLX
-goldendict:service:translate     | 00   | deeplx-tr                                                          | https://github.com/ffreemt/deeplx-tr
-goldendict:service:translate     | 001  | DeepLX                                                             | https://github.com/OwO-Network/DeepLX
-goldendict:translate:deepl       | 00   | GoldenDict-DeepL                                                   | https://github.com/DevJogger/GoldenDict-DeepL
-graphic:-:-                      | 00   | Dotgrid                                                            | https://hundredrabbits.itch.io/dotgrid
-graphic:-:-                      | 00   | Paint of Persia                                                    | https://dunin.itch.io/ptop
-graphic:-:-                      | 00   | Pixelorama                                                         | https://github.com/Orama-Interactive/Pixelorama
-graphic:-:-                      | 00   | Strike                                                             | https://github.com/dmliao/strike
-graphic:3d:-                     | 00   | Instant Neural Graphics Primitives                                 | https://github.com/NVlabs/instant-ngp
-graphic:3d:-                     | 00   | Text2Mesh                                                          | https://github.com/threedle/text2mesh
-graphic:aseprite:-               | 00   | Aseprite                                                           | https://dacap.itch.io/aseprite
-graphic:aseprite:-               | 00   | Center Image                                                       | https://thkaspar.itch.io/center-image
-graphic:aseprite:-               | 00   | Normal Shading                                                     | https://mooosik.itch.io/shading-extension
-graphic:aseprite:-               | 00   | Write Tool                                                         | https://jahdah.itch.io/write-tool
-graphic:aseprite:audio           | 00   | Aseprite Audio Extension                                           | https://ddmplayer.itch.io/aseprite-audio-extension
-graphic:aseprite:brush           | 00   | Brush Transformations                                              | https://thkaspar.itch.io/brush-transformation
-graphic:aseprite:brush           | 00   | Randomize Brush                                                    | https://thkaspar.itch.io/randomize-brush
-graphic:aseprite:canvas          | 00   | Canvas Presets for Aseprite                                        | https://lintnaya.itch.io/canvas-presets-for-aseprite
-graphic:aseprite:canvas          | 00   | Easy Resize for Aseprite                                           | https://megacrash.itch.io/easy-resize\
-graphic:aseprite:cel             | 00   | Cel Tracking                                                       | https://thkaspar.itch.io/cel-tracking
-graphic:aseprite:cel             | 00   | Extend Cel                                                         | https://thkaspar.itch.io/extend-cel
-graphic:aseprite:cel             | 00   | Modify Frame Rate                                                  | https://thkaspar.itch.io/modify-frame-rate
-graphic:aseprite:cel             | 00   | Playback Shortcuts                                                 | https://thkaspar.itch.io/play-tag
-graphic:aseprite:color           | 00   | Color2GMS                                                          | https://kidmarscat.itch.io/color2gms
-graphic:aseprite:color           | 00   | Magic Pencil                                                       | https://thkaspar.itch.io/magic-pencil
-graphic:aseprite:config          | 00   | Asepritely                                                         | https://iivii.itch.io/asepritely
-graphic:aseprite:config          | 00   | NxPA Studio                                                        | https://thkaspar.itch.io/nxpa
-graphic:aseprite:device          | 00   | On-Screen Controls                                                 | https://thkaspar.itch.io/on-screen-controls
-graphic:aseprite:device          | 00   | Touchscreen Extension for Aseprite                                 | https://maplepixels.itch.io/touchscreen-extension-for-aseprite
-graphic:aseprite:export          | 00   | Aseprite Batch Export                                              | https://ramrodwilly.itch.io/aseprite-batch-export
-graphic:aseprite:export          | 00   | Better Groups for Aseprite                                         | https://bigasdev.itch.io/better-groups-for-aseprite
-graphic:aseprite:grid            | 00   | Grid2Size                                                          | https://kidmarscat.itch.io/grid2size
-graphic:aseprite:isometric       | 00   | Aseprite isometric converter                                       | https://noesteryo.itch.io/aseprite-isometric-converter
-graphic:aseprite:isometric       | 00   | Aseprite isometric guidelines                                      | https://noesteryo.itch.io/aseprite-isometric-guidelines
-graphic:aseprite:isometric       | 00   | Isometric Box Generator                                            | https://darkwark.itch.io/isobox-for-aseprite
-graphic:aseprite:layer           | 00   | Go To                                                              | https://thkaspar.itch.io/go-to
-graphic:aseprite:layer           | 00   | Select Content                                                     | https://thkaspar.itch.io/select-content
-graphic:aseprite:map             | 00   | Normal Shading                                                     | https://mooosik.itch.io/shading-extension
-graphic:aseprite:map             | 00   | Normal Toolkit                                                     | https://mooosik.itch.io/normal-toolkitS
-graphic:aseprite:other           | 00   | Block Preview                                                      | https://astropulse.itch.io/block-preview
-graphic:aseprite:other           | 00   | Time Tracking                                                      | https://thkaspar.itch.io/time-tracking-for-aseprite
-graphic:aseprite:palette         | 00   | Lospec palette to Aseprite                                         | https://noesteryo.itch.io/lospec-palette-to-aseprite
-graphic:aseprite:palette         | 00   | WLK44 Palette for Aseprite                                         | https://wildleoknight.itch.io/wlk44-palette-for-aseprite
-graphic:aseprite:palette         | 00   | WildLeoKnight Gameboy Palettes for Aseprite                        | https://wildleoknight.itch.io/wildleoknight-gameboy-aseprite-palettes
-graphic:aseprite:sprite          | 00   | Animation Suite                                                    | https://thkaspar.itch.io/animation-suite
-graphic:aseprite:sprite          | 00   | Aseprite Animated Brush Extension                                  | https://fabico.itch.io/aseprite-animated-brush-extension
-graphic:aseprite:sprite          | 00   | Aseprite Parallax Script                                           | https://darkmatterdreams.itch.io/aseprite-parallax-script
-graphic:aseprite:sprite          | 00   | FX                                                                 | https://thkaspar.itch.io/fx
-graphic:aseprite:sprite          | 00   | Sprite Analyzer                                                    | https://thkaspar.itch.io/sprite-analyzer
-graphic:aseprite:sprite          | 001  | Advanced Spritesheet Export                                        | https://annabunches.itch.io/advanced-spritesheet-export
-graphic:aseprite:theme           | 00   | Aseprite Dark Mort HD Theme                                        | https://mortmort.itch.io/aseprite-darkmode
-graphic:aseprite:theme           | 00   | Flat Theme                                                         | https://jahdah.itch.io/subtle-dark-theme
-graphic:aseprite:theme           | 00   | Subtle Dark Theme                                                  | https://akezhar.itch.io/flat-theme
-graphic:aseprite:theme           | 00   | Theme Preferences                                                  | https://thkaspar.itch.io/theme-preferences
-graphic:aseprite:theme           | 00   | Warm Recolor                                                       | https://trixelized.itch.io/warm-recolor
-graphic:aseprite:theme           | 00   | minimal dark hd                                                    | https://2dchaos.itch.io/minimal-dark-aseprite-theme
-graphic:aseprite:tile            | 00   | Aseprite Tile Bleeder                                              | https://mpdacey.itch.io/aseprite-tile-bleeder
-graphic:cad:-                    | 00   | Logisim-evolution                                                  | https://github.com/logisim-evolution/logisim-evolution
-graphic:cad:-                    | 00   | Cadmapper                                                          | https://cadmapper.com
-graphic:cad:-                    | 00   | FreeCAD                                                            | https://github.com/FreeCAD/FreeCAD
-graphic:cad:-                    | 00   | KiCad                                                              | https://kicad.org
-graphic:cad:-                    | 00   | KiKit – Automation for KiCAD                                       | https://github.com/yaqwsx/KiKit
-graphic:cad:-                    | 00   | OpenSCAD                                                           | https://github.com/openscad/openscad
-graphic:cad:-                    | 00   | QCAD                                                               | https://qcad.org
-graphic:geo:-                    | 00   | 2D-isoedit                                                         | https://github.com/Grille/2D-isometricRenderer
-graphic:geo:-                    | 00   | QGIS                                                               | https://qgis.org
-graphic:geo:-                    | 00   | Rasterio                                                           | https://github.com/rasterio/rasterio
-graphic:geo:-                    | 00   | Satellite Cloud Generator                                          | https://github.com/cidcom/SatelliteCloudGenerator
-graphic:geo:-                    | 00   | heightmapper                                                       | https://github.com/tangrams/heightmapper
-graphic:geo:-                    | 00   | rio-faux                                                           | https://github.com/cogeotiff/rio-faux
-graphic:gimp:-                   | 00   | GIMP                                                               | https://gimp.org
-graphic:gimp:-                   | 00   | GIMP Resynthesizer Plugin Suite                                    | https://github.com/bootchk/resynthesizer
-graphic:inkscape:-               | 00   | Inkscape                                                           | https://inkscape.org
-graphic:inkscape:-               | 00   | TexText                                                            | https://github.com/textext/textext
-graphic:krita:-                  | 00   | Krita                                                              | https://krita.org/en/
-graphic:nes:-                    | 00   | NEXXT                                                              | https://frankengraphics.itch.io/nexxt
-graphic:node-editor:-            | 00   | Cascade                                                            | https://github.com/ttddee/Cascade
-graphic:node-editor:-            | 00   | Image-Processing-Node-Editor                                       | https://github.com/Kazuhito00/Image-Processing-Node-Editor
-graphic:node-editor:-            | 001  | Nodezator                                                          | https://github.com/IndiePython/nodezator
-graphic:node-editor:-            | 10   | chaiNNer                                                           | https://github.com/joeyballentine/chaiNNer
-graphic:node-editor:vfx          | 00   | Pixel Composer                                                     | https://github.com/ttanasart-pt/pixel-composer
-graphic:paint-net:-              | 00   | Paint .Net Animation Helper Plugin                                 | https://pixelbyte.itch.io/paint-net-sprite-plugin
-graphic:paint-net:-              | 00   | Paint.NET                                                          | https://getpaint.net
-graphic:texture:-                | 00   | Dream Texture                                                      | https://github.com/carson-katri/dream-textures
-graphic:texture:-                | 00   | non_repeating_hextiling                                            | https://github.com/Gizmo199/non_repeating_hextiling
-graphic:tui:-                    | 00   | cmdpxl                                                             | https://github.com/knosmos/cmdpxl
-gui:git:-                        | 00   | Fork                                                               | https://gitextensions.github.io
-gui:git:-                        | 00   | Git Extensions                                                     | https://gitextensions.github.io
-gui:git:gist                     | 00   | Lepton                                                             | https://github.com/hackjutsu/Lepton
-gui:git:github                   | 00   | GitHub Desktop                                                     | https://desktop.github.com
-gui:rename:-                     | 00   | ReNamer                                                            | https://den4b.com/products/renamer
-gui:rename:-                     | 11   | Advanced Renamer                                                   | https://advancedrenamer.com
-gui:thumbnail:-                  | 00   | qmtn                                                               | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
-hardware:controller:-            | 00   | GP2040                                                             | https://gp2040.info
-hardware:archivist:-             | 00   | Archivist                                                          | https://diybookscanner.org/archivist/index.html
-hardware:archivist:-             | 00   | Pi Scan                                                            | https://github.com/Tenrec-Builders/pi-scan
-hardware:audio:-                 | 00   | AudioRelay                                                         | https://audiorelay.net
-hardware:audio:-                 | 00   | REAL                                                               | https://github.com/miniant-git/REAL
-hardware:audio:-                 | 00   | audio-limiter                                                      | https://github.com/dylagit/audio-limiter
-hardware:audio:-                 | 11   | EarTrumpet                                                         | https://github.com/File-New-Project/EarTrumpet
-hardware:disk:-                  | 00   | Macrium Reflect                                                    | https://macrium.com/reflectfree
-hardware:disk:-                  | 00   | TreeSize                                                           | https://jam-software.com/treesize_free
-hardware:disk:-                  | 10   | DiskGenius                                                         | https://github.com/Kiprey/DiskGeniusCrack
-hardware:disk:-                  | 10   | MiniTool Partition Wizard                                          | https://minitool.com/partition-manager/partition-wizard-home.html
-hardware:display:-               | 00   | Twinkle Tray                                                       | https://twinkletray.com/
-hardware:driver:-                | 00   | Driver Booster                                                     | https://iobit.com/en/driver-booster.php
-hardware:driver:-                | 00   | Driver Store Explorer                                              | https://github.com/lostindark/DriverStoreExplorer
-hardware:info:-                  | 00   | CPU-Z                                                              | https://cpuid.com/softwares/cpu-z.html
-hardware:info:-                  | 00   | GPU-Z                                                              | https://techpowerup.com/gpuz
-hardware:info:system             | 00   | AIDA64                                                             | https://aida64.com
-hardware:info:system             | 00   | HWinfo                                                             | https://hwinfo.com
-hardware:info:system             | 00   | System Information                                                 | https://ale-margo.itch.io/system-information
-hardware:memory:-                | 11   | Reduce Memory                                                      | https://sordum.org/9197/reduce-memory-v1-6/
-hardware:monitor:-               | 00   | Libre Hardware Monitor                                             | https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
-hardware:monitor:-               | 00   | Monitorian                                                         | https://github.com/emoacht/Monitorian
-hardware:monitor:disk            | 00   | CrystalDiskInfo                                                    | https://osdn.net/projects/crystaldiskinfo
-hardware:monitor:disk            | 00   | smartmontools                                                      | https://smartmontools.org
-hardware:motitor:-               | 00   | Core Temp                                                          | https://alcpu.com/CoreTemp
-hardware:motitor:-               | 00   | Open Hardware Monitor                                              | https://openhardwaremonitor.org
-hardware:process:-               | 00   | Process Hacker                                                     | https://processhacker.sourceforge.io
-image:2ascii:-                   | 00   | Artem                                                              | https://github.com/FineFindus/artem
-image:2ascii:-                   | 00   | ascii-image-converter                                              | https://github.com/TheZoraiz/ascii-image-converter
-image:2cur:png                   | 00   | png2cur                                                            | https://github.com/drahoslove/png2cur
-image:2ico:-                     | 00   | IconPie                                                            | https://github.com/lineCode/icon-pie
-image:2ico:png                   | 10   | png-to-ico                                                         | https://github.com/steambap/png-to-ico
-image:2pixel:-                   | 00   | Super Pyxelate                                                     | https://github.com/sedthh/pyxelate
-image:2png:gif                   | 00   | Gif2png                                                            | https://github.com/dust8/gif2png
-image:2png:svg                   | 00   | SVG to PNG converter                                               | https://github.com/v0lt/svg2png
-image:2png:svg                   | 00   | SVG-to-PNG                                                         | https://github.com/domenic/svg2png
-image:2png:svg                   | 00   | svgexport                                                          | https://github.com/shakiba/svgexport
-image:2svg:-                     | 00   | AutoTrace                                                          | https://github.com/autotrace/autotrace
-image:2svg:-                     | 00   | CairoSVG                                                           | https://courtbouillon.org/cairosvg
-image:2svg:-                     | 00   | Potrace                                                            | https://potrace.sourceforge.net
-image:2svg:png                   | 00   | png2svg                                                            | https://github.com/xyproto/png2svg
-image:browser:-                  | 00   | FastStone Image Viewer                                             | https://faststone.org/FSViewerDetail.htm
-image:browser:-                  | 00   | XnView MP                                                          | https://xnview.com/en/xnviewmp
-image:color:-                    | 00   | ImageTheming                                                       | https://github.com/daniel-seiler/ImageTheming
-image:color:-                    | 00   | Img2Palette                                                        | https://grinnch.itch.io/img2palette
-image:color:-                    | 00   | color-matcher                                                      | https://github.com/hahnec/color-matcher
-image:color:-                    | 00   | posterust                                                          | https://github.com/okaneco/posterust
-image:color:-                    | 10   | Paletter                                                           | https://github.com/Baldomo/paletter
-image:color:gui                  | 00   | RetroEditor                                                        | https://zxretrosoft.itch.io/retroeditor
-image:color:gui                  | 00   | SoftLK-tools                                                       | https://github.com/Captain4LK/SoftLK-tools
-image:convert:-                  | 00   | NConvert                                                           | https://xnview.com/en/nconvert
-image:convert:-                  | 11   | XnConvert                                                          | https://xnview.com/en/xnconvert
-image:darktable:-                | 10   | darktable                                                          | https://darktable.org
-image:darktable:preset           | 10   | t3mujinpack                                                        | https://github.com/t3mujin/t3mujinpack
+tag                            | mark | title                                                     | url
+:-                             | :-   | :-                                                        | :-
+ai:audio:-                     | 00   | AniPortrait                                               | https://github.com/Zejun-Yang/AniPortrait
+ai:audio:-                     | 00   | CosyVoice                                                 | https://github.com/FunAudioLLM/CosyVoice
+ai:audio:-                     | 00   | Fish Speech                                               | https://github.com/fishaudio/fish-speech
+ai:audio:-                     | 00   | FluxMusic                                                 | https://github.com/feizc/FluxMusic
+ai:audio:-                     | 00   | OpenVoice                                                 | https://github.com/myshell-ai/OpenVoice
+ai:audio:-                     | 00   | Real-Time Voice Cloning                                   | https://github.com/CorentinJ/Real-Time-Voice-Cloning
+ai:audio:-                     | 00   | VoiceStreamAI                                             | https://github.com/alesaccoia/VoiceStreamAI
+ai:audio:-                     | 10   | Bark                                                      | https://github.com/suno-ai/bark
+ai:audio:tta                   | 00   | AudioLDM                                                  | https://github.com/haoheliu/AudioLDM
+ai:audio:tta                   | 00   | Coqui.ai TTS                                              | https://github.com/coqui-ai/TTS
+ai:audio:tta                   | 00   | GPT-SoVITS-WebUI                                          | https://github.com/RVC-Boss/GPT-SoVITS
+ai:chat:-                      | 00   | Dify                                                      | https://github.com/langgenius/dify
+ai:chat:-                      | 00   | Letta                                                     | https://github.com/cpacker/MemGPT
+ai:chat:webui                  | 00   | Text generation web UI                                    | https://github.com/oobabooga/text-generation-webui
+ai:github:issue                | 00   | SWE-agent                                                 | https://github.com/princeton-nlp/SWE-agent
+ai:image:-                     | 00   | ComfyUI IPAdapter plus                                    | https://github.com/cubiq/ComfyUI_IPAdapter_plus
+ai:image:-                     | 00   | Draw2Img                                                  | https://github.com/GradientSurfer/Draw2Img
+ai:image:-                     | 00   | FacePoke                                                  | https://github.com/jbilcke-hf/FacePoke
+ai:image:-                     | 00   | Grounded-Segment-Anything                                 | https://github.com/IDEA-Research/Grounded-Segment-Anything
+ai:image:-                     | 00   | IOPaint                                                   | https://github.com/Sanster/IOPaint
+ai:image:-                     | 00   | img2img-turbo                                             | https://github.com/GaParmar/img2img-turbo
+ai:img2vid:-                     | 00   | ToonCrafter                                                        | https://github.com/ToonCrafter/ToonCrafter
+ai:mode:-                      | 00   | Generative Models by Stability AI                         | https://github.com/Stability-AI/generative-models
+ai:ocr:-                       | 00   | docTR                                                     | https://github.com/mindee/doctr
+ai:rag:-                         | 00   | MemoRAG                                                            | https://github.com/qhjqhj00/MemoRAG
+ai:rag:-                       | 00   | LightRAG                                                  | https://github.com/HKUDS/LightRAG
+ai:rag:-                       | 00   | Verba                                                     | https://github.com/weaviate/Verba
+ai:translate:-                 | 00   | BallonsTranslator                                         | https://github.com/dmMaze/BallonsTranslator
+ai:translate:-                 | 00   | ChatGPT API SRT Subtitle Translator                       | https://github.com/Cerlancism/chatgpt-subtitle-translator
+ai:tts:-                       | 00   | Parler-TTS                                                | https://github.com/huggingface/parler-tts
+ai:video:-                     | 00   | LivePortrait                                              | https://github.com/KwaiVGI/LivePortrait
+ai:video:-                     | 00   | MagicAnimate                                              | https://github.com/magic-research/magic-animate
+ai:video:-                     | 00   | RAD-NeRF                                                  | https://github.com/ashawkey/RAD-NeRF
+ai:video:-                     | 00   | Rerender_A_Video                                          | https://github.com/williamyang1991/Rerender_A_Video
+ai:video:-                     | 00   | VideoReTalking                                            | https://github.com/OpenTalker/video-retalking
+ai:video:-                     | 00   | vid2vid                                                   | https://github.com/NVIDIA/vid2vid
+ai:video:camera                | 00   | Disclaimer                                                | https://github.com/hacksider/Deep-Live-Cam
+andirod:-:-                    | 00   | love-11.3-android                                         | https://github.com/love2d/love/releases
+andriod:app:-                  | 00   | App Manager                                               | https://github.com/MuntashirAkon/AppManager
+andriod:app:-                  | 00   | Obtainium                                                 | https://github.com/ImranR98/Obtainium
+andriod:app:-                  | 00   | Qalculate!                                                | https://f-droid.org/packages/com.jherkenhoff.qalculate
+andriod:app:-                  | 00   | Stride                                                    | https://github.com/stride-tasks/stride
+andriod:app:-                  | 11   | Neo Store                                                 | https://github.com/NeoApplications/Neo-Store
+andriod:bible:-                | 00   | and-bible                                                 | https://github.com/AndBible/and-bible
+andriod:bookmark:-             | 00   | floccus bookmark sync                                     | https://github.com/floccusaddon/floccus
+andriod:browser:-              | 00   | Brave                                                     | https://github.com/brave/brave-browser
+andriod:browser:-              | 00   | firefox-android                                           | https://github.com/mozilla-mobile/firefox-android
+andriod:camera:-               | 00   | Hypocam                                                   | https://www.hypocam.com/index.php/app/
+andriod:chat:-                 | 00   | Telegram-FOSS                                             | https://github.com/Telegram-FOSS-Team/Telegram-FOSS
+andriod:cleaner:-              | 00   | Universal Android Debloater GUI                           | https://github.com/0x192/universal-android-debloater
+andriod:dictionary             | 00   | SilverDict                                                | https://github.com/Crissium/SilverDict-mobile
+andriod:dictionary             | 00   | aard2-android                                             | https://github.com/itkach/aard2-android
+andriod:display:-              | 00   | spacedesk                                                 | https://www.spacedesk.net
+andriod:ebook:-                | 001  | KOReader                                                  | https://koreader.rocks
+andriod:editor:-               | 00   | Squircle CE                                               | https://github.com/massivemadness/Squircle-CE
+andriod:explorer:-             | 00   | File Manager Plus                                         | https://alphainventor.com/file-manager-plus
+andriod:explorer:-             | 10   | Material Files                                            | https://github.com/zhanghai/MaterialFiles
+andriod:explorer:-             | 11   | Amaze                                                     | https://github.com/TeamAmaze/AmazeFileManager
+andriod:game:-                 | 00   | Forkyz Scanner                                            | https://gitlab.com/Hague/forkyzscanner
+andriod:game:-                 | 00   | RetroArch                                                 | https://github.com/libretro/RetroArch
+andriod:habit:-                | 00   | Habit Builder                                             | https://github.com/ofalvai/HabitBuilder
+andriod:hacker-news:-          | 00   | Hacki                                                     | https://github.com/Livinglist/Hacki
+andriod:lan:-                  | 00   | Vector Camera                                             | https://github.com/dozingcat/VectorCamera
+andriod:lan:-                  | 00   | tailscale                                                 | https://github.com/tailscale/tailscale
+andriod:lan:-                  | 11   | Zerotier Fix                                              | https://github.com/kaaass/ZerotierFix
+andriod:log:-                  | 00   | LogFox                                                    | https://github.com/F0x1d/LogFox
+andriod:map:-                  | 00   | OpenTracks                                                | https://github.com/OpenTracksApp/OpenTracks
+andriod:map:-                  | 00   | Organic Maps                                              | https://github.com/organicmaps/organicmaps
+andriod:map:-                  | 00   | Trail-Sense                                               | https://github.com/kylecorry31/Trail-Sense
+andriod:note:-                 | 00   | 蜜蜂便签                                                  | https://mp.weixin.qq.com/s/6v_1CnkOGsUgGaRIiXKFIg
+andriod:photo:-                | 00   | Photok                                                    | https://github.com/leonlatsch/Photok
+andriod:player:-               | 00   | APlayer                                                   | https://github.com/rRemix/APlayer
+andriod:player:-               | 11   | mpvKt                                                     | https://github.com/abdallahmehiz/mpvKt
+andriod:podcast:-              | 00   | AntennaPod                                                | https://github.com/AntennaPod/AntennaPod
+andriod:reader:-               | 00   | LibreraReader                                             | https://github.com/foobnix/LibreraReader
+andriod:reader:-               | 00   | Lithium                                                   | https://github.com/pgaskin/lithiumpatch
+andriod:rss-torrent:-          | 00   | AniVu                                                     | https://github.com/SkyD666/AniVu
+andriod:rss:-                  | 00   | Flux News                                                 | https://github.com/KevinCFechtel/FluxNews
+andriod:scan:-                 | 00   | OSS Document Scanner                                      | https://github.com/Akylas/OSS-DocumentScanner
+andriod:serve:-                | 00   | AudioRelay                                                | https://audiorelay.net/downloads
+andriod:sync:-                 | 00   | Syncthing-Fork                                            | https://github.com/Catfriend1/syncthing-android
+andriod:termux:-               | 00   | Termux                                                    | https://github.com/termux/termux-app
+andriod:termux:-               | 00   | Termux:API                                                | https://github.com/termux/termux-api
+andriod:termux:-               | 00   | Termux:Styling                                            | https://github.com/termux/termux-styling
+andriod:termux:style           | 10   | Termux Style                                              | https://github.com/adi1090x/termux-style
+andriod:tool:-                 | 00   | Aegis                                                     | https://github.com/beemdevelopment/Aegis
+andriod:tool:-                 | 00   | GuessIron                                                 | https://github.com/mobeil1/GuessIron
+andriod:tool:-                 | 00   | Save Locally                                              | https://github.com/MateusRodCosta/Share2Storage
+andriod:tool:-                 | 00   | ScreenshotTile                                            | https://github.com/cvzi/ScreenshotTile
+andriod:tool:-                 | 00   | localsend                                                 | https://github.com/localsend/localsend
+andriod:tool:light             | 00   | FlashDim                                                  | https://github.com/cyb3rko/flashdim
+andriod:tool:light             | 00   | Simple-Flashlight                                         | https://github.com/SimpleMobileTools/Simple-Flashlight
+andriod:tool:scan              | 00   | BinaryEye                                                 | https://github.com/markusfisch/BinaryEye
+andriod:tool:timer             | 00   | Sleep Timer                                               | https://github.com/SimonMarquis/SleepTimer
+andriod:torrent:-              | 00   | Torrents-csv                                              | https://git.torrents-csv.com/heretic/torrents-csv-android
+andriod:track:-                | 00   | aw-android                                                | https://github.com/ActivityWatch/aw-android
+andriod:translate:-            | 00   | Rtranslator                                               | https://github.com/niedev/RTranslator
+andriod:ubuntu:-               | 00   | Ubuntu on android                                         | https://github.com/RandomCoderOrg/ubuntu-on-android
+andriod:viewer                 | 00   | Simple-Gallery                                            | https://github.com/SimpleMobileTools/Simple-Gallery
+andriod:vnc:-                  | 00   | bVNC Free                                                 | https://github.com/iiordanov/remote-desktop-clients
+andriod:wallpaper:-            | 00   | Code Rain Wallpaper                                       | https://gitlab.com/_zagura/code-rain-wallpaper
+andriod:wallpaper:-            | 11   | Doodle                                                    | https://github.com/patzly/doodle-android
+andriod:webdav:-               | 00   | Round Sync                                                | https://github.com/newhinton/Round-Sync
+andriod:youtube-music          | 00   | InnerTune                                                 | https://github.com/z-huang/InnerTune
+andriod:zerotier:-             | 10   | Zerotier Fix                                              | https://github.com/kaaass/ZerotierFix
+anki:-:-                       | 01   | Anki                                                      | https://github.com/ankitects/anki
+anki:analyze:-                 | 00   | Anki History Visualization                                | https://github.com/xiety/AnkiHistoryVisualization
+anki:analyze:-                 | 00   | Search Stats Extended                                     | https://github.com/Luc-Mcgrady/Anki-Search-Stats-Extended
+anki:analyze:pandas            | 00   | AnkiPandas                                                | https://github.com/klieret/AnkiPandas
+anki:answer:-                  | 01   | Answer Set                                                | https://github.com/scott2000/answerset
+anki:choice:-                  | 00   | Anki-Multiple-Choice                                      | https://github.com/ale18V/Anki-Multiple-Choice
+anki:cli:-                     | 00   | apy                                                       | https://github.com/lervag/apy
+anki:cli:-                     | 00   | vocage                                                    | https://github.com/proycon/vocage
+anki:cli:add                   | 00   | apy                                                       | https://github.com/lervag/apy
+anki:cloze:-                   | 00   | Anki Card Text Randomizer                                 | https://github.com/Yustynn/anki-card-text-randomizer
+anki:code:-                    | 01   | Anki themes                                               | https://github.com/badlydrawnrob/anki
+anki:convert:-                 | 00   | Converter for LaTeX to Anki                               | https://github.com/Iqwertz/Tum_Kontrollfragen_Physik_Anki
+anki:convert:-                 | 00   | markdown-anki-decks                                       | https://github.com/lukesmurray/markdown-anki-decks
+anki:convert:-                 | 01   | AnkiPoetry                                                | https://github.com/xiety/AnkiPoetry
+anki:convert:dev               | 00   | yanki                                                     | https://github.com/kitschpatrol/yanki
+anki:create:-                  | 00   | Tool for creating complex Anki notes quickly              | https://github.com/FilipTarajko/anki-card-generator
+anki:export:-                  | 00   | anki-export-as-picture                                    | https://github.com/hienstorfer/anki-export-as-picture
+anki:field:-                   | 00   | FrequencyMan                                              | https://github.com/Rct567/FrequencyMan
+anki:field:-                   | 01   | anki-field-autocomplete                                   | https://github.com/AnKing-VIP/anki-field-autocomplete
+anki:flow:-                    | 00   | srs-toolbelt                                              | https://github.com/balta2ar/srs-toolbelt
+anki:format:-                  | 00   | Anki Panky                                                | https://github.com/kamalsacranie/anki-panky
+anki:format:-                  | 00   | Anki.md                                                   | https://github.com/timgreen/Anki.md
+anki:format:-                  | 00   | Autoanki                                                  | https://github.com/chenlijun99/autoanki
+anki:frequency:-               | 00   | Bulk Generate Japanese Vocab Frequency                    | https://github.com/christopher-chandler/bulk_generate_japanese_vocab_frequency
+anki:game:-                    | 01   | Ankimon                                                   | https://github.com/Unlucky-Life/ankimon
+anki:generate:-                | 00   | Dexter Note Ankify                                        | https://github.com/duydl/dexter-tripos-notes-anki
+anki:generate:-                | 00   | ocr_to_anki_public                                        | https://github.com/NeverConvex/ocr_to_anki_public
+anki:generate:-                | 01   | Yochimu                                                   | https://github.com/ernestohegi/japanese-text-parser
+anki:generate:-                | 01   | dictpopup                                                 | https://github.com/Ajatt-Tools/dictpopup
+anki:image:-                   | 01   | AJT Media Converter                                       | https://github.com/Ajatt-Tools/PasteImagesAsWebP
+anki:image:zoom                | 01   | Anki Image Scaler                                         | https://github.com/gregorias/anki-image-scaler
+anki:import:-                  | 01   | Cross Profile Search and Import                           | https://github.com/Ajatt-Tools/cropro
+anki:keyboard:-                | 00   | AJT Flexible Grading                                      | https://github.com/Ajatt-Tools/FlexibleGrading
+anki:koreader:-                | 00   | korvo-to-anki                                             | https://github.com/Dankoy/korvo-to-anki
+anki:koreader:-                | 01   | Anki plugin for KOReader                                  | https://github.com/Ajatt-Tools/anki.koplugin
+anki:leetcode:-                | 00   | Leetcode Study Tool                                       | https://github.com/johnsutor/leetcode-study-tool
+anki:manga:-                   | 00   | MangAnki                                                  | https://github.com/doraeneko/MangAnki
+anki:mark:-                    | 00   | Exam Notifier for Anki                                    | https://github.com/AnKing-VIP/exam-notifierd
+anki:mark:-                    | 00   | Pass/Fail 2                                               | https://github.com/lambdadog/passfail2
+anki:math:-                    | 00   | Anki Math OCR                                             | https://github.com/telotortium/anki-math-ocr
+anki:nlp:-                     | 00   | Textile                                                   | https://github.com/SalahEddineGhamri/textile
+anki:obsidian:-                | 00   | Flashcards                                                | https://github.com/reuseman/flashcards-obsidian
+anki:order:-                   | 00   | FSRS4Anki                                                 | https://github.com/open-spaced-repetition/fsrs4anki
+anki:order:-                   | 00   | FSRS4Anki Helper                                          | https://github.com/open-spaced-repetition/fsrs4anki-helper
+anki:order:-                   | 00   | Limit New by Young                                        | https://github.com/lune-stone/anki-addon-limit-new-by-young
+anki:order:-                   | 01   | AnkiMorphs                                                | https://github.com/mortii/anki-morphs
+anki:order:-                   | 01   | AnnA : Anki neuronal Appendix                             | https://github.com/thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix/
+anki:post:-                    | 00   | CSV-to-ANKI                                               | https://github.com/AnkiMonkey/CSV-to-ANKI
+anki:post:-                    | 01   | Anki Cards                                                | https://github.com/MNandor/anki-cards
+anki:poup:-                    | 00   | JL                                                        | https://github.com/rampaa/JL
+anki:read:-                    | 00   | Bionic Reading                                            | https://github.com/AnKing-VIP/anki-bionic-reading
+anki:scrap:-                   | 00   | web-scraping-for-sentence-mining                          | https://github.com/AtilioA/web-scraping-for-sentence-mining
+anki:size:-                    | 01   | Note Size Anki addon                                      | https://github.com/Aleks-Ya/note-size-anki-addon
+anki:sound:-                   | 00   | Anki Addon for Chinese Pronunciation                      | https://github.com/spkgyk/anki-pinyin
+anki:sound:-                   | 00   | Generate Batch Audio                                      | https://github.com/DillonWall/generate-batch-audio-anki-addon
+anki:sound:-                   | 00   | adjust-sound-volume                                       | https://github.com/mnogu/adjust-sound-volume
+anki:sound:-                   | 000  | vocab-tts                                                 | https://github.com/pkubowicz/vocab-tts
+anki:sound:-                   | 000  | voicevox-anki                                             | https://github.com/0xspringtime/voicevox-anki
+anki:sound:-                   | 01   | Anki-Simple-Forvo-Audio                                   | https://github.com/Rascalov/Anki-Simple-Forvo-Audio
+anki:sound:-                   | 01   | anki-forvo-dl                                             | https://github.com/realmayus/anki_forvo_dl
+anki:stroke-diagram:-          | 00   | anki-kanji                                                | https://github.com/bzhoek/anki-kanji
+anki:style:-                   | 00   | Anki Code Highlighter                                     | https://github.com/gregorias/anki-code-highlighter
+anki:style:-                   | 01   | Rainbow Cloze                                             | https://github.com/gyuudon3187/rainbow-cloze
+anki:style:-                   | 01   | pin1yin1 → pīnyīn                                         | https://github.com/maltevonehren/pinyin-numbers-to-tone-marks
+anki:tempate:-                 | 00   | Anki Templates                                            | https://github.com/nico-lechatnoir/Anki-Templates
+anki:tempate:-                 | 00   | Anki-Card-Templates                                       | https://github.com/dnydlk/Anki-Card-Templates
+anki:tempate:-                 | 01   | Anki Word Wizard Template                                 | https://github.com/ankiwords/anki-word-wizard-template
+anki:tempate:-                 | 01   | Anki-Card-Templates                                       | https://github.com/SweetMeh/Anki-Card-Templates
+anki:text:-                    | 01   | Anki Word Hyphenator                                      | https://github.com/gregorias/anki-word-hyphenator
+anki:textograph:-              | 00   | anki-add-on                                               | https://github.com/textograph/anki-add-on
+anki:textograph:-              | 01   | Anki Note Type for Textograph                             | https://github.com/textograph/anki-note-type
+anki:track:-                   | 00   | Review Heatmap for Anki                                   | https://github.com/glutanimate/review-heatmap
+anki:tui:-                     | 00   | Anki TUI (morphman)                                       | https://github.com/xyaman/anki-tui
+anki:tui:-                     | 00   | Demonstration                                             | https://github.com/fedorst/attic-anki
+anki:tui:-                     | 00   | anki_helper                                               | https://github.com/aramrw/anki_helper
+anki:tui:-                     | 00   | donkey                                                    | https://github.com/takacs/donkey
+anki:tui:-                     | 00   | memotica                                                  | https://github.com/dnlzrgz/memotica
+anki:ui:theme                  | 01   | Prettify                                                  | https://github.com/pranavdeshai/anki-prettify
+anki:web:-                     | 00   | VocabSieve                                                | https://github.com/FreeLanguageTools/vocabsieve
+anki:web:-                     | 00   | srf                                                       | https://github.com/ig3/srf
+anki:web:-                     | 01   | 2anki/server                                              | https://github.com/2anki/server
+anki:web:-                     | 01   | Anki Note Linker                                          | https://github.com/gugutu/Anki-Note-Linker
+anki:web:-                     | 01   | web                                                       | https://github.com/2anki/web
+annotate:hypothesis:-          | 00   | Hypothesis                                                | https://hypothes.is
+annotate:hypothesis:-          | 00   | Hypothesis Direct-Link Bouncer Service                    | https://github.com/hypothesis/bouncer
+annotate:hypothesis:-          | 00   | h                                                         | https://github.com/hypothesis/h
+annotate:hypothesis:-          | 00   | via                                                       | https://via.hypothes.is/https://github.com/hypothesis/via
+annotate:hypothesis:extension  | 10   | Hypothesis                                                | https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek
+annotate:memex:extension       | 00   | memex                                                     | https://memex.garden
+annotate:obsidian:extension    | 00   | Obsidian clipper                                          | https://github.com/Ruoyu-Klaus/obsidian-clipper
+annotate:omnivore:extension    | 00   | Omnivore                                                  | https://github.com/omnivore-app/omnivore
+annotate:omnivore:extension    | 00   | Omnivore List Popup                                       | https://github.com/herrherrmann/omnivore-list-popup
+annotate:pieces:extension      | 00   | Pieces                                                    | https://docs.pieces.app/extensions-plugins/chrome
+arch:dotfiles:guide            | 00   | Arch linux installation guide                             | https://github.com/arcbjorn/arc-arch-linux-installation-guide
+arch:dotfiles:i3               | 00   | @Fluffy-Bean                                              | https://github.com/Fluffy-Bean/dots
+arch:dotfiles:sway             | 00   | ArchSway                                                  | https://github.com/Ultra-Code/archsway
+arch:dotfiles:xfce_i3          | 11   | @fathulfahmy                                              | https://github.com/fathulfahmy/dotfiles-linux
+archive:-:-                    | 00   | Gzip for Windows                                          | https://gnuwin32.sourceforge.net/packages/gzip.htm
+archive:-:-                    | 00   | Universal Extractor 2                                     | https://github.com/Bioruebe/UniExtract2
+archive:-:-                    | 10   | UnRar for Windows                                         | https://gnuwin32.sourceforge.net/packages/unrar.htm
+archive:-:-                    | 11   | 7zip                                                      | https://7-zip.org
+audio:convert:multi            | 00   | music-tools                                               | https://github.com/mauvedeity/music-tools
+audio:cue:-                    | 10   | CUETools                                                  | https://cue.tools/wiki/Main_Page
+audio:cue:-                    | 10   | fre:ac                                                    | https://freac.org
+audio:cut:-                    | 00   | Auto-Editor                                               | https://github.com/WyattBlue/auto-editor
+audio:cut:-                    | 00   | Unsilence                                                 | https://github.com/lagmoellertim/unsilence
+audio:cut:-                    | 00   | mp3DirectCut                                              | https://mpesch3.de/
+audio:editor:-                 | 00   | Tenacity                                                  | https://codeberg.org/tenacityteam/tenacity
+audio:editor:-                 | 00   | ocenaudio                                                 | https://github.com/ocenaudio/ocenaudio-translations
+audio:editor:-                 | 11   | Audacity                                                  | https://audacityteam.org/
+audio:encode:-                 | 00   | FlicFlac                                                  | https://github.com/DannyBen/FlicFlac
+audio:encode:-                 | 11   | XMedia Recode                                             | https://xmedia-recode.de
+audio:generate:-               | 00   | Lip Synced Character Animator Generator                   | https://github.com/EternalDusk/LipSyncVideoGenerator
+audio:generate:-               | 00   | MusicVideoGenerator                                       | https://github.com/EtaletaiRecords/MusicVideoGenerator
+audio:generate:-               | 10   | Audio Waveform Image Generator                            | https://github.com/bbc/audiowaveform
+audio:karaok:-                 | 00   | Karaoke Mugen Application                                 | https://gitlab.com/karaokemugen/code/karaokemugen-app
+audio:karaok:-                 | 00   | Karaoke Mugen Server                                      | https://gitlab.com/karaokemugen/code/karaokemugen-server
+audio:karaok:-                 | 00   | UltraSinger                                               | https://github.com/rakuri255/UltraSinger
+audio:keyboard:-               | 00   | daktilo                                                   | https://github.com/orhun/daktilo
+audio:lyric:-                  | 00   | LrcHelper                                                 | https://github.com/ludoux/LrcHelper
+audio:lyric:-                  | 00   | Song Database                                             | https://github.com/mathisdt/sdb2
+audio:lyric:-                  | 00   | Song splitter                                             | https://github.com/ArciAndres/song_splitter
+audio:lyric:-                  | 00   | ZonyLrcToolsX                                             | https://github.com/real-zony/ZonyLrcToolsX
+audio:metadata:-               | 11   | AudioShell                                                | https://audioshell.en.lo4d.com/windows
+audio:metadata:-               | 11   | Mp3tag                                                    | https://mp3tag.de
+audio:metadata:-               | 11   | Tag Editor                                                | https://github.com/Martchus/tageditor
+audio:player:-                 | 00   | AIMP                                                      | https://aimp.ru
+audio:player:-                 | 00   | Exaile                                                    | https://exaile.org
+audio:player:-                 | 00   | Garlmap                                                   | https://github.com/Jelmerro/Garlmap
+audio:player:-                 | 00   | MusicBee                                                  | https://getmusicbee.com
+audio:player:-                 | 00   | Qmmp                                                      | https://qmmp.ylsoftware.com/screenshots.php
+audio:player:-                 | 00   | Quod Libet                                                | https://quodlibet.readthedocs.io
+audio:player:-                 | 00   | Symphonia                                                 | https://github.com/pdeljanov/Symphonia
+audio:player:multi             | 00   | Listen 1                                                  | https://listen1.github.io/listen1
+audio:player:multi             | 00   | Moosync                                                   | https://github.com/Moosync/Moosync
+audio:player:multi             | 00   | muffon                                                    | https://github.com/staniel359/muffon
+audio:player:multi             | 11   | YouTube Music                                             | https://github.com/th-ch/youtube-music
+audio:playlist:-               | 00   | Playlist-Duration                                         | https://framagit.org/Bromind/playlist-duration
+audio:podcast:-                | 00   | gPodder                                                   | https://gpodder.github.io/
+audio:process:-                | 00   | MP3Gain                                                   | https://github.com/Sound-Linux-More/mp3gain
+audio:process:-                | 00   | PyMusicLooper                                             | https://github.com/arkrow/PyMusicLooper
+audio:process:-                | 00   | SpleeterGUI                                               | https://github.com/boy1dr/SpleeterGui
+audio:process:-                | 00   | vaporiser                                                 | https://github.com/rnnh/vaporiser
+audio:process:-                | 10   | wxMP3gain                                                 | https://github.com/cfgnunes/wxmp3gain
+audio:spotify:-                | 00   | Spicetify                                                 | https://github.com/spicetify/spicetify-cli
+audio:spotify:-                | 00   | spotify-qt                                                | https://github.com/kraxarn/spotify-qt
+audio:spotify:-                | 10   | Spytify                                                   | https://github.com/jwallet/spy-spotify
+audio:spotify:-                | 10   | spotDL v4                                                 | https://github.com/spotDL/spotify-downloader
+audio:sync:-                   | 00   | Ascanius                                                  | https://github.com/hljodbokasafnid/Ascanius
+audio:sync:-                   | 00   | AudiobookTextSync                                         | https://github.com/kanjieater/AudiobookTextSync
+autohotkey:-:-                 | 11   | AutoHotkey                                                | https://autohotkey.com
+autohotkey:audio:-             | 00   | AutoAccent                                                | https://github.com/hamurlik/AutoAccent
+autohotkey:audio:-             | 00   | Mute on focus lost                                        | https://github.com/TomiBelan/mute-on-focus-lost
+autohotkey:complete:-          | 10   | Autocomplete                                              | https://github.com/Uberi/Autocomplete
+autohotkey:control:-           | 00   | Control sound autohotkey                                  | https://github.com/ArturTkaczuk/control-sound-autohotkey
+autohotkey:control:-           | 11   | Toggle screen autohotkey                                  | https://github.com/ArturTkaczuk/toggle-screen-autohotkey
+autohotkey:development:-       | 00   | AHK Studio                                                | https://maestrith.com/ahk-studio
+autohotkey:development:-       | 00   | AmHotkey                                                  | https://github.com/chjfth/AmHotkey
+autohotkey:development:-       | 00   | ColorButton.ahk                                           | https://github.com/nperovic/ColorButton.ahk
+autohotkey:development:-       | 00   | Easy AutoGUI                                              | https://github.com/samfisherirl/Easy-Auto-GUI-for-AHK-v2
+autohotkey:development:-       | 00   | Github.ahk                                                | https://github.com/samfisherirl/Github.ahk-API-for-AHKv2
+autohotkey:development:-       | 00   | Rufaydium                                                 | https://github.com/Xeo786/Rufaydium-Webdriver
+autohotkey:development:-       | 00   | SystemThemeAwareToolTip                                   | https://github.com/nperovic/SystemThemeAwareToolTip
+autohotkey:development:-       | 00   | eAutocomplete                                             | https://github.com/A-AhkUser/eAutocomplete
+autohotkey:environment:-       | 00   | Environment.ahk                                           | https://github.com/iseahound/Environment.ahk
+autohotkey:explorer:switch     | 11   | QuickSwitch                                               | https://github.com/fenchai23/QuickSwitch
+autohotkey:filterpipe:-        | 00   | Autocorrector                                             | https://github.com/joshuar/autocorrector
+autohotkey:filterpipe:-        | 00   | GachiTyper                                                | https://github.com/cringenuity/GachiTyper
+autohotkey:filterpipe:-        | 00   | HeckR_Replace                                             | https://github.com/Heck-R/HeckR_Replace
+autohotkey:filterpipe:-        | 00   | Unicode Hotstrings                                        | https://github.com/dspinellis/unicode-hotstrings
+autohotkey:filterpipe:-        | 00   | a2                                                        | https://github.com/ewerybody/a2
+autohotkey:filterpipe:-        | 00   | betterletter                                              | https://github.com/alexpovel/betterletter
+autohotkey:game:-              | 00   | Dota 2 Queue-And-Go                                       | https://github.com/etofok/Dota-2-Queue-and-Go
+autohotkey:ime:-               | 00   | AHK                                                       | https://github.com/ouweiya/AHK
+autohotkey:ime:-               | 00   | 玉兔毫                                                    | https://github.com/amorphobia/rabbit
+autohotkey:ime:-               | 11   | KBLAutoSwitch                                             | https://github.com/flyinclouds/KBLAutoSwitch
+autohotkey:ime:suggest         | 00   | shortcut_suggest                                          | https://github.com/sgriffin53/shortcut_suggest
+autohotkey:input:-             | 00   | AHKExpansionsList                                         | https://github.com/GavinPen/AHKExpansionsList
+autohotkey:input:-             | 00   | AutoHotKey_Time-stamp                                     | https://github.com/elnao/AutoHotKey_Time-stamp
+autohotkey:input:-             | 00   | ICM Shortcuts for AutoHotkey                              | https://github.com/ayeseeem/ICM-shortcuts
+autohotkey:input:-             | 00   | InputTip                                                  | https://github.com/abgox/InputTip
+autohotkey:input:-             | 00   | Real-time-translation-typing                              | https://github.com/sxzxs/Real-time-translation-typing
+autohotkey:input:-             | 00   | ahk_RegExHotstring                                        | https://github.com/8LWXpg/RegExHotstring
+autohotkey:input:-             | 00   | in-line calculator                                        | https://github.com/davebrny/in-line-calculator
+autohotkey:input:-             | 00   | vimmer-ahk                                                | https://github.com/koirand/vimmer-ahk
+autohotkey:input:-             | 00   | wincoding_ANSI                                            | https://github.com/su-pull/wincoding
+autohotkey:input:-             | 11   | AHK-KeyMap                                                | https://github.com/Gustice/AHK-KeyMap
+autohotkey:keyboard:-          | 00   | KBLayerHelper                                             | https://github.com/RaphCoder13/KBLayerHelper
+autohotkey:keyboard:-          | 00   | capsicain                                                 | https://github.com/cajhin/capsicain
+autohotkey:launch:-            | 00   | ALTRun                                                    | https://github.com/zhugecaomao/ALTRun
+autohotkey:launch:-            | 00   | Barrel                                                    | https://github.com/phantomdiorama/barrel
+autohotkey:launch:-            | 00   | KeyChain                                                  | https://github.com/JaredCH/KeyChain
+autohotkey:lintalist:-         | 11   | Lintalist                                                 | https://lintalist.github.io
+autohotkey:lintalist:theme     | 00   | Themes for Lintalist                                      | https://github.com/lintalist/lintalist-themes
+autohotkey:manage:-            | 00   | AHK v2.0 auto update template                             | https://github.com/Nigh/ahk-autoupdate-template
+autohotkey:manage:-            | 00   | ahkpm                                                     | https://github.com/joshuacc/ahkpm
+autohotkey:notify:-            | 00   | CuToaster                                                 | https://github.com/cy-gh/CuToaster
+autohotkey:ocr:-               | 00   | GoldenDictAide                                            | https://github.com/debugfan/GoldenDictAide
+autohotkey:ocr:-               | 00   | Vis2                                                      | https://github.com/iseahound/Vis2
+autohotkey:ocr:-               | 11   | GoldenDictOCR                                             | https://github.com/VimWei/GoldenDictOCR
+autohotkey:paste:-             | 00   | Autohokey copy and paste for data entry                   | https://github.com/Tran1595/autohokey-copypaste-for-data-entry
+autohotkey:paste:-             | 00   | CL3                                                       | https://github.com/hi5/CL3
+autohotkey:paste:-             | 00   | copyWaste                                                 | https://github.com/MuhamKAldin/copyWaste
+autohotkey:paste:-             | 11   | ShortScript                                               | https://github.com/RichKMLS/ShortScript
+autohotkey:process:-           | 00   | WinExeCommander                                           | https://github.com/XMCQCX/WinExeCommander
+autohotkey:quick:-             | 00   | AHK Command Picker                                        | https://github.com/deadlydog/AHKCommandPicker
+autohotkey:record:-            | 00   | OBS WebSocket for AutoHotKey v2.0+                        | https://github.com/5ony/OBSWebSocketAHK
+autohotkey:record:-            | 00   | autohotkey-game-record-playback                           | https://github.com/kostiantyn-dvornik/autohotkey-game-record-playback
+autohotkey:scripts:-           | 11   | Mouse Gesture Script                                      | https://github.com/ayuanx/AutoHotKey_MouseGesture
+autohotkey:translate:-         | 00   | TransAnywhere by Song                                     | https://github.com/verlane/trans-anywhere
+autohotkey:window:-            | 00   | AltDrag, AltResize, AltMove                               | https://github.com/andreapizzigoni/altdrag_ahk
+autohotkey:window:-            | 00   | Better-Big-Screen-Window-Manager                          | https://github.com/indigofairyx/Better-Big-Screen-Window-Manager
+autohotkey:window:-            | 00   | Desktop Shifter                                           | https://github.com/capitanbarbosa/Active-Desktop_Shifter
+autohotkey:window:-            | 00   | Polygon                                                   | https://github.com/thesobercoder/polygon
+autohotkey:window:-            | 00   | Right-Button-Ninja                                        | https://github.com/hansenwangvip/right-button-ninja
+autohotkey:window:-            | 00   | SnapX                                                     | https://github.com/benallred/SnapX
+autohotkey:window:-            | 00   | TSolidBackground                                          | https://github.com/Onurtag/TSolidBackground
+autohotkey:window:-            | 00   | VD.ahk: Virtual Desktop                                   | https://github.com/FuPeiJiang/VD.ahk
+autohotkey:window:-            | 00   | VirtualDesktopAccessor.dll                                | https://github.com/Ciantic/VirtualDesktopAccessor
+autohotkey:window:-            | 00   | Windows AHK Script                                        | https://github.com/arlbibek/windows-ahk
+autohotkey:window:-            | 00   | ahk-scripts                                               | https://github.com/basghar/ahk-scripts
+autohotkey:window:-            | 00   | desktop.ahk                                               | https://github.com/TheCrether/ahkscripts#desktopahk
+autohotkey:window:-            | 00   | windows-desktop-switcher                                  | https://github.com/pmb6tz/windows-desktop-switcher
+autohotkey:window:-            | 00   | 「見苦窓経営」笑                                          | https://github.com/imawizard/MiguruWM
+autohotkey:window:-            | 11   | ahk-resize-windows                                        | https://github.com/IsacEkeroth/ahk-resize-windows
+autohotkey:workflow:-          | 00   | CJK Material Processing                                   | https://github.com/ahlisbon/CJKmaterialProcessing
+autohotkey:workflow:-          | 00   | Kevin's AutoHotKey Application                            | https://github.com/KevinHJoe/Auto-App
+autohotkey:workflow:-          | 00   | ahk                                                       | https://github.com/Tomshiii/ahk
+bin:brower:-                   | 11   | open-cli                                                  | https://github.com/sindresorhus/open-cli
+bin:cat:-                      | 00   | bat                                                       | https://github.com/sharkdp/bat
+bin:cat:-                      | 00   | ccat                                                      | https://github.com/owenthereal/ccat
+bin:cat:-                      | 00   | gat                                                       | https://github.com/koki-develop/gat
+bin:cat:-                      | 00   | treecat                                                   | https://github.com/Knio/treecat
+bin:cd:-                       | 00   | ls Xtended                                                | https://github.com/souvikinator/lsx
+bin:cd:-                       | 11   | tere                                                      | https://github.com/mgunyho/tere
+bin:curl:-                     | 00   | Curl                                                      | https://github.com/curl/curl
+bin:curl:-                     | 00   | Curlie                                                    | https://github.com/rs/curlie
+bin:curl:-                     | 00   | httpstat                                                  | https://github.com/davecheney/httpstat
+bin:curl:-                     | 11   | Reproducible curl binaries                                | https://github.com/curl/curl-for-win
+bin:dig:-                      | 00   | bind                                                      | https://isc.org/bind
+bin:dig:-                      | 11   | dog                                                       | https://github.com/ogham/dog
+bin:du:-                       | 00   | Dust                                                      | https://github.com/bootandy/dust
+bin:du:-                       | 00   | dua                                                       | https://github.com/Byron/dua-cli
+bin:du:-                       | 00   | duf                                                       | https://github.com/muesli/duf
+bin:du:-                       | 00   | go DiskUsage()                                            | https://github.com/dundee/gdu
+bin:du:-                       | 00   | lsdsk                                                     | https://github.com/rasa/lsdsk
+bin:echo:-                     | 11   | echo-cli                                                  | https://github.com/iamakulov/echo-cli
+bin:explorer:-                 | 00   | Yazi                                                      | https://github.com/sxyazi/yazi
+bin:explorer:-                 | 00   | lf                                                        | https://github.com/gokcehan/lf
+bin:explorer:-                 | 00   | xplr                                                      | https://github.com/sayanarijit/xplr
+bin:explorer:-                 | 11   | Broot                                                     | https://dystroy.org/broot
+bin:find:-                     | 00   | fd                                                        | https://github.com/sharkdp/fd
+bin:find:replace               | 00   | amber                                                     | https://github.com/dalance/amber
+bin:find:replace               | 11   | sd                                                        | https://github.com/chmln/sd
+bin:grep:-                     | 00   | Grepz                                                     | https://github.com/shockz-offsec/Grepz
+bin:grep:-                     | 00   | RoughGrep                                                 | https://github.com/vivainio/RoughGrep
+bin:grep:-                     | 00   | grepWin                                                   | https://github.com/stefankueng/grepWin
+bin:grep:-                     | 00   | qgrep                                                     | https://github.com/zeux/qgrep
+bin:grep:-                     | 00   | rga                                                       | https://github.com/phiresky/ripgrep-all
+bin:grep:-                     | 00   | sg                                                        | https://github.com/ast-grep/ast-grep
+bin:grep:-                     | 00   | sig                                                       | https://github.com/ynqa/sig
+bin:grep:-                     | 00   | ugrep                                                     | https://github.com/Genivia/ugrep
+bin:grep:-                     | 00   | vgrep                                                     | https://github.com/vrothberg/vgrep
+bin:grep:-                     | 00   | w2vgrep - Semantic Grep                                   | https://github.com/arunsupe/semantic-grep
+bin:grep:-                     | 11   | dnGrep                                                    | https://dngrep.github.io
+bin:grep:-                     | 11   | ripgrep                                                   | https://github.com/BurntSushi/ripgrep
+bin:jq:-                       | 00   | jq                                                        | https://jqlang.github.io
+bin:less:epub                  | 00   | epr                                                       | https://github.com/wustho/epr
+bin:less:epub                  | 00   | epy                                                       | https://github.com/wustho/epy
+bin:less:html                  | 00   | reader                                                    | https://github.com/mrusme/reader
+bin:less:linux                 | 00   | peep                                                      | https://github.com/ryochack/peep
+bin:less:markdown              | 00   | Glow                                                      | https://github.com/charmbracelet/glow
+bin:less:markdown              | 00   | mdr                                                       | https://github.com/MichaelMure/mdr
+bin:man:color                  | 00   | rose-pine-man                                             | https://github.com/const-void/rose-pine-man
+bin:mkdir:-                    | 00   | Mkdirs                                                    | https://github.com/dolanor/mkdirs
+bin:ping:-                     | 00   | PowerPing                                                 | https://github.com/Killeroo/PowerPing
+bin:ping:-                     | 00   | pingu                                                     | https://github.com/sheepla/pingu
+bin:rm:-                       | 00   | recycle-bin                                               | https://github.com/sindresorhus/recycle-bin
+bin:rm:-                       | 00   | trash-cli                                                 | https://github.com/andreafrancia/trash-cli
+bin:rm:-                       | 11   | trash-cli                                                 | https://github.com/sindresorhus/trash-cli
+bin:rm:-                       | 11   | trashy                                                    | https://github.com/oberblastmeister/trashy
+bin:sed:-                      | 11   | sed-windows                                               | https://github.com/mbuilov/sed-windows
+bin:select:-                   | 00   | Heatseeker                                                | https://github.com/rschmitt/heatseeker
+bin:sync:-                     | 00   | cwRsync                                                   | https://itefix.net/cwrsync
+bin:sync:-                     | 00   | rsync                                                     | https://rsync.samba.org
+bin:tldr:-                     | 00   | tealdeer                                                  | https://github.com/dbrgn/tealdeer
+bin:tldr:-                     | 00   | tldr++                                                    | https://github.com/isacikgoz/tldr
+bin:tldr:-                     | 00   | tldr-pages                                                | https://github.com/tldr-pages/tldr
+bin:touch:-                    | 00   | fsutil                                                    | https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/administration/windows-commands/fsutil.md
+bin:touch:-                    | 11   | feel                                                      | https://github.com/jbr/feel
+bin:tree:-                     | 00   | Untree                                                    | https://github.com/codeinred/untree
+bin:tree:-                     | 00   | erdtree                                                   | https://github.com/solidiquis/erdtree
+bin:tree:-                     | 00   | ki-cli-hyphen                                             | https://github.com/scillidan/ki-cli-hyphen
+bin:tree:-                     | 11   | tree                                                      | https://github.com/a8m/tree
+bookmark:buku:-                | 00   | bukubrow-host                                             | https://github.com/samhh/bukubrow-host
+bookmark:buku:-                | 00   | bukuserver                                                | https://github.com/jarun/buku/tree/master/bukuserver
+bookmark:buku:extension        | 00   | bukubrow-webext                                           | https://github.com/SamHH/bukubrow-webext
+bookmark:linkding:-            | 00   | Linkding Archiver                                         | https://github.com/sebw/linkding-archiver
+bookmark:linkding:-            | 00   | linkding-cli                                              | https://github.com/bachya/linkding-cli
+bookmark:linkding:extension    | 10   | linkding injector                                         | https://github.com/fivefold/linkding-injector
+bookmark:linkding:extension    | 11   | linkding extension                                        | https://github.com/sissbruecker/linkding-extension
+browser:brave:-                | 11   | Brave                                                     | https://brave.com
+browser:chrome:-               | 00   | Chrome                                                    | https://google.com/intl/zh-cn/chrome
+browser:firefox:-              | 10   | Firefox                                                   | https://mozilla.org/en-US/firefox
+browser:firefox:-              | 10   | LibreWolf                                                 | https://librewolf.net
+browser:gopher:-               | 00   | Kristall                                                  | https://github.com/MasterQ32/kristall
+browser:gopher:tui             | 00   | Bombadillo                                                | https://bombadillo.colorfield.space
+browser:http:extension         | 11   | simple-modify-headers                                     | https://github.com/didierfred/SimpleModifyHeaders
+browser:qutebrowser:-          | 00   | Catppuccin for qutebrowser                                | https://github.com/catppuccin/qutebrowser
+browser:qutebrowser:-          | 00   | qutebrowser                                               | https://qutebrowser.org
+browser:script:extension       | 11   | Violentmonkey                                             | https://violentmonkey.github.io
+chat:irc:-                     | 00   | HexChat                                                   | https://hexchat.github.io
+chat:irc:-                     | 00   | WeeChat                                                   | https://weechat.org
+chrome:account:-               | 11   | Gmail                                                     | https://apkmirror.com/apk/google-inc/gmail
+chrome:automate:-              | 10   | Automa                                                    | https://automa.site
+chrome:bookmark:-              | 00   | Json Bookmarks                                            | https://github.com/1nfiniteloop/json-bookmarks
+chrome:bookmark:-              | 00   | xBrowserSync                                              | https://xbrowsersync.org/
+chrome:bookmark:-              | 11   | floccus bookmarks sync                                    | https://github.com/floccusAddon
+chrome:cache:-                 | 00   | Forget Button                                             | https://webextension.org/listing/ecleaner.html
+chrome:cache:-                 | 11   | Cookie AutoDelete                                         | https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
+chrome:cache:-                 | 11   | Cookie-Editor                                             | https://cookie-editor.cgagnier.ca
+chrome:control:-               | 11   | nextpage                                                  | https://github.com/sylecn/nextpage-we
+chrome:cookie:-                | 10   | Get cookies.txt LOCALLY                                   | https://github.com/kairi003/Get-cookies.txt-LOCALLY
+chrome:develop:-               | 00   | Allow CORS                                                | https://mybrowseraddon.com/access-control-allow-origin.html
+chrome:develop:-               | 00   | Block image                                               | https://chrome.google.com/webstore/detail/block-image/pehaalcefcjfccdpbckoablngfkfgfgj
+chrome:develop:-               | 00   | Broken Link Checker                                       | https://webextension.org/listing/broken-link-checker.html
+chrome:develop:-               | 00   | Luminous                                                  | https://gbaptista.github.io/luminous/doc/en-US/
+chrome:develop:-               | 00   | NoScript                                                  | https://noscript.net
+chrome:develop:-               | 00   | Robots Exclusion Checke                                   | https://samgipson.com/robots-exclusion-checker-chrome-extension
+chrome:develop:-               | 00   | Talend API Tester                                         | https://talend.com
+chrome:develop:-               | 00   | Test IE                                                   | https://browserstack.com/test-in-internet-explorer
+chrome:develop:-               | 000  | Live Reload                                               | https://chrome.google.com/webstore/detail/live-reload/jcejoncdonagmfohjcdgohnmecaipidc
+chrome:develop:-               | 10   | CSS Used                                                  | https://github.com/painty/CSS-Used-ChromeExt
+chrome:develop:-               | 10   | Wappalyzer                                                | https://wappalyzer.com
+chrome:develop:-               | 11   | Chrome extension source viewer                            | https://github.com/Rob--W/crxviewer
+chrome:dictionary:-            | 00   | Dictionariez                                              | https://github.com/pnlpal/dictionariez
+chrome:dictionary:-            | 00   | Mouse Dictionary                                          | https://github.com/wtetsu/mouse-dictionary
+chrome:dictionary:-            | 00   | ODH                                                       | https://github.com/ninja33/ODH
+chrome:dictionary:-            | 00   | Rikaitan                                                  | https://github.com/Ajatt-Tools/rikaitan
+chrome:dictionary:-            | 00   | Yomikiri                                                  | https://github.com/BlueGreenMagick/yomikiri
+chrome:dictionary:-            | 11   | Yomitan                                                   | https://github.com/themoeway/yomitan
+chrome:document:-              | 11   | DevDocs Web Ext                                           | https://github.com/arianrhodsandlot/devdocs-web-ext
+chrome:download:-              | 00   | Aria2 Explorer                                            | https://aria2e.com
+chrome:download:-              | 00   | Dezoomify                                                 | https://lovasoa.github.io/dezoomify-extension/
+chrome:download:-              | 00   | Download all Images                                       | https://webextension.org/listing/save-images.html
+chrome:download:-              | 00   | EpubPress                                                 | https://epub.press
+chrome:download:-              | 00   | Gif Frames                                                | https://chrome.google.com/webstore/detail/gif-frames/khkbfocobajjjkojjgpmnhdgbmlnlnef
+chrome:download:-              | 00   | Print Edit WE                                             | https://chrome.google.com/webstore/detail/print-edit-we/olnblpmehglpcallpnbgmikjblmkopia
+chrome:download:-              | 00   | Save Page WE                                              | https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof
+chrome:download:-              | 10   | Imageye                                                   | https://imageye.net
+chrome:download:-              | 10   | SVG Export                                                | https://svgexport.io
+chrome:download:-              | 10   | Simple mass downloader                                    | https://gelprec.github.io/quick_start_v2.html
+chrome:download:-              | 10   | SingleFile                                                | https://github.com/gildas-lormeau/SingleFile
+chrome:download:-              | 11   | MarkDownload                                              | https://github.com/deathau/markdownload
+chrome:download:-              | 11   | Table range select and copy                               | https://chrome.google.com/webstore/detail/table-range-select-and-co/klojbfbefcejadioohmnkhjmbmecfapg
+chrome:edit:-                  | 00   | Text Blaze                                                | https://blaze.today
+chrome:edit:-                  | 00   | Vimium                                                    | https://github.com/philc/vimium
+chrome:edit:-                  | 11   | Emoji Keyboard                                            | https://chrome.google.com/webstore/detail/emoji-keyboard-online-cop/kgmeffmlnkfnjpgmdndccklfigfhajen
+chrome:edit:-                  | 11   | LanguageTool                                              | https://languagetool.org
+chrome:edit:-                  | 11   | Scramble                                                  | https://github.com/zlwaterfield/scramble
+chrome:extension:-             | 00   | Extension Exporter                                        | https://chromewebstore.google.com/detail/extension-sync/kimbiihomiiklblgkdllffbakadjgakoS
+chrome:extension:-             | 00   | Extension Manager                                         | https://chrome.google.com/webstore/detail/extension-manager/nddeiknmamlpagmnabfdlljlikeoanch
+chrome:extension:-             | 00   | Little Rat                                                | https://github.com/dnakov/little-rat
+chrome:extension:-             | 11   | Custom Chrome                                             | https://github.com/ciaranmag/customchrome
+chrome:extension:-             | 11   | Extension Sync                                            | https://chromewebstore.google.com/detail/extension-sync/kimbiihomiiklblgkdllffbakadjgako
+chrome:file:-                  | 11   | Markdown Reader                                           | https://github.com/md-reader/md-reader
+chrome:find:-                  | 11   | find+                                                     | https://github.com/brandon1024/find
+chrome:flash:-                 | 00   | Ruffle                                                    | https://ruffle.rs
+chrome:github:-                | 00   | Gist User Script Manager                                  | https://github.com/ste-xx/gist-userscript-manager
+chrome:github:-                | 00   | Module Linker                                             | https://github.com/fiatjaf/module-linker
+chrome:github:-                | 00   | Sight                                                     | https://github.com/tsenart/sight
+chrome:github:-                | 11   | Better Pull Request for GitHub                            | https://github.com/berzniz/github_pr_tree
+chrome:github:-                | 11   | Enhanced GitHub                                           | https://github.com/softvar/enhanced-github
+chrome:github:-                | 11   | GitHub File Icons                                         | https://github.com/lvarayut/github-file-icons
+chrome:github:-                | 11   | GitHub Recommender                                        | https://github.com/IndexStorm/git-rec-back
+chrome:github:-                | 11   | GitHub Web IDE                                            | https://github.com/zvizvi/GitHub-Web-IDE
+chrome:github:-                | 11   | GitZip for github                                         | https://gitzip.org
+chrome:github:-                | 11   | Gitako                                                    | https://github.com/EnixCoda/Gitako
+chrome:github:-                | 11   | JSON Formatter                                            | https://github.com/callumlocke/json-formatter
+chrome:github:-                | 11   | OctoLinker                                                | https://octolinker.vercel.app
+chrome:github:-                | 11   | Refined GitHub                                            | https://github.com/refined-github/refined-github
+chrome:github:-                | 11   | Useful Forks                                              | https://github.com/useful-forks/useful-forks.github.io
+chrome:image:-                 | 00   | ImageQuilts                                               | https://edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00041U
+chrome:link:-                  | 00   | Copy Text Fragment URL                                    | https://github.com/andrewrabon/copy-text-fragment-url
+chrome:link:-                  | 00   | Link to Text Fragment                                     | https://github.com/GoogleChromeLabs/link-to-text-fragment
+chrome:link:-                  | 11   | Prevue Popup                                              | https://chrome.google.com/webstore/detail/prevue-popup/afencccmfcofdgnigbenkpplpanigajd
+chrome:mouse:-                 | 00   | Allow Right Click                                         | https://webextension.org/listing/allow-right-click.html
+chrome:mpv:-                   | 00   | Play with MPV                                             | https://github.com/Thann/play-with-mpv
+chrome:mpv:-                   | 00   | ff2mpv                                                    | https://github.com/woodruffw/ff2mpv
+chrome:mpv:-                   | 00   | mpv for Chrome                                            | https://github.com/taupiqueur/chrome-mpv
+chrome:mpv:-                   | 00   | open-in-mpv                                               | https://github.com/Tatsh/open-in-mpv
+chrome:ocr:-                   | 11   | OCR - Image Reader                                        | https://webextension.org/listing/ocr.html
+chrome:open:-                  | 00   | Open In Firefox                                           | https://webextension.org/listing/open-in.html
+chrome:open:-                  | 00   | Open in new tab                                           | https://chrome.google.com/webstore/detail/open-in-new-tab/cplillmhmcegjlhcbedmgmalbgjpmlkh
+chrome:player:-                | 00   | Global Speed                                              | https://github.com/polywock/globalSpeed
+chrome:player:-                | 11   | asbplayer                                                 | https://github.com/killergerbah/asbplayer
+chrome:quick:-                 | 00   | QuicKey                                                   | https://github.com/fwextensions/QuicKey
+chrome:quick:-                 | 00   | Tab Switcher                                              | https://flowapps.co/tabswitcher
+chrome:quick:-                 | 11   | Linkclump                                                 | https://github.com/benblack86/linkclump
+chrome:quick:-                 | 11   | Open Multiple URLs                                        | https://github.com/htrinter/Open-Multiple-URLs/
+chrome:read-later:-            | 11   | Read Later                                                | https://github.com/willbchang/chrome-read-later
+chrome:read:-                  | 00   | Jiffy Reader                                              | https://github.com/ansh/jiffyreader.com
+chrome:read:-                  | 00   | Text Mode                                                 | https://chrome.google.com/webstore/detail/text-mode/adelhekhakakocomdfejiipdnaadiiib
+chrome:read:-                  | 00   | Unclutter                                                 | https://github.com/lindylearn/unclutter
+chrome:read:-                  | 11   | Dark Reader                                               | https://darkreader.org
+chrome:read:-                  | 11   | Smart TOC                                                 | https://github.com/FallenMax/smart-toc
+chrome:rss:-                   | 11   | RSSHub                                                    | https://github.com/DIYgod/RSSHub-Radar
+chrome:screenshot:-            | 11   | Screenshot Capture                                        | https://github.com/simov/screenshot-capture
+chrome:search:-                | 00   | Selection Search                                          | https://chrome.google.com/webstore/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe
+chrome:search:-                | 11   | All Acronyms                                              | https://allacronyms.com/
+chrome:search:-                | 11   | Chikamichi                                                | https://github.com/kawamataryo/chikamichi
+chrome:settings:-              | 11   | Adjust Screen Brightness                                  | https://webextension.org/listing/screen-brightness.html
+chrome:settings:-              | 11   | Earth View from Google Earth                              | https://earthview.withgoogle.com
+chrome:settings:-              | 11   | Hide Scrollbar                                            | https://chrome.google.com/webstore/detail/hide-scrollbar/mljepckcnbghmcdmaebjhejiplcngbkm
+chrome:settings:-              | 11   | Modern scrollbar                                          | https://github.com/luandersonn/Modern-scrollbar
+chrome:text-analyze:-          | 00   | enwords                                                   | https://github.com/aykutkardas/enwords
+chrome:tool:ruler              | 10   | Screen Ruler                                              | https://chromewebstore.google.com/detail/screen-ruler-measure-the/jfbbgijjljfbolelfkopkhbfjajjampm
+chrome:translate:-             | 00   | Saladict                                                  | https://saladict.crimx.com/
+chrome:translate:-             | 00   | Trancy                                                    | https://trancy.org
+chrome:translate:-             | 00   | 腾讯翻译                                                  | https://chrome.google.com/webstore/detail/%E8%85%BE%E8%AE%AF%E7%BF%BB%E8%AF%91/lkjkfecdnfjopaeaibboihfkmhdjmanm
+chrome:translate:-             | 00   | 鼠标工具提示翻译器                                        | https://github.com/ttop32/MouseTooltipTranslator
+chrome:translate:-             | 11   | immersive-translate                                       | https://github.com/immersive-translate/immersive-translate
+chrome:view:-                  | 00   | Epublifier                                                | https://github.com/maoserr/epublifier
+chrome:view:-                  | 00   | Fullscreen                                                | https://github.com/xieby1/fullscreen
+chrome:view:-                  | 00   | View Image                                                | https://github.com/bijij/ViewImage
+chrome:view:-                  | 00   | arXiv Vanity                                              | https://github.com/arxiv-vanity/arxiv-vanity
+chrome:view:-                  | 10   | doqment PDF Reader                                        | https://github.com/shivaprsd/doqment
+chrome:view:-                  | 10   | ePub Reader                                               | https://add0n.com/epub-reader.html
+chrome:view:-                  | 11   | BetterViewer                                              | https://github.com/Ademking/BetterViewer
+chrome:view:-                  | 11   | GIF Scrubber                                              | https://github.com/0ui/gif-scrubber
+chrome:view:-                  | 11   | Imagus                                                    | https://github.com/TheFantasticWarrior/chrome-extension-imagus
+chrome:website:-               | 00   | Awoobooru                                                 | https://github.com/TypeA2/Awoobooru
+chrome:website:-               | 00   | Content Farm Terminator                                   | https://github.com/danny0838/content-farm-terminator
+chrome:website:-               | 00   | GitLab-Project-Favicon                                    | https://github.com/SogoKato/gitlab-project-favicon
+chrome:website:-               | 00   | Privacy Badger                                            | https://eff.org/pages/privacy-badger
+chrome:website:-               | 00   | Redirect Path                                             | https://ayima.com/insights/redirect-checker.html
+chrome:website:-               | 00   | Wikiwand                                                  | https://wikiwand.com
+chrome:website:-               | 01   | DanTagCopy                                                | https://github.com/MichinariNukazawa/DanTagCopy_diffusion_tags_clipboard_webextension
+chrome:website:-               | 11   | Augmented Steam                                           | https://augmentedsteam.com
+chrome:website:-               | 11   | Block Site                                                | https://webextension.org/listing/block-site.html
+chrome:website:-               | 11   | Bookmark Favicon Changer                                  | https://chrome.google.com/webstore/detail/bookmark-favicon-changer/acmfnomgphggonodopogfbmkneepfgnh
+chrome:website:-               | 11   | Modern for Wikipedia                                      | https://modernwiki.app
+chrome:website:-               | 11   | Powerful Pixiv Downloader                                 | https://pixiv.download
+chrome:website:-               | 11   | SteamDB                                                   | https://steamdb.info/extension
+chrome:website:-               | 11   | Stylus                                                    | https://add0n.com/stylus.html
+chrome:website:-               | 11   | Superb Copy                                               | https://chrome.google.com/webstore/detail/superb-copy/agdjnnfibbfdffpdljlilaldngfheapb
+chrome:website:-               | 11   | URL in title                                              | https://github.com/guilryder/chrome-extensions/tree/main/urlintitle
+chrome:website:-               | 11   | uBlacklist                                                | https://iorate.github.io/ublacklist/docs
+chrome:website:-               | 11   | uBlock Origin                                             | https://github.com/gorhill/uBlock
+chrome:window:-                | 00   | Double Read                                               | https://chrome.google.com/webstore/detail/double-read/kcacjknamjmflfkgibhnidhhddiaidao
+chrome:window:-                | 00   | Side_side                                                 | https://github.com/frederickk/side-by-side
+chrome:window:-                | 00   | Sideview Plus                                             | https://parimalam.me/pages/sideview.html
+chrome:window:-                | 00   | Window Resizer                                            | https://coolx10.com/window-resizer/
+chrome:window:-                | 11   | Tab to Window/Popup                                       | https://acarabott.github.io/tabToWindow
+cli:2csv:-                     | 00   | json2csv                                                  | https://github.com/jehiah/json2csv
+cli:2csv:-                     | 00   | mdtable2csv                                               | https://github.com/515hikaru/mdtable2csv
+cli:2csv:-                     | 00   | xlsx2csv                                                  | https://github.com/zitsen/xlsx2csv.rs
+cli:abbreviate:-               | 00   | abbr-cli                                                  | https://github.com/mhadidg/abbr-cli
+cli:abbreviate:-               | 00   | abbreviate                                                | https://github.com/dnnrly/abbreviate
+cli:abbreviate:-               | 00   | wtf-cli                                                   | https://github.com/haixiangyan/wtf-cli
+cli:api:-                      | 00   | VirusTotal CLI                                            | https://github.com/VirusTotal/vt-cli
+cli:attribute:-                | 00   | licensor                                                  | https://github.com/raftario/licensor
+cli:cheat:-                    | 00   | cheat.sh                                                  | https://github.com/chubin/cheat.sh
+cli:cheat:-                    | 00   | kb                                                        | https://github.com/gnebbia/kb
+cli:cheat:-                    | 00   | navi                                                      | https://github.com/denisidoro/navi
+cli:cloud:-                    | 00   | COSCMD                                                    | https://github.com/tencentyun/coscmdf
+cli:cloud:-                    | 00   | coscli                                                    | https://github.com/tencentyun/coscli
+cli:code:record                | 00   | Silicon                                                   | https://github.com/Aloxaf/silicon
+cli:code:record                | 00   | carbon-now-cli                                            | https://github.com/mixn/carbon-now-cli
+cli:color:-                    | 00   | coloro                                                    | https://github.com/Insolita/coloro
+cli:command:-                  | 00   | concurrently                                              | https://github.com/open-cli-tools/concurrently
+cli:command:-                  | 00   | loop                                                      | https://github.com/mateodelnorte/loop
+cli:command:-                  | 00   | parallel                                                  | https://github.com/amishshah/parallel
+cli:command:-                  | 00   | retry                                                     | https://github.com/timofurrer/retry-cmd
+cli:command:-                  | 11   | mprocs                                                    | https://github.com/pvolok/mprocs
+cli:command:linux              | 00   | hoard                                                     | https://github.com/Hyde46/hoard
+cli:complete:-                 | 00   | The Fuck                                                  | https://github.com/nvbn/thefuck
+cli:count:-                    | 00   | Tokei                                                     | https://github.com/XAMPPRocky/tokei
+cli:count:-                    | 11   | scc                                                       | https://github.com/boyter/scc
+cli:csv:-                      | 00   | csview                                                    | https://github.com/wfxr/csview
+cli:csv:-                      | 11   | Tidy Viewer                                               | https://github.com/alexhallam/tv
+cli:csv:color                  | 00   | clr                                                       | https://github.com/furuhama/clr
+cli:csv:color                  | 00   | csvu                                                      | https://github.com/hachi8833/csvu
+cli:currency:-                 | 00   | gocash                                                    | https://github.com/basebandit/gocash
+cli:data:-                     | 00   | Mille                                                     | https://github.com/johnkerl/miller
+cli:data:-                     | 00   | ramda-cli                                                 | https://github.com/raine/ramda-cli
+cli:data:-                     | 00   | teip                                                      | https://github.com/greymd/teip
+cli:data:-                     | 11   | xsv                                                       | https://github.com/BurntSushi/xsv
+cli:dictionary:-               | 00   | thes                                                      | https://github.com/grantshandy/thes
+cli:dictionary:-               | 00   | zdic-cli                                                  | https://github.com/LingDong-/zdic-cli
+cli:dictionary:-               | 11   | Cambridge-Dictionary                                      | https://github.com/spignelon/cambridge-dictionary
+cli:dictionary:color           | 00   | Colorpedia                                                | https://github.com/joowani/colorpedia
+cli:dictionary:color           | 10   | pastel                                                    | https://github.com/sharkdp/pastel
+cli:document:-                 | 00   | dedoc                                                     | https://github.com/toiletbril/dedoc
+cli:dryrun:-                   | 00   | try                                                       | https://github.com/binpash/try
+cli:fetch:-                    | 00   | Winfetch                                                  | https://github.com/M4cs/winfetch
+cli:fetch:-                    | 00   | cpufetch                                                  | https://github.com/Dr-Noob/cpufetch
+cli:fetch:-                    | 00   | neofetch                                                  | https://github.com/dylanaraps/neofetch
+cli:fetch:-                    | 00   | onefetch                                                  | https://github.com/o2sh/onefetch
+cli:fetch:-                    | 00   | winfetch                                                  | https://github.com/lptstr/winfetch
+cli:filterpipe:-               | 00   | AnyAscii                                                  | https://github.com/anyascii/anyascii
+cli:filterpipe:-               | 00   | COOK                                                      | https://github.com/glitchedgitz/cook
+cli:filterpipe:-               | 00   | Go OpenCC                                                 | https://github.com/razonyang/gopencc
+cli:filterpipe:-               | 00   | Python Slugify                                            | https://github.com/un33k/python-slugify
+cli:filterpipe:-               | 00   | Vapyrwave                                                 | https://github.com/jonesmartins/vapyrwave
+cli:filterpipe:-               | 00   | sttr                                                      | https://github.com/abhimanyu003/sttr
+cli:filterpipe:-               | 00   | text-transform-cli                                        | https://github.com/maxlath/text-transform-cli
+cli:filterpipe:-               | 00   | uwuify                                                    | https://github.com/Daniel-Liu-c0deb0t/uwu
+cli:github:issue               | 00   | mtng                                                      | https://github.com/paulgessinger/mtng
+cli:gpt:-                      | 00   | shell-gpt                                                 | https://github.com/TheR1D/shell_gpt
+cli:http:-                     | 00   | ASNmap                                                    | https://github.com/projectdiscovery/asnmap
+cli:http:-                     | 00   | HTTPie CLI                                                | https://github.com/httpie/httpie
+cli:http:-                     | 00   | fuzzuli                                                   | https://github.com/musana/fuzzuli
+cli:http:-                     | 00   | q                                                         | https://github.com/natesales/q
+cli:http:-                     | 00   | xh                                                        | https://github.com/ducaale/xh
+cli:http:test                  | 00   | oha                                                       | https://github.com/hatoo/oha
+cli:http:test                  | 00   | speedtest-cli                                             | https://github.com/sivel/speedtest-cli
+cli:http:test                  | 00   | uro                                                       | https://github.com/s0md3v/uro
+cli:jackett:-                  | 001  | jsc                                                       | https://github.com/rodrigo-sys/jsc
+cli:json:-                     | 00   | tv                                                        | https://github.com/uzimaru0000/tv
+cli:log:-                      | 00   | humanlog                                                  | https://github.com/aybabtme/humanlog
+cli:log:-                      | 00   | klogg                                                     | https://klogg.filimonov.dev
+cli:log:-                      | 00   | l'oGGo                                                    | https://github.com/aurc/loggo
+cli:log:-                      | 00   | tailspin                                                  | https://github.com/bensadeh/tailspin
+cli:loop:-                     | 00   | loop                                                      | https://github.com/Miserlou/Loop
+cli:mangadex:-                 | 00   | mdx                                                       | https://github.com/arimatakao/mdx
+cli:movie:-                    | 00   | FLIX-CLI                                                  | https://github.com/DemonKingSwarn/flix-cli
+cli:movie:-                    | 00   | imdbtr                                                    | https://github.com/fernahh/imdbtr
+cli:package:-                  | 00   | mpm                                                       | https://github.com/kdeldycke/meta-package-manager
+cli:print:-                    | 00   | Boxes                                                     | https://boxes.thomasjensen.com
+cli:print:-                    | 00   | Neo Cowsay                                                | https://github.com/Code-Hex/Neo-cowsay
+cli:process:-                  | 00   | Glances                                                   | https://github.com/nicolargo/glances
+cli:process:-                  | 00   | Sampler                                                   | https://sampler.dev
+cli:process:-                  | 00   | bottom                                                    | https://github.com/ClementTsang/bottom
+cli:process:-                  | 00   | procs                                                     | https://github.com/dalance/procs
+cli:process:-                  | 11   | NTop                                                      | https://github.com/gsass1/NTop
+cli:regex:-                    | 00   | grex                                                      | https://github.com/pemistahl/grex
+cli:rename:-                   | 00   | F2                                                        | https://github.com/ayoisaiah/f2
+cli:rename:-                   | 00   | RnR                                                       | https://github.com/ismaelgv/rnr
+cli:rename:-                   | 00   | mrf                                                       | https://github.com/kerlilow/mrf
+cli:rename:-                   | 00   | renamer                                                   | https://github.com/75lb/renamer
+cli:rename:-                   | 000  | replacer                                                  | https://github.com/guerinoni/replacer
+cli:rename:-                   | 10   | pipe-rename                                               | https://github.com/marcusbuffett/pipe-rename
+cli:rename:-                   | 11   | Renamer                                                   | https://github.com/innocenzi/rename
+cli:rename:replace             | 00   | lcNrD                                                     | https://github.com/Jabrils/lcNrD
+cli:search:-                   | 00   | SmartImage                                                | https://github.com/Decimation/SmartImage
+cli:search:-                   | 00   | What Anime CLI                                            | https://github.com/irevenko/what-anime-cli
+cli:search:-                   | 00   | fileinfo                                                  | https://github.com/sdushantha/fileinfo
+cli:search:-                   | 00   | s                                                         | https://github.com/zquestz/s
+cli:search:tui                 | 00   | Go Around                                                 | https://github.com/glendsoza/goaround
+cli:search:tui                 | 00   | so                                                        | https://github.com/samtay/so
+cli:semantic:-                 | 001  | Semantra                                                  | https://github.com/freedmand/semantra
+cli:sentence:-                 | 00   | Pragmatic Segmenter                                       | https://github.com/diasks2/pragmatic_segmenter
+cli:sentence:-                 | 11   | Sentences                                                 | https://github.com/neurosnap/sentences
+cli:serve:-                    | 00   | http-server                                               | https://github.com/http-party/http-server
+cli:serve:-                    | 00   | miniserve                                                 | https://github.com/svenstaro/miniserve
+cli:serve:-                    | 00   | serve                                                     | https://github.com/syntaqx/serve
+cli:serve:-                    | 00   | serve                                                     | https://github.com/vercel/serve
+cli:serve:-                    | 10   | Dufs                                                      | https://github.com/sigoden/dufs
+cli:social:-                   | 00   | Sherlock                                                  | https://github.com/sherlock-project/sherlock
+cli:social:-                   | 00   | Social Analyzer                                           | https://github.com/qeeqbox/social-analyzer
+cli:social:-                   | 00   | UOSINT                                                    | https://github.com/uosint-project/uosint
+cli:social:github              | 00   | GitFive                                                   | https://github.com/mxrch/GitFive
+cli:spell:-                    | 00   | DidYouMean                                                | https://github.com/hisbaan/didyoumean
+cli:spellcheck:-               | 00   | GuwenBERT                                                 | https://github.com/Ethan-yt/guwenbert
+cli:spellcheck:-               | 00   | word-checker                                              | https://github.com/houbb/word-checker
+cli:spellcheck:aspell          | 10   | spell-win32                                               | https://github.com/adamyg/aspell-win32
+cli:syncabook:-                | 00   | syncabook                                                 | https://github.com/r4victor/syncabook
+cli:syncabook:afaligner        | 00   | afaligner                                                 | https://github.com/r4victor/afaligner
+cli:syncabook:file             | 00   | synclibrivox                                              | https://github.com/r4victor/synclibrivox
+cli:thumbnail:-                | 00   | mt                                                        | https://github.com/mutschler/mt
+cli:thumbnail:-                | 00   | mtn                                                       | https://gitlab.com/movie_thumbnailer/mtn
+cli:thumbnail:-                | 00   | vcsi                                                      | https://github.com/amietn/vcsi
+cli:tiker:-                    | 00   | Ticker                                                    | https://github.com/achannarasappa/ticker
+cli:tiker:-                    | 00   | tick-rs                                                   | https://github.com/tarkah/tickrs
+cli:track:-                    | 00   | Transity                                                  | https://github.com/ad-si/Transity
+cli:track:-                    | 00   | ttrack                                                    | https://github.com/eckyputrady/ttrack
+cli:type:-                     | 00   | spacer                                                    | https://github.com/samwho/spacer
+cli:version:-                  | 00   | has                                                       | https://github.com/kdabir/has
+cli:weather:-                  | 00   | wttr.in                                                   | https://github.com/chubin/wttr.in
+cli:youtube:mpv                | 00   | YouTerm                                                   | https://github.com/marcoradocchia/youterm
+cli:zim:-                      | 00   | ZIM-converter                                             | https://github.com/Bartvelp/zim-converter
+cmder:-:-                      | 11   | Cmder                                                     | https://cmder.app
+cmder:clink:-                  | 00   | CheatCompletions                                          | https://github.com/HeyItsJono/CheatCompletions
+cmder:clink:-                  | 11   | Clink                                                     | https://chrisant996.github.io/clink
+cmder:clink:-                  | 11   | HomeClink                                                 | https://github.com/HeyItsJono/HomeClink
+cmder:clink:complete           | 11   | clink-completions                                         | https://github.com/vladimir-kotikov/clink-completions
+cmder:clink:fzf                | 11   | Clink Gizmos                                              | https://github.com/chrisant996/clink-gizmos
+cmder:clink:fzf                | 11   | FZF integration for Clink                                 | https://github.com/chrisant996/clink-fzf
+cmder:clink:git                | 10   | clink-git-extensions                                      | https://github.com/davidmarek/clink-git-extensions
+cmder:clink:jump               | 10   | z.lua                                                     | https://github.com/skywind3000/z.lua
+cmder:clink:jump               | 11   | zoxide support for clink                                  | https://github.com/shunsambongi/clink-zoxide
+cmder:conemu:-                 | 11   | ConEmu                                                    | https://conemu.github.io
+color:manage:linux             | 00   | Color Manager                                             | https://github.com/NicklasVraa/Color-manager
+color:manage:linux             | 00   | Themix GUI designer                                       | https://github.com/themix-project/themix-gui
+css:image:hover                | 00   | Inline Menu Layout with Gallery Panel                     | https://github.com/codrops/InlineMenuLayout
+css:image:shape                | 00   | Shape Slideshow with Clip-path                            | https://github.com/codrops/ShapesSlideshow
+database:sqlite:-              | 00   | pelican-to-sqlite                                         | https://github.com/ryancheley/pelican-to-sqlite
+database:sqlite:-              | 001  | csvs-to-sqlite                                            | https://github.com/simonw/csvs-to-sqlite
+datasette:-:-                  | 001  | Datasette                                                 | https://datasette.io
+datasette:board:-              | 000  | datasette-dashboards                                      | https://github.com/rclement/datasette-dashboards
+datasette:data:-               | 00   | datasette-gzip                                            | https://github.com/simonw/datasette-gzip
+datasette:data:-               | 001  | datasette-backup                                          | https://github.com/simonw/datasette-backup
+datasette:data:-               | 001  | datasette-jq                                              | https://github.com/simonw/datasette-jq
+datasette:data:-               | 001  | datasette-mutable-downloads                               | https://github.com/cldellow/datasette-mutable-downloads
+datasette:data:-               | 001  | datasette-parquet                                         | https://github.com/cldellow/datasette-parquet
+datasette:data:-               | 001  | github-to-sqlite                                          | https://github.com/dogsheep/github-to-sqlite
+datasette:edit:-               | 00   | datasette-edit-templates                                  | https://github.com/simonw/datasette-edit-templates
+datasette:edit:-               | 00   | datasette-saved-queries                                   | https://github.com/simonw/datasette-saved-queries
+datasette:edit:-               | 00   | datasette-upload-dbs                                      | https://github.com/simonw/datasette-upload-dbs
+datasette:edit:-               | 001  | datasette-copyable                                        | https://github.com/simonw/datasette-copyable
+datasette:edit:-               | 001  | datasette-edit-schema                                     | https://github.com/simonw/datasette-edit-schema
+datasette:edit:-               | 001  | datasette-export                                          | https://github.com/simonw/datasette-export
+datasette:edit:-               | 001  | datasette-insert                                          | https://github.com/simonw/datasette-insert
+datasette:edit:-               | 001  | datasette-upload-csvs                                     | https://github.com/simonw/datasette-upload-csvs
+datasette:edit:-               | 001  | datasette-webhook-write                                   | https://github.com/mfa/datasette-webhook-write
+datasette:edit:-               | 001  | datasette-write-ui                                        | https://github.com/datasette-io/datasette-write-ui
+datasette:import:-             | 00   | datapackage-to-datasette                                  | https://github.com/chris48s/datapackage-to-datasette
+datasette:metadata:-           | 00   | datasette-metadata-editable                               | https://github.com/datasette/datasette-metadata-editable
+datasette:other:-              | 00   | datasette-css-properties                                  | https://github.com/simonw/datasette-css-properties
+datasette:other:-              | 00   | datasette-screenshots                                     | https://github.com/simonw/datasette-screenshots
+datasette:other:-              | 00   | datasette-table                                           | https://github.com/simonw/datasette-table
+datasette:other:-              | 001  | datasette-atom                                            | https://github.com/simonw/datasette-atom
+datasette:render:-             | 00   | datasette-mailto-links                                    | https://github.com/chris48s/datasette-mailto-links
+datasette:render:-             | 00   | datasette-media                                           | https://github.com/simonw/datasette-media
+datasette:render:-             | 00   | datasette-mp3-audio                                       | https://github.com/simonw/datasette-mp3-audio
+datasette:render:-             | 00   | datasette-pretty-json                                     | https://github.com/simonw/datasette-pretty-json
+datasette:render:-             | 00   | datasette-render-html                                     | https://github.com/simonw/datasette-render-html
+datasette:render:-             | 00   | datasette-render-image-tags                               | https://github.com/simonw/datasette-render-image-tags
+datasette:render:-             | 00   | datasette-render-images                                   | https://github.com/simonw/datasette-render-images
+datasette:render:-             | 00   | datasette-render-timestamps                               | https://github.com/simonw/datasette-render-timestamps
+datasette:render:-             | 00   | datasette-spotify-embed                                   | https://github.com/chekos/datasette-spotify-embed
+datasette:render:-             | 00   | datasette-tiddlywiki                                      | https://github.com/simonw/datasette-tiddlywiki
+datasette:render:-             | 001  | datasette-external-links-new-tabs                         | https://github.com/ocdtrekkie/datasette-external-links-new-tabs
+datasette:render:-             | 001  | datasette-linkify                                         | https://github.com/ernstki/datasette-linkify
+datasette:render:-             | 001  | datasette-multiline-links                                 | https://github.com/simonw/datasette-multiline-links
+datasette:render:-             | 001  | datasette-render-markdown                                 | https://github.com/simonw/datasette-render-markdown
+datasette:render:templ         | 000  | data-tourism                                              | https://github.com/LNshuti/data-tourism
+datasette:search:-             | 00   | datasette-configure-fts                                   | https://github.com/simonw/datasette-configure-fts
+datasette:search:-             | 00   | datasette-ripgrep                                         | https://github.com/simonw/datasette-ripgrep
+datasette:search:-             | 001  | datasette-search-all                                      | https://github.com/simonw/datasette-search-all
+datasette:studio:-             | 000  | Datasette Studio                                          | https://github.com/datasette/studio
+datasette:studio:-             | 000  | datasette-studio                                          | https://github.com/datasette/datasette-studio
+datasette:theme:-              | 001  | Datasette charcoal theme                                  | https://github.com/julien040/charcoal-datasette-theme
+datasette:tool:-               | 001  | datasette-pins                                            | https://github.com/datasette/datasette-pins
+datasette:user:-               | 00   | datasette-permissions-sql                                 | https://github.com/simonw/datasette-permissions-sql
+datasette:user:-               | 00   | datasette-public                                          | https://github.com/simonw/datasette-public
+datasette:view:-               | 00   | datasette-seaborn                                         | https://github.com/simonw/datasette-seaborn
+datasette:view:-               | 00   | datasette-total-page-time                                 | https://github.com/simonw/datasette-total-page-time
+datasette:view:-               | 001  | datasette-mask-columns                                    | https://github.com/simonw/datasette-mask-columns
+datasette:view:-               | 001  | datasette-nteract-data-explorer                           | https://github.com/hydrosquall/datasette-nteract-data-explorer
+datasette:web:-                | 00   | datasette-auth-github                                     | https://github.com/simonw/datasette-auth-github
+datasette:web:-                | 00   | datasette-block-robots                                    | https://github.com/simonw/datasette-block-robots
+datasette:web:-                | 001  | datasette-publish-vercel                                  | https://github.com/simonw/datasette-publish-vercel
+datasette:web:-                | 001  | datasette-sitemap                                         | https://github.com/simonw/datasette-sitemap
+desktop:icon-layout:-          | 00   | ReIcon                                                    | https://sordum.org/8366/reicon-v2-0-restore-desktop-icon-layouts
+desktop:menu:-                 | 00   | SystemTrayMenu                                            | https://github.com/Hofknecht/SystemTrayMenu
+desktop:menu:-                 | 00   | Taskbar Groups                                            | https://github.com/tjackenpacken/taskbar-groups
+desktop:menu:-                 | 10   | NeXuS                                                     | https://winstep.net/nexus.asp
+desktop:menu:-                 | 11   | Open-Shell                                                | https://github.com/Open-Shell/Open-Shell-Menu
+desktop:pet:-                  | 00   | Desktop Goose                                             | https://samperson.itch.io/desktop-goose
+desktop:taskbar:-              | 00   | Tiny Taskbar                                              | https://github.com/HooferDevelops/TinyTaskbar
+desktop:taskbar:-              | 10   | SmartTaskbar                                              | https://github.com/ChanpleCai/SmartTaskbar
+desktop:taskbar:-              | 10   | T-Clock Redux                                             | https://github.com/White-Tiger/T-Clock
+desktop:taskbar:-              | 10   | TranslucentTB                                             | https://github.com/TranslucentTB/TranslucentTB
+desktop:taskbar:-              | 11   | CenterTaskbar                                             | https://github.com/mdhiggins/CenterTaskbar
+desktop:theme:-                | 00   | 7TSP GUI 2019 Edition                                     | https://deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422
+desktop:theme:-                | 00   | SecureUxTheme                                             | https://github.com/namazso/SecureUxTheme
+desktop:theme:-                | 00   | msstyleEditor                                             | https://github.com/nptr/msstyleEditor
+desktop:tray:-                 | 00   | Tray Weather                                              | https://github.com/FelixdelasPozas/TrayWeather
+desktop:tray:-                 | 00   | Traymond                                                  | https://github.com/fcFn/traymond
+desktop:wallpaper:-            | 00   | Flowy                                                     | https://github.com/vineetred/flowy
+desktop:wallpaper:-            | 00   | Splash CLI                                                | https://github.com/splash-cli/splash-cli
+desktop:wallpaper:-            | 00   | WinDynamicDesktop                                         | https://github.com/t1m0thyj/WinDynamicDesktop
+desktop:wallpaper:-            | 00   | wfwp                                                      | https://github.com/fjn308/wfwp
+desktop:wallpaper:-            | 10   | Wallpaper Engine                                          | https://wallpaperengine.io/
+desktop:wallpaper:-            | 11   | Lively                                                    | https://github.com/rocksdanister/lively
+development:api:-              | 00   | Hoppscotch                                                | https://github.com/hoppscotch/hoppscotch
+development:api:-              | 00   | Infisical                                                 | https://github.com/Infisical/infisical
+development:database:-         | 00   | sqlite-vec                                                | https://github.com/asg017/sqlite-vec
+device:bluetooth:-             | 00   | toolBLEx                                                  | https://github.com/emericg/toolBLEx
+device:camera:-                | 001  | Frigate                                                   | https://github.com/blakeblackshear/frigate
+device:cb1:-                   | 00   | CB1                                                       | https://github.com/bigtreetech/CB1
+device:cb1:drive               | 00   | CB1 3d Acceleration running Armbian Bookworm              | https://gist.github.com/adelyser/4e31409cd9c99ba4cb78a31fa9d12bb1
+device:cb1:os                  | 00   | RatOS-on-CB1                                              | https://github.com/koder-guy/RatOS-on-CB1
+device:cb1:os                  | 00   | armbian-build                                             | https://github.com/uberlinuxguy/armbian-build
+device:cb1:setup               | 00   | CB1-setup                                                 | https://github.com/ToyVo/CB1-setup
+device:cb1:setup               | 00   | Debian Build for Biqu/BTT CB1                             | https://github.com/freakydude/cb1-os-build
+device:controller:-            | 00   | Gopher                                                    | https://github.com/irungentoo/Gopher360
+device:desktop-switch:-        | 001  | DeskHop                                                   | https://github.com/hrvach/deskhop
+device:display:-               | 11   | LCD-show-retropie                                         | https://github.com/lcdwiki/LCD-show-retropie
+device:dns:-                   | 00   | Pi-hole                                                   | https://github.com/pi-hole/pi-hole
+device:drone:-                 | 00   | ODM                                                       | https://github.com/OpenDroneMap/ODM
+device:game:handheld           | 00   | NucDeck                                                   | https://github.com/dmcke5/NucDeck
+device:game:handheld           | 00   | Retro ESP32                                               | https://github.com/retro-esp32/RetroESP32
+device:gameshell:-             | 00   | GameShell                                                 | https://forum.clockworkpi.com/t/device:armbian:build-system-with-clockwork-gameshell-support/11995
+device:gps:-                   | 00   | SARfish                                                   | https://github.com/MJCruickshank/SARfish
+device:keyboard:-              | 00   | rafaelromao's keyboard layout                             | https://github.com/rafaelromao/keyboards
+device:keyboard:audio          | 00   | kbd-audio                                                 | https://github.com/ggerganov/kbd-audio
+device:keyboard:trackball      | 00   | Charybdis                                                 | https://github.com/Bastardkb/Charybdis
+device:label-printer:-         | 00   | NiimBlue                                                  | https://github.com/MultiMote/niimblue
+device:label-printer:-         | 00   | NiimPrintX                                                | https://github.com/labbots/NiimPrintX
+device:label-printer:-         | 00   | NiimbotJS                                                 | https://github.com/dtgreene/niimbotjs
+device:led:-                   | 00   | LedFx                                                     | https://github.com/LedFx/LedFx
+device:led:-                   | 00   | WLED                                                      | https://github.com/Aircoookie/WLED
+device:log:-                   | 00   | Blackout Logger                                           | https://github.com/dr-mod/blackout-logger
+device:music:card              | 00   | Music Cards                                               | https://github.com/hoveeman/music-cards
+device:music:visualize         | 00   | Audio Reactive LED Strip                                  | https://github.com/scottlawsonbc/audio-reactive-led-strip
+device:nas:-                   | 00   | OMV-Extras                                                | https://wiki.omv-extras.org/
+device:nas:-                   | 00   | openmediavault                                            | https://github.com/openmediavault/openmediavault
+device:notify:-                | 001  | The Guardian Duck                                         | https://github.com/dr-mod/guardian-duck
+device:phillips-hue:-          | 00   | hue-tui                                                   | https://github.com/channel-42/hue-tui
+device:pios:-                  | 00   | Pi-Apps                                                   | https://github.com/Botspot/pi-apps
+device:printer:label           | 00   | E-TKT                                                     | https://github.com/andreisperid/E-TKT
+device:python:embed            | 00   | MicroPython                                               | https://github.com/micropython/micropython
+device:read:eink               | 00   | piEreader                                                 | https://gitlab.com/guyjeangilles/piereader
+device:remote:-                | 00   | QtScrcpy                                                  | https://github.com/barry-ran/QtScrcpy
+device:remote:-                | 00   | RustDesk                                                  | https://github.com/rustdesk/rustdesk
+device:remote:-                | 00   | scrcpy                                                    | https://github.com/Genymobile/scrcpy
+device:sampler:-               | 001  | SOURC                                                     | https://github.com/ffont/source
+device:sensor:linux            | 00   | WatchFlower                                               | https://flathub.org/apps/io.emeric.watchflower
+device:transfer:audio          | 00   | ggwave                                                    | https://github.com/ggerganov/ggwave
+device:uconsole:-              | 00   | uConsole                                                  | https://github.com/clockworkpi/uConsole
+device:uconsole:i3             | 00   | Uconsole-i3                                               | https://github.com/dzaczek/Uconsole-i3
+device:uconsole:postmarketos   | 00   | PostmarketOS - uConsole CM4                               | https://forum.clockworkpi.com/t/postmarketos-uconsole-cm4/12458
+device:uconsole:rp2040         | 00   | μPico                                                     | https://github.com/dotcypress/upico
+device:uconsole:sway           | 00   | uConsole Sway Configuration                               | https://github.com/emdash/uConsole_sway_config
+device:uconsole:usb            | 00   | μHub                                                      | https://github.com/dotcypress/uhub
+device:usb-token:-             | 001  | Tillitis TKey                                             | https://github.com/tillitis/tillitis-key1
+device:virtual:-               | 00   | EmuGUI                                                    | https://github.com/Tech-FZ/EmuGUI
+device:virtual:-               | 00   | QEMU                                                      | https://qemu.org
+device:voice-assistant:-       | 00   | Pi-C.A.R.D                                                | https://github.com/nkasmanoff/pi-card
+device:watch:eink              | 00   | Watchy                                                    | https://watchy.sqfmi.com
+device:watch:library           | 00   | LVGL                                                      | https://lvgl.io
+device:watch:os                | 00   | Open-Smartwatch Operating System                          | https://github.com/Open-Smartwatch/open-smartwatch-os
+device:weather:eink            | 001  | eink-weather-display                                      | https://github.com/kimmobrunfeldt/eink-weather-display
+dictionary:cli:-               | 11   | sdcv                                                      | https://github.com/Dushistov/sdcv
+dictionary:convert:-           | 10   | PyGlossary                                                | https://github.com/ilius/pyglossary
+dictionary:dictd:-             | 00   | dict-ecdict                                               | https://github.com/tuberry/dict-ecdict
+dictionary:dictd:cygwin        | 00   | dict-wrapper                                              | https://github.com/dekerser/dict-wrapper
+dictionary:dictd:linux         | 00   | ClipDict                                                  | https://github.com/github-young/ClipDict
+dictionary:etymolog:-          | 00   | ety                                                       | https://github.com/Calder-Ty/ety
+dictionary:etymolog:-          | 00   | ety-python                                                | https://github.com/jmsv/ety-python
+dictionary:etymolog:-          | 00   | etym                                                      | https://github.com/tetrismegistus/etym
+dictionary:etymolog:-          | 00   | etymolog                                                  | https://github.com/uzak/etymolog
+dictionary:game:-              | 00   | Game2Text-Lightning                                       | https://github.com/mathewthe2/Game2Text-Lightning
+dictionary:game:-              | 00   | JL                                                        | https://github.com/rampaa/JL
+dictionary:goldendict:-        | 00   | GoldenDict tools                                          | https://github.com/Ajatt-Tools/gd-tools
+dictionary:goldendict:-        | 00   | GoldenDict-ng                                             | https://github.com/xiaoyifang/goldendict-ng
+dictionary:goldendict:-        | 00   | TMX to Goldendict Convertor                               | https://github.com/Celso-Scott/TMX-to-Goldendict-Converter
+dictionary:goldendict:-        | 11   | GoldenDict                                                | https://github.com/goldendict/goldendict
+dictionary:goldendict:dsl      | 10   | dictzip for Windows 10 (x64)                              | https://github.com/KaseyJenkins/dictzip-win64
+dictionary:goldendict:tmx2     | 00   | TMX to Goldendict Convertor                               | https://github.com/Celso-Scott/TMX-to-Goldendict-Converter
+dictionary:mdx:-               | 10   | MDict Tool                                                | https://github.com/liuyug/mdict-utils
+dictionary:mecab:-             | 01   | mecab-python3                                             | https://github.com/SamuraiT/mecab-python3
+dictionary:mecab:-             | 10   | UniDic                                                    | https://clrd.ninjal.ac.jp/unidic/
+dictionary:mecab:korean        | 00   | mecab-ko-msvc                                             | https://github.com/Pusnow/mecab-ko-msvc
+dictionary:mecab:linux         | 00   | mecab_dictionaries                                        | https://github.com/tetutaro/mecab_dictionaries
+dictionary:yomichan:-          | 00   | Jitendex                                                  | https://github.com/stephenmk/Jitendex
+dictionary:yomichan:-          | 00   | Local Audio Server for Yomichan                           | https://github.com/themoeway/local-audio-yomichan
+dictionary:yomichan:-          | 00   | Yomichan Audio Server                                     | https://github.com/caseyscarborough/yomichan-audio-server
+dictionary:yomichan:-          | 00   | Yomichan Frequency List Generator                         | https://github.com/kamui-fin/yomi-freq
+dictionary:yomichan:-          | 00   | Yomichan Grammar Dictionaries                             | https://github.com/aiko-tanaka/Grammar-Dictionaries
+dictionary:yomichan:-          | 00   | Yomichan/Yomitan Dictionaries                             | https://github.com/MarvNC/yomichan-dictionaries
+dictionary:yomichan:-          | 00   | yomichan-jlpt-vocab                                       | https://github.com/stephenmk/yomichan-jlpt-vocab
+dictionary:yomichan:-          | 00   | yomichan_audio_server                                     | https://github.com/aramrw/yomichan_audio_server
+dictionary:yomichan:-          | 001  | My Yomichan Setup                                         | https://github.com/aramrw/yomichan-dict-css
+dictionary:yomichan:-          | 001  | Yomichan-Custom-CSS-Template                              | https://github.com/AmadoouXC/Yomichan-Custom-CSS
+dictionary:yomichan:-          | 001  | yomichan-dict-css                                         | https://github.com/themoeway/yomichan-dict-css
+dictionary:yomichan:extension  | 00   | Yomichan                                                  | https://foosoft.net/projects/yomichan
+dictionary:yomitan:-           | 01   | Yomitan                                                   | https://github.com/themoeway/yomitan
+directory-opus:-:-             | 11   | Directory Opus                                            | https://gpsoft.com.au
+directory-opus:backup:-        | 11   | Automatic backup of Opus config?                          | https://resource.dopus.com/t/automatic-backup-of-opus-config/16485
+directory-opus:cd:-            | 00   | GoRootArchive                                             | https://resource.dopus.com/t/gorootarchive-jump-back-to-the-root-of-an-archive/51408
+directory-opus:clean:-         | 00   | Folder Cleaner                                            | https://resource.dopus.com/t/folder-cleaner-delete-folders-but-keep-files/52555
+directory-opus:clipboard:-     | 00   | Paste URL from clipboard as .url file                     | https://resource.dopus.com/t/paste-url-from-clipboard-as-url-file/44678
+directory-opus:command:-       | 001  | Running Various Commands When Entering Specific Paths     | https://resource.dopus.com/t/script-for-running-various-commands-when-entering-specific-paths/51839/2
+directory-opus:compress:-      | 11   | Folder packer+                                            | https://resource.dopus.com/t/folder-packer/48891
+directory-opus:copy:-          | 00   | CopyRecreatePath                                          | https://resource.dopus.com/t/copyrecreatepath-recreate-paths-for-archive-files/51431
+directory-opus:copy:-          | 00   | FastCopy Buttons & Drop Menu                              | https://resource.dopus.com/t/fastcopy-buttons-drop-menu/9351
+directory-opus:copy:-          | 11   | FastCopy - How to Integrate or Install It                 | https://resource.dopus.com/t/fastcopy-how-to-integrate-or-install-it-integration-use-commands/35158
+directory-opus:decompress:-    | 11   | Smart archive extraction                                  | https://resource.dopus.com/t/smart-archive-extraction-enhanced/40637
+directory-opus:download:-      | 00   | Download file from clipboard URL directly to folder       | https://resource.dopus.com/t/download-file-from-clipboard-url-directly-to-folder/44679
+directory-opus:file:-          | 00   | Better "New Text Document" Script                         | https://resource.dopus.com/t/better-new-text-document-script/50180
+directory-opus:file:-          | 00   | copy file/folder name(s) or path(s) ...                   | https://resource.dopus.com/t/scripts-to-copy-file-folder-name-s-or-path-s-with-automatic-surrounding-quotes-based-on-spaces/51122
+directory-opus:filter:-        | 00   | EverythingFolderSize                                      | https://resource.dopus.com/t/everythingfoldersize-use-everything-to-calculate-folder-sizes/44281
+directory-opus:filter:-        | 00   | Filter by Column                                          | https://resource.dopus.com/t/filter-by-column-filter-bar-for-all-columns/47559
+directory-opus:filter:-        | 11   | Save and restore QuickFilter settings                     | https://resource.dopus.com/t/save-and-restore-quickfilter-settings/43718
+directory-opus:foobar2000:-    | 00   | WatchFoobar                                               | https://resource.dopus.com/t/watchfoobar-monitor-what-foobar2000-is-playing/51286
+directory-opus:git:-           | 00   | Open Remote URL for git repositories                      | https://resource.dopus.com/t/open-remote-url-for-git-repositories/49447/1
+directory-opus:hash:-          | 11   | Tool: Hash file creation & validation                     | https://resource.dopus.com/t/tool-hash-file-creation-validation/24378
+directory-opus:history:-       | 00   | Reopen multiple closed tabs via GUI or a command          | https://resource.dopus.com/t/reopen-multiple-closed-tabs-via-gui-or-a-command/50158
+directory-opus:history:v13     | 00   | RecentToCollection                                        | https://resource.dopus.com/t/recenttocollection-create-a-collection-from-recent-folders/48571
+directory-opus:icon:-          | 00   | IconTools                                                 | https://resource.dopus.com/t/icontools-extract-single-icons-from-iconset-html-reference-page/51407
+directory-opus:icon:-          | 11   | Directory Opus 12 Flat AEicon Set v1.0                    | https://resource.dopus.com/t/directory-opus-12-flat-aeicon-set-v1-0/29096
+directory-opus:icon:-          | 11   | Directory Opus BASIC Icons                                | https://resource.dopus.com/t/directory-opus-basic-icons-v2-0-delta-drop-in-replacement/25840/2
+directory-opus:image:-         | 00   | Resize image                                              | https://resource.dopus.com/t/resize-image/49090
+directory-opus:image:-         | 11   | Button - Crop Image Fixed Ratio                           | https://resource.dopus.com/t/button-crop-image-fixed-ratio/44741
+directory-opus:layout:-        | 11   | Cycle through Layouts                                     | https://resource.dopus.com/t/cycle-through-layouts/51223
+directory-opus:log:-           | 00   | CommonLogger                                              | https://resource.dopus.com/t/commonlogger-a-logger-for-opus-js-scripting/52058
+directory-opus:metadata:-      | 00   | BackupMeta                                                | https://resource.dopus.com/t/backupmeta-backup-and-restore-opus-metadata/45497
+directory-opus:metadata:-      | 10   | Photo Exif                                                | https://resource.dopus.com/t/photo-exif/35015
+directory-opus:metadata:-      | 11   | CuMediaExtenders                                          | https://github.com/cy-gh/DOpus_CuMediaExtenders
+directory-opus:metadata:-      | 11   | PrintMeta                                                 | https://resource.dopus.com/t/printmeta-write-metadata-to-text-files/42786
+directory-opus:metadata:v13    | 00   | DO Meta Wizard Command                                    | https://resource.dopus.com/t/do-meta-wizard-command/48578
+directory-opus:metadata:v13    | 00   | Mp3 Tag File                                              | https://resource.dopus.com/t/mp3-tag-file/48563
+directory-opus:project:-       | 00   | Current Projects buttons (+hotkeys)                       | https://resource.dopus.com/t/current-projects-buttons-hotkeys/48908
+directory-opus:rename:-        | 11   | Extended functionality for F2                             | https://resource.dopus.com/t/extended-functionality-for-f2/43765
+directory-opus:retroarch:-     | 00   | CreateRetroArchPlaylist                                   | https://resource.dopus.com/t/command-createretroarchplaylist/52127
+directory-opus:search:-        | 00   | EverythingDopus                                           | https://github.com/TheZoc/EverythingDopus/
+directory-opus:shortcut        | 00   | copying Shortcut (.lnk) targets                           | https://resource.dopus.com/t/script-command-for-copying-shortcut-lnk-targets-including-arguments/51593
+directory-opus:signature:-     | 00   | Column - Verify Digital Signatures                        | https://resource.dopus.com/t/column-verify-digital-signatures/51462
+directory-opus:theme:-         | 11   | Simple Windows 10 Dark Theme                              | https://resource.dopus.com/t/simple-windows-10-dark-theme/30055
+directory-opus:torrent:-       | 00   | Column_TorrentInfo                                        | https://resource.dopus.com/t/column-torrentinfo-bt-bdecode-parsing-torrent-file-to-generate-metadata-columns/49741
+directory-opus:tree:-          | 00   | copying tree view of selected files & folders             | https://resource.dopus.com/t/script-command-for-copying-tree-view-of-selected-files-folders/51628
+directory-opus:viewer:-        | 00   | Sync viewer and file selection                            | https://gist.github.com/ScribbleGhost/e88738769df7f67a335eae634500cbe1
+discord:-:-                    | 00   | Discord                                                   | https://discord.com
+discord:bot:-                  | 00   | JMusicBot                                                 | https://github.com/jagrosh/MusicBot
+discord:image:-                | 00   | Discord Image Gallery                                     | https://github.com/ELginas/discord-image-gallery
+discord:joplin:-               | 00   | Joplin Discord Rich Presence Plugin                       | https://github.com/mahancoder/joplin-discord-rich-presence
+discord:obsidian:-             | 00   | Discord Share                                             | https://github.com/phd20/obsidian-discord-share
+discord:tool:-                 | 00   | DiscordChatExporter                                       | https://github.com/Tyrrrz/DiscordChatExporter
+docker:-:-                     | 00   | podman-tui                                                | https://github.com/containers/podman-tui
+docker:serve:-                 | 00   | 辞書                                                      | https://github.com/denonia/jisho
+docker:tui:-                   | 00   | lazydocker                                                | https://github.com/jesseduffield/lazydocker
+document:docset:-              | 00   | Dashing                                                   | https://github.com/technosophos/dashing
+document:docset:-              | 00   | Velocity                                                  | https://velocity.silverlakesoftware.com
+document:docset:-              | 11   | Zeal                                                      | https://zealdocs.org
+document:docset:-              | 11   | doc2dash                                                  | https://github.com/hynek/doc2dash
+document:docset:godot          | 00   | Godot Dash Docset                                         | https://github.com/poga/godot-dash-docset
+document:docset:zeal           | 00   | Dash's user contributed docset feed                       | https://github.com/hashhar/dash-contrib-docset-feeds
+document:zim:-                 | 00   | Plugins                                                   | https://github.com/jaap-karssenberg/zim-wiki/wiki/Plugins
+document:zim:-                 | 00   | Zim                                                       | https://zim-wiki.org
+document:zim:convert           | 00   | ZIM-converter                                             | https://github.com/Bartvelp/zim-converter
+download:-:-                   | 00   | ArrowDL                                                   | https://github.com/setvisible/ArrowDL
+download:-:-                   | 00   | Bandcamp Downloader                                       | https://github.com/Otiel/BandcampDownloader
+download:-:-                   | 00   | File centipede                                            | https://github.com/filecxx/FileCentipede
+download:-:-                   | 00   | GAP decoder                                               | https://github.com/MdSauravChowdhury/Google-artsandculture-image-downlaod
+download:-:-                   | 00   | IPFS Desktop                                              | https://github.com/ipfs/ipfs-desktop
+download:-:-                   | 00   | M3U8                                                      | https://github.com/oopsguy/m3u8
+download:-:-                   | 00   | Mangal 4                                                  | https://github.com/metafates/mangal
+download:-:-                   | 00   | PixivUtil2                                                | https://github.com/Nandaka/PixivUtil2
+download:-:-                   | 00   | Powerful Pixiv Downloader                                 | https://github.com/xuejianxianzun/PixivBatchDownloader
+download:-:-                   | 00   | You-Get                                                   | https://github.com/soimort/you-get
+download:-:-                   | 00   | bcdl                                                      | https://github.com/daot/bcdl
+download:-:-                   | 00   | bilix                                                     | https://github.com/HFrost0/bilix
+download:-:-                   | 00   | dezoomify-rs                                              | https://github.com/lovasoa/dezoomify-rs
+download:-:-                   | 00   | gallery-dl                                                | https://github.com/mikf/gallery-dl
+download:-:-                   | 00   | internetarchive                                           | https://github.com/jjjake/internetarchive
+download:-:-                   | 00   | spotify_dl                                                | https://github.com/SathyaBhat/spotify-dl
+download:-:-                   | 00   | 小说下载器                                                | https://github.com/404-novel-project/novel-downloader
+download:aria2:-               | 00   | Persepolis Download Manager                               | https://persepolisdm.github.io
+download:aria2:-               | 00   | aria2                                                     | https://aria2.github.io
+download:aria2:-               | 00   | aria2-rpc-conf                                            | https://github.com/swgrhck/aria2-rpc-conf
+download:aria2:-               | 00   | aria2p                                                    | https://github.com/pawamoy/aria2p
+download:qbittorrent:-         | 00   | QbtManager                                                | https://github.com/Webreaper/QbtManager
+download:qbittorrent:-         | 11   | qBittorrent-Enhanced-Edition                              | https://github.com/c0re100/qBittorrent-Enhanced-Edition
+download:scrape:-              | 00   | HTTrack                                                   | https://httrack.com
+download:torrent:-             | 00   | Intermodal                                                | https://github.com/casey/intermodal
+download:torrent:-             | 00   | Torrent File Editor                                       | https://torrent-file-editor.github.io
+download:torrent:-             | 00   | WebTorrent CLI                                            | https://github.com/webtorrent/webtorrent-cli
+download:youtube:-             | 00   | YoutubeDownloader                                         | https://github.com/Tyrrrz/YoutubeDownloader
+download:youtube:-             | 00   | media-downloader                                          | https://github.com/mhogomchungu/media-downloader
+download:youtube:-             | 00   | ytdlp-interface                                           | https://github.com/ErrorFlynn/ytdlp-interface
+ebook:manage:-                 | 00   | Calibre                                                   | https://calibre-ebook.com
+ebook:metadata:-               | 00   | calibre-douban                                            | https://github.com/fugary/calibre-douban
+ebook:reader:-                 | 00   | Foliate                                                   | https://johnfactotum.github.io/foliate/
+editor:database:-              | 00   | DBeaver                                                   | https://dbeaver.io
+editor:database:-              | 00   | SQL Notebook                                              | https://github.com/electroly/sqlnotebook
+editor:database:-              | 10   | TriliumNext Notes                                         | https://github.com/TriliumNext/Notes
+editor:database:cli            | 00   | mycli                                                     | https://github.com/dbcli/mycli
+editor:database:cli            | 00   | sq                                                        | https://github.com/neilotoole/sq
+editor:database:cli            | 00   | trdsql                                                    | https://github.com/noborus/trdsql
+editor:diff:-                  | 00   | Diffable                                                  | https://github.com/yaroslavyaroslav/Diffable
+editor:emacs:-                 | 00   | Doom Emacs                                                | https://github.com/doomemacs/doomemacs
+editor:emacs:-                 | 00   | Doom N Λ N O Themes                                       | https://github.com/ronisbr/doom-nano-themes
+editor:emacs:-                 | 00   | Emacs                                                     | https://gnu.org/software/emacs
+editor:emacs:-                 | 00   | Org Mode                                                  | https://orgmode.org
+editor:emacs:-                 | 00   | Org Rainbow Tags                                          | https://github.com/KaratasFurkan/org-rainbow-tags
+editor:emacs:-                 | 00   | Org Roam BibTeX                                           | https://github.com/org-roam/org-roam-bibtex
+editor:emacs:-                 | 00   | Org-roam                                                  | https://orgroam.com
+editor:emacs:-                 | 00   | Spacemacs                                                 | https://github.com/syl20bnr/spacemacs
+editor:emacs:-                 | 00   | Vulpea                                                    | https://github.com/d12frosted/vulpea
+editor:emacs:-                 | 00   | yomikun                                                   | https://github.com/dmgerman/yomikun
+editor:hex:-                   | 00   | ImHex                                                     | https://github.com/WerWolv/ImHex
+editor:hex:tui                 | 00   | Radare2                                                   | https://radare.org/n/radare2.html
+editor:hex:tui                 | 00   | heh                                                       | https://github.com/ndd7xv/heh
+editor:ide:-                   | 00   | Positron                                                  | https://github.com/posit-dev/positron
+editor:ide:-                   | 00   | ZeroBrane Studio                                          | https://github.com/pkulchenko/ZeroBraneStudio
+editor:journal:tui             | 00   | Caps-Log                                                  | https://github.com/NikolaDucak/caps-log
+editor:jupter:-                | 00   | JupyterLab                                                | https://jupyter.org
+editor:jupyter:-               | 00   | euporie                                                   | https://github.com/joouha/euporie
+editor:latex:-                 | 00   | KLatexFormula                                             | https://klatexformula.sourceforge.io
+editor:latex:-                 | 00   | MiKTeX                                                    | https://miktex.org
+editor:latex:-                 | 00   | Texmaker                                                  | https://xm1math.net/texmaker
+editor:lite-xl:-               | 00   | Lite XL                                                   | https://github.com/lite-xl/lite-xl
+editor:lite-xl:-               | 00   | Lite XL colors                                            | https://github.com/lite-xl/lite-xl-colors
+editor:lite-xl:-               | 00   | Lite XL plugins                                           | https://github.com/lite-xl/lite-xl-plugins
+editor:markdown:-              | 00   | Asciidoc FX                                               | https://asciidocfx.com
+editor:markdown:-              | 00   | MarkText                                                  | https://github.com/marktext/marktext
+editor:markdown:-              | 00   | QOwnNotes                                                 | https://qownnotes.org
+editor:markdown:-              | 00   | VNote                                                     | https://vnotex.github.io/vnote
+editor:notepad:-               | 00   | Notepad Next                                              | https://github.com/dail8859/NotepadNext
+editor:notepad:-               | 00   | Notepad++                                                 | https://github.com/notepad-plus-plus
+editor:office:-                | 00   | LibreOffice                                               | https://libreoffice.org
+editor:office:-                | 00   | Office Tool Plus                                          | https://github.com/YerongAI/Office-Tool
+editor:office:-                | 00   | OpenOffice                                                | https://openoffice.org
+editor:qownnotes:extension     | 00   | QOwnNotes Web Companion                                   | https://github.com/qownnotes/web-companion
+editor:quarto:-                | 00   | Quarto                                                    | https://quarto.org
+editor:quarto:-                | 00   | quarto-site-template                                      | https://github.com/Openscapes/quarto-website-tutorial
+editor:slide:-                 | 00   | Slides                                                    | https://github.com/maaslalani/slides
+editor:slide:-                 | 00   | present                                                   | https://github.com/vinayak-mehta/present
+editor:slide:-                 | 00   | presenterm                                                | https://github.com/mfontanini/presenterm
+editor:tabular:-               | 00   | CsvTextEditor                                             | https://github.com/WildGums/CsvTextEditor
+editor:tabular:-               | 00   | Tabular Editor                                            | https://github.com/TabularEditor/TabularEditor
+editor:tabular:-               | 00   | Tad                                                       | https://github.com/antonycourtney/tad
+editor:text:-                  | 00   | BabelPad                                                  | https://babelstone.co.uk/Software/BabelPad.html
+editor:tui:-                   | 00   | micro                                                     | https://github.com/zyedidia/micro
+email:-:-                      | 00   | SeaMonkey                                                 | https://seamonkey-project.org
+email:-:-                      | 11   | Thunderbird                                               | https://thunderbird.net
+email:cli:-                    | 00   | PingMe CLI                                                | https://github.com/kha7iq/pingme
+emulator:batocera:linux        | 00   | Batocera.linux                                            | https://github.com/batocera-linux/batocera.linux
+emulator:bios:-                | 01   | Retro BIOSes                                              | https://github.com/Abdess/retroarch_system
+emulator:data:neo              | 00   | FinalBurn Neo                                             | https://github.com/libretro/FBNeo
+emulator:database:-            | 00   | Arcade Database                                           | https://adb.arcadeitalia.net/default.php
+emulator:engine:-              | 00   | TIC-80                                                    | https://tic80.com
+emulator:engine:python         | 00   | pyxel                                                     | https://github.com/kitao/pyxel
+emulator:es-de:theme           | 00   | Modern                                                    | https://gitlab.com/es-de/themes/modern-es-de
+emulator:es-de:theme           | 00   | mister-menu-es-de                                         | https://github.com/anthonycaccese/mister-menu-es-de
+emulator:os:linux              | 00   | Lakka                                                     | https://lakka.tv
+emulator:os:linux              | 001  | ROCKNIX                                                   | https://github.com/ROCKNIX/distribution
+emulator:pegasus:-             | 01   | Pegasus Frontend                                          | https://github.com/mmatyas/pegasus-frontend
+emulator:pegasus:theme         | 00   | Flixnet theme for Pegasus                                 | https://github.com/mmatyas/pegasus-theme-flixnet
+emulator:pegasus:theme         | 00   | Grid Micro theme for Pegasus                              | https://github.com/mmatyas/pegasus-theme-grid-micro
+emulator:pegasus:theme         | 00   | Pegasus Grid theme for Retroid Pocket 2                   | https://github.com/DFOXpro/rp2-pegasus-theme-grid
+emulator:pegasus:theme         | 00   | RefiOS                                                    | https://github.com/eleo95/pegasus-theme-refiOS
+emulator:pegasus:theme         | 00   | Retro Mega                                                | https://github.com/djfumberger/retromega
+emulator:pegasus:theme         | 00   | Slick theme for Pegasus                                   | https://github.com/buzz/pegasus-theme-slick
+emulator:pegasus:theme         | 00   | pegasus-theme-gpiOS                                       | https://github.com/SinisterSpatula/pegasus-theme-gpiOS
+emulator:pegasus:theme         | 01   | Retro Mega Next                                           | https://github.com/plaidman/retromega-next
+emulator:pegasus:theme         | 01   | Sleipnir                                                  | https://github.com/y-muller/retromega-sleipnir
+emulator:retroarch:-           | 00   | retroarch-links-generator                                 | https://github.com/memob0x/retroarch-links-generator
+emulator:retroarch:-           | 01   | RetroArch asset server                                    | https://github.com/NickHeap2/retroarch-asset-server
+emulator:retroarch:-           | 11   | RetroArch                                                 | https://retroarch.com
+emulator:rom:-                 | 10   | igir                                                      | https://github.com/emmercm/igir
+emulator:rom:database          | 00   | RetroArch Database                                        | https://github.com/libretro/libretro-database
+epub:2md:-                       | 10   | epub2MD                                                            | https://github.com/ChandlerVer5/epub2MD
+epub:editor:-                  | 00   | Sigil-plugins                                             | https://mobileread.com/forums/showthread.php?t=247431
+epub:editor:-                  | 001  | Sigil                                                     | https://sigil-ebook.com
+epub:extract:-                 | 00   | ebookatty                                                 | https://github.com/alexpdev/ebookatty
+epub:extract:-                 | 00   | epubtool                                                  | https://github.com/pgaskin/epubtool
+epub:reader:-                  | 00   | crqt-ng                                                   | https://gitlab.com/coolreader-ng/crqt-ng/
+epub:reader:-                  | 00   | pubReader                                                 | https://github.com/vers-one/EpubReader
+explorer:-:-                   | 00   | Camelot                                                   | https://github.com/IngvarX/Camelot
+explorer:-:-                   | 00   | Files                                                     | https://github.com/files-community/Files
+explorer:-:-                   | 00   | Sigma File Manager                                        | https://github.com/aleksey-hoffman/sigma-file-manage
+explorer:-:-                   | 00   | Spacedrive                                                | https://spacedrive.com/
+explorer:-:-                   | 00   | Total Commander                                           | https://ghisler.com/
+explorer:context-menu:-        | 00   | SendTo Menu Editor                                        | https://sordum.org/10830/sendto-menu-editor-v1-3
+explorer:context-menu:-        | 000  | EasyShell                                                 | https://github.com/anb0s/EasyShell
+explorer:context-menu:-        | 11   | Shell-X                                                   | https://github.com/oleg-shilo/shell-x
+explorer:copy:-                | 00   | Copy Dialog Lunar Lander                                  | https://github.com/Sanakan8472/copy-dialog-lunar-lande
+explorer:copy:-                | 11   | FastCopy                                                  | https://fastcopy.jp/
+explorer:decompress:-          | 11   | SmartZip                                                  | https://github.com/vvyoko/SmartZip
+explorer:editor:-              | 10   | Resource Hacker                                           | https://angusj.com/resourcehacker
+explorer:exe:-                 | 00   | OpenArk                                                   | https://openark.blackint3.com
+explorer:folder:-              | 00   | Folder Painter                                            | https://sordum.org/10124/folder-painter-v1-3
+explorer:lauch:-               | 00   | Flow Launcher                                             | https://flowlauncher.com
+explorer:lauch:-               | 00   | SnipDo                                                    | https://snipdo-app.com
+explorer:lauch:-               | 00   | Wox                                                       | https://wox.one
+explorer:lauch:-               | 00   | uTools                                                    | https://u.tools/
+explorer:lauch:-               | 00   | ueli                                                      | https://ueli.app
+explorer:link:-                | 00   | Move Links                                                | https://github.com/Adoliin/move-links
+explorer:link:-                | 00   | mklink                                                    | https://github.com/kkysen/mklink
+explorer:link:-                | 11   | Link Shell Extension                                      | https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
+explorer:link:shortcut         | 10   | go-windows-shortcut                                       | https://github.com/nyaosorg/go-windows-shortcut
+explorer:mount:-               | 00   | WinCDEmu                                                  | https://wincdemu.sysprogs.org
+explorer:preview:-             | 00   | MOSViewer                                                 | https://github.com/mrfearless/MOSViewer
+explorer:preview:quicklook     | 00   | Available Plugins                                         | https://github.com/QL-Win/QuickLook/wiki/Available-Plugins
+explorer:preview:quicklook     | 00   | QuickLook                                                 | https://github.com/QL-Win/QuickLook
+explorer:restart:-             | 11   | Restart Explorer                                          | https://sordum.org/9192/restart-explorer-v1-7
+explorer:search-               | 11   | Everything                                                | https://voidtools.com
+explorer:search:-              | 11   | EverythingToolbar                                         | https://github.com/srwi/EverythingToolbar
+explorer:switch:-              | 00   | Listary                                                   | https://listary.com
+explorer:thumbnail:-           | 00   | Icaros                                                    | https://majorgeeks.com/files/details/icaros.html
+explorer:thumbnail:-           | 11   | DarkThumbs                                                | https://github.com/fire-eggs/DarkThumbs
+explorer:thumbnail:stl         | 11   | stl-thumb                                                 | https://github.com/unlimitedbacon/stl-thumb
+explorer:thumbnail:svg         | 11   | SVG Viewer Extension for Windows Explorer                 | https://github.com/tibold/svg-explorer-extension
+explorer:unlock:-              | 11   | LockHunter                                                | https://lockhunter.com/index.htm
+filterpipe:pinyin:api          | 00   | pinyin-pro                                                | https://github.com/zh-lx/pinyin-pro
+font:-:-                       | 00   | Ligaturizer                                               | https://github.com/ToxicFrog/Ligaturizer
+font:-:-                       | 00   | pyftsubset                                                | https://github.com/web-wyj/pyftsubset
+font:-:-                       | 001  | handwriter.ttf                                            | https://github.com/hsfzxjy/handwriter.ttf
+font:2png:-                    | 00   | ttf2png                                                   | https://github.com/regulad/ttf2png
+font:2woff:-                   | 11   | ttf2woff2                                                 | https://github.com/nfroidure/ttf2woff2
+font:edit:-                    | 00   | FontForge                                                 | https://fontforge.org
+font:edit:-                    | 00   | YosemiForge                                               | https://github.com/fontforge/YosemiForge
+font:manage:-                  | 00   | FontBase                                                  | https://fontba.se
+font:manege:-                  | 11   | nexusfont                                                 | https://xiles.app
+font:readme:-                  | 001  | 剔骨仿宋                                                  | https://github.com/LingDong-/tk-fangsong-font
+font:readme:-                  | 001  | 齊伋體                                                    | https://github.com/LingDong-/qiji-font
+font:tool:-                    | 00   | MacType                                                   | https://mactype.net
+font:tool:-                    | 10   | fontbm                                                    | https://github.com/vladimirgamalyan/fontbm
+font:tool:-                    | 11   | No!! MeiryoUI                                             | https://github.com/Tatsu-syo/noMeiryoUI
+font:webfont:-                 | 11   | Webify                                                    | https://github.com/ananthakumaran/webify
+game:-:-                       | 00   | Cataclysm: Dark Days Ahead                                | https://github.com/CleverRaven/Cataclysm-DDA
+game:-:-                       | 00   | Cave Story MD                                             | https://github.com/andwn/cave-story-md
+game:-:-                       | 00   | Doukutsu Randamu                                          | https://trashboxbobylev.itch.io/doukutsu-randamu
+game:-:-                       | 00   | NXEngine-evo                                              | https://github.com/nxengine/nxengine-evo
+game:-:-                       | 00   | Shattered Pixel Dungeon                                   | https://github.com/00-Evan/shattered-pixel-dungeon
+game:c:-                       | 00   | dungeonrush                                               | https://github.com/rapiz1/DungeonRush
+game:font:-                    | 00   | Font Friend                                               | https://baku.itch.io/font-friend
+game:font:-                    | 00   | Pixel Font Comuertzr                                      | https://yellowafterlife.itch.io/pixelfont
+game:ink:-                     | 00   | Calico                                                    | https://elliotherriman.itch.io/calico
+game:ink:-                     | 00   | Catmint                                                   | https://elliotherriman.itch.io/catmint
+game:ink:-                     | 00   | Ink Objects                                               | https://jsk.itch.io/ink-objects
+game:ink:-                     | 00   | inky                                                      | https://inklestudios.com/ink
+game:instead:-                 | 00   | INSTEAD                                                   | https://instead.hugeping.ru/en
+game:instead:-                 | 00   | InsteadMan 3                                              | https://github.com/jhekasoft/insteadman
+game:itch:-                    | 00   | gui-butler                                                | https://github.com/seleb/gui-butler
+game:itch:-                    | 10   | Itch-Sort-And-Export                                      | https://github.com/6uhrmittag/Itch-Sort-And-Export
+game:itch:player               | 00   | Scritch                                                   | https://github.com/torcado194/scritch-player
+game:itch:player               | 00   | blamscamp                                                 | https://github.com/blackle/blamscamp
+game:js:-                      | 00   | snakisms                                                  | https://github.com/pippinbarr/SNAKISMS
+game:lua:-                     | 00   | mari0                                                     | https://github.com/Stabyourself/mari0
+game:lua:-                     | 000  | BYTEPATH                                                  | https://github.com/a327ex/BYTEPATH
+game:lua:-                     | 000  | SNKMD                                                     | https://github.com/sharpdev-me/SNKMD
+game:lua:-                     | 000  | SNKRX                                                     | https://github.com/a327ex/SNKRX
+game:lua:-                     | 000  | pacpac                                                    | https://github.com/tylerneylon/pacpac
+game:lua:-                     | 000  | termtris                                                  | https://github.com/tylerneylon/termtris
+game:lua:-                     | 10   | SNKRX                                                     | https://github.com/Luminware/SNKRX
+game:lua:music                 | 00   | Rit                                                       | https://github.com/AGORI-Studios/Rit
+game:manage:-                  | 00   | Playnite                                                  | https://github.com/JosefNemec/Playnite
+game:manage:-                  | 00   | hydra                                                     | https://github.com/hydralauncher/hydra
+game:mtga:photoshop            | 001  | MTG Photoshop Automation                                  | https://github.com/chilli-axe/mtg-photoshop-automation
+game:playnite:-                | 00   | Nova X                                                    | https://github.com/darklinkpower/Nova-X
+game:playnite:-                | 00   | NowPlaying Game Cacher                                    | https://github.com/gittromney/Playnite-NowPlaying
+game:playnite:-                | 00   | Playnite PCGamingWiki Metadata Provider                   | https://github.com/sharkusmanch/playnite-pcgamingwiki-metadata-provider
+game:renpy:-                   | 00   | Katawa Shoujo: Re-Engineered                              | https://codeberg.org/fhs/katawa-shoujo-re-engineered
+game:server:-                  | 00   | PPSSPP Adhoc Server                                       | https://github.com/Souler/ppsspp-adhoc-server
+game:server:-                  | 00   | Torchlight 2 Lan Game Server Tool                         | https://github.com/jhj0411jhj/torchlight2_lan_game_server_tool
+game:simulator:-               | 00   | Citra                                                     | https://github.com/citra-emu/citra
+game:simulator:-               | 00   | PPSSPP                                                    | https://ppsspp.org
+game:simulator:-               | 00   | RPCS3                                                     | https://github.com/RPCS3/rpcs3
+game:simulator:-               | 00   | Ryujinx                                                   | https://github.com/Ryujinx/Ryujinx
+game:simulator:-               | 00   | YuzuToolbox                                               | https://zachar3.itch.io/yuzutoolbox
+game:simulator:-               | 00   | suyu                                                      | https://github.com/suyu-emu/suyu
+game:simulator:-               | 00   | yuzu                                                      | https://github.com/yuzu-emu/yuzu
+game:steam:-                   | 00   | NVIDIA Profile Inspector                                  | https://github.com/Orbmu2k/nvidiaProfileInspector
+game:steam:-                   | 00   | RemotePlayWhatever                                        | https://github.com/m4dEngi/RemotePlayWhatever
+game:steam:-                   | 00   | Steam Shortcut Generator                                  | https://github.com/JeeZeh/steam-shortcut-generator
+game:steam:-                   | 00   | steamctl                                                  | https://github.com/ValvePython/steamctl
+game:steam:dev                 | 00   | Steam Comment Bot                                         | https://github.com/HerrEurobeat/steam-comment-service-bot
+game:steam:dev                 | 00   | Steam Upload GUI                                          | https://github.com/RPicster/Steam-Upload-GUI
+game:stream:-                  | 00   | Moonlight PC                                              | https://github.com/moonlight-stream/moonlight-qt
+game:stream:-                  | 00   | Sunshine                                                  | https://github.com/LizardByte/Sunshine
+game:team-voice:-              | 00   | TeamSpeak                                                 | https://teamspeak.com
+game:tool:-                    | 00   | AI Toolkit                                                | https://github.com/linkdd/aitoolkit
+game:tool:-                    | 00   | ONScripter_Multi_Converter                                | https://github.com/Prince-of-sea/ONScripter_Multi_Converter
+game:tool:-                    | 00   | ShoeBox                                                   | https://renderhjs.net/shoebox
+game:tool:audio                | 00   | EZ Game Audio Conversion                                  | https://github.com/SpaceFoon/Ez-Game-Audio-Conversion
+game:tool:audio                | 00   | bfxr                                                      | https://github.com/increpare/bfxr
+game:unity:-                   | 00   | PowerQuest                                                | https://powerhoof.itch.io/powerquest
+game:war3:-                    | 00   | GoWarcraft3                                               | https://github.com/nielsAD/gowarcraft3
+game:war3:-                    | 00   | W3x2Lni                                                   | https://github.com/sumneko/w3x2lni
+game:war3:-                    | 00   | war3map                                                   | https://github.com/invoker-bot/war3map
+game:war3:server               | 00   | EuropeBattle                                              | https://europebattle.net/w3/
+git:-:-                        | 00   | Git                                                       | https://git-scm.com
+git:action:-                   | 00   | GitHub Actions Runner Images                              | https://github.com/actions/runner-images
+git:action:-                   | 10   | act                                                       | https://github.com/nektos/act
+git:cli:-                      | 00   | bit                                                       | https://github.com/chriswalz/bit
+git:commit:-                   | 00   | Branchless workflow for Git                               | https://github.com/arxanas/git-branchless
+git:commit:-                   | 00   | git-notify                                                | https://github.com/jevakallio/git-notify
+git:commit:-                   | 10   | commitizen                                                | https://github.com/commitizen-tools/commitizen
+git:data:-                     | 00   | GitRows                                                   | https://gitrows.com
+git:data:-                     | 00   | Qri                                                       | https://qri.io
+git:dotfiles:sync              | 00   | rcm                                                       | https://github.com/thoughtbot/rcm
+git:dotfiles:sync              | 01   | chezmoi                                                   | https://chezmoi.io
+git:download:-                 | 10   | degit                                                     | https://github.com/Rich-Harris/degit
+git:gh:-                       | 00   | GitHub CLI                                                | https://cli.github.com
+git:gh:action                  | 00   | gh-actions-cache                                          | https://github.com/actions/gh-actions-cache
+git:gh:action                  | 00   | gh-actions-status                                         | https://github.com/rsese/gh-actions-status
+git:gh:branch                  | 00   | Clean Branches                                            | https://github.com/davidraviv/gh-clean-branches
+git:gh:branch                  | 00   | gh branch                                                 | https://github.com/mislav/gh-branch
+git:gh:branch                  | 00   | gh-home                                                   | https://github.com/norwd/gh-home
+git:gh:branch                  | 001  | Tidy                                                      | https://github.com/HaywardMorihara/gh-tidy
+git:gh:branch                  | 001  | poi                                                       | https://github.com/seachicken/gh-poi
+git:gh:brower                  | 00   | gh repo-explore                                           | https://github.com/samcoe/gh-repo-explore
+git:gh:brower                  | 000  | gh xplr                                                   | https://github.com/sayanarijit/gh-xplr
+git:gh:brower                  | 11   | gh-ls                                                     | https://github.com/wuwe1/gh-ls
+git:gh:changelog               | 00   | gh-cl                                                     | https://github.com/tmkx/gh-cl
+git:gh:chat                    | 00   | gh chat                                                   | https://github.com/vilmibm/gh-chat
+git:gh:contrib                 | 00   | gh contrib                                                | https://github.com/mislav/gh-contrib
+git:gh:contrib                 | 00   | gh-contribs                                               | https://github.com/mintarchit/gh-contribs
+git:gh:contrib                 | 00   | gh-graph                                                  | https://github.com/kawarimidoll/gh-graph
+git:gh:dev                     | 00   | gh gp                                                     | https://github.com/gitpod-io/gh-gp
+git:gh:download                | 00   | gh-cp                                                     | https://github.com/mislav/gh-cp
+git:gh:download                | 00   | gh-get-asset                                              | https://github.com/chmouel/gh-get-asset
+git:gh:download                | 10   | gh-install                                                | https://github.com/redraw/gh-install
+git:gh:download                | 11   | gh-download                                               | https://github.com/yuler/gh-download
+git:gh:grep                    | 00   | gh-grep                                                   | https://github.com/k1LoW/gh-grep
+git:gh:hook                    | 00   | gh-hook                                                   | https://github.com/lucasmelin/gh-hook
+git:gh:ignore                  | 00   | gh gitignore                                              | https://github.com/garnertb/gh-gitignore
+git:gh:issue                   | 00   | gh label                                                  | https://github.com/heaths/gh-label
+git:gh:issue                   | 00   | gh-iz                                                     | https://github.com/gennaro-tedesco/gh-i
+git:gh:issue                   | 00   | gh-workon                                                 | https://github.com/chmouel/gh-workon
+git:gh:milestone               | 00   | gh milestone                                              | https://github.com/valeriobelli/gh-milestone
+git:gh:notify                  | 00   | gh-notify                                                 | https://github.com/meiji163/gh-notify
+git:gh:org                     | 00   | gh-clone-org                                              | https://github.com/matt-bartel/gh-clone-org
+git:gh:org                     | 00   | gh-org-browse-repo                                        | https://github.com/gh-cli-for-education/gh-org-browse-repo
+git:gh:org                     | 00   | gh-org-users                                              | https://github.com/yermulnik/gh-org-users
+git:gh:pr                      | 00   | auto                                                      | https://github.com/intuit/auto
+git:gh:pr                      | 00   | gh-dash                                                   | https://github.com/dlvhdr/gh-dash
+git:gh:pr                      | 00   | gh-difftool                                               | https://github.com/speedyleion/gh-difftool
+git:gh:pr                      | 001  | gh-combine-prs                                            | https://github.com/rnorth/gh-combine-prs
+git:gh:preview                 | 00   | gh markdown-preview                                       | https://github.com/yusukebe/gh-markdown-preview
+git:gh:pull                    | 00   | gh-pulls                                                  | https://github.com/AaronMoat/gh-pulls
+git:gh:release                 | 00   | GitHub Releaser                                           | https://github.com/carlsberg/gh-releaser
+git:gh:release                 | 001  | gh bump                                                   | https://github.com/johnmanjiro13/gh-bump
+git:gh:release                 | 001  | gh describe                                               | https://github.com/proudust/gh-describe
+git:gh:release                 | 001  | gh-semver                                                 | https://github.com/koozz/gh-semver
+git:gh:repo                    | 00   | GitHub Archive                                            | https://github.com/Justintime50/github-archive
+git:gh:repo                    | 00   | gh validate-repo                                          | https://github.com/govindsme/gh-validate-repo
+git:gh:repo                    | 00   | gh-gr                                                     | https://github.com/sarumaj/gh-gr
+git:gh:repo                    | 00   | gh-repo-fzf                                               | https://github.com/kavinvalli/gh-repo-fzf
+git:gh:repo                    | 11   | gh-f                                                      | https://github.com/gennaro-tedesco/gh-f
+git:gh:save                    | 00   | gh fire                                                   | https://github.com/maximousblk/gh-fire
+git:gh:screen                  | 00   | gh-screensaver                                            | https://github.com/vilmibm/gh-screensaver
+git:gh:search                  | 00   | gh-fzrepo                                                 | https://github.com/sheepla/gh-fzrepo
+git:gh:search                  | 00   | gh-s                                                      | https://github.com/gennaro-tedesco/gh-s
+git:gh:sql                     | 00   | gh-sql                                                    | https://github.com/KOBA789/gh-sql
+git:gh:star                    | 00   | gh-star                                                   | https://github.com/aymanbagabas/gh-stars
+git:gh:star                    | 00   | gh-user-stars                                             | https://github.com/korosuke613/gh-user-stars
+git:gh:status                  | 00   | gh user-status                                            | https://github.com/vilmibm/gh-user-status
+git:gh:timer                   | 10   | gh-timer                                                  | https://github.com/anmalkov/gh-timer
+git:gh:token                   | 00   | GH Token                                                  | https://github.com/Link-/gh-token
+git:gh:tool                    | 00   | gh-look                                                   | https://github.com/LangLangBart/gh-look
+git:gh:tool                    | 00   | gh-oblique                                                | https://github.com/vilmibm/gh-oblique
+git:gh:tool                    | 10   | gh-inspire                                                | https://github.com/lakuapik/gh-inspire
+git:gh:upload                  | 00   | ghr                                                       | https://github.com/tcnksm/ghr
+git:gh:upload                  | 00   | github-release                                            | https://github.com/github-release/github-release
+git:gh:user                    | 00   | gh-eco                                                    | https://github.com/jrnxf/gh-eco
+git:gh:user                    | 00   | gh-profile                                                | https://github.com/gabe565/gh-profile
+git:gh:user                    | 00   | gh-userfetch                                              | https://github.com/sheepla/gh-userfetch
+git:gist:-                     | 00   | snpt                                                      | https://github.com/mike182uk/snpt
+git:issue:-                    | 11   | pro                                                       | https://github.com/Wowu/pro
+git:mercurial:-                | 00   | Mercurial                                                 | https://mercurial-scm.org
+git:notify:-                   | 00   | Gitify                                                    | https://gitify.io
+git:seach:-                    | 00   | RepoZ                                                     | https://github.com/awaescher/RepoZ
+git:status:-                   | 11   | mgitstatus                                                | https://github.com/fboender/multi-git-status
+git:sync:-                     | 11   | git-sync                                                  | https://github.com/simonthum/git-sync
+git:tui:-                      | 00   | GitUI                                                     | https://github.com/extrawurst/gitui
+git:tui:-                      | 00   | Lazygit                                                   | https://github.com/jesseduffield/lazygit
+git:tui:-                      | 00   | git-bug                                                   | https://github.com/MichaelMure/git-bug
+git:user:-                     | 00   | Git Profile Switcher                                      | https://github.com/TheYkk/git-switcher
+github:action:-                | 00   | Tencent Cloud COS and CDN action                          | https://github.com/sylingd/tencent-cos-and-cdn-action
+github:action:-                | 00   | Torrent Webseed Creator                                   | https://github.com/AnimMouse/torrent-webseed-creator
+github:action:-                | 000  | Mediawiki to GitHub Flavoured Markdown                    | https://github.com/outofcontrol/mediawiki-to-gfm
+github:action:-                | 001  | upload-artifact                                           | https://github.com/actions/upload-artifact
+github:action:markdown         | 10   | Markdown autodocs                                         | https://github.com/dineshsonachalam/markdown-autodocs
+github:action:mkdocs           | 11   | Publishing your site                                      | https://squidfunk.github.io/mkdocs-material/publishing-your-site
+github:action:pdf              | 00   | Markdown to PDF                                           | https://github.com/BaileyJM02/markdown-to-pdf
+github:css:-                   | 00   | Markdown to GitHub style web                              | https://github.com/KrauseFx/markdown-to-html-github-style
+github:css:-                   | 00   | github-markdown-css                                       | https://github.com/sindresorhus/github-markdown-css
+github:js:-                    | 00   | gh-md-toc                                                 | https://github.com/ekalinin/github-markdown-toc
+gnome:linux:screensaver        | 00   | gnome-shell-extension-caffeine                            | https://github.com/eonpatapon/gnome-shell-extension-caffeine
+godot:-:-                      | 00   | godot                                                     | https://godotengine.org
+godot:dl:2d                    | 00   | LDtk Importer                                             | https://github.com/heygleeson/godot-ldtk-importer
+godot:dl:3d                    | 00   | Blender Spritesheet Import Plugin                         | https://github.com/oddmode-studio/BlenderSpriteSheetImporter
+godot:dl:3d                    | 00   | DeformableMesh                                            | https://github.com/cloudofoz/godot-deformablemesh
+godot:dl:3d                    | 00   | Godot Procedural Recoil                                   | https://github.com/vi4hu/godot-procedural-recoil
+godot:dl:3d                    | 00   | GodotVMF Project Template                                 | https://github.com/H2xDev/GodotVMF
+godot:dl:3d                    | 00   | Line Renderer                                             | https://github.com/LemiSt24/line-renderer/
+godot:dl:3d                    | 00   | Scene Builder                                             | https://github.com/sci-comp/SceneBuilder
+godot:dl:3d                    | 00   | SpriteMesh                                                | https://github.com/98teg/SpriteMesh
+godot:dl:action                | 00   | ActionReaction                                            | https://github.com/SrColoma/ActionReaction
+godot:dl:ai                    | 00   | Fuku - Ollama Integration for Godot                       | https://github.com/af009/fuku
+godot:dl:ai                    | 00   | Godot RL Agents                                           | https://github.com/edbeeching/godot_rl_agents_plugin
+godot:dl:ai                    | 00   | LimboAI: Behavior Trees & State Machines                  | https://github.com/limbonaut/limboai
+godot:dl:anime                 | 00   | Animated Shape 2D                                         | https://github.com/Goutte/godot-addon-animated-shape-2d
+godot:dl:anime                 | 00   | AnimationPlayer Refactor                                  | https://github.com/poohcom1/godot-animation-player-refactor
+godot:dl:anime                 | 001  | Anima for Godot 4                                         | https://github.com/ceceppa/anima-godot-4
+godot:dl:anime                 | 11   | AnimatedButton                                            | https://github.com/AdilDevStuff/AnimatedButton
+godot:dl:asset                 | 00   | File Access Web                                           | https://github.com/Scrawach/godot-file-access-web
+godot:dl:asset                 | 00   | Godot Resource Groups                                     | https://github.com/derkork/godot-resource-groups
+godot:dl:asset                 | 00   | Godot Safe Resource Loader                                | https://github.com/derkork/godot-safe-resource-loader/
+godot:dl:audio                 | 00   | Audio Haptics                                             | https://github.com/timoschwarzer/godot-audio-haptics
+godot:dl:audio                 | 00   | AudioEffectGate                                           | https://github.com/Visssarion/audio-gate
+godot:dl:audio                 | 00   | Godot Midi                                                | https://github.com/nlaha/godot-midi
+godot:dl:audio                 | 00   | GodotSfxr                                                 | https://github.com/tomeyro/godot-sfxr
+godot:dl:audio                 | 00   | Midi File Parser                                          | https://github.com/brainfoolong/gdscript-midi-parser
+godot:dl:audio                 | 00   | Simple Sampler                                            | https://github.com/ClementRivaille/godot-simple-sampler
+godot:dl:audio                 | 00   | gdfxr                                                     | https://github.com/timothyqiu/gdfxr
+godot:dl:audio                 | 001  | Audio Mixer Visualizer                                    | https://github.com/Landeplage/Godot-Audio-Mixer-Visualizer
+godot:dl:audio                 | 001  | AudioStream Subtitle                                      | https://github.com/S83gamedev/AudioStream-Subtitle-Plugin
+godot:dl:audio                 | 11   | QuickAudio                                                | https://github.com/BtheDestroyer/Godot_QuickAudio
+godot:dl:audio                 | 11   | Resonate                                                  | https://github.com/hugemenace/resonate
+godot:dl:audio                 | 11   | Sound Manager                                             | https://github.com/nathanhoad/godot_sound_manager
+godot:dl:audio                 | 11   | gdsam for Godot                                           | https://github.com/deadpixelsociety/gdsam-plugin
+godot:dl:camera                | 00   | Focus camera with mouse                                   | https://github.com/GustJc/godot_focus_camera_with_mouse
+godot:dl:camera                | 00   | Little Camera Preview                                     | https://github.com/anthonyec/godot_little_camera_preview
+godot:dl:camera                | 00   | Phantom Camera                                            | https://github.com/ramokz/phantom-camera
+godot:dl:card                  | 00   | Godot Card Layout                                         | https://github.com/cyanglaz/gcard_layout
+godot:dl:card                  | 00   | Simple Card Pile UI                                       | https://github.com/insideout-andrew/simple-card-pile-ui
+godot:dl:card                  | 001  | Godot Card Parallax                                       | https://github.com/Trixelized/godotCardParallax
+godot:dl:color                 | 11   | Color Preview                                             | https://github.com/Qubus0/GodotColorPreview
+godot:dl:database              | 00   | CSV-Typed-Data-Importer                                   | https://github.com/citizenll/godot-csv-typed-importer
+godot:dl:database              | 00   | DataTable                                                 | https://github.com/Ward727a/godot_datatable_plugin
+godot:dl:database              | 001  | Godot-SQLite                                              | https://github.com/2shady4u/godot-sqlite
+godot:dl:database              | 001  | Text Database                                             | https://github.com/KoBeWi/Godot-Text-Database
+godot:dl:demo                  | 00   | 2D Train/Railroad Demo                                    | https://github.com/moonbench/simple-godot-train
+godot:dl:demo                  | 00   | COGITO : Immersive Sim Template                           | https://github.com/Phazorknight/Cogito
+godot:dl:demo                  | 00   | Dark Peace's BulletUpHell                                 | https://github.com/Dark-Peace/BulletUpHell
+godot:dl:demo                  | 00   | Deflection (ballistics) Formula                           | https://github.com/neclor/deflection-ballistics-formula-godot
+godot:dl:demo                  | 00   | Dodge the Creeps Demo                                     | https://github.com/godotengine/godot-demo-projects/tree/4.2-31d1c0c/2d/dodge_the_creeps
+godot:dl:demo                  | 00   | Godot Chess                                               | https://codeberg.org/Crowded-Games/Godot-Chess
+godot:dl:demo                  | 00   | Godot Tactical RPG                                        | https://github.com/ramaureirac/godot-tactical-rpg
+godot:dl:demo                  | 00   | Horror FPS Template                                       | https://github.com/ThiDiamondDev/horror-fps-template
+godot:dl:demo                  | 00   | Multi-channel Signed Distance Field Font Demo             | https://github.com/godotengine/godot-demo-projects/tree/4.2-31d1c0c/gui/msdf_font
+godot:dl:demo                  | 00   | PerfBullets                                               | https://github.com/Moonzel/Godot-PerfBullets
+godot:dl:demo                  | 00   | Retro Terrain                                             | https://github.com/NickToony/gd-retroterrain
+godot:dl:demo                  | 00   | Survivors Starter Kit                                     | https://github.com/DarkRewar/SurvivorsStarterKit
+godot:dl:demo                  | 001  | Puzzle Dependencies                                       | https://github.com/nathanhoad/godot_puzzle_dependencies
+godot:dl:dialogue              | 00   | Native Dialogs                                            | https://github.com/98teg/NativeDialogs
+godot:dl:dialogue              | 00   | ink                                                       | https://github.com/paulloz/godot-ink
+godot:dl:dialogue              | 001  | Clyde Dialogue                                            | https://github.com/viniciusgerevini/godot-clyde-dialogue
+godot:dl:dialogue              | 001  | Dialogue Nodes                                            | https://github.com/nagidev/DialogueNodes
+godot:dl:dialogue              | 001  | Theatre                                                   | https://github.com/nndda/Theatre
+godot:dl:dialogue              | 11   | Dialogue Engine                                           | https://github.com/Rubonnek/dialogue-engine
+godot:dl:dialogue              | 11   | GDrama                                                    | https://github.com/moraguma/GDrama
+godot:dl:edit                  | 001  | AutoSaver Toggle for Godot Editor (C#)                    | https://github.com/vrravalos/AutoSaver-for-Godot
+godot:dl:editor                | 001  | Godot Tabs                                                | https://github.com/Cevantime/godot_tabs
+godot:dl:editor                | 001  | Script-IDE                                                | https://github.com/Maran23/script-ide
+godot:dl:editor                | 11   | GodotSize                                                 | https://github.com/the-sink/godotsize
+godot:dl:environment           | 00   | Globalize Plugins                                         | https://github.com/dugramen/godot-globalize-plugins
+godot:dl:event                 | 00   | Switch Manager                                            | https://github.com/AlecSouthward/Switch-Manager
+godot:dl:explorer              | 00   | Asset Dock                                                | https://github.com/Reetro/Asset-Dock
+godot:dl:explorer              | 00   | Tabby Explorer                                            | https://github.com/luxmargos/godot_tabby_explorer_plugin
+godot:dl:explorer              | 11   | Dock Slot Expander                                        | https://github.com/bypell/dock_slot_expander
+godot:dl:fade                  | 11   | Universal Fade                                            | https://github.com/KoBeWi/Godot-Universal-Fade
+godot:dl:format                | 001  | Format on Save                                            | https://github.com/ryan-haskell/gdformat-on-save
+godot:dl:generate              | 00   | Wave Function Collapse (WFC)                              | https://github.com/AlexeyBond/godot-constraint-solving
+godot:dl:graphic               | 00   | Auto Polygon2D Triangulation                              | https://github.com/dweremeichik/godot_autopoly_plugin
+godot:dl:graphic               | 00   | GUI Auto Layout                                           | https://github.com/don-tnowe/godot-auto-layout
+godot:dl:graphic               | 00   | Godot Annotate                                            | https://github.com/zarstensen/GodotAnnotate
+godot:dl:graphic               | 00   | Godot Krita Importer                                      | https://github.com/2shady4u/godot-krita-importer
+godot:dl:graphic               | 00   | Vector2 Array Resource Editor                             | https://github.com/Bugwan91/vector2_array_resource_editor
+godot:dl:graphic               | 001  | Godot GIF                                                 | https://github.com/BOTLANNER/godot-gif
+godot:dl:graphic               | 001  | Godot QOI                                                 | https://github.com/DmitriySalnikov/godot_qoi
+godot:dl:grep                  | 00   | Find Everywhere                                           | https://github.com/MakovWait/godot-find-everywhere
+godot:dl:icon                  | 00   | Icon Explorer                                             | https://github.com/kenyoni-software/godot-addons
+godot:dl:icon                  | 00   | Material Design Icons for Godot                           | https://github.com/rakugoteam/Godot-Material-Icons
+godot:dl:icon                  | 11   | 2D Shapes                                                 | https://github.com/TechnocatDev/2d-shapes
+godot:dl:input                 | 00   | Input Helper                                              | https://github.com/nathanhoad/godot_input_helper
+godot:dl:input                 | 00   | Input Mapper Preset Loader                                | https://github.com/EladKarni/InputMapperPresetLoader
+godot:dl:input                 | 00   | KBM/Controller Switch Detector                            | https://godotengine.org/asset-library/asset/2904
+godot:dl:input                 | 00   | Multiplayer Input                                         | https://github.com/matjlars/godot-multiplayer-input
+godot:dl:input                 | 00   | Onscreen Keyboard                                         | https://github.com/martinfuchs/Godot-Onscreen-Keyboard
+godot:dl:input                 | 00   | Slider Gamepad                                            | https://github.com/MrEliptik/slider_gamepad
+godot:dl:input                 | 00   | Virtual Joystick                                          | https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot
+godot:dl:input                 | 001  | ControlsRemap resource                                    | https://github.com/KoBeWi/Godot-Input-Remap
+godot:dl:input                 | 001  | Inputty                                                   | https://codeberg.org/MxSophie/Inputty
+godot:dl:input                 | 001  | SmoothScroll                                              | https://github.com/SpyrexDE/SmoothScroll
+godot:dl:input                 | 11   | Action Icon                                               | https://github.com/KoBeWi/Godot-Action-Icon
+godot:dl:input                 | 11   | Controller Icons                                          | https://github.com/rsubtil/controller_icons/
+godot:dl:input                 | 11   | Cursor Shape Previewer                                    | https://github.com/zaevi/godot-cursor-shape-previewer
+godot:dl:input                 | 11   | Godot_multidirectional_joystick for Godot 4               | https://github.com/JstnJrg/Godot_multidirectional_joystick
+godot:dl:input                 | 11   | InputController                                           | https://github.com/sscovil/godot-input-controller-addon
+godot:dl:inspector             | 001  | Dictionary Inspector                                      | https://github.com/don-tnowe/godot-dictionary-inspector
+godot:dl:inspector             | 001  | Inspector Extender - Buttons, Warnings, More              | https://github.com/don-tnowe/godot-inspector-extender
+godot:dl:item                  | 00   | Lootie                                                    | https://github.com/ninetailsrabbit/Lootie
+godot:dl:item                  | 00   | Wyvernbox - Inventory System                              | https://github.com/don-tnowe/godot-wyvernbox-inventory
+godot:dl:keymap                | 00   | Previous Tab                                              | https://github.com/MakovWait/godot-previous-tab
+godot:dl:kit                   | 00   | DungeonCrawler3D                                          | https://github.com/Rebelion-Board-game/DungonCrawler
+godot:dl:kit                   | 00   | Skelerealms - Open World RPG Framework                    | https://github.com/SlashScreen/skelerealms
+godot:dl:kit                   | 001  | Godot Essentials                                          | https://gitlab.com/godot-tools/godot-essentials
+godot:dl:kit                   | 001  | Godot Gameplay Systems                                    | https://github.com/OctoD/godot-gameplay-systems
+godot:dl:kit                   | 001  | Popochiu                                                  | https://github.com/carenalgas/popochiu
+godot:dl:library               | 00   | Advanced Radial Menu                                      | https://github.com/diklor/advanced_radial_menu
+godot:dl:library               | 00   | Calendar Library                                          | https://github.com/peterhoglund/Calendar-Library
+godot:dl:light                 | 00   | 2D Editor Light Toggle                                    | https://github.com/aXu-AP/LightToggle2D
+godot:dl:light                 | 00   | Instant Realistic Light                                   | https://github.com/soykhaler/Instant-Realistic-Light-Godot-Engine
+godot:dl:map                   | 00   | 	Shape Manipulation Basics                                | https://github.com/Goldenlion5648/GodotSlicingGeometryExample
+godot:dl:map                   | 00   | Gaea                                                      | https://github.com/BenjaTK/Gaea
+godot:dl:map                   | 00   | Hex Grid                                                  | https://github.com/Goldenlion5648/GodotHexGridBasics
+godot:dl:map                   | 00   | Icosaedron Sphere (IcoSphere) Mesh                        | https://github.com/MAGGen-hub/Icosphere-Mesh-Godot-Plugin
+godot:dl:map                   | 00   | Procedural World Map Generator                            | https://github.com/edwin-cox/godot-infinite-worldmap
+godot:dl:map                   | 00   | TerraBrush                                                | https://github.com/spimort/TerraBrush
+godot:dl:map                   | 00   | TileMapsChef                                              | https://github.com/Pardok/TileMapsChef
+godot:dl:movie                 | 00   | Frog Subtitles                                            | https://github.com/Frog-Collective/frog-subtitles
+godot:dl:movie                 | 00   | Movie Maker Timestamp                                     | https://gitlab.com/timkrief/movie_maker_timestamp
+godot:dl:music                 | 00   | MIDI Importer                                             | https://github.com/G0retZ/godot-midi-mport
+godot:dl:music                 | 00   | MusicManager                                              | https://github.com/Promptineer/MusicManager
+godot:dl:node                  | 00   | Orchestrator: Unleashing Creativity with Visual Scripting | https://github.com/CraterCrash/godot-orchestrator
+godot:dl:node                  | 00   | SignalVisualizer                                          | https://github.com/Ericdowney/SignalVisualizer
+godot:dl:node                  | 001  | Line Up Tool                                              | https://github.com/KaanAlpar/godot-plugin-course-line-up-tool
+godot:dl:node                  | 001  | Prefab                                                    | https://github.com/KoBeWi/Godot-Prefab
+godot:dl:node                  | 001  | Visibility shortcut                                       | https://github.com/Janders1800/godot-visibility-shortcut
+godot:dl:path                  | 001  | A Star 2D Grid Node                                       | https://github.com/Firemanarg/godot-astar-2d-grid-node
+godot:dl:path                  | 11   | Template for pathfinding games                            | https://github.com/xolatgames/Pathfinding/
+godot:dl:scene                 | 00   | Godot V4 Scene Browser                                    | https://github.com/Krosh/Godot-Scene-Browser
+godot:dl:scene                 | 00   | Interactive Scene Changer                                 | https://github.com/VP-GAMES/Godot4InteractiveSceneChanger
+godot:dl:scene                 | 00   | Polygon Knife Tool                                        | https://github.com/mrkdji/knife-tool
+godot:dl:scene                 | 00   | Quick Scenes                                              | https://github.com/KoBeWi/Godot-Quick-Scenes
+godot:dl:scene                 | 00   | Simple Scene Manager                                      | https://github.com/symbol24/Simple-Scene-Manager
+godot:dl:scene                 | 001  | Scene Manager                                             | https://github.com/glass-brick/Scene-Manager
+godot:dl:scene                 | 001  | Scene Manager                                             | https://github.com/m-canton/godot-scene-manager
+godot:dl:scene                 | 001  | Scene Manager                                             | https://github.com/maktoobgar/scene_manager
+godot:dl:scene                 | 001  | Scene Palette                                             | https://github.com/cixil/godot-scene-palette
+godot:dl:scene                 | 11   | Most Simple Scene Loader                                  | https://github.com/MikeAmputer/godot-simple-scene-loader
+godot:dl:scene                 | 11   | Parallax2D Preview                                        | https://github.com/KoBeWi/Godot-Parallax2D-Preview
+godot:dl:script                | 00   | Dice Syntax Godot4                                        | https://github.com/oganm/dice_syntax_gd
+godot:dl:script                | 00   | GDExpr                                                    | https://github.com/dementive/gdexpr
+godot:dl:script                | 00   | GDScript Promise Async Utils                              | https://github.com/kuruk-mm/gdscript-promise-async-utils
+godot:dl:script                | 00   | GodotSx - Signal Extensions                               | https://github.com/TheWalruzz/godot-sx
+godot:dl:script                | 00   | Gosu                                                      | https://github.com/yunusey/gosu
+godot:dl:script                | 001  | GDScript ECS framework                                    | https://github.com/yihrmc/gdscript-ecs
+godot:dl:script                | 001  | Godot MVC                                                 | https://github.com/baiXfeng/godot-mvc
+godot:dl:script                | 001  | Godot Rollback Netcode                                    | https://gitlab.com/snopek-games/godot-rollback-netcode
+godot:dl:script                | 11   | Godot ECS                                                 | https://github.com/baiXfeng/godot-ecs
+godot:dl:script                | 11   | Script Panel +                                            | https://github.com/Loregret/script-panel-plus/
+godot:dl:setting               | 00   | Godot Game Settings                                       | https://github.com/PunchablePlushie/godot-game-settings
+godot:dl:shader                | 00   | 	EasyCompute                                              | https://github.com/Tymec/EasyCompute
+godot:dl:shader                | 00   | Compute Shader Plus                                       | https://github.com/DevPoodle/compute-shader-plus
+godot:dl:shader                | 00   | Copy Correct Shader Parameters                            | https://github.com/Dev-Marco/CCSP---Copy-Correct-Shader-Parameters
+godot:dl:shader                | 00   | Palette swap shader with animation support                | https://github.com/KoBeWi/Godot-Palette-Swap-Shader
+godot:dl:shader                | 00   | Portal                                                    | https://github.com/3Dvachevsky/Portals
+godot:dl:shader                | 00   | Sprite Shader Mixer                                       | https://github.com/spheras/godot-sprite-shader-mixer
+godot:dl:shader                | 11   | ShaderV - 2D Visual Shader Node Library (Godot 4)         | https://github.com/arkology/ShaderV
+godot:dl:shaker                | 00   | Shaker                                                    | https://github.com/Eneskp3441/Shaker
+godot:dl:sound                 | 001  | Kenney Interface Sounds                                   | https://github.com/Calinou/kenney-interface-sounds
+godot:dl:sound                 | 001  | Kenney UI Audio                                           | https://github.com/Calinou/kenney-ui-audio
+godot:dl:sound                 | 11   | Godot Audio Events                                        | https://github.com/FreekDS/GodotAudioEvents
+godot:dl:srite                 | 00   | Aseprite Wizard                                           | https://github.com/viniciusgerevini/godot-aseprite-wizard
+godot:dl:state                 | 00   | Cognite                                                   | https://github.com/matheus-s-arruda/Cognite
+godot:dl:state                 | 00   | Statechart Sharp: a state machine plugin                  | https://github.com/laoguowangCP/godot-statechart-sharp
+godot:dl:state                 | 001  | Saturn - Simple Cascade State Machine                     | https://github.com/GumpDev/saturn
+godot:dl:status                | 00   | XSM 4                                                     | https://gitlab.com/atn_games/xsm2-g4
+godot:dl:steam                 | 001  | GodotSteam 4 Example Project                              | https://github.com/GodotSteam/GodotSteam-Example-Project
+godot:dl:steam                 | 001  | Sync Deck                                                 | https://github.com/Michael-Jalloh/SyncDeck
+godot:dl:stream                | 11   | Steam API                                                 | https://github.com/samsface/godot-steam-api
+godot:dl:system                | 00   | Metroidvania System                                       | https://github.com/KoBeWi/Metroidvania-System
+godot:dl:system                | 00   | Weather System                                            | https://codeberg.org/matiaslavik/GodotWeatherSystem
+godot:dl:system                | 001  | Wyvernshield 2 - Character Upgrades for Combat Systems    | https://github.com/don-tnowe/godot-wyvernshield-triggers
+godot:dl:table                 | 00   | Edit Resources as Spreadsheet                             | https://github.com/don-tnowe/godot-resources-as-sheets-plugin
+godot:dl:test                  | 00   | Delta Rollback                                            | https://gitlab.com/BimDav/delta-rollback/
+godot:dl:test                  | 00   | Diagnostic List                                           | https://github.com/mphe/godot-diagnostic-list
+godot:dl:test                  | 00   | Log - A logging plugin for Godot                          | https://github.com/albinaask/Log
+godot:dl:test                  | 00   | Runtime Debug Tools                                       | https://github.com/bbbscarter/GodotRuntimeDebugTools
+godot:dl:test                  | 00   | rpc-await                                                 | https://github.com/dominiks/rpc-await
+godot:dl:test                  | 001  | Panku Console                                             | https://github.com/Ark2000/PankuConsole
+godot:dl:test                  | 11   | Pinned Debugger Tabs                                      | https://github.com/Wierdox/godot_pinned_debugger_tabs
+godot:dl:test                  | 11   | Tracer                                                    | https://github.com/wyvernbw/tracer.gd
+godot:dl:text                  | 00   | Rich Text Label with BBCode Demo                          | https://github.com/godotengine/godot-demo-projects/tree/4.2-31d1c0c/gui/rich_text_bbcode
+godot:dl:text                  | 11   | Label Font Auto Sizer - Godot 4                           | https://github.com/LuisEscorza/GodotLabelFontAutoSizer
+godot:dl:text                  | 11   | RichTextLabel2                                            | https://github.com/chairfull/GodotRichTextLabel2
+godot:dl:texture               | 00   | NinePatchSprite2D                                         | https://github.com/ninstar/Godot-NinePatchSprite2D
+godot:dl:texture               | 001  | TextureFont                                               | https://github.com/Mickeon/Godot-Texture-Font
+godot:dl:theme                 | 00   | Editor Theme Explorer                                     | https://github.com/YuriSizov/godot-editor-theme-explorer
+godot:dl:theme                 | 00   | ThemeGen                                                  | https://github.com/Inspiaaa/ThemeGen
+godot:dl:tile                  | 11   | TileMapLayer Basics in 4.3                                | https://github.com/Goldenlion5648/TileMapLayersTutorial
+godot:dl:tilemap               | 001  | YATI (Yet Another Tiled Importer)                         | https://github.com/Kiamo2/YATI
+godot:dl:tool                  | 00   | Block Coding                                              | https://github.com/endlessm/godot-block-coding
+godot:dl:tool                  | 00   | CyberAssets+                                              | https://github.com/CypherDoesStuff/CyberAssets
+godot:dl:tool                  | 00   | Directory Watcher                                         | https://github.com/KoBeWi/Godot-Directory-Watcher
+godot:dl:tool                  | 00   | EditorScriptManager                                       | https://github.com/bbMercy/EditorScriptManager
+godot:dl:tool                  | 00   | Game Jolt API                                             | https://github.com/murikistudio/game-jolt-api
+godot:dl:tool                  | 00   | GodotBoy GDExtention                                      | https://gitlab.com/greenfox/godot-boy
+godot:dl:tool                  | 00   | MarkdownLabel                                             | https://github.com/daenvil/MarkdownLabel
+godot:dl:tool                  | 00   | Multirun For Godot 4                                      | https://github.com/xiezi5160/MultirunForGodot4
+godot:dl:tool                  | 00   | Ref Serializer                                            | https://github.com/KoBeWi/Godot-Ref-Serializer
+godot:dl:tool                  | 00   | RemoteContainer                                           | https://github.com/ninstar/Godot-RemoteContainer
+godot:dl:tool                  | 00   | Resource Path                                             | https://github.com/huwpascoe/godot_resource_path
+godot:dl:tool                  | 00   | SignalSentry                                              | https://github.com/kidManuel/SignalSentry
+godot:dl:tool                  | 001  | GDShell                                                   | https://github.com/Kubulambula/Godot-GDShell
+godot:dl:tool                  | 11   | Github To Itch                                            | https://github.com/MeagherGames/github_to_itch
+godot:dl:tool                  | 11   | YAT - Yet Another Terminal (C#)                           | https://github.com/MASSHUU12/godot-yat
+godot:dl:tower                 | 00   | Tower Defense Game Template                               | https://github.com/alpapaydin/Godot-4-Tower-Defense-Template
+godot:dl:track                 | 00   | GodotOwl                                                  | https://github.com/Yoshiip/godot-owl
+godot:dl:translate             | 00   | Localization Editor                                       | https://github.com/VP-GAMES/Godot4LocalizationEditor
+godot:dl:translate             | 001  | POT Word - POT and PO file editor                         | https://github.com/diklor/pot_word
+godot:dl:translate             | 11   | Fluent Translation                                        | https://github.com/RedMser/godot-fluent-translation
+godot:dl:ui                    | 00   | Slider Label                                              | https://github.com/KoBeWi/Godot-Slider-Label
+godot:dl:ui                    | 11   | Spin Button - Horizontal Selector with extended options   | https://github.com/yudinikita/godot-spin-button
+godot:dl:voice                 | 00   | Godot Whisper - Speech to Text                            | https://github.com/V-Sekai/godot-whisper
+godot:dl:voice                 | 00   | Text to Speech                                            | https://github.com/kdik/godot-text-to-speech
+godot:dl:wiki                  | 00   | Cider Wiki                                                | https://github.com/apples/cider_wiki
+godot:dl:window                | 001  | GameGUI                                                   | https://github.com/brombres/Godot-GameGUI
+godot:src:dialogue             | 00   | Rakugo Dialogue System                                    | https://github.com/rakugoteam/Rakugo-Dialogue-System
+godot:src:dialogue             | 001  | Dialogic 2                                                | https://github.com/dialogic-godot/dialogic
+godot:src:dialogue             | 11   | Monologue                                                 | https://github.com/atomic-junky/Monologue
+godot:src:generate             | 00   | Hoodie                                                    | https://github.com/GreenCrowDev/hoodie
+godot:src:item                 | 00   | Expresso Inventory System                                 | https://github.com/expressobits/inventory-system
+godot:src:physical             | 00   | Cyclops Level Builder                                     | https://github.com/blackears/cyclopsLevelBuilder
+godot:src:physical             | 00   | Godot Jolt                                                | https://github.com/godot-jolt/godot-jolt
+godot:src:physical             | 00   | Rapier Extension for Godot                                | https://github.com/appsinacup/godot-rapier-physics
+godot:src:physical             | 00   | SoftBody2D                                                | https://github.com/appsinacup/godot-softbody2d
+godot:src:physical             | 00   | WiggleBone                                                | https://github.com/detomon/wigglebone
+godot:src:physical             | 00   | WigglyAppendage2D                                         | https://github.com/Tameno-01/GodotWigglyAppendage2D
+godot:src:tool                 | 00   | GriddyCode                                                | https://github.com/face-hh/griddycode
+godot:theme:-                  | 11   | Minimal Godot Theme                                       | https://github.com/passivestar/godot-minimal-theme
+goldendict:command:linux       | 00   | Acute                                                     | https://terokarvinen.com/2017/acute-0-2-2-integrate-help-commands-to-single-interface-pydoc3-puppet-describe-and-man-in-goldendict/
+goldendict:dictionary:hunspell | 00   | Dictionaries for Sublime Text                             | https://github.com/titoBouzout/Dictionaries
+goldendict:programs:translate  | 00   | deep-translator                                           | https://github.com/nidhaloff/deep-translator
+goldendict:service:translate   | 00   | DeepLX API Load Balancer                                  | https://github.com/yym68686/DeepLX
+goldendict:service:translate   | 00   | deeplx-tr                                                 | https://github.com/ffreemt/deeplx-tr
+goldendict:service:translate   | 001  | DeepLX                                                    | https://github.com/OwO-Network/DeepLX
+goldendict:translate:deepl     | 00   | GoldenDict-DeepL                                          | https://github.com/DevJogger/GoldenDict-DeepL
+graphic:-:-                    | 00   | Dotgrid                                                   | https://hundredrabbits.itch.io/dotgrid
+graphic:-:-                    | 00   | Paint of Persia                                           | https://dunin.itch.io/ptop
+graphic:-:-                    | 00   | Pixelorama                                                | https://github.com/Orama-Interactive/Pixelorama
+graphic:-:-                    | 00   | Strike                                                    | https://github.com/dmliao/strike
+graphic:3d:-                   | 00   | Instant Neural Graphics Primitives                        | https://github.com/NVlabs/instant-ngp
+graphic:3d:-                   | 00   | Text2Mesh                                                 | https://github.com/threedle/text2mesh
+graphic:aseprite:-             | 00   | Aseprite                                                  | https://dacap.itch.io/aseprite
+graphic:aseprite:-             | 00   | Center Image                                              | https://thkaspar.itch.io/center-image
+graphic:aseprite:-             | 00   | Normal Shading                                            | https://mooosik.itch.io/shading-extension
+graphic:aseprite:-             | 00   | Write Tool                                                | https://jahdah.itch.io/write-tool
+graphic:aseprite:audio         | 00   | Aseprite Audio Extension                                  | https://ddmplayer.itch.io/aseprite-audio-extension
+graphic:aseprite:brush         | 00   | Brush Transformations                                     | https://thkaspar.itch.io/brush-transformation
+graphic:aseprite:brush         | 00   | Randomize Brush                                           | https://thkaspar.itch.io/randomize-brush
+graphic:aseprite:canvas        | 00   | Canvas Presets for Aseprite                               | https://lintnaya.itch.io/canvas-presets-for-aseprite
+graphic:aseprite:canvas        | 00   | Easy Resize for Aseprite                                  | https://megacrash.itch.io/easy-resize\
+graphic:aseprite:cel           | 00   | Cel Tracking                                              | https://thkaspar.itch.io/cel-tracking
+graphic:aseprite:cel           | 00   | Extend Cel                                                | https://thkaspar.itch.io/extend-cel
+graphic:aseprite:cel           | 00   | Modify Frame Rate                                         | https://thkaspar.itch.io/modify-frame-rate
+graphic:aseprite:cel           | 00   | Playback Shortcuts                                        | https://thkaspar.itch.io/play-tag
+graphic:aseprite:color         | 00   | Color2GMS                                                 | https://kidmarscat.itch.io/color2gms
+graphic:aseprite:color         | 00   | Magic Pencil                                              | https://thkaspar.itch.io/magic-pencil
+graphic:aseprite:config        | 00   | Asepritely                                                | https://iivii.itch.io/asepritely
+graphic:aseprite:config        | 00   | NxPA Studio                                               | https://thkaspar.itch.io/nxpa
+graphic:aseprite:device        | 00   | On-Screen Controls                                        | https://thkaspar.itch.io/on-screen-controls
+graphic:aseprite:device        | 00   | Touchscreen Extension for Aseprite                        | https://maplepixels.itch.io/touchscreen-extension-for-aseprite
+graphic:aseprite:export        | 00   | Aseprite Batch Export                                     | https://ramrodwilly.itch.io/aseprite-batch-export
+graphic:aseprite:export        | 00   | Better Groups for Aseprite                                | https://bigasdev.itch.io/better-groups-for-aseprite
+graphic:aseprite:grid          | 00   | Grid2Size                                                 | https://kidmarscat.itch.io/grid2size
+graphic:aseprite:isometric     | 00   | Aseprite isometric converter                              | https://noesteryo.itch.io/aseprite-isometric-converter
+graphic:aseprite:isometric     | 00   | Aseprite isometric guidelines                             | https://noesteryo.itch.io/aseprite-isometric-guidelines
+graphic:aseprite:isometric     | 00   | Isometric Box Generator                                   | https://darkwark.itch.io/isobox-for-aseprite
+graphic:aseprite:layer         | 00   | Go To                                                     | https://thkaspar.itch.io/go-to
+graphic:aseprite:layer         | 00   | Select Content                                            | https://thkaspar.itch.io/select-content
+graphic:aseprite:map           | 00   | Normal Shading                                            | https://mooosik.itch.io/shading-extension
+graphic:aseprite:map           | 00   | Normal Toolkit                                            | https://mooosik.itch.io/normal-toolkitS
+graphic:aseprite:other         | 00   | Block Preview                                             | https://astropulse.itch.io/block-preview
+graphic:aseprite:other         | 00   | Time Tracking                                             | https://thkaspar.itch.io/time-tracking-for-aseprite
+graphic:aseprite:palette       | 00   | Lospec palette to Aseprite                                | https://noesteryo.itch.io/lospec-palette-to-aseprite
+graphic:aseprite:palette       | 00   | WLK44 Palette for Aseprite                                | https://wildleoknight.itch.io/wlk44-palette-for-aseprite
+graphic:aseprite:palette       | 00   | WildLeoKnight Gameboy Palettes for Aseprite               | https://wildleoknight.itch.io/wildleoknight-gameboy-aseprite-palettes
+graphic:aseprite:sprite        | 00   | Animation Suite                                           | https://thkaspar.itch.io/animation-suite
+graphic:aseprite:sprite        | 00   | Aseprite Animated Brush Extension                         | https://fabico.itch.io/aseprite-animated-brush-extension
+graphic:aseprite:sprite        | 00   | Aseprite Parallax Script                                  | https://darkmatterdreams.itch.io/aseprite-parallax-script
+graphic:aseprite:sprite        | 00   | FX                                                        | https://thkaspar.itch.io/fx
+graphic:aseprite:sprite        | 00   | Sprite Analyzer                                           | https://thkaspar.itch.io/sprite-analyzer
+graphic:aseprite:sprite        | 001  | Advanced Spritesheet Export                               | https://annabunches.itch.io/advanced-spritesheet-export
+graphic:aseprite:theme         | 00   | Aseprite Dark Mort HD Theme                               | https://mortmort.itch.io/aseprite-darkmode
+graphic:aseprite:theme         | 00   | Flat Theme                                                | https://jahdah.itch.io/subtle-dark-theme
+graphic:aseprite:theme         | 00   | Subtle Dark Theme                                         | https://akezhar.itch.io/flat-theme
+graphic:aseprite:theme         | 00   | Theme Preferences                                         | https://thkaspar.itch.io/theme-preferences
+graphic:aseprite:theme         | 00   | Warm Recolor                                              | https://trixelized.itch.io/warm-recolor
+graphic:aseprite:theme         | 00   | minimal dark hd                                           | https://2dchaos.itch.io/minimal-dark-aseprite-theme
+graphic:aseprite:tile          | 00   | Aseprite Tile Bleeder                                     | https://mpdacey.itch.io/aseprite-tile-bleeder
+graphic:cad:-                  | 00   | Cadmapper                                                 | https://cadmapper.com
+graphic:cad:-                  | 00   | FreeCAD                                                   | https://github.com/FreeCAD/FreeCAD
+graphic:cad:-                  | 00   | KiCad                                                     | https://kicad.org
+graphic:cad:-                  | 00   | KiKit – Automation for KiCAD                              | https://github.com/yaqwsx/KiKit
+graphic:cad:-                  | 00   | Logisim-evolution                                         | https://github.com/logisim-evolution/logisim-evolution
+graphic:cad:-                  | 00   | OpenSCAD                                                  | https://github.com/openscad/openscad
+graphic:cad:-                  | 00   | QCAD                                                      | https://qcad.org
+graphic:geo:-                  | 00   | 2D-isoedit                                                | https://github.com/Grille/2D-isometricRenderer
+graphic:geo:-                  | 00   | QGIS                                                      | https://qgis.org
+graphic:geo:-                  | 00   | Rasterio                                                  | https://github.com/rasterio/rasterio
+graphic:geo:-                  | 00   | Satellite Cloud Generator                                 | https://github.com/cidcom/SatelliteCloudGenerator
+graphic:geo:-                  | 00   | heightmapper                                              | https://github.com/tangrams/heightmapper
+graphic:geo:-                  | 00   | rio-faux                                                  | https://github.com/cogeotiff/rio-faux
+graphic:gimp:-                 | 00   | GIMP                                                      | https://gimp.org
+graphic:gimp:-                 | 00   | GIMP Resynthesizer Plugin Suite                           | https://github.com/bootchk/resynthesizer
+graphic:inkscape:-             | 00   | Inkscape                                                  | https://inkscape.org
+graphic:inkscape:-             | 00   | TexText                                                   | https://github.com/textext/textext
+graphic:krita:-                | 00   | Krita                                                     | https://krita.org/en/
+graphic:nes:-                  | 00   | NEXXT                                                     | https://frankengraphics.itch.io/nexxt
+graphic:node-editor:-          | 00   | Cascade                                                   | https://github.com/ttddee/Cascade
+graphic:node-editor:-          | 00   | Image-Processing-Node-Editor                              | https://github.com/Kazuhito00/Image-Processing-Node-Editor
+graphic:node-editor:-          | 001  | Nodezator                                                 | https://github.com/IndiePython/nodezator
+graphic:node-editor:-          | 10   | chaiNNer                                                  | https://github.com/joeyballentine/chaiNNer
+graphic:node-editor:vfx        | 00   | Pixel Composer                                            | https://github.com/ttanasart-pt/pixel-composer
+graphic:paint-net:-            | 00   | Paint .Net Animation Helper Plugin                        | https://pixelbyte.itch.io/paint-net-sprite-plugin
+graphic:paint-net:-            | 00   | Paint.NET                                                 | https://getpaint.net
+graphic:texture:-              | 00   | Dream Texture                                             | https://github.com/carson-katri/dream-textures
+graphic:texture:-              | 00   | non_repeating_hextiling                                   | https://github.com/Gizmo199/non_repeating_hextiling
+graphic:tui:-                  | 00   | cmdpxl                                                    | https://github.com/knosmos/cmdpxl
+gui:git:-                      | 00   | Fork                                                      | https://gitextensions.github.io
+gui:git:-                      | 00   | Git Extensions                                            | https://gitextensions.github.io
+gui:git:gist                   | 00   | Lepton                                                    | https://github.com/hackjutsu/Lepton
+gui:git:github                 | 00   | GitHub Desktop                                            | https://desktop.github.com
+gui:rename:-                   | 00   | ReNamer                                                   | https://den4b.com/products/renamer
+gui:rename:-                   | 11   | Advanced Renamer                                          | https://advancedrenamer.com
+gui:thumbnail:-                | 00   | qmtn                                                      | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
+hardware:archivist:-           | 00   | Archivist                                                 | https://diybookscanner.org/archivist/index.html
+hardware:archivist:-           | 00   | Pi Scan                                                   | https://github.com/Tenrec-Builders/pi-scan
+hardware:audio:-               | 00   | AudioRelay                                                | https://audiorelay.net
+hardware:audio:-               | 00   | REAL                                                      | https://github.com/miniant-git/REAL
+hardware:audio:-               | 00   | audio-limiter                                             | https://github.com/dylagit/audio-limiter
+hardware:audio:-               | 11   | EarTrumpet                                                | https://github.com/File-New-Project/EarTrumpet
+hardware:controller:-          | 00   | GP2040                                                    | https://gp2040.info
+hardware:disk:-                | 00   | Macrium Reflect                                           | https://macrium.com/reflectfree
+hardware:disk:-                | 00   | TreeSize                                                  | https://jam-software.com/treesize_free
+hardware:disk:-                | 10   | DiskGenius                                                | https://github.com/Kiprey/DiskGeniusCrack
+hardware:disk:-                | 10   | MiniTool Partition Wizard                                 | https://minitool.com/partition-manager/partition-wizard-home.html
+hardware:display:-             | 00   | Twinkle Tray                                              | https://twinkletray.com/
+hardware:driver:-              | 00   | Driver Booster                                            | https://iobit.com/en/driver-booster.php
+hardware:driver:-              | 00   | Driver Store Explorer                                     | https://github.com/lostindark/DriverStoreExplorer
+hardware:flipperzero:-         | 00   | Flipboard                                                 | https://github.com/jamisonderek/flipboard
+hardware:info:-                | 00   | CPU-Z                                                     | https://cpuid.com/softwares/cpu-z.html
+hardware:info:-                | 00   | GPU-Z                                                     | https://techpowerup.com/gpuz
+hardware:info:system           | 00   | AIDA64                                                    | https://aida64.com
+hardware:info:system           | 00   | HWinfo                                                    | https://hwinfo.com
+hardware:info:system           | 00   | System Information                                        | https://ale-margo.itch.io/system-information
+hardware:keyboard:-            | 00   | MacroKeyboardV2                                           | https://github.com/retrobuiltRyan/MacroKeyboardV2
+hardware:keyboard:-            | 00   | Mini-Macro-Keyboard-v2                                    | https://github.com/retrobuiltRyan/Mini-Macro-Keyboard-v2
+hardware:keyboard:-            | 00   | MixStick-Arcade-Controller                                | https://github.com/retrobuiltRyan/MixStick-Arcade-Controller
+hardware:keyboard:-            | 001  | Adafruit MacroPad RP2040 PCB                              | https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB
+hardware:keyboard:-            | 001  | duckyPad                                                  | https://github.com/dekuNukem/duckyPad
+hardware:knob:-                | 00   | SmartKnob                                                 | https://github.com/scottbez1/smartknob
+hardware:knob:-                | 00   | X-Knob                                                    | https://github.com/SmallPond/X-Knob
+hardware:memory:-              | 11   | Reduce Memory                                             | https://sordum.org/9197/reduce-memory-v1-6/
+hardware:monitor:-             | 00   | Libre Hardware Monitor                                    | https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+hardware:monitor:-             | 00   | Monitorian                                                | https://github.com/emoacht/Monitorian
+hardware:monitor:disk          | 00   | CrystalDiskInfo                                           | https://osdn.net/projects/crystaldiskinfo
+hardware:monitor:disk          | 00   | smartmontools                                             | https://smartmontools.org
+hardware:motitor:-             | 00   | Core Temp                                                 | https://alcpu.com/CoreTemp
+hardware:motitor:-             | 00   | Open Hardware Monitor                                     | https://openhardwaremonitor.org
+hardware:process:-             | 00   | Process Hacker                                            | https://processhacker.sourceforge.io
+image:2ascii:-                 | 00   | Artem                                                     | https://github.com/FineFindus/artem
+image:2ascii:-                 | 00   | ascii-image-converter                                     | https://github.com/TheZoraiz/ascii-image-converter
+image:2ascii:-                 | 10   | ASCII Silhouettify                                        | https://meatfighter.com/ascii-silhouettify
+image:2cur:png                 | 00   | png2cur                                                   | https://github.com/drahoslove/png2cur
+image:2ico:-                   | 00   | IconPie                                                   | https://github.com/lineCode/icon-pie
+image:2ico:png                 | 10   | png-to-ico                                                | https://github.com/steambap/png-to-ico
+image:2pixel:-                 | 00   | Super Pyxelate                                            | https://github.com/sedthh/pyxelate
+image:2png:gif                 | 00   | Gif2png                                                   | https://github.com/dust8/gif2png
+image:2png:svg                 | 00   | SVG to PNG converter                                      | https://github.com/v0lt/svg2png
+image:2png:svg                 | 00   | SVG-to-PNG                                                | https://github.com/domenic/svg2png
+image:2png:svg                 | 00   | svgexport                                                 | https://github.com/shakiba/svgexport
+image:2svg:-                   | 00   | AutoTrace                                                 | https://github.com/autotrace/autotrace
+image:2svg:-                   | 00   | CairoSVG                                                  | https://courtbouillon.org/cairosvg
+image:2svg:-                   | 00   | Potrace                                                   | https://potrace.sourceforge.net
+image:2svg:png                 | 00   | png2svg                                                   | https://github.com/xyproto/png2svg
+image:browser:-                | 00   | FastStone Image Viewer                                    | https://faststone.org/FSViewerDetail.htm
+image:browser:-                | 00   | XnView MP                                                 | https://xnview.com/en/xnviewmp
+image:color:-                  | 00   | ImageTheming                                              | https://github.com/daniel-seiler/ImageTheming
+image:color:-                  | 00   | Img2Palette                                               | https://grinnch.itch.io/img2palette
+image:color:-                  | 00   | color-matcher                                             | https://github.com/hahnec/color-matcher
+image:color:-                  | 00   | posterust                                                 | https://github.com/okaneco/posterust
+image:color:-                  | 10   | Paletter                                                  | https://github.com/Baldomo/paletter
+image:color:gui                | 00   | RetroEditor                                               | https://zxretrosoft.itch.io/retroeditor
+image:color:gui                | 00   | SoftLK-tools                                              | https://github.com/Captain4LK/SoftLK-tools
+image:convert:-                | 00   | NConvert                                                  | https://xnview.com/en/nconvert
+image:convert:-                | 11   | XnConvert                                                 | https://xnview.com/en/xnconvert
+image:darktable:-              | 10   | darktable                                                 | https://darktable.org
+image:darktable:lut            | 10   | Fujifilm Auto Settings for Darktable                      | https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable
+image:darktable:lut            | 10   | Street Monochrome                                         | https://github.com/sfi0zy/street-monochrome
+image:darktable:lut            | 10   | t3mujinpack                                               | https://github.com/t3mujin/t3mujinpack
 image:exif:-                     | 00   | ExifToolGUI                                                        | https://exiftool.org/gui
 image:exif:-                     | 00   | jExifToolGUI                                                       | https://hvdwolf.github.io/jExifToolGUI
 image:exif:-                     | 10   | ExifGlass                                                          | https://github.com/d2phap/ExifGlass
@@ -1676,9 +1685,9 @@ image:library:-                  | 00   | ImageMagick                           
 image:optimize:-                 | 00   | Bamboo                                                             | https://github.com/christopherwk210/bamboo
 image:optimize:-                 | 00   | Guetzli Converter GUI                                              | https://guetzliconverter.net
 image:optimize:-                 | 00   | Pixxia                                                             | https://github.com/dhhruv/Pixxia
-image:optimize:-                 | 11   | YOGA | https://github.com/wanadev/yoga
 image:optimize:-                 | 00   | YOGA Image Optimizer                                               | https://github.com/flozz/yoga-image-optimizer
 image:optimize:-                 | 00   | tinifier                                                           | https://github.com/tarampampam/tinifier
+image:optimize:-                 | 11   | YOGA | https://github.com/wanadev/yoga
 image:optimize:batch             | 00   | Compress-images                                                    | https://github.com/Yuriy-Svetlov/compress-images
 image:optimize:batch             | 00   | Smally                                                             | https://github.com/xinlin-z/smally
 image:optimize:png               | 00   | Oxipng                                                             | https://github.com/shssoichiro/oxipng
@@ -1732,6 +1741,8 @@ img:playbook:-                   | 00   | ReviOS                                
 img:tool:-                       | 11   | SDCardFormatter                                                    | https://sdcard.org/downloads/formatter
 img:ventoy:-                     | 00   | Boo for GRUB                                                       | https://github.com/PROxZIMA/boo-grub
 img:ventoy:-                     | 11   | Ventoy                                                             | https://ventoy.net
+ink:-:-                          | 00   | ink                                                                | https://github.com/inkle/ink
+ink:lua:-                        | 00   | Narrator                                                           | https://github.com/astrochili/narrator
 joplin:-:-                       | 11   | Joplin                                                             | https://joplinapp.org
 joplin:backup:-                  | 00   | logseq-backup                                                      | https://github.com/gerlos/logseq-backup
 joplin:calendar:-                | 11   | Life Calendar                                                      | https://github.com/hieuthi/joplin-plugin-life-calendar
@@ -1918,13 +1929,13 @@ keypirinha:terminal:-            | 001  | Keypirinha-Command                    
 keypirinha:terminal:-            | 11   | keypirinha-conemu                                                  | https://github.com/benmetheny/keypirinha-conemu
 keypirinha:theme:-               | 11   | keypirinha-theme-builder                                           | https://github.com/Fuhrmann/keypirinha-theme-builder
 keypirinha:tool:-                | 00   | Keypirinha Plugin: MyIP                                            | https://github.com/Fuhrmann/keypirinha-myip
+keypirinha:tool:-                | 00   | Keypirinha Plugin: QR Code                                         | https://github.com/thisisleobro/Keypirinha-qrcode
 keypirinha:tool:-                | 00   | Keypirinha Plugin: epoch                                           | https://github.com/prayzzz/keypirinha-epoch
 keypirinha:tool:-                | 001  | Keypirinha Plugin: Currency                                        | https://github.com/AvatarHurden/keypirinha-currency
 keypirinha:tool:-                | 11   | Keypirinha ColorPicker                                             | https://github.com/clinden/keypirinha-colorpicker
 keypirinha:tool:-                | 11   | Keypirinha Plugin: MyIpExtended                                    | https://github.com/andriykrefer/Keypirinha-MyIpExtended
 keypirinha:tool:-                | 11   | Keypirinha-PuzzTools                                               | https://github.com/EhsanKia/Keypirinha-PuzzTools
 keypirinha:tool:-                | 11   | keypirinha-cvt                                                     | https://github.com/DrorHarari/keypirinha-cvt
-keypirinha:tool:-                | 00   | Keypirinha Plugin: QR Code                                         | https://github.com/thisisleobro/Keypirinha-qrcode
 latex:check:-                    | 001  | TeXtidote                                                          | https://github.com/sylvainhalle/textidote
 library:cargo:-                  | 00   | Cargo B(inary)Install                                              | https://github.com/cargo-bins/cargo-binstall
 library:cargo:-                  | 11   | rustup                                                             | https://rustup.rs
@@ -1944,10 +1955,10 @@ library:npm:-                    | 00   | yrm                                   
 library:npm:-                    | 11   | fnm                                                                | https://github.com/Schniz/fnm
 library:npm:-                    | 11   | npms-cli                                                           | https://github.com/npms-io/npms-cli
 library:npm:-                    | 11   | pnpm                                                               | https://pnpm.io
-library:python:-                 | 00   | portable-python-maker                                              | https://github.com/dreamsavior/portable-python-maker
-library:python:-                 | 11   | pyenv for Windows                                                  | https://github.com/pyenv-win/pyenv-win
 library:python:-                 | 00   | Rye                                                                | https://github.com/mitsuhiko/rye
+library:python:-                 | 00   | portable-python-maker                                              | https://github.com/dreamsavior/portable-python-maker
 library:python:-                 | 11   | pip_search                                                         | https://github.com/victorgarric/pip_search
+library:python:-                 | 11   | pyenv for Windows                                                  | https://github.com/pyenv-win/pyenv-win
 library:python:-                 | 11   | python                                                             | https://python.org
 library:python:package           | 10   | uv                                                                 | https://github.com/astral-sh/uv
 library:ruby:-                   | 00   | RubyInstaller                                                      | https://rubyinstaller.org
@@ -1956,16 +1967,20 @@ library:ruby:-                   | 11   | rbenv for Windows                     
 library:ruby:-                   | 11   | rvm                                                                | https://github.com/rvm/rvm
 library:tui:-                    | 00   | Typer                                                              | https://github.com/tiangolo/typer
 library:yomichan:-               | 001  | Jitendex                                                           | https://github.com/stephenmk/Jitendex
-ai:rag:-                         | 00   | MemoRAG                                                            | https://github.com/qhjqhj00/MemoRAG
 linux:desktop:theme              | 00   | Material-Original gtk theme                                        | https://github.com/Macintosh98/Material-Original
 linux:dotfiles:-                 | 00   | @diffficult                                                        | https://github.com/diffficult/dotfiles_220
 linux:dotfiles:arch              | 00   | @bibjaw99                                                          | https://github.com/bibjaw99/workstation
 linux:dotfiles:hyprland          | 00   | @qxb3                                                              | https://github.com/qxb3/gruvbox.hypr/tree/vim_styled
 linux:firmware:gnome             | 00   | Firmware                                                           | https://gitlab.gnome.org/World/gnome-firmware
-linux:flatpak:grep               | 00   | Clapgrep                                                           | https://flathub.org/apps/de.leopoldluley.Clapgrep
-linux:flatpak:gnome              | 10   | Warehouse                                                          | https://github.com/flattool/warehouse
-linux:front-end:game             | 10   | Lutris                                                             | https://lutris.net
 linux:flatpak:-                  | 00   | Trelby                                                             | https://flathub.org/apps/org.trelby.Trelby
+linux:flatpak:-                  | 00  | | https://flathub.org/apps/de.swsnr.turnon
+linux:flatpak:-                  | 00  | | https://flathub.org/apps/de.swsnr.turnon
+linux:flatpak:-                  | 00  | | https://flathub.org/apps/de.swsnr.turnon
+linux:flatpak:-                | 00   | Open TV                                                   | https://flathub.org/apps/dev.fredol.open-tv
+linux:flatpak:-                | 00   | Turn On                                                   | https://flathub.org/apps/de.swsnr.turnon
+linux:flatpak:gnome              | 10   | Warehouse                                                          | https://github.com/flattool/warehouse
+linux:flatpak:grep               | 00   | Clapgrep                                                           | https://flathub.org/apps/de.leopoldluley.Clapgrep
+linux:front-end:game             | 10   | Lutris                                                             | https://lutris.net
 linux:game:-                     | 00   | Cave Story NX                                                      | https://flathub.org/apps/com.gitlab.coringao.cavestory-nx
 linux:game:-                     | 00   | RetroPlus                                                          | https://github.com/Vysp3r/RetroPlus
 linux:image:-                    | 00   | Halftone                                                           | https://github.com/tfuxu/Halftone
@@ -2033,221 +2048,7 @@ logseq:toc:-                     | 11   | \-                                    
 logseq:todo:-                    | 00   | Logseq Deadline Countdown                                          | https://github.com/xxchan/logseq-deadline-countdown
 logseq:todo:-                    | 00   | TODO Master                                                        | https://github.com/pengx17/logseq-plugin-todo-master
 logseq:todo:-                    | 00   | Time Recorder                                                      | https://github.com/5hir0kur0/logseq-time-recorder
-ink:-:-                          | 00   | ink                                                                | https://github.com/inkle/ink
-renpy:-:-                        | 00   | Awesome RenPy                                                      | https://github.com/methanoliver/awesome-renpy
-renpy:tutorial:data              | 000  | Save on Quit                                                       | https://patreon.renpy.org/save-on-quit.html
-renpy:tutorial:data              | 000  | Save Metadata                                                      | https://patreon.renpy.org/save-metadata.html
-renpy:tutorial:-                 | 00   | Making a Separate Content Patch                                    | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=45448#p463349
-renpy:code:python                | 00   | Inline Python for Ren'Py                                           | https://feniksdev.itch.io/inline-python-for-renpy
-renpy:code:variables             | 00   | Definitive Default                                                 | https://feniksdev.com/the-definitive-default-define-renpy-article/
-renpy:code:reconstruct           | 01   | Organizing a Ren’Py Project                                        | https://feniksdev.com/organizing-a-renpy-project/
-renpy:syntax:code                | 000  | Inline Conditions for Ren'Py                                       | https://feniksdev.itch.io/inline-conditions-for-renpy
-renpy:syntax:dialogue            | 01   | Subscript/superscript tags                                         | https://gist.github.com/methanoliver/fb2ef18de4c23fadbb23b13fa3d10d48
-renpy:syntax:scene               | 001  | Title Screens                                                      | https://patreon.renpy.org/title-screens.html
-renpy:syntax:menu                | 001  | Choice Screen Selection                                            | https://patreon.renpy.org/menu-arguments.html#choice-screen-selection
-renpy:syntax:character           | 001  | Character Customization                                            | https://patreon.renpy.org/character-customization.html
-renpy:tool:version               | 001  | renkit                                                             | https://github.com/kobaltcore/renkit
-renpy:template:-                 | 110  | Easy Ren'Py GUI                                                    | https://github.com/shawna-p/EasyRenPyGui
-renpy:template:-                 | 000  | Multiplayer Adventure Template                                     | https://heecawroo.itch.io/4p-template
-renpy:data:-                     | 01   | Dynamic Tooltips                                                   | https://github.com/HyJyncks/DynamicTooltips
-renpy:stats:-                    | 00   | Ren'Py Stats Framework                                             | https://bobcgames.itch.io/bobcstats
-renpy:setting:-                  | 00   | Ren'Py Accessibility Add-On                                        | https://minute.itch.io/renpy-accessibility
-renpy:fuction:-                  | 001  | Gallery Framework                                                  | https://bobcgames.itch.io/bobcgallery
-renpy:fuction:-                  | 001  | Gallerynpy                                                         | https://github.com/Yoimer-Davila/gallerynpy
-renpy:fuction:-                  | 01   | Achievements for Ren'Py                                            | https://feniksdev.itch.io/achievements-for-renpy
-renpy:fuction:-                  | 001  | Achievements Framework                                             | https://bobcgames.itch.io/bobcachievements
-renpy:fuction:-                  | 000  | Multi Touch Gallery                                                | https://feniksdev.itch.io/multi-touch-zoom-gallery-for-renpy
-renpy:fuction:-                  | 000  | Extended Music Room for Ren'Py                                     | https://feniksdev.itch.io/extended-music-room-for-renpy
-renpy:start-menu:background      | 000  | Title screen                                                       | https://albireogames.tumblr.com/post/684623598192902144/
-renpy:start-menu:icon            | 001  | Dynamic Main Menu And Feather Icons In The Ui Text                 | https://github.com/RuolinZheng08/renpy-awesome-template#dynamic-main-menu-and-feather-icons-in-the-ui-text
-renpy:start-menu:background      | 001  | Main Menu with a Video Background Code                             | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47193#p472755
-renpy:start-menu:background      | 001  | Tutorial Conditional Main Menu Background                          | https://github.com/jbondguy007/Renpy-tutorial-conditional-main-menu-background
-renpy:start-menu:-               | 001  | Visual;Conference                                                  | https://patreon.renpy.org/dev-2020-01.html#visual-conference
-renpy:start-menu:-               | 00   | button Continue game”                                              | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=48154#p477769
-renpy:api:news                   | 001  | Integrating it with your Game                                      | https://patreon.renpy.org/news.html#integrating-it-with-your-game
-renpy:api:discord                | 001  | Discord Rich Presence Support                                      | https://github.com/Lezalith/RenPy-Discord-Presence
-renpy:api:bot                    | 001  | RenPyro                                                            | https://github.com/alvarensixy/RenPyro
-renpy:api:mobile                 | 00   | Expanding Mobile Functionality With Pyobjus/Pyjnius ...            | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=46091#p467178
-renpy:api:epic                   | 001  | Epic Online Services extension for Ren’Py                          | https//github.com/Ayowel/renpy-epicgames-eos
-renpy:api:patreon                | 000  | Patreon auth in Ren'Py Patreon Auth in Ren‘Py                      | https://dinaki.itch.io/auth-with-patreon-in-renpy-game
-renpy:ads:google-ads             | 001  | Renpy : How to add Google Ads(Admob) to Renpy                      | https://www.youtube.com/watch?v=oUhcXlzc2a4
-renpy:ads:yandex-ads             | 001  | Yandex Mobile Ads в Ren'Py игре                                    | https://github.com/valery-iwanofu/rapt-yandex-ads
-renpy:cursor:icon                | 001  | Mouse Displayables                                                 | https://patreon.renpy.org/dev-2021-04.html#mouse-displayables
-renpy:cursor:icon                | 001  | Hardware-Accelerated Custom Mouse Cursor                           | https://patreon.renpy.org/dev-2020-11.html#hardware-accelerated-custom-mouse-cursor
-renpy:cursor:prop                | 000  | X-ray effect: Creator-Defined Displayable                          | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62128
-renpy:cursor:-                   | 00   | Preview Slow CPS in Ren'Py                                         | https://gist.github.com/shawna-p/3a12772369af03b85b25196275412868#file-cps_preview-rpy-L14
-renpy:button:-                   | 00   | BGQueue                                                            | https://patreon.renpy.org/python-tricks-2.html#bgqueue
-renpy:button:-                   | 000  | Button PRESSED state                                               | https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=57848&sid=95776df5d873ef265bcf05244d317495
-renpy:bar:-                      | 01   | Scrollbutton code for the Ren'Py visual novel engine               | https://gist.github.com/midgethetree/b210ddadfb07e85873022fde0202f646
-renpy:bar:value                  | 00   | Extra Animated Value                                               | https://github.com/RenpyRemix/extra-animated-value
-renpy:bar:-                      | 000  | Multi-Thumb Bar for Ren'Py                                         | https://feniksdev.itch.io/multi-thumb-bar-for-renpy
-renpy:bar:-                      | 000  | Radar Chart Displayable                                            | https://devilspider.itch.io/radar-chart-displayable
-renpy:map:minimap                | 00   | Location Minimap System                                            | https://kigyo.itch.io/renpy-locationminimap-system
-renpy:map:-                      | 000  | Pink Engine                                                        | https://pink-productions.itch.io/pink-engine
-renpy:map:-                      | 00   | Tiled Map Editor                                                   | https://github.com/mapeditor/tiled
-renpy:map:-                      | 00   | Map Navigation in RenPy - Vlog #4 Creating a Map Screen            | https://www.youtube.com/watch?v=o699N1TdlZ8
-renpy:background:camera          | 001  | Scroll any, not even seamless background                           | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=54333#p507598
-renpy:background:camera          | 00   | 1080p wipes (image dissolve transitions)                           | https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37628#p407567
-renpy:background:parallax        | 000  | Parallax code for the Ren'Py visual novel engin                    | https://gist.github.com/midgethetree/b449be114f21974ed21b3fbf3653433f
-renpy:background:parallax        | 000  | Parallax                                                           | https://github.com/RuolinZheng08/renpy-awesome-template#parallax
-renpy:background:parallax        | 000  | Parallax Camera and Drunken Blur                                   | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62705
-renpy:background:-               | 000  | renpy-panorama                                                     | https://github.com/arsenic-rp/renpy-panorama
-renpy:background:tile            | 01   | Panning background with seamless tiles                             | https://github.com/RuolinZheng08/renpy-awesome-template#panning-background-with-seamless-tiles
-renpy:animation:move             | 01   | Tutorial: How to do a cloud animation with RenPy                   | https://traumendes-madchen.com/blog/?p=1395
-renpy:animation:move             | 01   | Moving Clouds                                                      | https://github.com/Thediamondcryst/Ren-Py-Free-To-Use-Moving-Clouds
-renpy:shader:particle            | 01   | Particles                                                          | https://github.com/AgentAlpha81/RenPyParticles
-renpy:shader:dust                | 01   | Dust                                                               | https://gist.github.com/rurubell/a30752048bbe20de546d737c2476916f
-renpy:shader:rain                | 01   | Simple Rain Effect                                                 | https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37489#p406150
-renpy:shader:rain                | 01   | Neat RenPy rain effect                                             | https://gist.github.com/methanoliver/98fe9304b63fff1f7d3419120e2c11f5
-renpy:shader:fall-leaf           | 000  | Falling Leaves                                                     | https://github.com/Thediamondcryst/Ren-Py-Free-to-Use-Falling-Leaves
-renpy:shader:outline             | 01   | Outline Shader                                                     | https://github.com/RenpyRemix/outline-shader
-renpy:shader:glitch              | 000  | Chroma Glitch                                                      | https://github.com/Gouvernathor/renpy-ChromaGlitch
-renpy:shader:collect             | 000  | Shader                                                             | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65248
-renpy:shader:blur                | 000  | Implementing better blur?                                          | https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844
-renpy:image:border               | 00   | Image Bounds Displayable                                           | https://devilspider.itch.io/image-bounds-displayable
-renpy:character:hightlight       | 000  | Renpy Auto Highlight                                               | https://wattson.itch.io/renpy-auto-highlight
-renpy:character:zoom             | 000  | Autofocus                                                          | https://github.com/Elckarow/Autofocus
-renpy:character:avater           | 000  | Automated Side Images with Circular Cropping                       | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=64534
-renpy:character:lighting         | 000  | Noir-Style Shadow/Lighting Effects                                 | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=49140#p483366
-renpy:sprite:layer               | 001  | Layered Image Conversion                                           | https://patreon.renpy.org/layeredimage-conversion.html
-renpy:sprite:generate            | 00   | A primitive automatic loader for the simple kind of layered images | https://gist.github.com/methanoliver/2668767d5332aea66a866d2b84692d1c
-renpy:sprite:auto                | 000  | Sprite Face Changer                                                | https://klast-halc.itch.io/sprite-face-changer
-renpy:sprite:customizer          | 000  | Sprite Customizer                                                  | https://github.com/Foxcapades/renpy-sprite-customizer
-renpy:sprite:rain                | 001  | Rain Maker                                                         | https://pixeladdictgames.itch.io/rain-maker
-renpy:sprite:blink               | 000  | Easy Blinking for Ren'Py                                           | https://feniksdev.itch.io/easy-blinking-for-renpy
-renpy:lighting-effect:background | 00   | Lightning modes                                                    | https://github.com/RuolinZheng08/renpy-awesome-template#lightning-modes-day-dusk-night-dim-sepia
-renpy:lighting-effect:character  | 000  | Image Tint Tool for Ren'Py [Addon]                                 | https://feniksdev.itch.io/image-tint-tool
-renpy:menu:lock                  | 01   | Condition and Sensitive                                            | https://patreon.renpy.org/menu-arguments.html#condition-and-sensitive
-renpy:menu:disappear             | 01   | Menu Sets                                                          | https://patreon.renpy.org/very-old-features.html#menu-sets
-renpy:menu:postion               | 001  | Positioning Menu Choices                                           | https://patreon.renpy.org/menu-arguments.html#positioning-menu-choices
-renpy:menu:background            | 001  | Background                                                         | https://patreon.renpy.org/menu-arguments.html#background
-renpy:menu:background            | 001  | Menu Blurring                                                      | https://patreon.renpy.org/dev-2020-09.html#menu-blurring
-renpy:menu:transition            | 001  | Blur scene behind choice menu, fade choices in and out             | https://gist.github.com/dossy/cbb7b7ed18a292e4d9c51c8d63a15c69
-renpy:menu:avater                | 001  | Image Badges                                                       | https://patreon.renpy.org/menu-arguments.html#image-badges
-renpy:menu:layout                | 001  | Grid Menus                                                         | https://patreon.renpy.org/menu-arguments.html#grid-menus
-renpy:menu:timing                | 001  | Timed Choice Menus                                                 | https://patreon.renpy.org/timed-choice-menus.html
-renpy:menu:timing                | 001  | Custom Preferences                                                 | https://patreon.renpy.org/custom-preferences.html
-renpy:menu:menu-block            | 000  | Drop Down Menus                                                    | https://patreon.renpy.org/dev-2022-05.html#drop-down-menus
-renpy:menu:multi-select          | 01   | RadioButtonGroup Plugin                                            | https://github.com/Wendy-Nam/RenPy-RadioButtonGroup
-renpy:notify:audio               | 000  | Caption Tool for Ren’Py                                            | https://npckc.itch.io/caption-tool-for-renpy
-renpy:notify:feedback            | 01   | Checking for Changes and Displaying A Message                      | https://patreon.renpy.org/check-for-changes.html
-renpy:nvl:gui                    | 01   | - E N T R O P O N A U T -                                          | https://github.com/jsfehler/entroponaut
-renpy:nvl:-                      | 01   | Two-column NVL mode                                                | https://gist.github.com/methanoliver/cb6ae08d432d9395cff65975733599ab
-renpy:nvl:-                      | 01   | Renpy: A ctc indicator that ...                                    | https://gist.github.com/methanoliver/7671cbcabe46bcc8a0f757ba195bb1a4
-renpy:dialogue:effect            | \-   | Some More On-Scroll Typography Animations                          | https://tympanus.net/codrops/2023/02/22/some-more-on-scroll-typography-animations
-renpy:dialogue:effect            | \-   | Inspiration for Text Block Transitions                             | https://tympanus.net/codrops/2023/07/13/inspiration-for-text-block-transitions
-renpy:dialogue:block             | 110  | Multiple Dialogue Blocks                                           | https://patreon.renpy.org/multiple-dialogue.html
-renpy:dialogue:tooltip           | 110  | Word Description                                                   | https://github.com/valery-iwanofu/renpy-word-description
-renpy:dialogue:effect            | 000  | FancyText Module                                                   | https://github.com/yukinogatari/Ren-Py-FancyText
-renpy:dialogue:effect            | 000  | Kinetic Text Tags                                                  | https://github.com/SoDaRa/Kinetic-Text-Tags
-renpy:dialogue:effect            | 000  | Rainbowtext                                                        | https://github.com/Lezalith/renpy-rainbowtext
-renpy:dialogue:-                 | 000  | Automatic Speech Bubbles                                           | https://patreon.renpy.org/speech-bubbles.html
-renpy:dialogue:history           | 000  | History Search Tool                                                | https://devilspider.itch.io/history-search-tool
-renpy:pronoun:-                  | 000  | Pronouns                                                           | https://feniksdev.itch.io/in-depth-pronouns-for-renpy
-renpy:pronoun:variable           | 000  | Pronoun Tool                                                       | https://npckc.itch.io/pronoun-tool
-renpy:frame:gui                  | 000  | Frame Tool for Ren'Py                                              | https://feniksdev.itch.io/frame-tool-for-renpy
-renpy:frame:fillet               | 000  | A Frame displayable which has rounds off corners using shaders     | https://gist.github.com/Pseurae/15dc9c6a145161063126c3b4de39a0aa
-renpy:chat-log:display           | 110  | Chat Log                                                           | https://github.com/JimTheCactus/chatlogging
-renpy:subtitle:api               | 000  | Marquee                                                            | https://patreon.renpy.org/dev-2021-11.html#marquee
-renpy:text:syntax                | 001  | Smallcaps tag for RenPy                                            | https://gist.github.com/methanoliver/166c18caa224fa15ead6dca95cccbb05
-renpy:text:display               | 00   | Marquee for Ren'Py                                                 | https://feniksdev.itch.io/marquee-for-renpy
-renpy:text:-                     | 00   | AdvancedText                                                       | https://github.com/rakugoteam/AdvancedText
-renpy:variable:api               | 000  | PronounsClass                                                      | https://github.com/Gouvernathor/renpy-PronounsClass
-renpy:variable:-                 | 000  | RenPy Cheat Generator                                              | https://github.com/lure0xaos/rpycg
-renpy:glossary:page              | 110  | Encyclopaedia Framework for Ren'Py                                 | https://github.com/jsfehler/renpy-encyclopaedia
-renpy:glossary:api               | 000  | In-Game Wiki-Like Glossary or Codex                                | https://patreon.renpy.org/wiki.html
-renpy:dialogue:phone-simulator   | 000  | Phone interface                                                    | https://github.com/albireo-games/renpy_phone
-renpy:dialogue:phone-simulator   | 000  | Better EMR Phone                                                   | https://github.com/Elckarow/Better-EMR-Phone
-renpy:dialogue:phone-simulator   | 000  | Phone SMS                                                          | https://github.com/israelrbb/RenpyPhoneSMS
-renpy:prop:clock-simulator       | 000  | Analog Clock                                                       | https://github.com/williamd1k0/renpy-analog-clock
-renpy:prop:clock-simulator       | 000  | Simpo Clock                                                        | https://badmustard.itch.io/simpo-clock
-renpy:prop:atm-simulator         | 000  | Simulator ATM                                                      | https://github.com/cimo95/atm_os
-renpy:prop:odometer-simulator    | 000  | Odometer                                                           | https://patreon.renpy.org/dev-2023-05.html#odometer
-renpy:dialogue:gui-editor        | 000  | Node based script editor                                           | https://github.com/FiendChain/ScriptEditor
-renpy:dialogue:gui-editor        | 000  | draft 3 to Ren'Py 3 converter                                      | https://github.com/SqFKYo/articy3_renpy3
-renpy:dialogue:gui-editor        | 000  | Twine to Ren'Py                                                    | https://ludowoods.itch.io/twine-to-renpy-tool
-renpy:dialogue:gui-editor        | 000  | Maker                                                              | https://renpymaker.com
-renpy:audio:animation            | 00   | Lip Sync Plugin for Ren'Py                                         | https://github.com/Wendy-Nam/RenPy-Lipsync-Plugin
-renpy:audio:animation            | 00   | Timing animations to your musics tempo                             | https://sleepyagents.blogspot.com/2016/09/bpm-in-renpy-timing-animations-to-your.html
-renpy:audio:generate             | 00   | Splatoon Audio Generator                                           | https://bpgc.itch.io/splatoon-gibberish-generator
-renpy:audio:generate             | 000  | Renpy dialog voice generator                                       | https://github.com/lugia19/renpyDialogToAudio
-renpy:audio:api                  | 00   | Buns with sound in renpy                                           | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=54324#p507536
-renpy:audio:script               | 00   | Ren'Py Voice Topmix                                                | https://github.com/RFHGames/renpy-voice-topmix
-renpy:video:pause                | 00   | Pausing Movies                                                     | https://patreon.renpy.org/dev-2021-07.html#pausing-movies
-renpy:formatter:python-block     | 00   | renpyfmt                                                           | https://github.com/kobaltcore/renpyfmt
-renpy:formatter:syntax           | 000  | Parser                                                             | https://github.com/gameboxthing/renpy_parser
-renpy:formatter:convert          | 000  | Final Draft screenplay to Renpy                                    | https://github.com/RunawayHaggis/FDtoRenpy
-renpy:linter:-                   | 00   | VNProofer                                                          | https://github.com/devorbitus/vnproofer
-renpy:linter:-                   | 00   | Lint Ren'Py Project                                                | https://github.com/ProjectAliceDev/renpy-lint-action
-renpy:linter:-                   | 00   | Ren'Py Lint                                                        | https://github.com/actions-marketplace-validations/nyancatda_RenpyLint
-renpy:packager:kit               | 001  | Ren'Py Distributor                                                 | https://github.com/Andykl/renpy-distributor
-renpy:packager:-                 | 001  | Build Ren'Py Project                                               | https://github.com/ProjectAliceDev/renpy-build-action
-renpy:packager:flatpak           | 001  | renpy2flatpak                                                      | https://github.com/dcbaker/renpy2flatpak
-renpy:publish:-                  | 001  | Counter                                                            | https://github.com/b1f6c1c4/renpy-counter
-renpy:publish:-                  | 001  | Demotools                                                          | https://github.com/Ayowel/renpy-demotools
-renpy:development:sprite         | 000  | Image Tools for Ren'Py                                             | https://feniksdev.itch.io/image-tools-for-renpy
-renpy:development:sprite         | 000  | Layered Image Visualizer for Ren'Py [Addon]                        | https://feniksdev.itch.io/layered-image-visualizer-for-renpy
-renpy:development:sprite         | 01   | ActionEditor3                                                      | https://github.com/kyouryuukunn/renpy-ActionEditor3
-renpy:development:sprite         | 000  | Expreviewer                                                        | https://github.com/Elckarow/Expreviewer
-renpy:development:tester         | 000  | Ren'Edit                                                           | https://minute.itch.io/renedit
-renpy:development:json           | 00   | Import Json Data Easier                                            | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65400
-renpy:feature:flow               | 001  | Flowchart Plug-In                                                  | https://devilspider.itch.io/flowchart-plug-in
-renpy:development:flowchart      | 000  | Ren'Py graph visualizer - branches flowchart generator             | https://github.com/EwenQuim/renpy-graphviz
-renpy:development:menu-history   | 00   | Label Log                                                          | https://patreon.renpy.org/dev-2020-02.html#label-log
-renpy:development:audiobook      | 00   | AudioTextSync To Ren’Py                                            | https://github.com/asayake-b5/audiobooksync2renpy
-renpy:test-tool:test position    | 000  | Position Tester                                                    | https://bobcjunk.itch.io/renpy-position-tester
-renpy:engine:-                   | 01   | Mysterious Messenger                                               | https://github.com/shawna-p/mysterious-messenger
-renpy:engine:item                | 01   | Free Inventory Framework for Ren'Py, by Lezalith                   | https://www.lezcave.com/lezinventory-framework/
-renpy:engine:item                | 01   | Simple Renpy Inventory                                             | https://github.com/Patchmonk/Simple-Renpy-Inventory
-renpy:engine:battle              | 000  | RPG Battle Engine for Ren'Py                                       | https://github.com/Habitacle/battle-engine
-renpy:engine:-                   | 000  | Navigation Quest Time Routine System for Ren'py                    | https://github.com/DRincs-Productions/NQTR-System
-renpy:framework:godot            | 000  | Rakugo Examples                                                    | https://github.com/rakugoteam/Examples
-renpy:framework:driver           | 000  | Puppitor                                                           | https://github.com/njunius/Puppitor
-renpy:framework:-                | 000  | Renpygame                                                          | https://github.com/DRincs-Productions/Renpygame
-renpy:simulator:nes              | 000  | Next-Generation Enhancement System                                 | https://github.com/renpytom/nges
-renpy:mini-game:-                | 000  | Ren'Py Rhythm: A Rhythm Game Engine for Ren'Py                     | https://github.com/RuolinZheng08/renpy-rhythm
-renpy:mini-game:-                | 000  | Ren'Py RhythmBeats!                                                | https://github.com/CharlieFuu69/RenPy_RhythmBeats
-renpy:mini-game:-                | 000  | Help with a connect the dots mini game?                            | https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=57541#p522463
-renpy:mini-game:-                | 000  | Shooting Game Plugin for Ren'Py (FPS)                              | https://github.com/Wendy-Nam/Renpy-ShootingGamePlugin-FPS
-renpy:mini-game:-                | 000  | Ren'Py Chess Engine 2.0                                            | https://github.com/RuolinZheng08/renpy-chess
-renpy:mini-game:russian          | 000  | Finding items                                                      | https://renpyfordummies.blogspot.com/2022/09/renpy.html?m=1
-renpy:mini-game:-                | 000  | Another Rock Paper Scissors game                                   | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=50068#p486361
-renpy:mini-game:-                | 000  | Siyokoy's Radial Card Spread menu                                  | https://siyokoy.itch.io/radialcardspreadrenpy
-renpy:mini-tool:-                | 000  | Radar Chart for Ren'Py                                             | https://github.com/jsfehler/renpy-radarchart
-renpy:mini-tool:-                | 000  | Drawing a line on a screen                                         | https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=65755
-renpy:mini-tool:-                | 000  | RenPyDraw                                                          | https://github.com/NyashniyVladya/RenPyDraw
-renpy:mini-tool:-                | 000  | Color Picker for Ren'Py                                            | https://feniksdev.itch.io/color-picker-for-renpy
-renpy:mini-tool:-                | 000  | Ren’Py Color Picker                                                | https://github.com/Foxcapades/renpy-color-picker
-renpy:mini-tool:-                | 000  | Color Picker                                                       | https://github.com/shawna-p/renpy-color-picker
-renpy:tool:-                     | 000  | RenPy download of additional assets                                | https://github.com/Xrisofor/RDAA
-renpy:tool:-                     | 000  | RPA Explorer                                                       | https://github.com/UniverseDevel/RPA-Explorer
-renpy:tool:-                     | 00   | Ren'Py Image Converter                                             | https://mythic-forge-games.itch.io/renpy-image-converter
-renpy:decompile:decompile        | 00   | Unrpyc                                                             | https://github.com/CensoredUsername/unrpyc
-renpy:decompile:decompile        | 00   | rpycdec                                                            | https://github.com/cnfatal/rpycdec
-renpy:translate:-                | 001  | Renquill                                                           | https://github.com/TibixDev/Renquill
-renpy:translate:-                | 001  | Weblate-based Translation File Management for Ren'Py Projects      | https://github.com/SadCrabCom/community_tl
-renpy:translate:-                | 001  | Renpy Translator                                                   | https://github.com/anonymousException/renpy-translator
-renpy:translate:-                | 000  | Renpy translation manager                                          | https://github.com/O5-7/renpy_translation_manager
-renpy:translate:excel            | 000  | Ren’xel                                                            | https://github.com/KagariSoft/renxel
-renpy:translate:tutorial         | 000  | Implementing Translations                                          | https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations
-renpy:translate:ai               | 000  | Automatic Translations                                             | https://github.com/Moshibit/RenPy_automatic_translations
-renpy:translate:bilingual        | 000  | Translation Tools                                                  | https://github.com/Gouvernathor/renpy-TranslationTools
-renpy:translate:bilingual        | 000  | community_tl                                                       | https://github.com/SadCrabCom/community_tl
-renpy:sprite:-                   | 001  | PNGTuber Plus                                                      | https://kaiakairos.itch.io/pngtuber-plus
-renpy:project-page:-             | 001  | CSS Components                                                     | https://nnda.itch.io/page-components
-renpy:vscode:-                   | 000  | Ren'Py VSCode Project Template                                     | https://github.com/tiliv/renpy-vscode-template
-renpy:vscode:-                   | 000  | Ren'Py Language for Visual Studio Code                             | https://github.com/LuqueDaniel/vscode-language-renpy
-renpy:github-action:-            | 000  | Ren'Py installer                                                   | https://github.com/Ayowel/renpy-setup-action
-renpy:cli:headless               | 00   | renkit                                                             | https://github.com/kobaltcore/renkit
-ink:lua:-                        | 00   | Narrator                                                           | https://github.com/astrochili/narrator
-neovim:theme:-                   | 00   | The Ink                                                            | https://github.com/JWW127/theink
-vscode:theme:-                   | 00   | e-ink                                                              | https://gitlab.com/eddjrn/vs-code-e-ink-theme
-vscode:syntax:-                  | 10   | ink                                                                | https://github.com/sequitur/ink-vscode
-neovim:ime:-                     | 00   | fcitx5.nvim                                                        | https://github.com/tonyfettes/fcitx5.nvim
-neovim:lsp:-                     | 001  | rime-ls                                                            | https://github.com/wlh320/rime-ls
 love:-:-                         | 00   | LÖVE                                                               | https://love2d.org
-love:packager:-                  | 00   | löve-build                                                         | https://github.com/ellraiser/love-build
-love:ui:-                        | 00   | lovr-ui2d                                                          | https://github.com/immortalx74/lovr-ui2d
 love:action:-                    | 00   | Walt                                                               | https://github.com/davisdude/Walt
 love:action:-                    | 00   | deep                                                               | https://github.com/Nikaoto/deep
 love:action:-                    | 00   | turtle.lua                                                         | https://github.com/arthurealike/turtle.lua
@@ -2307,10 +2108,11 @@ love:moon:library                | 00   | pathfun                               
 love:moon:template               | 00   | selene                                                             | https://github.com/novafacing/selene
 love:packager:-                  | 00   | AppImageKit                                                        | https://github.com/AppImage/AppImageKit
 love:packager:-                  | 00   | GameImage                                                          | https://github.com/ruanformigoni/gameimage
-love:packager:-                  | 10   | boon                                                               | https://github.com/camchenry/boon
 love:packager:-                  | 00   | love-fuser                                                         | https://github.com/MikuAuahDark/love-fuser
 love:packager:-                  | 00   | love-packager                                                      | https://github.com/simplifylabs/love-packager
+love:packager:-                  | 00   | löve-build                                                         | https://github.com/ellraiser/love-build
 love:packager:-                  | 00   | makelove                                                           | https://github.com/pfirsich/makelove
+love:packager:-                  | 10   | boon                                                               | https://github.com/camchenry/boon
 love:particle:-                  | 00   | Hot Particles                                                      | https://github.com/ReFreezed/HotParticles
 love:particle:-                  | 00   | particle-system-playground                                         | https://github.com/santoslove/particle-system-playground
 love:platform:-                  | 00   | LÖVE Potion                                                        | https://github.com/lovebrew/lovepotion
@@ -2333,13 +2135,14 @@ love:tool:-                      | 000  | GifCat                                
 love:txt:-                       | 00   | SYSL-Text                                                          | https://github.com/sysl-dev/SYSL-Text
 love:txt:-                       | 00   | manami.lua                                                         | https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua
 love:txt:-                       | 00   | reflowprint                                                        | https://github.com/josefnpat/reflowprint
+love:ui:-                        | 00   | lovr-ui2d                                                          | https://github.com/immortalx74/lovr-ui2d
 lua:-:-                          | 00   | Amulet                                                             | https://github.com/ianmaclarty/amulet
 lua:-:-                          | 00   | Lyte2D                                                             | https://github.com/morew4rd/lyte2d++000
 lua:-:-                          | 00   | batteries                                                          | https://github.com/1bardesign/batteries
 manga:2epub:-                    | 00   | KCC                                                                | https://github.com/ciromattia/kcc
 manga:api:-                      | 001  | MangaDB API                                                        | https://github.com/g3ru1a/mangadb-api
-manga:archive:-                  | 10   | To CBZ                                                             | https://github.com/italomaia/to-cbz
 manga:archive:-                  | 00   | mex                                                                | https://github.com/FooSoft/mex
+manga:archive:-                  | 10   | To CBZ                                                             | https://github.com/italomaia/to-cbz
 manga:convert:-                  | 10   | split-manga-pages                                                  | https://github.com/christofferaakre/split_manga_pages
 manga:download:-                 | 00   | Mylar3                                                             | https://github.com/mylar3/mylar3
 manga:extract:-                  | 11   | Komga Cover Extractor                                              | https://github.com/zachstultz/komga-cover-extractor
@@ -2353,11 +2156,11 @@ manga:reader:-                   | 00   | Kavita                                
 manga:reader:-                   | 11   | YACReader                                                          | https://yacreader.com
 midi:bin:-                       | 00   | TiMidity++                                                         | https://timidity.sourceforge.net
 midi:bin:-                       | 10   | timidity-bin                                                       | https://github.com/nanakochi123456/timidity-bin
-midi:editor:-                    | 00   | Giada                                                              | https://github.com/monocasual/giada
 midi:convert:                    | 10   | Keppy's MIDI Converter                                             | https://github.com/KeppySoftware/KMC
 midi:convert:-                   | 10   | Keppy's MIDI Converter                                             | https://github.com/KeppySoftware/KMC
 midi:convert:2csv                | 00   | midicsv                                                            | https://fourmilab.ch/webtools/midicsv
 midi:convert:guitar              | 00   | Guitar Tabs to MIDI                                                | https://github.com/Sarath18/guitar-tabs-to-MIDI
+midi:editor:-                    | 00   | Giada                                                              | https://github.com/monocasual/giada
 midi:editor:sheet                | 00   | MuseScore                                                          | https://musescore.org/zh-hans
 midi:editor:track                | 001  | OpenMPT                                                            | https://openmpt.org
 midi:library:                    | 00   | Alda                                                               | https://github.com/alda-lang/alda
@@ -2381,7 +2184,6 @@ midi:studio:tui                  | 00   | QasarBeach                            
 midi:synthesis:track             | 00   | Pata Tracker                                                       | https://pixwlk.itch.io/pata-tracker
 midi:transcript:sheet            | 001  | pianotrans                                                         | https://github.com/azuwis/pianotrans
 mkdocs:-:-                       | 00   | MkDocs                                                             | https://mkdocs.org/
-mkdocs:quiz:-                    | 001  | Mkdocs Quiz                                                        | https://github.com/bdallard/mkdocs_quiz
 mkdocs:admonition:-              | 00   | GitHub Admonitions for MkDocs                                      | https://github.com/PGijsbers/admonitions
 mkdocs:admonition:-              | 00   | markdown-callouts                                                  | https://github.com/oprypin/markdown-callouts
 mkdocs:audio:-                   | 00   | MkDocs Audio                                                       | https://github.com/jfcmontmorency/mkdocs-audio
@@ -2462,6 +2264,7 @@ mkdocs:pdf:-                     | 000  | MkDocs PDF Export Plugin              
 mkdocs:pdf:-                     | 11   | MkDocs Exporter                                                    | https://github.com/adrienbrignon/mkdocs-exporter
 mkdocs:proof:-                   | 00   | Link Checker for Mkdocs-based static generated sites               | https://github.com/byrnereese/linkchecker-mkdocs
 mkdocs:python:-                  | 00   | mkdocs-python-classy                                               | https://github.com/itdependsnetworks/mkdocs-python-classy
+mkdocs:quiz:-                    | 001  | Mkdocs Quiz                                                        | https://github.com/bdallard/mkdocs_quiz
 mkdocs:render:-                  | 00   | mdformat-mkdocs                                                    | https://github.com/KyleKing/mdformat-mkdocs
 mkdocs:statistics:-              | 00   | mkdocs-statistics-plugin                                           | https://github.com/TonyCrane/mkdocs-statistics-plugin
 mkdocs:style:-                   | 00   | mkdocs-heti-plugin                                                 | https://github.com/TonyCrane/mkdocs-heti-plugin
@@ -2739,6 +2542,7 @@ mpv:switch:-                     | 00   | NXMP                                  
 mpv:tool:-                       | 00   | Whisper-mpv                                                        | https://github.com/ramkafasi/whisper-mpv
 mpv:track:-                      | 000  | track-list.lua                                                     | https://github.com/dyphire/mpv-scripts
 mpv:ui:-                         | 00   | ModernX                                                            | https://github.com/cyl0/ModernX
+mpv:ui:-                         | 00   | ModernZ | https://github.com/Samillion/ModernZ
 mpv:ui:-                         | 00   | mpv-modern-x-compact                                               | https://github.com/1-minute-to-midnight/mpv-modern-x-compact
 mpv:ui:-                         | 00   | oscc                                                               | https://github.com/0dist/oscc
 mpv:ui:osc                       | 000  | osc-show-hide                                                      | https://github.com/linguisticmind/mpv-scripts
@@ -2773,6 +2577,7 @@ neovim:audio:-                   | 001  | reverb.nvim                           
 neovim:bible:-                   | 00   | bible-verse.nvim                                                   | https://github.com/anthony-halim/bible-verse.nvim
 neovim:bookmark:-                | 10   | Lspmark.nvim                                                       | https://github.com/tristone13th/lspmark.nvim
 neovim:bookmark:-                | 10   | bookmarks.nvim                                                     | https://github.com/crusj/bookmarks.nvim
+neovim:bookmark:-                | 10   | spelunk.nvim | https://github.com/EvWilson/spelunk.nvim
 neovim:bracket:-                 | 11   | Auto Pairs                                                         | https://github.com/LunarWatcher/auto-pairs
 neovim:buffer:github             | 00   | Githubify                                                          | https://github.com/manugoyal/githubify
 neovim:buffer:padding            | 00   | no-neck-pain.nvim                                                  | https://github.com/shortcuts/no-neck-pain.nvim
@@ -2802,6 +2607,13 @@ neovim:console:-                 | 00   | trun.nvim                             
 neovim:console:-                 | 11   | flow.nvim                                                          | https://github.com/arjunmahishi/flow.nvim
 neovim:console:-                 | 11   | telescope-cmdline.nvim                                             | https://github.com/jonarrien/telescope-cmdline.nvim
 neovim:console:-                 | 11   | toggleterm.nvim                                                    | https://github.com/akinsho/toggleterm.nvim
+neovim:copilot:-                 | 00   | ChatGPT.nvim                                                       | https://github.com/jackMort/ChatGPT.nvim
+neovim:copilot:-                 | 00   | CodeCompanion                                                      | https://github.com/olimorris/codecompanion.nvim
+neovim:copilot:-                 | 00   | Telescope GPT                                                      | https://github.com/HPRIOR/telescope-gpt
+neovim:copilot:-                 | 00   | llm.nvim                                                           | https://github.com/Kurama622/llm.nvim
+neovim:copilot:-                 | 00   | ollama.nvim                                                        | https://github.com/nomnivore/ollama.nvim
+neovim:copilot:-                 | 00   | parrot.nvim                                                        | https://github.com/frankroeder/parrot.nvim
+neovim:copilot:-                 | 11   | avante.nvim                                                        | https://github.com/yetone/avante.nvim
 neovim:css:-                     | 00   | nvim-px-to-rem                                                     | https://github.com/jsongerber/nvim-px-to-rem
 neovim:cursor:-                  | 11   | keepcursor.nvim                                                    | https://github.com/rlychrisg/keepcursor.nvim
 neovim:database:cli              | 00   | sqlpilot.nvim                                                      | https://github.com/rsdot/sqlpilot.nvim
@@ -2843,6 +2655,7 @@ neovim:editor:-                  | 00   | bufferline.nvim                       
 neovim:editor:-                  | 00   | nvim-navic                                                         | https://github.com/SmiteshP/nvim-navic
 neovim:editor:-                  | 10   | Syntax Highlighted Cursor                                          | https://github.com/ukyouz/syntax-highlighted-cursor.nvim
 neovim:editor:-                  | 11   | Modicator.nvim                                                     | https://github.com/mawkler/modicator.nvim
+neovim:editor:-                | 11   | truncateline.nvim                                         | https://github.com/rlychrisg/truncateline.nvim
 neovim:editor:math               | 00   | codi.vim                                                           | https://github.com/metakirby5/codi.vim
 neovim:editor:npm                | 00   | depsync                                                            | https://github.com/robertazzopardi/depsync
 neovim:editor:read               | 00   | fsread.nvim                                                        | https://github.com/nullchilly/fsread.nvim
@@ -2855,6 +2668,7 @@ neovim:explorer:-                | 00   | browser-bookmarks.nvim                
 neovim:explorer:-                | 00   | open-browser.vim                                                   | https://github.com/tyru/open-browser.vim
 neovim:explorer:-                | 00   | telescope-openbrowser.nvim                                         | https://github.com/tamago324/telescope-openbrowser.nvim
 neovim:explorer:-                | 00   | vfiler.vim                                                         | https://github.com/obaland/vfiler.vim
+neovim:feed:- | 001 | feed.nvim | https://github.com/neo451/feed.nvim
 neovim:file:-                    | 00   | Rnvimr                                                             | https://github.com/kevinhwang91/rnvimr
 neovim:file:-                    | 00   | Triptych.nvim                                                      | https://github.com/nvim-telescope/telescope-file-browser.nvim
 neovim:file:-                    | 00   | fm-nvim                                                            | https://github.com/is0n/fm-nvim
@@ -2880,13 +2694,6 @@ neovim:git:-                     | 00   | telescope-undo.nvim                   
 neovim:git:-                     | 000  | telescope-code-fence.nvim                                          | https://github.com/chip/telescope-code-fence.nvim
 neovim:git:-                     | 11   | telescope-repo.nvim                                                | https://github.com/cljoly/telescope-repo.nvim
 neovim:git:note                  | 00   | gitpad.nvim                                                        | https://github.com/yujinyuz/gitpad.nvim
-neovim:copilot:-                 | 00   | ChatGPT.nvim                                                       | https://github.com/jackMort/ChatGPT.nvim
-neovim:copilot:-                 | 00   | CodeCompanion                                                      | https://github.com/olimorris/codecompanion.nvim
-neovim:copilot:-                 | 00   | Telescope GPT                                                      | https://github.com/HPRIOR/telescope-gpt
-neovim:copilot:-                 | 00   | ollama.nvim                                                        | https://github.com/nomnivore/ollama.nvim
-neovim:copilot:-                 | 00   | parrot.nvim                                                        | https://github.com/frankroeder/parrot.nvim
-neovim:copilot:-                 | 00   | llm.nvim                                                           | https://github.com/Kurama622/llm.nvim
-neovim:copilot:-                 | 11   | avante.nvim                                                        | https://github.com/yetone/avante.nvim
 neovim:gui:-                     | 00   | Goneovim                                                           | https://github.com/akiyosi/goneovim
 neovim:gui:-                     | 00   | roarie-commands                                                    | https://github.com/lalbornoz/roarie-commands.vim
 neovim:gui:-                     | 11   | Neovide                                                            | https://github.com/neovide/neovide
@@ -2905,7 +2712,9 @@ neovim:icon:-                    | 00   | tiny-devicons-auto-colors.nvim        
 neovim:icon:-                    | 11   | nvim-web-devicons                                                  | https://github.com/nvim-tree/nvim-web-devicons
 neovim:im:switch                 | 11   | im-switch.nvim                                                     | https://github.com/drop-stones/im-switch.nvim
 neovim:ime:-                     | 00   | cmp-flypy.nvim                                                     | https://github.com/wasden/cmp-flypy.nvim
+neovim:ime:-                     | 00   | fcitx5.nvim                                                        | https://github.com/tonyfettes/fcitx5.nvim
 neovim:ime:-                     | 00   | jam.nvim                                                           | https://github.com/uga-rosa/jam.nvim
+neovim:ime:-                   | 11   | cmp-lsp-rimels                                            | https://github.com/liubianshi/cmp-lsp-rimels
 neovim:input:-                   | 00   | Neovim GhostText                                                   | https://github.com/wallpants/ghost-text.nvim
 neovim:issue:-                   | 00   | Octo.nvim                                                          | https://github.com/pwntester/octo.nvim
 neovim:joplin:-                  | 00   | dps-joplin                                                         | https://github.com/tomato3713/dps-joplin
@@ -2930,6 +2739,7 @@ neovim:library:-                 | 00   | commons.nvim                          
 neovim:license:-                 | 00   | telescope-software-licenses.nvim                                   | https://github.com/chip/telescope-software-licenses.nvim
 neovim:life:-                    | 00   | Neorg                                                              | https://github.com/nvim-neorg/neorg
 neovim:lsp:-                     | 00   | code-compass.nvim                                                  | https://github.com/emmanueltouzery/code-compass.nvim
+neovim:lsp:-                     | 001  | rime-ls                                                            | https://github.com/wlh320/rime-ls
 neovim:lsp:dev                   | 00   | none-ls.nvim                                                       | https://github.com/nvimtools/none-ls.nvim
 neovim:lsp:manage                | 00   | lazy-lsp.nvim                                                      | https://github.com/dundalek/lazy-lsp.nvim
 neovim:lsp:manage                | 11   | mason.nvim                                                         | https://github.com/williamboman/mason.nvim
@@ -3045,6 +2855,7 @@ neovim:telescope:ytb             | 00   | telescope-youtube-mpv.nvim            
 neovim:template:-                | 00   | Filetype Based Template Plugin For Neovim                          | https://github.com/doganalper/template.nvim
 neovim:template:-                | 10   | templatory.nvim                                                    | https://github.com/dheerajshenoy/templatory.nvim
 neovim:theme:-                   | 00   | External themes                                                    | https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes
+neovim:theme:-                   | 00   | The Ink                                                            | https://github.com/JWW127/theink
 neovim:theme:-                   | 00   | Themes                                                             | https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 neovim:theme:-                   | 001  | Themify                                                            | https://github.com/LmanTW/themify.nvim
 neovim:todo:-                    | 00   | vim-todo                                                           | https://github.com/wsdjeg/vim-todo
@@ -3059,8 +2870,8 @@ neovim:ui:colorscheme            | 00   | colorbox.nvim                         
 neovim:uml:-                     | 00   | nvim-soil                                                          | https://github.com/chaosystema/nvim-soil
 neovim:version:-                 | 00   | Bob                                                                | https://github.com/MordechaiHadad/bob
 neovim:watch:-                   | 00   | funzzy.nvim                                                        | https://github.com/cristianoliveira/funzzy.nvim
-neovim:window:-                  | 00   | tint.nvim                                                          | https://github.com/levouh/tint.nvim
 neovim:window:-                  | 00   | WinShift.nvim                                                      | https://github.com/sindrets/winshift.nvim
+neovim:window:-                  | 00   | tint.nvim                                                          | https://github.com/levouh/tint.nvim
 neovim:window:print              | 00   | Trouble                                                            | https://github.com/folke/trouble.nvim
 neovim:workspace:-               | 00   | workspaces.nvim                                                    | https://github.com/natecraddock/workspaces.nvim
 neovim:yank:-                    | 00   | YankBank                                                           | https://github.com/ptdewey/yankbank-nvim
@@ -3232,13 +3043,13 @@ obsidian:view:-                  | 00   | Gallery                               
 obsidian:view:-                  | 00   | \-                                                                 | https://github.com/slnsys/obsidian-canvas2document
 obsidian:write:-                 | 11   | Line Width Slider                                                  | https://github.com/MugishoMp/obsidian-editor-width-slider
 obsidian:write:-                 | 11   | Novel Word Count                                                   | https://github.com/isaaclyman/novel-word-count-obsidian
-ocr:-:-                          | 00   | tabula-java                                                        | https://github.com/tabulapdf/tabula-java
 ocr:-:-                          | 00   | Snipping-Ocr                                                       | https://github.com/thepirat000/Snipping-Ocr
 ocr:-:-                          | 00   | TextShot                                                           | https://github.com/ianzhao05/textshot
 ocr:-:-                          | 00   | Textractor                                                         | https://github.com/Artikash/Textractor
 ocr:-:-                          | 00   | Vis2                                                               | https://github.com/iseahound/Vis2
 ocr:-:-                          | 00   | WindowTextExtractor                                                | https://github.com/AlexanderPro/WindowTextExtractor
 ocr:-:-                          | 00   | gImageReader                                                       | https://github.com/manisandro/gImageReader
+ocr:-:-                          | 00   | tabula-java                                                        | https://github.com/tabulapdf/tabula-java
 ocr:-:-                          | 00   | 白描桌面版                                                         | https://github.com/baimiaoapp/baimiao-desktop
 ocr:-:-                          | 11   | Umi-OCR                                                            | https://github.com/hiroi-sora/Umi-OCR
 ocr:latex:-                      | 00   | pix2tex - LaTeX OCR                                                | https://github.com/lukas-blecher/LaTeX-OCR
@@ -3276,6 +3087,7 @@ password:keepassxc:-             | 11   | KeepassXC                             
 password:keepassxc:extension     | 11   | KeePassXC-Browser                                                  | https://github.com/keepassxreboot/keepassxc-browser
 password:qtpass:-                | 00   | QtPass                                                             | https://github.com/IJHack/QtPass
 paste:-:-                        | 11   | Ditto                                                              | https://ditto-cp.sourceforge.io
+paste:cross:-                  | 01   | CrossPaste                                                | https://github.com/CrossPaste/crosspaste-desktop
 paste:image:-                    | 00   | kuadro                                                             | https://kruelgames.com/tools/kuadro
 paste:image:-                    | 00   | opti                                                               | https://torcado.itch.io/opti
 paste:image:-                    | 10   | PureRef-format                                                     | https://github.com/FyorDev/PureRef-format
@@ -3285,7 +3097,6 @@ pcb:kit:-                        | 00   | LibrePCB                              
 pdf:2epub:-                      | 00   | tei2html                                                           | https://github.com/jhellingman/tei2html
 pdf:2epub:-                      | 001  | WordDumb                                                           | https://github.com/xxyzz/WordDumb
 pdf:2jpg:-                       | 00   | PDF to JPG                                                         | https://github.com/kubaszostak/pdf-to-jpg
-epub:2md:-                       | 10   | epub2MD                                                            | https://github.com/ChandlerVer5/epub2MD
 pdf:2pdf:-                       | 00   | Imap                                                               | https://github.com/skinan/imap-Image-to-PDF-Converter-Application-For-Windows
 pdf:2pdf:-                       | 00   | img2pdf                                                            | https://github.com/josch/img2pdf
 pdf:analysis:-                   | 00   | Pdfalyzer                                                          | https://github.com/michelcrypt4d4mus/pdfalyzer
@@ -3340,8 +3151,213 @@ read-later:wallabag:-            | 00   | wallabag                              
 read-later:wallabag:extension    | 00   | Wallabagger                                                        | https://github.com/wallabag/wallabagger
 read-later:wallabag:obsidian     | 00   | \-                                                                 | https://github.com/huseyz/obsidian-wallabag
 reader:sutta:-                   | 00   | Simsapa Dhamma Reader                                              | https://github.com/simsapa/simsapa
+renpy:-:-                        | 00   | Awesome RenPy                                                      | https://github.com/methanoliver/awesome-renpy
 renpy:-:-                        | 00   | Ren'Py                                                             | https://www.renpy.org
+renpy:ads:google-ads             | 001  | Renpy : How to add Google Ads(Admob) to Renpy                      | https://www.youtube.com/watch?v=oUhcXlzc2a4
+renpy:ads:yandex-ads             | 001  | Yandex Mobile Ads в Ren'Py игре                                    | https://github.com/valery-iwanofu/rapt-yandex-ads
+renpy:animation:move             | 01   | Moving Clouds                                                      | https://github.com/Thediamondcryst/Ren-Py-Free-To-Use-Moving-Clouds
+renpy:animation:move             | 01   | Tutorial: How to do a cloud animation with RenPy                   | https://traumendes-madchen.com/blog/?p=1395
+renpy:api:bot                    | 001  | RenPyro                                                            | https://github.com/alvarensixy/RenPyro
+renpy:api:discord                | 001  | Discord Rich Presence Support                                      | https://github.com/Lezalith/RenPy-Discord-Presence
+renpy:api:epic                   | 001  | Epic Online Services extension for Ren’Py                          | https//github.com/Ayowel/renpy-epicgames-eos
+renpy:api:mobile                 | 00   | Expanding Mobile Functionality With Pyobjus/Pyjnius ...            | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=46091#p467178
+renpy:api:news                   | 001  | Integrating it with your Game                                      | https://patreon.renpy.org/news.html#integrating-it-with-your-game
+renpy:api:patreon                | 000  | Patreon auth in Ren'Py Patreon Auth in Ren‘Py                      | https://dinaki.itch.io/auth-with-patreon-in-renpy-game
+renpy:audio:animation            | 00   | Lip Sync Plugin for Ren'Py                                         | https://github.com/Wendy-Nam/RenPy-Lipsync-Plugin
+renpy:audio:animation            | 00   | Timing animations to your musics tempo                             | https://sleepyagents.blogspot.com/2016/09/bpm-in-renpy-timing-animations-to-your.html
+renpy:audio:api                  | 00   | Buns with sound in renpy                                           | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=54324#p507536
+renpy:audio:generate             | 00   | Splatoon Audio Generator                                           | https://bpgc.itch.io/splatoon-gibberish-generator
+renpy:audio:generate             | 000  | Renpy dialog voice generator                                       | https://github.com/lugia19/renpyDialogToAudio
+renpy:audio:script               | 00   | Ren'Py Voice Topmix                                                | https://github.com/RFHGames/renpy-voice-topmix
+renpy:background:-               | 000  | renpy-panorama                                                     | https://github.com/arsenic-rp/renpy-panorama
+renpy:background:camera          | 00   | 1080p wipes (image dissolve transitions)                           | https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37628#p407567
+renpy:background:camera          | 001  | Scroll any, not even seamless background                           | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=54333#p507598
+renpy:background:parallax        | 000  | Parallax                                                           | https://github.com/RuolinZheng08/renpy-awesome-template#parallax
+renpy:background:parallax        | 000  | Parallax Camera and Drunken Blur                                   | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62705
+renpy:background:parallax        | 000  | Parallax code for the Ren'Py visual novel engin                    | https://gist.github.com/midgethetree/b449be114f21974ed21b3fbf3653433f
+renpy:background:tile            | 01   | Panning background with seamless tiles                             | https://github.com/RuolinZheng08/renpy-awesome-template#panning-background-with-seamless-tiles
+renpy:bar:-                      | 000  | Multi-Thumb Bar for Ren'Py                                         | https://feniksdev.itch.io/multi-thumb-bar-for-renpy
+renpy:bar:-                      | 000  | Radar Chart Displayable                                            | https://devilspider.itch.io/radar-chart-displayable
+renpy:bar:-                      | 01   | Scrollbutton code for the Ren'Py visual novel engine               | https://gist.github.com/midgethetree/b210ddadfb07e85873022fde0202f646
+renpy:bar:value                  | 00   | Extra Animated Value                                               | https://github.com/RenpyRemix/extra-animated-value
+renpy:button:-                   | 00   | BGQueue                                                            | https://patreon.renpy.org/python-tricks-2.html#bgqueue
+renpy:button:-                   | 000  | Button PRESSED state                                               | https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=57848&sid=95776df5d873ef265bcf05244d317495
+renpy:character:avater           | 000  | Automated Side Images with Circular Cropping                       | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=64534
+renpy:character:hightlight       | 000  | Renpy Auto Highlight                                               | https://wattson.itch.io/renpy-auto-highlight
+renpy:character:lighting         | 000  | Noir-Style Shadow/Lighting Effects                                 | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=49140#p483366
+renpy:character:zoom             | 000  | Autofocus                                                          | https://github.com/Elckarow/Autofocus
+renpy:chat-log:display           | 110  | Chat Log                                                           | https://github.com/JimTheCactus/chatlogging
+renpy:cli:headless               | 00   | renkit                                                             | https://github.com/kobaltcore/renkit
+renpy:code:python                | 00   | Inline Python for Ren'Py                                           | https://feniksdev.itch.io/inline-python-for-renpy
+renpy:code:reconstruct           | 01   | Organizing a Ren’Py Project                                        | https://feniksdev.com/organizing-a-renpy-project/
+renpy:code:variables             | 00   | Definitive Default                                                 | https://feniksdev.com/the-definitive-default-define-renpy-article/
+renpy:cursor:-                   | 00   | Preview Slow CPS in Ren'Py                                         | https://gist.github.com/shawna-p/3a12772369af03b85b25196275412868#file-cps_preview-rpy-L14
+renpy:cursor:icon                | 001  | Hardware-Accelerated Custom Mouse Cursor                           | https://patreon.renpy.org/dev-2020-11.html#hardware-accelerated-custom-mouse-cursor
+renpy:cursor:icon                | 001  | Mouse Displayables                                                 | https://patreon.renpy.org/dev-2021-04.html#mouse-displayables
+renpy:cursor:prop                | 000  | X-ray effect: Creator-Defined Displayable                          | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62128
+renpy:data:-                     | 01   | Dynamic Tooltips                                                   | https://github.com/HyJyncks/DynamicTooltips
+renpy:decompile:decompile        | 00   | Unrpyc                                                             | https://github.com/CensoredUsername/unrpyc
+renpy:decompile:decompile        | 00   | rpycdec                                                            | https://github.com/cnfatal/rpycdec
+renpy:development:audiobook      | 00   | AudioTextSync To Ren’Py                                            | https://github.com/asayake-b5/audiobooksync2renpy
+renpy:development:flowchart      | 000  | Ren'Py graph visualizer - branches flowchart generator             | https://github.com/EwenQuim/renpy-graphviz
+renpy:development:json           | 00   | Import Json Data Easier                                            | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65400
+renpy:development:menu-history   | 00   | Label Log                                                          | https://patreon.renpy.org/dev-2020-02.html#label-log
+renpy:development:sprite         | 000  | Expreviewer                                                        | https://github.com/Elckarow/Expreviewer
+renpy:development:sprite         | 000  | Image Tools for Ren'Py                                             | https://feniksdev.itch.io/image-tools-for-renpy
+renpy:development:sprite         | 000  | Layered Image Visualizer for Ren'Py [Addon]                        | https://feniksdev.itch.io/layered-image-visualizer-for-renpy
+renpy:development:sprite         | 01   | ActionEditor3                                                      | https://github.com/kyouryuukunn/renpy-ActionEditor3
+renpy:development:tester         | 000  | Ren'Edit                                                           | https://minute.itch.io/renedit
+renpy:dialogue:-                 | 000  | Automatic Speech Bubbles                                           | https://patreon.renpy.org/speech-bubbles.html
+renpy:dialogue:block             | 110  | Multiple Dialogue Blocks                                           | https://patreon.renpy.org/multiple-dialogue.html
+renpy:dialogue:effect            | 000  | FancyText Module                                                   | https://github.com/yukinogatari/Ren-Py-FancyText
+renpy:dialogue:effect            | 000  | Kinetic Text Tags                                                  | https://github.com/SoDaRa/Kinetic-Text-Tags
+renpy:dialogue:effect            | 000  | Rainbowtext                                                        | https://github.com/Lezalith/renpy-rainbowtext
+renpy:dialogue:effect            | \-   | Inspiration for Text Block Transitions                             | https://tympanus.net/codrops/2023/07/13/inspiration-for-text-block-transitions
+renpy:dialogue:effect            | \-   | Some More On-Scroll Typography Animations                          | https://tympanus.net/codrops/2023/02/22/some-more-on-scroll-typography-animations
+renpy:dialogue:gui-editor        | 000  | Maker                                                              | https://renpymaker.com
+renpy:dialogue:gui-editor        | 000  | Node based script editor                                           | https://github.com/FiendChain/ScriptEditor
+renpy:dialogue:gui-editor        | 000  | Twine to Ren'Py                                                    | https://ludowoods.itch.io/twine-to-renpy-tool
+renpy:dialogue:gui-editor        | 000  | draft 3 to Ren'Py 3 converter                                      | https://github.com/SqFKYo/articy3_renpy3
+renpy:dialogue:history           | 000  | History Search Tool                                                | https://devilspider.itch.io/history-search-tool
+renpy:dialogue:phone-simulator   | 000  | Better EMR Phone                                                   | https://github.com/Elckarow/Better-EMR-Phone
+renpy:dialogue:phone-simulator   | 000  | Phone SMS                                                          | https://github.com/israelrbb/RenpyPhoneSMS
+renpy:dialogue:phone-simulator   | 000  | Phone interface                                                    | https://github.com/albireo-games/renpy_phone
+renpy:dialogue:tooltip           | 110  | Word Description                                                   | https://github.com/valery-iwanofu/renpy-word-description
+renpy:engine:-                   | 000  | Navigation Quest Time Routine System for Ren'py                    | https://github.com/DRincs-Productions/NQTR-System
+renpy:engine:-                   | 01   | Mysterious Messenger                                               | https://github.com/shawna-p/mysterious-messenger
+renpy:engine:battle              | 000  | RPG Battle Engine for Ren'Py                                       | https://github.com/Habitacle/battle-engine
+renpy:engine:item                | 01   | Free Inventory Framework for Ren'Py, by Lezalith                   | https://www.lezcave.com/lezinventory-framework/
+renpy:engine:item                | 01   | Simple Renpy Inventory                                             | https://github.com/Patchmonk/Simple-Renpy-Inventory
+renpy:feature:flow               | 001  | Flowchart Plug-In                                                  | https://devilspider.itch.io/flowchart-plug-in
+renpy:formatter:convert          | 000  | Final Draft screenplay to Renpy                                    | https://github.com/RunawayHaggis/FDtoRenpy
+renpy:formatter:python-block     | 00   | renpyfmt                                                           | https://github.com/kobaltcore/renpyfmt
+renpy:formatter:syntax           | 000  | Parser                                                             | https://github.com/gameboxthing/renpy_parser
+renpy:frame:fillet               | 000  | A Frame displayable which has rounds off corners using shaders     | https://gist.github.com/Pseurae/15dc9c6a145161063126c3b4de39a0aa
+renpy:frame:gui                  | 000  | Frame Tool for Ren'Py                                              | https://feniksdev.itch.io/frame-tool-for-renpy
+renpy:framework:-                | 000  | Renpygame                                                          | https://github.com/DRincs-Productions/Renpygame
+renpy:framework:driver           | 000  | Puppitor                                                           | https://github.com/njunius/Puppitor
+renpy:framework:godot            | 000  | Rakugo Examples                                                    | https://github.com/rakugoteam/Examples
+renpy:fuction:-                  | 000  | Extended Music Room for Ren'Py                                     | https://feniksdev.itch.io/extended-music-room-for-renpy
+renpy:fuction:-                  | 000  | Multi Touch Gallery                                                | https://feniksdev.itch.io/multi-touch-zoom-gallery-for-renpy
+renpy:fuction:-                  | 001  | Achievements Framework                                             | https://bobcgames.itch.io/bobcachievements
+renpy:fuction:-                  | 001  | Gallery Framework                                                  | https://bobcgames.itch.io/bobcgallery
+renpy:fuction:-                  | 001  | Gallerynpy                                                         | https://github.com/Yoimer-Davila/gallerynpy
+renpy:fuction:-                  | 01   | Achievements for Ren'Py                                            | https://feniksdev.itch.io/achievements-for-renpy
+renpy:github-action:-            | 000  | Ren'Py installer                                                   | https://github.com/Ayowel/renpy-setup-action
+renpy:glossary:api               | 000  | In-Game Wiki-Like Glossary or Codex                                | https://patreon.renpy.org/wiki.html
+renpy:glossary:page              | 110  | Encyclopaedia Framework for Ren'Py                                 | https://github.com/jsfehler/renpy-encyclopaedia
+renpy:image:border               | 00   | Image Bounds Displayable                                           | https://devilspider.itch.io/image-bounds-displayable
+renpy:lighting-effect:background | 00   | Lightning modes                                                    | https://github.com/RuolinZheng08/renpy-awesome-template#lightning-modes-day-dusk-night-dim-sepia
+renpy:lighting-effect:character  | 000  | Image Tint Tool for Ren'Py [Addon]                                 | https://feniksdev.itch.io/image-tint-tool
+renpy:linter:-                   | 00   | Lint Ren'Py Project                                                | https://github.com/ProjectAliceDev/renpy-lint-action
+renpy:linter:-                   | 00   | Ren'Py Lint                                                        | https://github.com/actions-marketplace-validations/nyancatda_RenpyLint
+renpy:linter:-                   | 00   | VNProofer                                                          | https://github.com/devorbitus/vnproofer
+renpy:map:-                      | 00   | Map Navigation in RenPy - Vlog #4 Creating a Map Screen            | https://www.youtube.com/watch?v=o699N1TdlZ8
+renpy:map:-                      | 00   | Tiled Map Editor                                                   | https://github.com/mapeditor/tiled
+renpy:map:-                      | 000  | Pink Engine                                                        | https://pink-productions.itch.io/pink-engine
+renpy:map:minimap                | 00   | Location Minimap System                                            | https://kigyo.itch.io/renpy-locationminimap-system
+renpy:menu:avater                | 001  | Image Badges                                                       | https://patreon.renpy.org/menu-arguments.html#image-badges
+renpy:menu:background            | 001  | Background                                                         | https://patreon.renpy.org/menu-arguments.html#background
+renpy:menu:background            | 001  | Menu Blurring                                                      | https://patreon.renpy.org/dev-2020-09.html#menu-blurring
+renpy:menu:disappear             | 01   | Menu Sets                                                          | https://patreon.renpy.org/very-old-features.html#menu-sets
+renpy:menu:layout                | 001  | Grid Menus                                                         | https://patreon.renpy.org/menu-arguments.html#grid-menus
+renpy:menu:lock                  | 01   | Condition and Sensitive                                            | https://patreon.renpy.org/menu-arguments.html#condition-and-sensitive
+renpy:menu:menu-block            | 000  | Drop Down Menus                                                    | https://patreon.renpy.org/dev-2022-05.html#drop-down-menus
+renpy:menu:multi-select          | 01   | RadioButtonGroup Plugin                                            | https://github.com/Wendy-Nam/RenPy-RadioButtonGroup
+renpy:menu:postion               | 001  | Positioning Menu Choices                                           | https://patreon.renpy.org/menu-arguments.html#positioning-menu-choices
+renpy:menu:timing                | 001  | Custom Preferences                                                 | https://patreon.renpy.org/custom-preferences.html
+renpy:menu:timing                | 001  | Timed Choice Menus                                                 | https://patreon.renpy.org/timed-choice-menus.html
+renpy:menu:transition            | 001  | Blur scene behind choice menu, fade choices in and out             | https://gist.github.com/dossy/cbb7b7ed18a292e4d9c51c8d63a15c69
+renpy:mini-game:-                | 000  | Another Rock Paper Scissors game                                   | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=50068#p486361
+renpy:mini-game:-                | 000  | Help with a connect the dots mini game?                            | https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=57541#p522463
+renpy:mini-game:-                | 000  | Ren'Py Chess Engine 2.0                                            | https://github.com/RuolinZheng08/renpy-chess
+renpy:mini-game:-                | 000  | Ren'Py Rhythm: A Rhythm Game Engine for Ren'Py                     | https://github.com/RuolinZheng08/renpy-rhythm
+renpy:mini-game:-                | 000  | Ren'Py RhythmBeats!                                                | https://github.com/CharlieFuu69/RenPy_RhythmBeats
+renpy:mini-game:-                | 000  | Shooting Game Plugin for Ren'Py (FPS)                              | https://github.com/Wendy-Nam/Renpy-ShootingGamePlugin-FPS
+renpy:mini-game:-                | 000  | Siyokoy's Radial Card Spread menu                                  | https://siyokoy.itch.io/radialcardspreadrenpy
+renpy:mini-game:russian          | 000  | Finding items                                                      | https://renpyfordummies.blogspot.com/2022/09/renpy.html?m=1
+renpy:mini-tool:-                | 000  | Color Picker                                                       | https://github.com/shawna-p/renpy-color-picker
+renpy:mini-tool:-                | 000  | Color Picker for Ren'Py                                            | https://feniksdev.itch.io/color-picker-for-renpy
+renpy:mini-tool:-                | 000  | Drawing a line on a screen                                         | https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=65755
+renpy:mini-tool:-                | 000  | Radar Chart for Ren'Py                                             | https://github.com/jsfehler/renpy-radarchart
+renpy:mini-tool:-                | 000  | RenPyDraw                                                          | https://github.com/NyashniyVladya/RenPyDraw
+renpy:mini-tool:-                | 000  | Ren’Py Color Picker                                                | https://github.com/Foxcapades/renpy-color-picker
+renpy:notify:audio               | 000  | Caption Tool for Ren’Py                                            | https://npckc.itch.io/caption-tool-for-renpy
+renpy:notify:feedback            | 01   | Checking for Changes and Displaying A Message                      | https://patreon.renpy.org/check-for-changes.html
+renpy:nvl:-                      | 01   | Renpy: A ctc indicator that ...                                    | https://gist.github.com/methanoliver/7671cbcabe46bcc8a0f757ba195bb1a4
+renpy:nvl:-                      | 01   | Two-column NVL mode                                                | https://gist.github.com/methanoliver/cb6ae08d432d9395cff65975733599ab
+renpy:nvl:gui                    | 01   | - E N T R O P O N A U T -                                          | https://github.com/jsfehler/entroponaut
+renpy:packager:-                 | 001  | Build Ren'Py Project                                               | https://github.com/ProjectAliceDev/renpy-build-action
+renpy:packager:flatpak           | 001  | renpy2flatpak                                                      | https://github.com/dcbaker/renpy2flatpak
+renpy:packager:kit               | 001  | Ren'Py Distributor                                                 | https://github.com/Andykl/renpy-distributor
+renpy:project-page:-             | 001  | CSS Components                                                     | https://nnda.itch.io/page-components
+renpy:pronoun:-                  | 000  | Pronouns                                                           | https://feniksdev.itch.io/in-depth-pronouns-for-renpy
+renpy:pronoun:variable           | 000  | Pronoun Tool                                                       | https://npckc.itch.io/pronoun-tool
+renpy:prop:atm-simulator         | 000  | Simulator ATM                                                      | https://github.com/cimo95/atm_os
+renpy:prop:clock-simulator       | 000  | Analog Clock                                                       | https://github.com/williamd1k0/renpy-analog-clock
+renpy:prop:clock-simulator       | 000  | Simpo Clock                                                        | https://badmustard.itch.io/simpo-clock
+renpy:prop:odometer-simulator    | 000  | Odometer                                                           | https://patreon.renpy.org/dev-2023-05.html#odometer
+renpy:publish:-                  | 001  | Counter                                                            | https://github.com/b1f6c1c4/renpy-counter
+renpy:publish:-                  | 001  | Demotools                                                          | https://github.com/Ayowel/renpy-demotools
 renpy:script:word-count          | 10   | Ren'py Word Counter                                                | https://kigyo.itch.io/renpy-word-counter
+renpy:setting:-                  | 00   | Ren'Py Accessibility Add-On                                        | https://minute.itch.io/renpy-accessibility
+renpy:shader:blur                | 000  | Implementing better blur?                                          | https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844
+renpy:shader:collect             | 000  | Shader                                                             | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65248
+renpy:shader:dust                | 01   | Dust                                                               | https://gist.github.com/rurubell/a30752048bbe20de546d737c2476916f
+renpy:shader:fall-leaf           | 000  | Falling Leaves                                                     | https://github.com/Thediamondcryst/Ren-Py-Free-to-Use-Falling-Leaves
+renpy:shader:glitch              | 000  | Chroma Glitch                                                      | https://github.com/Gouvernathor/renpy-ChromaGlitch
+renpy:shader:outline             | 01   | Outline Shader                                                     | https://github.com/RenpyRemix/outline-shader
+renpy:shader:particle            | 01   | Particles                                                          | https://github.com/AgentAlpha81/RenPyParticles
+renpy:shader:rain                | 01   | Neat RenPy rain effect                                             | https://gist.github.com/methanoliver/98fe9304b63fff1f7d3419120e2c11f5
+renpy:shader:rain                | 01   | Simple Rain Effect                                                 | https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37489#p406150
+renpy:simulator:nes              | 000  | Next-Generation Enhancement System                                 | https://github.com/renpytom/nges
+renpy:sprite:-                   | 001  | PNGTuber Plus                                                      | https://kaiakairos.itch.io/pngtuber-plus
+renpy:sprite:auto                | 000  | Sprite Face Changer                                                | https://klast-halc.itch.io/sprite-face-changer
+renpy:sprite:blink               | 000  | Easy Blinking for Ren'Py                                           | https://feniksdev.itch.io/easy-blinking-for-renpy
+renpy:sprite:customizer          | 000  | Sprite Customizer                                                  | https://github.com/Foxcapades/renpy-sprite-customizer
+renpy:sprite:generate            | 00   | A primitive automatic loader for the simple kind of layered images | https://gist.github.com/methanoliver/2668767d5332aea66a866d2b84692d1c
+renpy:sprite:layer               | 001  | Layered Image Conversion                                           | https://patreon.renpy.org/layeredimage-conversion.html
+renpy:sprite:rain                | 001  | Rain Maker                                                         | https://pixeladdictgames.itch.io/rain-maker
+renpy:start-menu:-               | 00   | button Continue game”                                              | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=48154#p477769
+renpy:start-menu:-               | 001  | Visual;Conference                                                  | https://patreon.renpy.org/dev-2020-01.html#visual-conference
+renpy:start-menu:background      | 000  | Title screen                                                       | https://albireogames.tumblr.com/post/684623598192902144/
+renpy:start-menu:background      | 001  | Main Menu with a Video Background Code                             | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47193#p472755
+renpy:start-menu:background      | 001  | Tutorial Conditional Main Menu Background                          | https://github.com/jbondguy007/Renpy-tutorial-conditional-main-menu-background
+renpy:start-menu:icon            | 001  | Dynamic Main Menu And Feather Icons In The Ui Text                 | https://github.com/RuolinZheng08/renpy-awesome-template#dynamic-main-menu-and-feather-icons-in-the-ui-text
+renpy:stats:-                    | 00   | Ren'Py Stats Framework                                             | https://bobcgames.itch.io/bobcstats
+renpy:subtitle:api               | 000  | Marquee                                                            | https://patreon.renpy.org/dev-2021-11.html#marquee
+renpy:syntax:character           | 001  | Character Customization                                            | https://patreon.renpy.org/character-customization.html
+renpy:syntax:code                | 000  | Inline Conditions for Ren'Py                                       | https://feniksdev.itch.io/inline-conditions-for-renpy
+renpy:syntax:dialogue            | 01   | Subscript/superscript tags                                         | https://gist.github.com/methanoliver/fb2ef18de4c23fadbb23b13fa3d10d48
+renpy:syntax:menu                | 001  | Choice Screen Selection                                            | https://patreon.renpy.org/menu-arguments.html#choice-screen-selection
+renpy:syntax:scene               | 001  | Title Screens                                                      | https://patreon.renpy.org/title-screens.html
+renpy:template:-                 | 000  | Multiplayer Adventure Template                                     | https://heecawroo.itch.io/4p-template
+renpy:template:-                 | 110  | Easy Ren'Py GUI                                                    | https://github.com/shawna-p/EasyRenPyGui
+renpy:test-tool:test position    | 000  | Position Tester                                                    | https://bobcjunk.itch.io/renpy-position-tester
+renpy:text:-                     | 00   | AdvancedText                                                       | https://github.com/rakugoteam/AdvancedText
+renpy:text:display               | 00   | Marquee for Ren'Py                                                 | https://feniksdev.itch.io/marquee-for-renpy
+renpy:text:syntax                | 001  | Smallcaps tag for RenPy                                            | https://gist.github.com/methanoliver/166c18caa224fa15ead6dca95cccbb05
+renpy:tool:-                     | 00   | Ren'Py Image Converter                                             | https://mythic-forge-games.itch.io/renpy-image-converter
+renpy:tool:-                     | 000  | RPA Explorer                                                       | https://github.com/UniverseDevel/RPA-Explorer
+renpy:tool:-                     | 000  | RenPy download of additional assets                                | https://github.com/Xrisofor/RDAA
+renpy:tool:version               | 001  | renkit                                                             | https://github.com/kobaltcore/renkit
+renpy:translate:-                | 000  | Renpy translation manager                                          | https://github.com/O5-7/renpy_translation_manager
+renpy:translate:-                | 001  | Renpy Translator                                                   | https://github.com/anonymousException/renpy-translator
+renpy:translate:-                | 001  | Renquill                                                           | https://github.com/TibixDev/Renquill
+renpy:translate:-                | 001  | Weblate-based Translation File Management for Ren'Py Projects      | https://github.com/SadCrabCom/community_tl
+renpy:translate:ai               | 000  | Automatic Translations                                             | https://github.com/Moshibit/RenPy_automatic_translations
+renpy:translate:bilingual        | 000  | Translation Tools                                                  | https://github.com/Gouvernathor/renpy-TranslationTools
+renpy:translate:bilingual        | 000  | community_tl                                                       | https://github.com/SadCrabCom/community_tl
+renpy:translate:excel            | 000  | Ren’xel                                                            | https://github.com/KagariSoft/renxel
+renpy:translate:tutorial         | 000  | Implementing Translations                                          | https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations
+renpy:tutorial:-                 | 00   | Making a Separate Content Patch                                    | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=45448#p463349
+renpy:tutorial:data              | 000  | Save Metadata                                                      | https://patreon.renpy.org/save-metadata.html
+renpy:tutorial:data              | 000  | Save on Quit                                                       | https://patreon.renpy.org/save-on-quit.html
+renpy:variable:-                 | 000  | RenPy Cheat Generator                                              | https://github.com/lure0xaos/rpycg
+renpy:variable:api               | 000  | PronounsClass                                                      | https://github.com/Gouvernathor/renpy-PronounsClass
+renpy:video:pause                | 00   | Pausing Movies                                                     | https://patreon.renpy.org/dev-2021-07.html#pausing-movies
+renpy:vscode:-                   | 000  | Ren'Py Language for Visual Studio Code                             | https://github.com/LuqueDaniel/vscode-language-renpy
+renpy:vscode:-                   | 000  | Ren'Py VSCode Project Template                                     | https://github.com/tiliv/renpy-vscode-template
 rofi:-:-                         | 11   | Rofi                                                               | https://github.com/davatorium/rofi
 rofi:bookmark:-                  | 10   | Marcador                                                           | https://github.com/joajfreitas/marcador
 rofi:bookmark:firefox            | 00   | rofi-firefox-bookmark                                              | https://github.com/MusicalArtist12/rofi-firefox-bookmark
@@ -3370,6 +3386,8 @@ rss:-:-                          | 00   | RSS Guard                             
 rss:-:-                          | 00   | yarr                                                               | https://github.com/nkanaev/yarr
 rss:-:-                          | 11   | Fluent Reader                                                      | https://github.com/yang991178/fluent-reader
 rss:-:-                          | 11   | QuiteRSS                                                           | https://quiterss.org
+rss:feed:-                       | 00   | F-Droid_Newapps_RSS                                                | https://github.com/yzqzss/f-Droid_Newapps_RSS
+rss:feed:-                       | 00   | Hacker News RSS                                                    | https://github.com/hnrss/hnrss
 rss:feed:-                       | 11   | github-search-rss                                                  | https://github.com/azu/github-search-rss
 rss:feed:autohotkey              | 00   | Awesome AutoHotkey                                                 | https://github.com/ahkscript/awesome-AutoHotkey
 rss:feed:game                    | 00   | Releases                                                           | https://github.com/jc141x/releases-feed
@@ -3379,8 +3397,6 @@ rss:feed:manga                   | 00   | MDRSS-TS                              
 rss:feed:mkdocs                  | 00   | catalog                                                            | https://github.com/mkdocs/catalog
 rss:feed:powershell              | 00   | Awesome PowerShell                                                 | https://github.com/janikvonrotz/awesome-powershell
 rss:feed:rofi                    | 00   | rofi                                                               | https://github.com/davatorium/rofi/wiki/User-scripts
-rss:feed:-                       | 00   | F-Droid_Newapps_RSS                                                | https://github.com/yzqzss/f-Droid_Newapps_RSS
-rss:feed:-                       | 00   | Hacker News RSS                                                    | https://github.com/hnrss/hnrss
 rss:newsboat:-                   | 11   | Newsboat                                                           | https://github.com/newsboat/newsboat
 rss:newsboat:linux               | 001  | link-handler                                                       | https://github.com/mrdotx/link-handler
 rss:reader:- | 00 | Follow | https://github.com/RSSNext/Follow
@@ -3399,19 +3415,18 @@ screenshot:web:-                 | 00   | pageres-cli                           
 screenshot:web:-                 | 00   | shot-scraper                                                       | https://github.com/simonw/shot-scraper
 screenshot:web:-                 | 000  | SpaceCapture                                                       | https://github.com/SpaceView/SpaceCapture
 sd-webui:-:-                     | 11   | Stable Diffusion web UI                                            | https://github.com/AUTOMATIC1111/stable-diffusion-webui
-sd-webui:image:-                 | 001  | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
-sd-webui:action:-                | 00   | sd-webui-densediff                                                 | https://github.com/uiyo/sd-webui-densediff
-sd-webui:action:-                | 00   | Openpose Editor for ControlNet ...                                 | https://github.com/huchenlei/sd-webui-openpose-editor
 sd-webui:action:-                | 00   | ControlNet Preprocessor in extras tab                              | https://github.com/light-and-ray/sd-webui-cn-in-extras-tab
+sd-webui:action:-                | 00   | Openpose Editor for ControlNet ...                                 | https://github.com/huchenlei/sd-webui-openpose-editor
+sd-webui:action:-                | 00   | sd-webui-densediff                                                 | https://github.com/uiyo/sd-webui-densediff
 sd-webui:action:-                | 11   | ControlNet for Stable Diffusion WebUI                              | https://github.com/Mikubill/sd-webui-controlnet
 sd-webui:anime:-                 | 00   | AnimateDiff for Stable Diffusion WebUI                             | https://github.com/continue-revolution/sd-webui-animatediff
 sd-webui:anime:-                 | 00   | Deforum Stable Diffusion                                           | https://github.com/deforum-art/sd-webui-deforum
 sd-webui:color:-                 | 00   | SD Webui Diffusion Color Grading                                   | https://github.com/Haoming02/sd-webui-diffusion-cg
-sd-webui:comfyui:-               | 00   | ComfyUI-Inspyrenet-Rembg                                           | https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg
 sd-webui:comfyui:-               | 00   | CImaGen                                                            | https://github.com/ServOKio/CImaGen
-sd-webui:comfyui:-               | 11   | ComfyUI                                                            | https://github.com/comfyanonymous/ComfyUI
-sd-webui:comfyui:-               | 01   | ComfyUI Manager                                                    | https://github.com/ltdrdata/ComfyUI-Manager
+sd-webui:comfyui:-               | 00   | ComfyUI-Inspyrenet-Rembg                                           | https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg
 sd-webui:comfyui:-               | 001  | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
+sd-webui:comfyui:-               | 01   | ComfyUI Manager                                                    | https://github.com/ltdrdata/ComfyUI-Manager
+sd-webui:comfyui:-               | 11   | ComfyUI                                                            | https://github.com/comfyanonymous/ComfyUI
 sd-webui:comfyui:liveportrait    | 00   | ComfyUI nodes to use LivePortrait                                  | https://github.com/kijai/ComfyUI-LivePortraitKJ
 sd-webui:comfyui:txt2img         | 00   | ComfyUI wrapper for Kwai-Kolors                                    | https://github.com/kijai/ComfyUI-KwaiKolorsWrapper
 sd-webui:data:-                  | 00   | db-storage1111                                                     | https://github.com/takoyaro/db-storage1111
@@ -3419,6 +3434,7 @@ sd-webui:diff:-                  | 00   | SD Webui Image Comparison             
 sd-webui:edit:-                  | 00   | Aspect Ratio Helper                                                | https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 sd-webui:edit:-                  | 00   | Auto-Photoshop-StableDiffusion-Plugin                              | https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 sd-webui:edit:-                  | 00   | Canvas Zoom                                                        | https://github.com/richrobber2/canvas-zoom
+sd-webui:edit:-                  | 00   | PBRemTools                                                         | https://github.com/mattyamonaca/PBRemTools
 sd-webui:edit:-                  | 00   | Photopea Stable Diffusion WebUI Extension                          | https://github.com/yankooliveira/sd-webui-photopea-embed
 sd-webui:edit:-                  | 00   | SD Webui Old Photo Restoration                                     | https://github.com/Haoming02/sd-webui-old-photo-restoration
 sd-webui:edit:-                  | 00   | Stable Diffusion WebUI Smart Pre-Processing Extension              | https://github.com/d8ahazard/sd_smartprocess
@@ -3427,7 +3443,6 @@ sd-webui:edit:-                  | 00   | openOutpaint                          
 sd-webui:edit:-                  | 00   | sd-forge-layerdiffuse                                              | https://github.com/layerdiffusion/sd-forge-layerdiffuse
 sd-webui:edit:-                  | 00   | sd-webui-miniPaint                                                 | https://github.com/ye7iaserag/sd-webui-miniPaint
 sd-webui:edit:-                  | 00   | stable-diffusion-webui-embedding-editor                            | https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor
-sd-webui:edit:-                  | 00   | PBRemTools                                                         | https://github.com/mattyamonaca/PBRemTools
 sd-webui:edit:-                  | 11   | SD Webui Vectorscope CC                                            | https://github.com/Haoming02/sd-webui-vectorscope-cc
 sd-webui:edit:img2img            | 00   | Replacer                                                           | https://github.com/light-and-ray/sd-webui-replacer
 sd-webui:edit:img2img            | 00   | StableSR for Stable Diffusion WebUI                                | https://github.com/pkuliyi2015/sd-webui-stablesr
@@ -3441,32 +3456,33 @@ sd-webui:face:-                  | 00   | FaceSwapLab for a1111/Vlad            
 sd-webui:face:-                  | 00   | ReActor for Stable Diffusion                                       | https://github.com/Navezjt/sd-webui-reactor
 sd-webui:face:-                  | 00   | roop for StableDiffusion                                           | https://github.com/s0md3v/sd-webui-roop
 sd-webui:gif2gif:-               | 00   | gif2gif                                                            | https://github.com/LonicaMewinsky/gif2gif
+sd-webui:image:-                 | 001  | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
 sd-webui:img2txt:-               | 11   | CLIP Interrogator extension ...                                    | https://github.com/pharmapsychotic/clip-interrogator-ext
 sd-webui:img2txt:-               | 11   | Danbooru Prompt                                                    | https://github.com/EnsignMK/danbooru-prompt
-ai:img2vid:-                     | 00   | ToonCrafter                                                        | https://github.com/ToonCrafter/ToonCrafter
 sd-webui:info:-                  | 00   | Checker of "enable" statuses in SD Web UI                          | https://github.com/shirayu/sd-webui-enable-checker
-sd-webui:info:-                  | 11   | System Info tab extensions for SD Automatic WebUI                  | https://github.com/vladmandic/sd-extension-system-info
 sd-webui:info:-                  | 00   | VRAM Estimator for stable-diffusion-webui                          | https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator
+sd-webui:info:-                  | 11   | System Info tab extensions for SD Automatic WebUI                  | https://github.com/vladmandic/sd-extension-system-info
 sd-webui:lora:-                  | 00   | Additional Networks for generating images                          | https://github.com/kohya-ss/sd-webui-additional-networks
 sd-webui:lora:-                  | 00   | Composable LoRA/LyCORIS with steps                                 | https://github.com/a2569875/stable-diffusion-webui-composable-lora
 sd-webui:lora:-                  | 00   | LLuL - Local Latent upscaLer                                       | https://github.com/hnmr293/sd-webui-llul
 sd-webui:lora:-                  | 00   | Weight Helper                                                      | https://github.com/nihedon/sd-webui-weight-helper
+sd-webui:manager:-               | 00   | Diffusion Toolkit                                                  | https://github.com/RupertAvery/DiffusionToolkit
 sd-webui:manager:-               | 00   | Prompt Gallery                                                     | https://github.com/dr413677671/PromptGallery-stable-diffusion-webui
 sd-webui:manager:-               | 00   | stable-diffusion-webui-images-browser                              | https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
 sd-webui:manager:-               | 01   | Stable Diffusion webui Infinite Image Browsing                     | https://github.com/zanllp/sd-webui-infinite-image-browsing
-sd-webui:manager:-               | 00   | Diffusion Toolkit                                                  | https://github.com/RupertAvery/DiffusionToolkit
 sd-webui:mask:-                  | 00   | ADetailer                                                          | https://github.com/Bing-su/adetailer
 sd-webui:mask:-                  | 00   | Background Mask                                                    | https://github.com/Scholar01/sd-webui-bg-mask
 sd-webui:mask:-                  | 00   | Detection Detailer                                                 | https://github.com/dustysys/ddetailer
 sd-webui:mask:img2img            | 00   | depthmap2mask                                                      | https://github.com/Extraltodeus/depthmap2mask
 sd-webui:merge:-                 | 00   | Marge Board                                                        | https://github.com/bbc-mc/sdweb-merge-board
 sd-webui:merge:-                 | 00   | Merge Block Weighted - GUI                                         | https://github.com/bbc-mc/sdweb-merge-block-weighted-gui#how-to-use
+sd-webui:merge:-                 | 00   | SuperMerger                                                        | https://github.com/hako-mikan/sd-webui-supermerger
 sd-webui:merge:-                 | 00   | multi-subject-render                                               | https://github.com/Extraltodeus/multi-subject-render
 sd-webui:merge:-                 | 01   | Checkpoint Model Mixer extension                                   | https://github.com/wkpark/sd-webui-model-mixer
-sd-webui:merge:-                 | 00   | SuperMerger                                                        | https://github.com/hako-mikan/sd-webui-supermerger
 sd-webui:metadata:-              | 00   | Dataset Tag Editor                                                 | https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor
 sd-webui:metadata:-              | 00   | Hardware Info in metadata                                          | https://github.com/light-and-ray/sd-webui-hardware-info-in-metadata
 sd-webui:metadata:-              | 11   | SD WebUI Tag Autocomplete                                          | https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+sd-webui:model:-                 | 00   | CivitAI Browser+                                                   | https://github.com/BlafKing/sd-civitai-browser-plus
 sd-webui:model:-                 | 00   | Civitai Extension ...                                              | https://github.com/civitai/sd_civitai_extension
 sd-webui:model:-                 | 00   | Civitai Helper2: Model Info Helper                                 | https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper
 sd-webui:model:-                 | 00   | Civitai Shortcut                                                   | https://github.com/sunnyark/civitai-shortcut
@@ -3476,7 +3492,6 @@ sd-webui:model:-                 | 00   | sd-model-downloader                   
 sd-webui:model:-                 | 00   | sd-model-preview-xd                                                | https://github.com/CurtisDS/sd-model-preview-xd
 sd-webui:model:-                 | 00   | sd-webui-modal-overlay                                             | https://github.com/luminouspear/sd-webui-modal-info
 sd-webui:model:-                 | 00   | stable-diffusion-model-toolkit                                     | https://github.com/arenasys/stable-diffusion-webui-model-toolkit
-sd-webui:model:-                 | 00   | CivitAI Browser+                                                   | https://github.com/BlafKing/sd-civitai-browser-plus
 sd-webui:modify:-                | 00   | BMAB                                                               | https://github.com/portu-sim/sd-webui-bmab
 sd-webui:modify:-                | 00   | Detail Daemon                                                      | https://github.com/muerrilla/sd-webui-detail-daemon
 sd-webui:modify:-                | 00   | SD Webui ReSharpen                                                 | https://github.com/Haoming02/sd-webui-resharpen
@@ -3485,28 +3500,28 @@ sd-webui:mov2mov:-               | 00   | Mov2mov                               
 sd-webui:node:-                  | 001  | sd-webui-comfyui                                                   | https://github.com/ModelSurge/sd-webui-comfyui
 sd-webui:node:prompt             | 00   | One Button Prompt                                                  | https://github.com/AIrjen/OneButtonPrompt
 sd-webui:node:prompt             | 00   | Stable Diffusion Dynamic Prompts extension                         | https://github.com/adieyal/sd-dynamic-prompts
-sd-webui:preset:-                | 00   | sd-webui-lightdiffusionflow                                        | https://github.com/Tencent/LightDiffusionFlow
 sd-webui:preset:-                | 00   | Aesthetic Gradients                                                | https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients
+sd-webui:preset:-                | 00   | sd-webui-lightdiffusionflow                                        | https://github.com/Tencent/LightDiffusionFlow
 sd-webui:prompt:-                | 00   | LCM Sampler                                                        | https://github.com/light-and-ray/sd-webui-lcm-sampler
+sd-webui:prompt:-                | 00   | Latent Couple extension (two shot diffusion port)                  | https://github.com/ashen-sensored/stable-diffusion-webui-two-shot
+sd-webui:prompt:-                | 00   | Negative Prompt Weight                                             | https://github.com/muerrilla/stable-diffusion-NPW
 sd-webui:prompt:-                | 00   | Rich-Text-to-Image for Stable Diffusion WebUI                      | https://github.com/songweige/sd-webui-rich-text
 sd-webui:prompt:-                | 00   | Stable Diffusion Web UI Temporal Extension                         | https://github.com/Iniquitatis/sd-webui-temporal
+sd-webui:prompt:-                | 000  | Cross Attention Control with Stable Diffusion                      | https://github.com/bloc97/CrossAttentionControl
 sd-webui:prompt:-                | 01   | Neutral Prompt                                                     | https://github.com/ljleb/sd-webui-neutral-prompt
 sd-webui:prompt:-                | 01   | SD WebUI Prompt Style                                              | https://github.com/bandifiu/sd-webui-prompt-style
 sd-webui:prompt:-                | 01   | sd-webui-prompt-history                                            | https://github.com/namkazt/sd-webui-prompt-history
 sd-webui:prompt:-                | 01   | stable-diffusion-webui-prompt-utilities                            | https://github.com/hallatore/stable-diffusion-webui-prompt-utilities
-sd-webui:prompt:-                | 000  | Cross Attention Control with Stable Diffusion                      | https://github.com/bloc97/CrossAttentionControl
-sd-webui:prompt:-                | 00   | Latent Couple extension (two shot diffusion port)                  | https://github.com/ashen-sensored/stable-diffusion-webui-two-shot
 sd-webui:prompt:-                | 11   | NegPiP - Negative Prompt in Prompt                                 | https://github.com/hako-mikan/sd-webui-negpip
-sd-webui:prompt:-                | 00   | Negative Prompt Weight                                             | https://github.com/muerrilla/stable-diffusion-NPW
 sd-webui:prompt:-                | 11   | Prompt Fusion                                                      | https://github.com/ljleb/prompt-fusion-extension
 sd-webui:prompt:-                | 11   | Regional Prompter                                                  | https://github.com/hako-mikan/sd-webui-regional-prompter
 sd-webui:prompt:format           | 00   | SD Webui Prompt Format                                             | https://github.com/Haoming02/sd-webui-prompt-format
 sd-webui:require:-               | 11   | Python 3.10.6                                                      | https://python.org/downloads/release/python-3106/
 sd-webui:segment-anything:-      | 00   | Segment Anything for Stable Diffusion WebUI                        | https://github.com/continue-revolution/sd-webui-segment-anything
 sd-webui:segment-anything:-      | 00   | Segment Anything preprocessor for ControlNet                       | https://github.com/light-and-ray/sd-webui-cn-sam-preprocessor
+sd-webui:sequence:-              | 00   | batch Checkpoints with Prompt                                      | https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt
 sd-webui:sequence:-              | 00   | embedding-merge                                                    | https://github.com/klimaleksus/stable-diffusion-webui-embedding-merge
 sd-webui:sequence:-              | 00   | sd-webui-samplers-scheduler Seniorious                             | https://github.com/Carzit/sd-webui-samplers-scheduler-for-v1.6
-sd-webui:sequence:-              | 00   | batch Checkpoints with Prompt                                      | https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt
 sd-webui:sequence:-              | 11   | Agent Scheduler                                                    | https://github.com/ArtVentureX/sd-webui-agent-scheduler
 sd-webui:style:-                 | 00   | Pixel                                                              | https://github.com/Leodotpy/sd-pixel
 sd-webui:style:-                 | 00   | Style Editor                                                       | https://github.com/chrisgoringe/Styles-Editor
@@ -3536,7 +3551,6 @@ security:hash:-                  | 00   | QuickDash                             
 security:hash:-                  | 00   | QuickSFV                                                           | https://quicksfv.org/
 security:hash:-                  | 00   | RapidCRC Unicode                                                   | https://ov2.eu/programs/rapidcrc-unicode
 security:hash:-                  | 11   | OpenHashTab                                                        | https://github.com/namazso/OpenHashTab
-serve:editor:-                   | 00   | Rustpad                                                            | https://github.com/ekzhang/rustpad
 serve:activitywatch:-            | 00   | aw-watcher-input                                                   | https://github.com/ActivityWatch/aw-watcher-input
 serve:activitywatch:-            | 00   | aw-watcher-utilization                                             | https://github.com/Alwinator/aw-watcher-utilization
 serve:activitywatch:-            | 11   | ActivityWatch                                                      | https://github.com/ActivityWatch/activitywatch
@@ -3564,6 +3578,7 @@ serve:database:-                 | 00   | SurrealDB                             
 serve:dns:-                      | 00   | AdGuardHome                                                        | https://github.com/AdguardTeam/AdGuardHome
 serve:dns:-                      | 00   | Pi-hole                                                            | https://github.com/pi-hole/pi-hole
 serve:dns:monitor                | 00   | AdGuardian-Term                                                    | https://github.com/Lissy93/AdGuardian-Term
+serve:editor:-                   | 00   | Rustpad                                                            | https://github.com/ekzhang/rustpad
 serve:erp:-                      | 00   | ERPNext                                                            | https://github.com/frappe/erpnext
 serve:erp:-                      | 00   | Ever Gauzy Platform                                                | https://github.com/ever-co/ever-gauzy
 serve:erp:-                      | 00   | eShop                                                              | https://github.com/dotnet/eShop
@@ -3891,9 +3906,9 @@ subtitle:editor:-                | 11   | Aegisub                               
 subtitle:editor:-                | 11   | Subtitle Edit                                                      | https://nikse.dk/subtitleedit
 subtitle:merge:-                 | 00   | merge-srt-subtitles                                                | https://github.com/malfroid/merge-srt-subtitles
 subtitle:ocr:-                   | 00   | Video-subtitle-extractor                                           | https://github.com/YaoFANGUK/video-subtitle-extractor
+switch:archive:-                 | 00   | NSZ                                                                | https://github.com/nicoboss/nsz
 switch:dev:os                    | 00   | Atmosphère                                                         | https://github.com/Atmosphere-NX/Atmosphere
 switch:mpv:jellyfin              | 00   | Switchfin                                                          | https://github.com/dragonflylee/switchfin
-switch:archive:-                 | 00   | NSZ                                                                | https://github.com/nicoboss/nsz
 sync:-:-                         | 00   | sync-directory                                                     | https://github.com/hoperyy/sync-directory
 sync:rclone:-                    | 00   | Rclone browser                                                     | https://github.com/kapitainsky/RcloneBrowser
 sync:rclone:-                    | 00   | RcloneTray                                                         | https://github.com/dimitrov-adrian/RcloneTray
@@ -3938,6 +3953,7 @@ tool:calculate:-                 | 00   | Calculator.NET                        
 tool:calculate:-                 | 00   | Kalker                                                             | https://github.com/PaddiM8/kalker
 tool:calculate:-                 | 00   | eva                                                                | https://github.com/nerdypepper/eva
 tool:calculate:-                 | 11   | Qalculate!                                                         | https://github.com/Qalculate/qalculate-gtk
+tool:check:-                   | 00   | Sigma                                                     | https://github.com/SigmaHQ/sigma
 tool:device:-                    | 11   | Device Cleanup Tool                                                | https://www.majorgeeks.com/files/details/device_cleanup_tool.html
 tool:dns:dig                     | 11   | doggo                                                              | https://github.com/mr-karan/doggo
 tool:dns:switch                  | 11   | DNS Changer                                                        | https://github.com/DnsChanger/dnsChanger-desktop
@@ -3977,8 +3993,6 @@ video:av1:-                      | 00   | Av1ador                               
 video:av1:-                      | 00   | Av1an                                                              | https://github.com/master-of-zen/Av1an
 video:av1:-                      | 00   | Av1an Win Script                                                   | https://github.com/Hishiro64/av1an-win-script
 video:convert:-                  | 11   | FFmpeg Batch AV Converter                                          | https://github.com/eibol/ffmpeg_batch
-video:mkv:-                      | 00   | MKV Muxing Batch GUI                                               | https://github.com/yaser01/mkv-muxing-batch-gui
-video:mkv:-                      | 00   | MKVToolNix Batch Tool                                              | https://github.com/iPzard/mkvtoolnix-batch-tool
 video:cut:-                      | 00   | VidCutter                                                          | https://github.com/ozmartian/vidcutter
 video:cut:-                      | 11   | LosslessCut                                                        | https://github.com/mifi/lossless-cut
 video:diff:-                     | 10   | video-compare                                                      | https://github.com/pixop/video-compare
@@ -4001,6 +4015,8 @@ video:library:track              | 00   | Norfair                               
 video:loop:-                     | 001  | loopi                                                              | https://github.com/zebradots/loopi
 video:metadata:-                 | 00   | MediaInfo.NET                                                      | https://github.com/stax76/MediaInfo.NET
 video:metadata:-                 | 11   | MediaInfo                                                          | https://mediaarea.net/en/MediaInfo
+video:mkv:-                      | 00   | MKV Muxing Batch GUI                                               | https://github.com/yaser01/mkv-muxing-batch-gui
+video:mkv:-                      | 00   | MKVToolNix Batch Tool                                              | https://github.com/iPzard/mkvtoolnix-batch-tool
 video:mkv:-                      | 00   | MakeMKV                                                            | https://www.makemkv.com
 video:mkv:-                      | 10   | MKVToolNix                                                         | https://mkvtoolnix.download
 video:player:-                   | 00   | GridPlayer                                                         | https://github.com/vzhd1701/gridplayer
@@ -4019,8 +4035,8 @@ video:player:memento             | 00   | verb_inflections_jmdict               
 video:player:subtitle            | 00   | xy-VSFilter                                                        | https://github.com/Cyberbeing/xy-VSFilter
 video:record:-                   | 00   | LICEcap                                                            | https://cockos.com/licecap
 video:record:-                   | 00   | Screen Recorder                                                    | https://github.com/MiniCube11/screen-recorder
-video:record:-                   | 00   | streamlit-webrtc                                                   | https://github.com/whitphx/streamlit-webrtc
 video:record:-                   | 00   | ScreenToGif                                                        | https://screentogif.com
+video:record:-                   | 00   | streamlit-webrtc                                                   | https://github.com/whitphx/streamlit-webrtc
 video:record:-                   | 10   | wcap                                                               | https://github.com/mmozeiko/wcap
 video:record:background          | 00   | VCam                                                               | https://xsplit.com/vcam
 video:rename:-                   | 10   | mnamer                                                             | https://github.com/jkwill87/mnamer
@@ -4105,6 +4121,8 @@ vim:write:-                      | 00   | goyo.vim                              
 vim:write:-                      | 00   | limelight.vim                                                      | https://github.com/junegunn/limelight.vim
 vscode:-:-                       | 11   | Visual Studio Code                                                 | https://code.visualstudio.com
 vscode:action:-                  | 00   | GitHub Actions                                                     | https://github.com/github/vscode-github-actions
+vscode:archive:-               | 00   | VSCode Archive                                            | https://github.com/tjx666/vscode-archive
+vscode:archive:-               | 10   | Zip Tools                                                 | https://github.com/AdamRaichu/vscode-zip-viewer.git
 vscode:bookmark:-                | 00   | Bookmarks                                                          | https://github.com/alefragnani/vscode-bookmarks
 vscode:cmp:-                     | 11   | Path Intellisense                                                  | https://github.com/ChristianKohler/PathIntellisense
 vscode:config:-                  | 11   | EditorConfig                                                       | https://github.com/editorconfig/editorconfig-vscode
@@ -4128,6 +4146,7 @@ vscode:editor:-                  | 00   | Render Line Endings                   
 vscode:editor:-                  | 00   | indent-rainbow                                                     | https://github.com/oderwat/vscode-indent-rainbow
 vscode:editor:-                  | 11   | Multiple cursor case preserve                                      | https://github.com/Cardinal90/multi-cursor-case-preserve
 vscode:editor:-                  | 11   | filesize                                                           | https://github.com/mkxml/vscode-filesize
+vscode:extension:-             | 10   | Extension Export & Import                                 | https://github.com/aslamanver/vsc-export
 vscode:file:-                    | 11   | Open                                                               | https://github.com/sandcastle/vscode-open
 vscode:format:-                  | 00   | Prettier - Code formatter                                          | https://github.com/prettier/prettier-vscode
 vscode:gist:-                    | 11   | GistPad                                                            | https://github.com/lostintangent/gistpad
@@ -4150,11 +4169,13 @@ vscode:syntax:-                  | 00   | AutoHotkey Plus Plus                  
 vscode:syntax:-                  | 00   | Shader languages support for VS Code                               | https://github.com/stef-levesque/vscode-shader
 vscode:syntax:-                  | 10   | Ren'Py Language                                                    | https://github.com/renpy/vscode-language-renpy
 vscode:syntax:-                  | 10   | YAML                                                               | https://github.com/redhat-developer/vscode-yaml
+vscode:syntax:-                  | 10   | ink                                                                | https://github.com/sequitur/ink-vscode
 vscode:table:-                   | 00   | Markdown table formatter                                           | https://github.com/fcrespo82/vscode-markdown-table-formatter
 vscode:table:-                   | 00   | Rainbow CSV                                                        | https://github.com/mechatroner/vscode_rainbow_csv.git
 vscode:task:-                    | 00   | Task Explorer                                                      | https://github.com/spmeesseman/vscode-taskexplorer
 vscode:text:-                    | 00   | Text Marker (Highlighter)                                          | https://github.com/ryu1kn/vscode-text-marker
 vscode:text:-                    | 00   | Text Power Tools                                                   | https://github.com/qcz/vscode-text-power-tools.git
+vscode:theme:-                   | 00   | e-ink                                                              | https://gitlab.com/eddjrn/vs-code-e-ink-theme
 vscode:theme:-                   | 11   | Tokyo Night Themes                                                 | https://github.com/AvetisDN/tokyo-dark-theme.git
 window:-:-                       | 00   | GlazeWM                                                            | https://github.com/glazerdesktop/GlazeWM
 window:-:-                       | 00   | GridMove                                                           | https://github.com/mirtlecn/GridMove
@@ -4178,6 +4199,7 @@ write:mrammar:-                  | 001  | LanguageTool                          
 zsh:-:-                          | 11   | Oh My Zsh                                                          | https://github.com/ohmyzsh/ohmyzsh
 zsh:backup:-                     | 00   | zshrc-sync                                                         | https://github.com/Skylor-Tang/zshrc-sync
 zsh:backup:-                     | 10   | Zsnapshot                                                          | https://github.com/zdharma-continuum/zsnapshot
+zsh:banner:-                   | 00   | zsh-banner                                                | https://github.com/drkhsh/zsh-banner
 zsh:calculator:-                 | 00   | Simple zsh calculator                                              | https://github.com/arzzen/calc.plugin.zsh
 zsh:cd:-                         | 00   | ZSH Up dir                                                         | https://github.com/sgpthomas/zsh-up-dir
 zsh:cd:-                         | 00   | cdh                                                                | https://github.com/johncassol/cdh
@@ -4257,6 +4279,8 @@ zsh:skim:-                       | 00   | zsh-select-history-skim               
 zsh:ssh:-                        | 00   | xxh                                                                | https://github.com/xxh/xxh
 zsh:ssh:-                        | 00   | zsh-ssh-agent                                                      | https://github.com/twfksh/zsh-ssh-agent
 zsh:ssh:-                        | 11   | zsh-ssh                                                            | https://github.com/sunlei/zsh-ssh
+zsh:ssh:- | 00 | | 
+zsh:ssh:- | 00 |thefly | https://github.com/joknarf/thefly
 zsh:start:-                      | 00   | auto-fortune-cowsay-zsh                                            | https://github.com/babasbot/auto-fortune-cowsay-zsh
 zsh:start:-                      | 00   | zsh-async                                                          | https://github.com/mafredri/zsh-async
 zsh:sugges:-                     | 00   | Audogombleed                                                       | https://github.com/i-love-coffee-i-love-tea/audogombleed.sh

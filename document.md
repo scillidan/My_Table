@@ -1,8 +1,5 @@
 group      | link
 :-         | :-
-cheatsheet | [HTML Characters](https://cheatsheets.zip/html-char)
-cheatsheet | [ISO 639-1](https://cheatsheets.zip/iso-639-1)
-cheatsheet | [RegEX](https://cheatsheets.zip/regex)
 config     | [Neovim](https://github.com/potamides/dotfiles/blob/master/.config/nvim/init.lua)
 document   | [AutoHotkey](https://www.autohotkey.com/docs/v2/)
 document   | [Bastard Keyboards](https://docs.bastardkb.com/)
