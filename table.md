@@ -8,6 +8,8 @@ ai:audio:-                     | 00   | OpenVoice                               
 ai:audio:-                     | 00   | Real-Time Voice Cloning                                   | https://github.com/CorentinJ/Real-Time-Voice-Cloning
 ai:audio:-                     | 00   | VoiceStreamAI                                             | https://github.com/alesaccoia/VoiceStreamAI
 ai:audio:-                     | 10   | Bark                                                      | https://github.com/suno-ai/bark
+ai:audio:- | 00 | Moonshine | https://github.com/usefulsensors/moonshine
+ai:audio:- | 00 | Amphion | https://github.com/open-mmlab/Amphion
 ai:audio:tta                   | 00   | AudioLDM                                                  | https://github.com/haoheliu/AudioLDM
 ai:audio:tta                   | 00   | Coqui.ai TTS                                              | https://github.com/coqui-ai/TTS
 ai:audio:tta                   | 00   | GPT-SoVITS-WebUI                                          | https://github.com/RVC-Boss/GPT-SoVITS
@@ -1602,6 +1604,7 @@ gui:git:github                 | 00   | GitHub Desktop                          
 gui:rename:-                   | 00   | ReNamer                                                   | https://den4b.com/products/renamer
 gui:rename:-                   | 11   | Advanced Renamer                                          | https://advancedrenamer.com
 gui:thumbnail:-                | 00   | qmtn                                                      | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
+hardware:eink:- | 00 | EPDiy E-Paper Driver | https://github.com/vroland/epdiy
 hardware:archivist:-           | 00   | Archivist                                                 | https://diybookscanner.org/archivist/index.html
 hardware:archivist:-           | 00   | Pi Scan                                                   | https://github.com/Tenrec-Builders/pi-scan
 hardware:audio:-               | 00   | AudioRelay                                                | https://audiorelay.net
