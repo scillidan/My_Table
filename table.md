@@ -442,7 +442,7 @@ chrome:develop:-                 | 00   | Test IE                               
 chrome:develop:-                 | 000  | Live Reload                                                        | https://chrome.google.com/webstore/detail/live-reload/jcejoncdonagmfohjcdgohnmecaipidc
 chrome:develop:-                 | 10   | CSS Used                                                           | https://github.com/painty/CSS-Used-ChromeExt
 chrome:develop:-                 | 10   | Wappalyzer                                                         | https://wappalyzer.com
-chrome:develop:-                 | 11   | Chrome extension source viewer                                     | https://github.com/Rob--W/crxviewer
+chrome:develop:-                 | 00   | Chrome extension source viewer                                     | https://github.com/Rob--W/crxviewer
 chrome:dictionary:-              | 00   | Dictionariez                                                       | https://github.com/pnlpal/dictionariez
 chrome:dictionary:-              | 00   | Mouse Dictionary                                                   | https://github.com/wtetsu/mouse-dictionary
 chrome:dictionary:-              | 00   | ODH                                                                | https://github.com/ninja33/ODH
@@ -483,7 +483,7 @@ chrome:github:-                  | 11   | Better Pull Request for GitHub        
 chrome:github:-                  | 11   | Enhanced GitHub                                                    | https://github.com/softvar/enhanced-github
 chrome:github:-                  | 11   | GitHub File Icons                                                  | https://github.com/lvarayut/github-file-icons
 chrome:github:-                  | 11   | GitHub Recommender                                                 | https://github.com/IndexStorm/git-rec-back
-chrome:github:-                  | 11   | GitHub Web IDE                                                     | https://github.com/zvizvi/GitHub-Web-IDE
+chrome:github:-                  | 10   | GitHub Web IDE                                                     | https://github.com/zvizvi/GitHub-Web-IDE
 chrome:github:-                  | 11   | GitZip for github                                                  | https://gitzip.org
 chrome:github:-                  | 11   | Gitako                                                             | https://github.com/EnixCoda/Gitako
 chrome:github:-                  | 11   | JSON Formatter                                                     | https://github.com/callumlocke/json-formatter
@@ -499,7 +499,7 @@ chrome:mpv:-                     | 00   | Play with MPV                         
 chrome:mpv:-                     | 00   | ff2mpv                                                             | https://github.com/woodruffw/ff2mpv
 chrome:mpv:-                     | 00   | mpv for Chrome                                                     | https://github.com/taupiqueur/chrome-mpv
 chrome:mpv:-                     | 00   | open-in-mpv                                                        | https://github.com/Tatsh/open-in-mpv
-chrome:ocr:-                     | 11   | OCR - Image Reader                                                 | https://webextension.org/listing/ocr.html
+chrome:ocr:-                     | 00   | OCR - Image Reader                                                 | https://webextension.org/listing/ocr.html
 chrome:open:-                    | 00   | Open In Firefox                                                    | https://webextension.org/listing/open-in.html
 chrome:open:-                    | 00   | Open in new tab                                                    | https://chrome.google.com/webstore/detail/open-in-new-tab/cplillmhmcegjlhcbedmgmalbgjpmlkh
 chrome:player:-                  | 00   | Global Speed                                                       | https://github.com/polywock/globalSpeed
@@ -769,6 +769,7 @@ desktop:menu:-                   | 00   | Taskbar Groups                        
 desktop:menu:-                   | 10   | NeXuS                                                              | https://winstep.net/nexus.asp
 desktop:menu:-                   | 11   | Open-Shell                                                         | https://github.com/Open-Shell/Open-Shell-Menu
 desktop:pet:-                    | 00   | Desktop Goose                                                      | https://samperson.itch.io/desktop-goose
+desktop:taskbar:-                | 10   | Zebar                                                              | https://github.com/glzr-io/zebar
 desktop:taskbar:-                | 00   | Tiny Taskbar                                                       | https://github.com/HooferDevelops/TinyTaskbar
 desktop:taskbar:-                | 10   | SmartTaskbar                                                       | https://github.com/ChanpleCai/SmartTaskbar
 desktop:taskbar:-                | 10   | T-Clock Redux                                                      | https://github.com/White-Tiger/T-Clock
@@ -1263,6 +1264,7 @@ git:tui:-                        | 00   | GitUI                                 
 git:tui:-                        | 00   | Lazygit                                                            | https://github.com/jesseduffield/lazygit
 git:tui:-                        | 00   | git-bug                                                            | https://github.com/MichaelMure/git-bug
 git:user:-                       | 00   | Git Profile Switcher                                               | https://github.com/TheYkk/git-switcher
+github:action:-                  | 00   | Gitee Pages Action                                                 | https://github.com/yanglbme/gitee-pages-action
 github:action:-                  | 00   | Tencent Cloud COS and CDN action                                   | https://github.com/sylingd/tencent-cos-and-cdn-action
 github:action:-                  | 00   | Torrent Webseed Creator                                            | https://github.com/AnimMouse/torrent-webseed-creator
 github:action:-                  | 000  | Mediawiki to GitHub Flavoured Markdown                             | https://github.com/outofcontrol/mediawiki-to-gfm
@@ -1626,6 +1628,7 @@ hardware:info:-                  | 00   | GPU-Z                                 
 hardware:info:system             | 00   | AIDA64                                                             | https://aida64.com
 hardware:info:system             | 00   | HWinfo                                                             | https://hwinfo.com
 hardware:info:system             | 00   | System Information                                                 | https://ale-margo.itch.io/system-information
+hardware:keyboard:-              | 00   | PMK - Pimoroni Mechanical/Mushy Keypad - CircuitPython             | https://github.com/pimoroni/pmk-circuitpython
 hardware:keyboard:-              | 00   | MacroKeyboardV2                                                    | https://github.com/retrobuiltRyan/MacroKeyboardV2
 hardware:keyboard:-              | 00   | Mini-Macro-Keyboard-v2                                             | https://github.com/retrobuiltRyan/Mini-Macro-Keyboard-v2
 hardware:keyboard:-              | 00   | MixStick-Arcade-Controller                                         | https://github.com/retrobuiltRyan/MixStick-Arcade-Controller
@@ -1976,6 +1979,7 @@ linux:dotfiles:-                 | 00   | @diffficult                           
 linux:dotfiles:arch              | 00   | @bibjaw99                                                          | https://github.com/bibjaw99/workstation
 linux:dotfiles:hyprland          | 00   | @qxb3                                                              | https://github.com/qxb3/gruvbox.hypr/tree/vim_styled
 linux:firmware:gnome             | 00   | Firmware                                                           | https://gitlab.gnome.org/World/gnome-firmware
+linux:screen:-                   | 00   | clipscreen                                                         | https://github.com/splitbrain/clipscreen
 linux:flatpak:-                  | 00   | Trelby                                                             | https://flathub.org/apps/org.trelby.Trelby
 linux:flatpak:-                  | 00   |                                                                    | https://flathub.org/apps/de.swsnr.turnon
 linux:flatpak:-                  | 00   |                                                                    | https://flathub.org/apps/de.swsnr.turnon
@@ -4181,7 +4185,7 @@ vscode:text:-                    | 00   | Text Marker (Highlighter)             
 vscode:text:-                    | 00   | Text Power Tools                                                   | https://github.com/qcz/vscode-text-power-tools.git
 vscode:theme:-                   | 00   | e-ink                                                              | https://gitlab.com/eddjrn/vs-code-e-ink-theme
 vscode:theme:-                   | 11   | Tokyo Night Themes                                                 | https://github.com/AvetisDN/tokyo-dark-theme.git
-window:-:-                       | 00   | GlazeWM                                                            | https://github.com/glazerdesktop/GlazeWM
+window:-:-                       | 10   | GlazeWM                                                            | https://github.com/glzr-io/glazewm
 window:-:-                       | 00   | GridMove                                                           | https://github.com/mirtlecn/GridMove
 window:-:-                       | 00   | Simple Dynamic Window Manager for Windows                          | https://github.com/ahrm/SDWM
 window:-:-                       | 00   | WinWM                                                              | https://github.com/McYoloSwagHam/win3wm
