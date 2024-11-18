@@ -6,6 +6,7 @@ blog  | `finish`                | [Finishing a Game](https://makegames.tumblr.co
 blog  | `finish`                | [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 blog  | `footnote`              | [Footnotes and Asides](https://www.publisha.org/papers/footnotes/)
 blog  | `habit`                 | [The Simple Guide to Building and Breaking Habits](https://alexy.tech/posts/the-simple-guide-to-building-and-breaking-habits/)
+blog  | `life lessons`          | [40 Life Lessons I Know at 40 (That I Wish I Knew at 20)](https://markmanson.medium.com/40-life-lessons-i-know-at-40-that-i-wish-i-knew-at-20-6fa878ce49c1)
 blog  | `ink trap`              | [Ink traps and pals](https://tosche.net/blog/ink-traps-and-pals)
 blog  | `typography`            | [Humane Typography in the Digital Age](https://matejlatin.github.io/Gutenberg/example2/)
 blog  | `typeset`               | [On Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)

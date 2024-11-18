@@ -1,5 +1,6 @@
 tag                              | mark | title                                                              | url
 :-                               | :-   | :-                                                                 | :-
+ai:audio:- | 00 | DeepFilterNet | https://github.com/Rikorose/DeepFilterNet
 ai:audio:-                       | 00   | AniPortrait                                                        | https://github.com/Zejun-Yang/AniPortrait
 ai:audio:-                       | 00   | CosyVoice                                                          | https://github.com/FunAudioLLM/CosyVoice
 ai:audio:-                       | 00   | Fish Speech                                                        | https://github.com/fishaudio/fish-speech
@@ -515,6 +516,7 @@ chrome:read:-                    | 00   | Unclutter                             
 chrome:read:-                    | 11   | Dark Reader                                                        | https://darkreader.org
 chrome:read:-                    | 11   | Smart TOC                                                          | https://github.com/FallenMax/smart-toc
 chrome:rss:-                     | 11   | RSSHub                                                             | https://github.com/DIYgod/RSSHub-Radar
+chrome:subtitle:- | 10 | YouTube™ Subtitle to text downloader | https://github.com/AFGZGZ/YouTube-Subtitle-to-text-downloader
 chrome:screenshot:-              | 11   | Screenshot Capture                                                 | https://github.com/simov/screenshot-capture
 chrome:search:-                  | 00   | Selection Search                                                   | https://chrome.google.com/webstore/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe
 chrome:search:-                  | 11   | All Acronyms                                                       | https://allacronyms.com/
@@ -1518,6 +1520,7 @@ goldendict:service:translate     | 00   | DeepLX API Load Balancer              
 goldendict:service:translate     | 00   | deeplx-tr                                                          | https://github.com/ffreemt/deeplx-tr
 goldendict:service:translate     | 001  | DeepLX                                                             | https://github.com/OwO-Network/DeepLX
 goldendict:translate:deepl       | 00   | GoldenDict-DeepL                                                   | https://github.com/DevJogger/GoldenDict-DeepL
+graphic:circuit:- | 00 | Qucs-S | https://github.com/ra3xdh/qucs_s
 graphic:-:-                      | 00   | Dotgrid                                                            | https://hundredrabbits.itch.io/dotgrid
 graphic:-:-                      | 00   | Paint of Persia                                                    | https://dunin.itch.io/ptop
 graphic:-:-                      | 00   | Pixelorama                                                         | https://github.com/Orama-Interactive/Pixelorama
@@ -1628,6 +1631,7 @@ hardware:info:-                  | 00   | GPU-Z                                 
 hardware:info:system             | 00   | AIDA64                                                             | https://aida64.com
 hardware:info:system             | 00   | HWinfo                                                             | https://hwinfo.com
 hardware:info:system             | 00   | System Information                                                 | https://ale-margo.itch.io/system-information
+hardware:keyboard:- | 00 | BM16A V2 | https://git.maglab.space/inkOne/ieneko42c/-/tree/master/keyboards/kprepublic/bm16a/v2
 hardware:keyboard:-              | 00   | PMK - Pimoroni Mechanical/Mushy Keypad - CircuitPython             | https://github.com/pimoroni/pmk-circuitpython
 hardware:keyboard:-              | 00   | MacroKeyboardV2                                                    | https://github.com/retrobuiltRyan/MacroKeyboardV2
 hardware:keyboard:-              | 00   | Mini-Macro-Keyboard-v2                                             | https://github.com/retrobuiltRyan/Mini-Macro-Keyboard-v2
@@ -1871,7 +1875,6 @@ js:screenshot:-                  | 00   | html2canvas                           
 js:search:-                      | 00   | DocSearch                                                          | https://docsearch.algolia.com
 js:table:-                       | 00   | Handsontable                                                       | https://github.com/handsontable/handsontable
 js:table:-                       | 00   | Tabulator                                                          | https://tabulator.info
-js:table:database                | 00   | Handsontable                                                       | https://github.com/handsontable/handsontable
 js:telegram:-                    | 00   | Tourmaline                                                         | https://tourmaline.dev
 js:time:-                        | 00   | Moment.js                                                          | https://momentjs.com
 js:timer:-                       | 00   | EasyTimer.js                                                       | https://albert-gonzalez.github.io/easytimer.js
@@ -1974,6 +1977,7 @@ library:ruby:-                   | 11   | rbenv for Windows                     
 library:ruby:-                   | 11   | rvm                                                                | https://github.com/rvm/rvm
 library:tui:-                    | 00   | Typer                                                              | https://github.com/tiangolo/typer
 library:yomichan:-               | 001  | Jitendex                                                           | https://github.com/stephenmk/Jitendex
+linux:audio:- | 00 | NoiseTorch-ng | https://github.com/noisetorch/NoiseTorch
 linux:desktop:theme              | 00   | Material-Original gtk theme                                        | https://github.com/Macintosh98/Material-Original
 linux:dotfiles:-                 | 00   | @diffficult                                                        | https://github.com/diffficult/dotfiles_220
 linux:dotfiles:arch              | 00   | @bibjaw99                                                          | https://github.com/bibjaw99/workstation
@@ -3644,7 +3648,7 @@ serve:pay:-                      | 001  | Hyperswitch                           
 serve:photo:-                    | 00   | Immich                                                             | https://github.com/immich-app/immich
 serve:plex:-                     | 00   | MPV Shim for Plex                                                  | https://github.com/iwalton3/plex-mpv-shim
 serve:plex:-                     | 00   | Plex                                                               | https://plex.tv/
-serve:prod:-                     | 00   | PostHog                                                            | https://github.com/PostHog/posthog
+serve:prod:-                     | 001  | PostHog                                                            | https://github.com/PostHog/posthog
 serve:qa:-                       | 001  | Answer                                                             | https://github.com/apache/incubator-answer
 serve:sdr:-                      | 001  | CaribouLite                                                        | https://github.com/cariboulabs/cariboulite
 serve:search:-                   | 00   | Manticore Search                                                   | https://manticoresearch.com

@@ -1,6 +1,7 @@
 group    | tag                       | link
 :-       | :-                        | :-
 entry    | `/bin`                    | [What's the purpose of $HOME/bin directory?](https://askubuntu.com/questions/1408441/whats-the-purpose-of-home-bin-directory)
+entry    | `29.97fps`                | [Why on earth do we have 29.97fps? What madness is this?](https://old.reddit.com/r/finalcutpro/comments/mm58qp/why_on_earth_do_we_have_2997fps_what_madness_is/)
 entry    | `44100Hz`                 | [Eigentechno](https://www.isik.dev/posts/Eigentechno.html)
 entry    | `active project`          | [tabula](https://github.com/tabulapdf/tabula)
 entry    | `alternative terminology` | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania)
