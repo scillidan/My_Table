@@ -1,5 +1,6 @@
 group    | tag                       | link
 :-       | :-                        | :-
+comment  | `seed`                    | [Daily Usenet Feed Size Hits 300TB](https://news.ycombinator.com/item?id=40927517)
 entry    | `/bin`                    | [What's the purpose of $HOME/bin directory?](https://askubuntu.com/questions/1408441/whats-the-purpose-of-home-bin-directory)
 entry    | `29.97fps`                | [Why on earth do we have 29.97fps? What madness is this?](https://old.reddit.com/r/finalcutpro/comments/mm58qp/why_on_earth_do_we_have_2997fps_what_madness_is/)
 entry    | `44100Hz`                 | [Eigentechno](https://www.isik.dev/posts/Eigentechno.html)
@@ -55,6 +56,7 @@ part     | `license`                 | [Choose an open source license](https://c
 part     | `literate programming`    | [Literate Programming](http://www.literateprogramming.com/index.html)
 part     | `maintainer`              | [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer)
 part     | `malleable`               | [Malleable Systems Collective](https://malleable.systems/)
+part     | `pwa`                     | [Introducing PPResume PWA](https://blog.ppresume.com/posts/introducing-ppresume-pwa)
 part     | `program advice`          | [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 part     | `scoop`                   | [再谈谈 Scoop 这个 Windows 下的软件包管理器](https://chawyehsu.com/blog/talk-about-scoop-the-package-manager-for-windows-again)
 part     | `sidenote`                | [Sidenotes In Web Design](https://gwern.net/sidenote)

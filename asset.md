@@ -29,3 +29,4 @@ ai:role            | 00   | Cursor Directory                              | http
 ai:image           | 00   | Art style gallery                             | https://airtable.com/appGc7YdwCFVYwTK8/shrY4CRFRaIhLjiBe/tbldCHol3ABwHG9ex
 krita:brush        | 00   | Metallics by Draneria                         | https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes
 imagemagick:script | 10   | Fred's ImageMagick Scripts                    | http://www.fmwconcepts.com/imagemagick/filmgrain/index.php
+model:naruto | 00 | NARUTO-HandSignDetection | https://github.com/Kazuhito00/NARUTO-HandSignDetection

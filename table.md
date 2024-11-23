@@ -1,6 +1,6 @@
 tag                              | mark | title                                                              | url
 :-                               | :-   | :-                                                                 | :-
-ai:audio:- | 00 | DeepFilterNet | https://github.com/Rikorose/DeepFilterNet
+ai:audio:-                       | 00   | DeepFilterNet                                                      | https://github.com/Rikorose/DeepFilterNet
 ai:audio:-                       | 00   | AniPortrait                                                        | https://github.com/Zejun-Yang/AniPortrait
 ai:audio:-                       | 00   | CosyVoice                                                          | https://github.com/FunAudioLLM/CosyVoice
 ai:audio:-                       | 00   | Fish Speech                                                        | https://github.com/fishaudio/fish-speech
@@ -516,7 +516,7 @@ chrome:read:-                    | 00   | Unclutter                             
 chrome:read:-                    | 11   | Dark Reader                                                        | https://darkreader.org
 chrome:read:-                    | 11   | Smart TOC                                                          | https://github.com/FallenMax/smart-toc
 chrome:rss:-                     | 11   | RSSHub                                                             | https://github.com/DIYgod/RSSHub-Radar
-chrome:subtitle:- | 10 | YouTube™ Subtitle to text downloader | https://github.com/AFGZGZ/YouTube-Subtitle-to-text-downloader
+chrome:subtitle:-                | 10   | YouTube™ Subtitle to text downloader                               | https://github.com/AFGZGZ/YouTube-Subtitle-to-text-downloader
 chrome:screenshot:-              | 11   | Screenshot Capture                                                 | https://github.com/simov/screenshot-capture
 chrome:search:-                  | 00   | Selection Search                                                   | https://chrome.google.com/webstore/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe
 chrome:search:-                  | 11   | All Acronyms                                                       | https://allacronyms.com/
@@ -705,6 +705,7 @@ cmder:clink:jump                 | 11   | zoxide support for clink              
 cmder:conemu:-                   | 11   | ConEmu                                                             | https://conemu.github.io
 color:manage:linux               | 00   | Color Manager                                                      | https://github.com/NicklasVraa/Color-manager
 color:manage:linux               | 00   | Themix GUI designer                                                | https://github.com/themix-project/themix-gui
+css:latex:-                      | 00   | LaTeX.css                                                          | https://latex.vercel.app/
 css:image:hover                  | 00   | Inline Menu Layout with Gallery Panel                              | https://github.com/codrops/InlineMenuLayout
 css:image:shape                  | 00   | Shape Slideshow with Clip-path                                     | https://github.com/codrops/ShapesSlideshow
 database:sqlite:-                | 00   | pelican-to-sqlite                                                  | https://github.com/ryancheley/pelican-to-sqlite
@@ -933,6 +934,7 @@ discord:image:-                  | 00   | Discord Image Gallery                 
 discord:joplin:-                 | 00   | Joplin Discord Rich Presence Plugin                                | https://github.com/mahancoder/joplin-discord-rich-presence
 discord:obsidian:-               | 00   | Discord Share                                                      | https://github.com/phd20/obsidian-discord-share
 discord:tool:-                   | 00   | DiscordChatExporter                                                | https://github.com/Tyrrrz/DiscordChatExporter
+docker:os:-                      | 00   | OSX                                                                | https://github.com/dockur/macos
 docker:-:-                       | 00   | podman-tui                                                         | https://github.com/containers/podman-tui
 docker:serve:-                   | 00   | 辞書                                                               | https://github.com/denonia/jisho
 docker:tui:-                     | 00   | lazydocker                                                         | https://github.com/jesseduffield/lazydocker
@@ -1058,6 +1060,7 @@ emulator:retroarch:-             | 11   | RetroArch                             
 emulator:rom:-                   | 10   | igir                                                               | https://github.com/emmercm/igir
 emulator:rom:database            | 00   | RetroArch Database                                                 | https://github.com/libretro/libretro-database
 epub:2md:-                       | 10   | epub2MD                                                            | https://github.com/ChandlerVer5/epub2MD
+epub:txt:- | 00 | epub2txt | https://github.com/kevinxiong/epub2txt
 epub:editor:-                    | 00   | Sigil-plugins                                                      | https://mobileread.com/forums/showthread.php?t=247431
 epub:editor:-                    | 001  | Sigil                                                              | https://sigil-ebook.com
 epub:extract:-                   | 00   | ebookatty                                                          | https://github.com/alexpdev/ebookatty
@@ -1116,6 +1119,8 @@ font:tool:-                      | 00   | MacType                               
 font:tool:-                      | 10   | fontbm                                                             | https://github.com/vladimirgamalyan/fontbm
 font:tool:-                      | 11   | No!! MeiryoUI                                                      | https://github.com/Tatsu-syo/noMeiryoUI
 font:webfont:-                   | 11   | Webify                                                             | https://github.com/ananthakumaran/webify
+game:-:- | 001 | Catanatron | https://github.com/bcollazo/catanatron
+game:-:- | 00 | OpenRA | https://github.com/OpenRA/OpenRA
 game:-:-                         | 00   | Cataclysm: Dark Days Ahead                                         | https://github.com/CleverRaven/Cataclysm-DDA
 game:-:-                         | 00   | Cave Story MD                                                      | https://github.com/andwn/cave-story-md
 game:-:-                         | 00   | Doukutsu Randamu                                                   | https://trashboxbobylev.itch.io/doukutsu-randamu
@@ -1520,7 +1525,7 @@ goldendict:service:translate     | 00   | DeepLX API Load Balancer              
 goldendict:service:translate     | 00   | deeplx-tr                                                          | https://github.com/ffreemt/deeplx-tr
 goldendict:service:translate     | 001  | DeepLX                                                             | https://github.com/OwO-Network/DeepLX
 goldendict:translate:deepl       | 00   | GoldenDict-DeepL                                                   | https://github.com/DevJogger/GoldenDict-DeepL
-graphic:circuit:- | 00 | Qucs-S | https://github.com/ra3xdh/qucs_s
+graphic:circuit:-                | 00   | Qucs-S                                                             | https://github.com/ra3xdh/qucs_s
 graphic:-:-                      | 00   | Dotgrid                                                            | https://hundredrabbits.itch.io/dotgrid
 graphic:-:-                      | 00   | Paint of Persia                                                    | https://dunin.itch.io/ptop
 graphic:-:-                      | 00   | Pixelorama                                                         | https://github.com/Orama-Interactive/Pixelorama
@@ -1610,6 +1615,7 @@ gui:git:github                   | 00   | GitHub Desktop                        
 gui:rename:-                     | 00   | ReNamer                                                            | https://den4b.com/products/renamer
 gui:rename:-                     | 11   | Advanced Renamer                                                   | https://advancedrenamer.com
 gui:thumbnail:-                  | 00   | qmtn                                                               | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
+hardware:rpi:-                   | 00   | RPi UPSPack V3                                                     | https://github.com/raspberrypi-tw/UPSPACK_V3
 hardware:eink:-                  | 00   | EPDiy E-Paper Driver                                               | https://github.com/vroland/epdiy
 hardware:archivist:-             | 00   | Archivist                                                          | https://diybookscanner.org/archivist/index.html
 hardware:archivist:-             | 00   | Pi Scan                                                            | https://github.com/Tenrec-Builders/pi-scan
@@ -1631,7 +1637,7 @@ hardware:info:-                  | 00   | GPU-Z                                 
 hardware:info:system             | 00   | AIDA64                                                             | https://aida64.com
 hardware:info:system             | 00   | HWinfo                                                             | https://hwinfo.com
 hardware:info:system             | 00   | System Information                                                 | https://ale-margo.itch.io/system-information
-hardware:keyboard:- | 00 | BM16A V2 | https://git.maglab.space/inkOne/ieneko42c/-/tree/master/keyboards/kprepublic/bm16a/v2
+hardware:keyboard:-              | 00   | BM16A V2                                                           | https://git.maglab.space/inkOne/ieneko42c/-/tree/master/keyboards/kprepublic/bm16a/v2
 hardware:keyboard:-              | 00   | PMK - Pimoroni Mechanical/Mushy Keypad - CircuitPython             | https://github.com/pimoroni/pmk-circuitpython
 hardware:keyboard:-              | 00   | MacroKeyboardV2                                                    | https://github.com/retrobuiltRyan/MacroKeyboardV2
 hardware:keyboard:-              | 00   | Mini-Macro-Keyboard-v2                                             | https://github.com/retrobuiltRyan/Mini-Macro-Keyboard-v2
@@ -1977,13 +1983,14 @@ library:ruby:-                   | 11   | rbenv for Windows                     
 library:ruby:-                   | 11   | rvm                                                                | https://github.com/rvm/rvm
 library:tui:-                    | 00   | Typer                                                              | https://github.com/tiangolo/typer
 library:yomichan:-               | 001  | Jitendex                                                           | https://github.com/stephenmk/Jitendex
-linux:audio:- | 00 | NoiseTorch-ng | https://github.com/noisetorch/NoiseTorch
+linux:audio:-                    | 00   | NoiseTorch-ng                                                      | https://github.com/noisetorch/NoiseTorch
 linux:desktop:theme              | 00   | Material-Original gtk theme                                        | https://github.com/Macintosh98/Material-Original
 linux:dotfiles:-                 | 00   | @diffficult                                                        | https://github.com/diffficult/dotfiles_220
 linux:dotfiles:arch              | 00   | @bibjaw99                                                          | https://github.com/bibjaw99/workstation
 linux:dotfiles:hyprland          | 00   | @qxb3                                                              | https://github.com/qxb3/gruvbox.hypr/tree/vim_styled
 linux:firmware:gnome             | 00   | Firmware                                                           | https://gitlab.gnome.org/World/gnome-firmware
 linux:screen:-                   | 00   | clipscreen                                                         | https://github.com/splitbrain/clipscreen
+linux:flatpak:-                  | 00   | LRCMake | https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 linux:flatpak:-                  | 00   | Trelby                                                             | https://flathub.org/apps/org.trelby.Trelby
 linux:flatpak:-                  | 00   |                                                                    | https://flathub.org/apps/de.swsnr.turnon
 linux:flatpak:-                  | 00   |                                                                    | https://flathub.org/apps/de.swsnr.turnon
@@ -3567,7 +3574,7 @@ serve:activitywatch:-            | 00   | aw-watcher-input                      
 serve:activitywatch:-            | 00   | aw-watcher-utilization                                             | https://github.com/Alwinator/aw-watcher-utilization
 serve:activitywatch:-            | 11   | ActivityWatch                                                      | https://github.com/ActivityWatch/activitywatch
 serve:analytic:-                 | 001  | Matomo                                                             | https://github.com/matomo-org/matomo
-serve:archive:-                  | 00   | Sabnzbd                                                            | https://github.com/linuxserver/docker-sabnzbd
+serve:archive:-                  | 000   | Sabnzbd                                                            | https://github.com/linuxserver/docker-sabnzbd
 serve:arr:-                      | 00   | Bazarr                                                             | https://github.com/morpheus65535/bazarr
 serve:arr:-                      | 00   | Prowlarr                                                           | https://github.com/Prowlarr/Prowlarr
 serve:arr:-                      | 00   | Raddrr                                                             | https://github.com/linuxserver/docker-radarr
@@ -3594,7 +3601,7 @@ serve:editor:-                   | 00   | Rustpad                               
 serve:erp:-                      | 00   | ERPNext                                                            | https://github.com/frappe/erpnext
 serve:erp:-                      | 00   | Ever Gauzy Platform                                                | https://github.com/ever-co/ever-gauzy
 serve:erp:-                      | 00   | eShop                                                              | https://github.com/dotnet/eShop
-serve:file-share:-               | 001  | Pydio-cells                                                        | https://github.com/linuxserver/docker-pydio-cells
+serve:file-share:-               | 000  | Pydio-cells                                                        | https://github.com/linuxserver/docker-pydio-cells
 serve:finance:-                  | 000  | Akaunting                                                          | https://github.com/akaunting/akaunting
 serve:finance:-                  | 000  | maybe                                                              | https://github.com/maybe-finance/maybe
 serve:firewall:-                 | 00   | pfSense                                                            | https://github.com/pfsense/pfsense
@@ -3604,15 +3611,15 @@ serve:git:-                      | 00   | Gogs                                  
 serve:git:-                      | 00   | git-sync                                                           | https://github.com/kubernetes/git-sync
 serve:git:-                      | 001  | jj                                                                 | https://github.com/martinvonz/jj
 serve:home-assistant:-           | 00   | Home Assistant                                                     | https://github.com/home-assistant/core
-serve:homepage:-                 | 00   | CasaOS                                                             | https://github.com/IceWhaleTech/CasaOS
+serve:homepage:-                 | 001   | CasaOS                                                             | https://github.com/IceWhaleTech/CasaOS
 serve:host:-                     | 00   | YunoHost                                                           | https://yunohost.org
 serve:host:-                     | 00   | coolify                                                            | https://github.com/coollabsio/coolify
 serve:image-board:-              | 00   | danbooru                                                           | https://github.com/danbooru/danbooru
 serve:image:-                    | 00   | dive                                                               | https://github.com/wagoodman/dive
 serve:image:pull                 | 00   | Stargz Snapshotter                                                 | https://github.com/containerd/stargz-snapshotter
 serve:ims:-                      | 00   | Grocy                                                              | https://grocy.info
-serve:ims:-                      | 00   | HomeBox                                                            | https://github.com/hay-kot/homebox
-serve:ims:-                      | 00   | InvenTree                                                          | https://github.com/inventree/inventree
+serve:ims:-                      | 000   | HomeBox                                                            | https://github.com/hay-kot/homebox
+serve:ims:-                      | 001   | InvenTree                                                          | https://github.com/inventree/inventree
 serve:jackett:-                  | 11   | Jackett                                                            | https://github.com/Jackett/Jackett
 serve:jackett:-                  | 11   | jackett.md                                                         | https://gist.github.com/wilmardo/cffb41d694edd069c28d585d2e20e0fc
 serve:jellyfin:-                 | 00   | Jellyfin                                                           | https://jellyfin.org/
@@ -3666,7 +3673,7 @@ serve:voice-assistant:-          | 00   | Leon                                  
 serve:voice-assistant:-          | 00   | Naomi                                                              | https://github.com/NaomiProject/Naomi
 serve:web-security:-             | 00   | BunkerWeb                                                          | https://github.com/bunkerity/bunkerweb
 serve:webdav:-                   | 00   | webdav                                                             | https://github.com/hacdias/webdav
-serve:wireles:-                  | 000  | Unifi-controller                                                   | https://github.com/linuxserver/docker-unifi-controller
+serve:wireles:-                  | 001  | Unifi-network-application                                          | https://github.com/linuxserver/docker-unifi-network-application
 serve:write:-                    | 001  | HedgeDoc                                                           | https://github.com/linuxserver/docker-hedgedoc
 shell:-:-                        | 00   | Nushell                                                            | https://nushell.sh
 shell:ai:complete                | 00   | tabby                                                              | https://github.com/TabbyML/tabby
