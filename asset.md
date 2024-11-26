@@ -30,3 +30,4 @@ ai:image           | 00   | Art style gallery                             | http
 krita:brush        | 00   | Metallics by Draneria                         | https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes
 imagemagick:script | 10   | Fred's ImageMagick Scripts                    | http://www.fmwconcepts.com/imagemagick/filmgrain/index.php
 model:naruto | 00 | NARUTO-HandSignDetection | https://github.com/Kazuhito00/NARUTO-HandSignDetection
+data:visualization | 00 | 1 dataset 100 visualizations | https://100.datavizproject.com/

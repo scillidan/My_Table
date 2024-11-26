@@ -26,7 +26,7 @@ entry    | `represent`               | [Etymonline](https://www.etymonline.com/w
 entry    | `rom`                     | [Dictionary of ROMhacking Terms](https://www.romhacking.net/dictionary/?page=dictionary)
 entry    | `self-contained`          | [jmdict-simplified](https://github.com/scriptin/jmdict-simplified#why)
 entry    | `smb`                     | [ES-DE Frontend - Userguide](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#placing-games-and-other-resources-on-network-shares)
-entry    | `telemetry`               | [LaTeX Utilities](https://github.com/tecosaur/LaTeX-Utilities)
+entry    | `telemetry`               | [Telemetry](https://docs.langflow.org/contributing-telemetry)
 entry    | `time-tested`             | [zk](https://github.com/sirupsen/zk)
 lession  | `commit`                  | [Conventional Commits](https://www.conventionalcommits.org)
 lession  | `design pattern`          | [Design Patterns Revisited](https://gameprogrammingpatterns.com/design-patterns-revisited.html)
