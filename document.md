@@ -3,6 +3,7 @@ group      | link
 config     | [Neovim](https://github.com/potamides/dotfiles/blob/master/.config/nvim/init.lua)
 document   | [AutoHotkey](https://www.autohotkey.com/docs/v2/)
 document   | [Bastard Keyboards](https://docs.bastardkb.com/)
+document   | [Beancount Documentation](https://beancount.github.io/docs/index.html)
 document   | [ClamAV](https://docs.clamav.net/)
 document   | [Clink](https://chrisant996.github.io/clink/clink.html)
 document   | [FFmpeg](https://ffmpeg.org/ffmpeg.html)

@@ -47,6 +47,7 @@ andriod:app:-                    | 00   | Obtainium                             
 andriod:app:-                    | 00   | Qalculate!                                                         | https://f-droid.org/packages/com.jherkenhoff.qalculate
 andriod:app:-                    | 00   | Stride                                                             | https://github.com/stride-tasks/stride
 andriod:app:-                    | 11   | Neo Store                                                          | https://github.com/NeoApplications/Neo-Store
+andriod:app:-                    | 11   | Readium Kotlin Toolkit                                             | https://github.com/readium/kotlin-toolkit
 andriod:bible:-                  | 00   | and-bible                                                          | https://github.com/AndBible/and-bible
 andriod:bookmark:-               | 00   | floccus bookmark sync                                              | https://github.com/floccusaddon/floccus
 andriod:browser:-                | 00   | Brave                                                              | https://github.com/brave/brave-browser
@@ -503,6 +504,9 @@ chrome:mpv:-                     | 00   | open-in-mpv                           
 chrome:ocr:-                     | 00   | OCR - Image Reader                                                 | https://webextension.org/listing/ocr.html
 chrome:open:-                    | 00   | Open In Firefox                                                    | https://webextension.org/listing/open-in.html
 chrome:open:-                    | 00   | Open in new tab                                                    | https://chrome.google.com/webstore/detail/open-in-new-tab/cplillmhmcegjlhcbedmgmalbgjpmlkh
+chrome:ai:-                       | 11 | Page Assist | https://github.com/n4ze3m/page-assist
+chrome:data:- | 00 | SF Explorer | https://info.sf-explorer.com
+chrome:read:- | 00 | Feedbro | https://nodetics.com/feedbro
 chrome:player:-                  | 00   | Global Speed                                                       | https://github.com/polywock/globalSpeed
 chrome:player:-                  | 11   | asbplayer                                                          | https://github.com/killergerbah/asbplayer
 chrome:quick:-                   | 00   | QuicKey                                                            | https://github.com/fwextensions/QuicKey
@@ -1184,6 +1188,7 @@ game:war3:-                      | 00   | W3x2Lni                               
 game:war3:-                      | 00   | war3map                                                            | https://github.com/invoker-bot/war3map
 game:war3:server                 | 00   | EuropeBattle                                                       | https://europebattle.net/w3/
 git:-:-                          | 00   | Git                                                                | https://git-scm.com
+git:action                       | 001  | Howto Deploy LaTeX Documents                                       | https://github.com/SimonWaldherr/HowTo-Deploy-LaTeX-Documents
 git:action:-                     | 00   | GitHub Actions Runner Images                                       | https://github.com/actions/runner-images
 git:action:-                     | 10   | act                                                                | https://github.com/nektos/act
 git:cli:-                        | 00   | bit                                                                | https://github.com/chriswalz/bit
@@ -3714,6 +3719,8 @@ site:hugo:blog                   | 00   | Hugo Apéro                           
 site:hugo:blog                   | 00   | risotto                                                            | https://github.com/joeroe/risotto
 site:hugo:component              | 00   | hugo-lightslider-example                                           | https://github.com/jochumdev/hugo-lightslider-example
 site:hugo:component              | 11   | hugo-shortcode-gallery                                             | https://github.com/mfg92/hugo-shortcode-gallery
+site:hugo:-                      | 001  | Hugo Theme: Console | https://github.com/mrmierzejewski/hugo-theme-console
+site:hugo:document               | 001  | Shadocs theme for Hugo | https://github.com/jgazeau/shadocs
 site:hugo:document               | 00   | Lotus Docs                                                         | https://themes.gohugo.io/themes/lotusdocs/
 site:hugo:document               | 00   | testbook                                                           | https://github.com/maelle/testbook
 site:hugo:document               | 11   | hugo-book                                                          | https://github.com/alex-shpak/hugo-book
