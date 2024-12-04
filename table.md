@@ -211,7 +211,8 @@ archive:-:-                      | 00   | Gzip for Windows                      
 archive:-:-                      | 00   | Universal Extractor 2                                              | https://github.com/Bioruebe/UniExtract2
 archive:-:-                      | 10   | UnRar for Windows                                                  | https://gnuwin32.sourceforge.net/packages/unrar.htm
 archive:-:-                      | 11   | 7zip                                                               | https://7-zip.org
-audio:convert:multi              | 00   | music-tools                                                        | https://github.com/mauvedeity/music-tools
+audio:convert:-                   | 00  | Audiomass | https://github.com/jeanslack/audiomass       
+audio:convert:-                   | 00   | music-tools                                                        | https://github.com/mauvedeity/music-tools
 audio:cue:-                      | 10   | CUETools                                                           | https://cue.tools/wiki/Main_Page
 audio:cue:-                      | 10   | fre:ac                                                             | https://freac.org
 audio:cut:-                      | 00   | Auto-Editor                                                        | https://github.com/WyattBlue/auto-editor
@@ -1591,6 +1592,7 @@ graphic:cad:-                    | 00   | KiKit – Automation for KiCAD        
 graphic:cad:-                    | 00   | Logisim-evolution                                                  | https://github.com/logisim-evolution/logisim-evolution
 graphic:cad:-                    | 00   | OpenSCAD                                                           | https://github.com/openscad/openscad
 graphic:cad:-                    | 00   | QCAD                                                               | https://qcad.org
+graphic:geo:-                    | 00   | Therion                                                            | https://therion.speleo.sk
 graphic:geo:-                    | 00   | 2D-isoedit                                                         | https://github.com/Grille/2D-isometricRenderer
 graphic:geo:-                    | 00   | QGIS                                                               | https://qgis.org
 graphic:geo:-                    | 00   | Rasterio                                                           | https://github.com/rasterio/rasterio
@@ -1620,6 +1622,11 @@ gui:git:github                   | 00   | GitHub Desktop                        
 gui:rename:-                     | 00   | ReNamer                                                            | https://den4b.com/products/renamer
 gui:rename:-                     | 11   | Advanced Renamer                                                   | https://advancedrenamer.com
 gui:thumbnail:-                  | 00   | qmtn                                                               | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
+hardware:mouse:- | 00 | Statial.b Adjustable Mouse | https://github.com/PyottDesign/Statial-b
+hardware:pc:- | 00 | Pi Terminal | https://github.com/sb-ocr/pi-terminal
+hardware:keyboard:- | 001 | Ocreeb MK2 | https://github.com/sb-ocr/ocreeb-mk-2
+hardware:mouse:- | 00 | DIY Spacemouse for Fusion 360 | https://github.com/sb-ocr/diy-spacemouse
+hardware:mouse:- | 001 | Orbion The OpenSource 3D Space Mouse | https://github.com/FaqT0tum/Orbion_3D_Space_Mouse
 hardware:rpi:-                   | 00   | RPi UPSPack V3                                                     | https://github.com/raspberrypi-tw/UPSPACK_V3
 hardware:eink:-                  | 00   | EPDiy E-Paper Driver                                               | https://github.com/vroland/epdiy
 hardware:archivist:-             | 00   | Archivist                                                          | https://diybookscanner.org/archivist/index.html
@@ -1988,6 +1995,7 @@ library:ruby:-                   | 11   | rbenv for Windows                     
 library:ruby:-                   | 11   | rvm                                                                | https://github.com/rvm/rvm
 library:tui:-                    | 00   | Typer                                                              | https://github.com/tiangolo/typer
 library:yomichan:-               | 001  | Jitendex                                                           | https://github.com/stephenmk/Jitendex
+linux:draw:- | 00 | ASCII Draw | https://github.com/Nokse22/ascii-draw
 linux:audio:-                    | 00   | NoiseTorch-ng                                                      | https://github.com/noisetorch/NoiseTorch
 linux:desktop:theme              | 00   | Material-Original gtk theme                                        | https://github.com/Macintosh98/Material-Original
 linux:dotfiles:-                 | 00   | @diffficult                                                        | https://github.com/diffficult/dotfiles_220
@@ -4218,6 +4226,7 @@ window:tool:-                    | 00   | Zen Windows                           
 window:tool:-                    | 10   | NiftyWindows                                                       | https://github.com/ahkscript/NiftyWindows
 window:tool:-                    | 11   | DeskPins                                                           | https://efotinis.neocities.org/deskpins
 window:virtual-desktop:-         | 00   | SylphyHorn                                                         | https://github.com/Grabacr07/SylphyHorn
+windows:screen:share             | 00  |  Bananas Screen Sharing | https://github.com/mistweaverco/bananas
 windows:window:-                 | 10   | virgo                                                              | https://github.com/henkman/virgo
 windows:window:-                 | 11   | zVirtualDesktop                                                    | https://github.com/mzomparelli/zVirtualDesktop
 write:grammer:comment            | 001  | languagetool-code-comments                                         | https://github.com/dustinblackman/languagetool-code-comments
