@@ -3583,6 +3583,7 @@ security:hash:-                  | 00   | QuickDash                             
 security:hash:-                  | 00   | QuickSFV                                                           | https://quicksfv.org/
 security:hash:-                  | 00   | RapidCRC Unicode                                                   | https://ov2.eu/programs/rapidcrc-unicode
 security:hash:-                  | 11   | OpenHashTab                                                        | https://github.com/namazso/OpenHashTab
+serve:alert:- | 00 | Keep | https://github.com/keephq/keep
 serve:activitywatch:-            | 00   | aw-watcher-input                                                   | https://github.com/ActivityWatch/aw-watcher-input
 serve:activitywatch:-            | 00   | aw-watcher-utilization                                             | https://github.com/Alwinator/aw-watcher-utilization
 serve:activitywatch:-            | 11   | ActivityWatch                                                      | https://github.com/ActivityWatch/activitywatch
