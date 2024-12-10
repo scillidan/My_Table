@@ -1039,6 +1039,7 @@ editor:tui:-                     | 00   | micro                                 
 email:-:-                        | 00   | SeaMonkey                                                          | https://seamonkey-project.org
 email:-:-                        | 11   | Thunderbird                                                        | https://thunderbird.net
 email:cli:-                      | 00   | PingMe CLI                                                         | https://github.com/kha7iq/pingme
+email:cli:- | 00 | Himalaya | https://github.com/pimalaya/himalaya
 emulator:batocera:linux          | 00   | Batocera.linux                                                     | https://github.com/batocera-linux/batocera.linux
 emulator:bios:-                  | 01   | Retro BIOSes                                                       | https://github.com/Abdess/retroarch_system
 emulator:data:neo                | 00   | FinalBurn Neo                                                      | https://github.com/libretro/FBNeo
@@ -2627,6 +2628,7 @@ neovim:colorcheme:-              | 00   | lackluster                            
 neovim:colorcheme:-              | 00   | newpaper.nvim                                                      | https://github.com/yorik1984/newpaper.nvim
 neovim:colorcheme:-              | 00   | northernlights.vim                                                 | https://github.com/m-gail/northernlights.vim
 neovim:colorcheme:-              | 11   | Tokyo Night                                                        | https://github.com/folke/tokyonight.nvim
+neovim:complete:- | 00 | compl.nvim | https://github.com/brianaung/compl.nvim
 neovim:comment:-                 | 00   | Comment.nvim                                                       | https://github.com/numToStr/Comment.nvim
 neovim:comment:-                 | 00   | nvim-hemingway                                                     | https://github.com/chaosystema/nvim-hemingway
 neovim:comment:-                 | 00   | ts-comments.nvim                                                   | https://github.com/folke/ts-comments.nvim
@@ -2639,6 +2641,7 @@ neovim:console:-                 | 00   | trun.nvim                             
 neovim:console:-                 | 11   | flow.nvim                                                          | https://github.com/arjunmahishi/flow.nvim
 neovim:console:-                 | 11   | telescope-cmdline.nvim                                             | https://github.com/jonarrien/telescope-cmdline.nvim
 neovim:console:-                 | 11   | toggleterm.nvim                                                    | https://github.com/akinsho/toggleterm.nvim
+neovim:console:- | 00 | Lua console | https://github.com/YaroSpace/lua-console.nvim
 neovim:copilot:-                 | 00   | ChatGPT.nvim                                                       | https://github.com/jackMort/ChatGPT.nvim
 neovim:copilot:-                 | 00   | CodeCompanion                                                      | https://github.com/olimorris/codecompanion.nvim
 neovim:copilot:-                 | 00   | Telescope GPT                                                      | https://github.com/HPRIOR/telescope-gpt
@@ -2755,6 +2758,8 @@ neovim:jump:-                    | 00   | jumper.nvim                           
 neovim:jump:-                    | 00   | telescope-hop.nvim                                                 | https://github.com/nvim-telescope/telescope-hop.nvim
 neovim:jump:-                    | 00   | telescope-z.nvim                                                   | https://github.com/nvim-telescope/telescope-z.nvim
 neovim:jump:-                    | 11   | Telescope Zoxide                                                   | https://github.com/jvgrootveld/telescope-zoxide
+neovim:jump:- | 00 | telescope-heading.nvim | https://github.com/crispgm/telescope-heading.nvim
+neovim:jump:- | 00 | arena.nvim | https://github.com/dzfrias/arena.nvim
 neovim:keymap:-                  | 00   | keymap-stats.nvim                                                  | https://github.com/gmatheu/keymap-stats.nvim
 neovim:keymap:-                  | 000  | Mapper                                                             | https://github.com/gregorias/nvim-mapper
 neovim:keymap:-                  | 11   | Which Key                                                          | https://github.com/folke/which-key.nvim
@@ -2861,8 +2866,10 @@ neovim:statusline:-              | 00   | battery.nvim                          
 neovim:statusline:-              | 00   | lsp-progress.nvim                                                  | https://github.com/linrongbin16/lsp-progress.nvim
 neovim:statusline:-              | 00   | yasl.nvim                                                          | https://github.com/brianaung/yasl.nvim
 neovim:statusline:-              | 11   | lualine.nvim                                                       | https://github.com/nvim-lualine/lualine.nvim
+neovim:statusline:- | 00 | slimline.nvim | https://github.com/sschleemilch/slimline.nvim
 neovim:subtitle:-                | 00   | interlaced.nvim                                                    | https://github.com/tanloong/interlaced.nvim
 neovim:syntax:-                  | 00   | Decisive.nvim                                                      | https://github.com/emmanueltouzery/decisive.nvim
+neovim:syntax:- | 00 | toggle-quotes.nvim | https://github.com/paul-louyot/toggle-quotes.nvim
 neovim:syntax:-                  | 00   | nvim-lilypond-suite                                                | https://github.com/martineausimon/nvim-lilypond-suite
 neovim:syntax:-                  | 00   | peek.nvim                                                          | https://github.com/toppair/peek.nvim
 neovim:syntax:-                  | 00   | vim-typo                                                           | https://github.com/tani/vim-typo
@@ -2872,6 +2879,7 @@ neovim:tab:-                     | 00   | tele-tabby.nvim                       
 neovim:tab:-                     | 11   | tabout.nvim                                                        | https://github.com/abecodes/tabout.nvim
 neovim:tab:-                     | 11   | telescope-tabs                                                     | https://github.com/LukasPietzschmann/telescope-tabs
 neovim:table:-                   | 11   | A markdown table editor                                            | https://github.com/SCJangra/table-nvim
+neovim:table:-  | 01 | csvview.nvim | https://github.com/hat0uma/csvview.nvim
 neovim:task:-                    | 00   | Telescope tasks                                                    | https://github.com/lpoto/telescope-tasks.nvim
 neovim:task:-                    | 00   | overseer.nvim                                                      | https://github.com/stevearc/overseer.nvim
 neovim:task:-                    | 00   | telescope-asynctasks.nvim                                          | https://github.com/GustavoKatel/telescope-asynctasks.nvim
@@ -2902,10 +2910,12 @@ neovim:ui:colorscheme            | 00   | colorbox.nvim                         
 neovim:uml:-                     | 00   | nvim-soil                                                          | https://github.com/chaosystema/nvim-soil
 neovim:version:-                 | 00   | Bob                                                                | https://github.com/MordechaiHadad/bob
 neovim:watch:-                   | 00   | funzzy.nvim                                                        | https://github.com/cristianoliveira/funzzy.nvim
+neovim:window:- | 00 | Vimade | https://github.com/TaDaa/vimade
 neovim:window:-                  | 00   | WinShift.nvim                                                      | https://github.com/sindrets/winshift.nvim
 neovim:window:-                  | 00   | tint.nvim                                                          | https://github.com/levouh/tint.nvim
 neovim:window:print              | 00   | Trouble                                                            | https://github.com/folke/trouble.nvim
 neovim:workspace:-               | 00   | workspaces.nvim                                                    | https://github.com/natecraddock/workspaces.nvim
+neovim:yank:- | 00 | yanklock.nvim | https://github.com/daltongd/yanklock.nvim
 neovim:yank:-                    | 00   | YankBank                                                           | https://github.com/ptdewey/yankbank-nvim
 neovim:yank:-                    | 00   | karen-yank                                                         | https://github.com/tenxsoydev/karen-yank.nvim
 neovim:yank:-                    | 00   | yanklines.nvim                                                     | https://github.com/obergodmar/yanklines.nvim
@@ -3146,7 +3156,8 @@ pdf:printer:-                    | 11   | clawPDF                               
 pdf:reader:-                     | 00   | MuPDF                                                              | https://mupdf.com
 pdf:reader:-                     | 00   | Thorium                                                            | https://github.com/edrlab/thorium-reader
 pdf:reader:-                     | 00   | XpdfReader                                                         | https://xpdfreader.com/download.html
-pdf:reader:-                     | 11   | Sumatra PDF                                                        | https://sumatrapdfreader.org/free-pdf-reader
+pdf:reader:-                     | 00   | Sumatra PDF                                                        | https://sumatrapdfreader.org/free-pdf-reader
+pdf:reader:- | 11 | PDF Reader | https://www.foxit.com/pdf-reader/
 pdf:serve:-                      | 00   | ZombieLib2                                                         | https://github.com/patexoid/ZombieLib2
 pdf:serve:-                      | 00   | dir2opds                                                           | https://github.com/dubyte/dir2opds
 pdf:signature:-                  | 00   | GnuPG                                                              | https://gnupg.org/
@@ -4011,6 +4022,7 @@ translate:-:-                    | 00   | LunaTranslator                        
 translate:-:-                    | 00   | OpenAl Translator                                                  | https://github.com/openai-translator/openai-translator
 translate:deepl:deeplx           | 00   | DeepLX                                                             | https://github.com/OwO-Network/DeepLX
 translate:deepl:deeplx           | 00   | DeepLX Vercel                                                      | https://github.com/bropines/Deeplx-vercel
+video:duplicate:- | 00 | Video Duplicate Finder | https://github.com/0x90d/videoduplicatefinder
 video:2ascii:-                   | 00   | video-to-ascii                                                     | https://github.com/joelibaceta/video-to-ascii
 video:2ass:-                     | 00   | python-srt2ass                                                     | https://github.com/ewwink/python-srt2ass
 video:2gif:-                     | 00   | Seamless                                                           | https://github.com/Quozul/seamless
@@ -4193,6 +4205,7 @@ vscode:icon:-                    | 11   | Icons                                 
 vscode:image:-                   | 00   | Image Preview                                                      | https://github.com/kisstkondoros/gutter-preview
 vscode:latex:-                   | 00   | LaTeX Utilities                                                    | https://github.com/tecosaur/LaTeX-Utilities
 vscode:latex:-                   | 11   | LaTeX Workshop                                                     | https://github.com/James-Yu/LaTeX-Workshop
+vscode:latex:- | 11 |LTeX – LanguageTool grammar/spell checking | https://github.com/valentjn/vscode-ltex
 vscode:log:-                     | 11   | Output Colorizer                                                   | https://github.com/IBM-Cloud/vscode-log-output-colorizer
 vscode:markdown:-                | 00   | Foam                                                               | https://github.com/foambubble/foam
 vscode:project:-                 | 00   | Project Manager                                                    | https://github.com/alefragnani/vscode-project-manager
@@ -4233,6 +4246,7 @@ windows:window:-                 | 11   | zVirtualDesktop                       
 write:grammer:comment            | 001  | languagetool-code-comments                                         | https://github.com/dustinblackman/languagetool-code-comments
 write:mrammar:-                  | 001  | LanguageTool                                                       | https://github.com/languagetool-org/languagetool
 zsh:-:-                          | 11   | Oh My Zsh                                                          | https://github.com/ohmyzsh/ohmyzsh
+zsh:history:- | 11 | zsh-history-on-success | https://github.com/nyoungstudios/zsh-history-on-success
 zsh:backup:-                     | 00   | zshrc-sync                                                         | https://github.com/Skylor-Tang/zshrc-sync
 zsh:backup:-                     | 10   | Zsnapshot                                                          | https://github.com/zdharma-continuum/zsnapshot
 zsh:banner:-                     | 00   | zsh-banner                                                         | https://github.com/drkhsh/zsh-banner

@@ -118,3 +118,4 @@ wsl                   | 00  | [Unregister or uninstall a Linux distribution](htt
 wsl                   | 00  | [Windows Subsystem for Linux (WSL)](https://ubuntu.com/desktop/wsl)
 wsl:docker            | 00  | [Start containers automatically](https://docs.docker.com/engine/containers/start-containers-automatically/)
 youtube               | 10  | [YouTube recommended upload encoding settings](https://support.google.com/youtube/answer/1722171)
+excel                 | 00  | [Excel Hyperlinks Run Command Files](https://contexturesblog.com/archives/2017/09/14/excel-hyperlinks-run-command-files/)
