@@ -18,9 +18,6 @@ windows:cursor     | 00   | mini.cur                                            
 ui:-               | 00   | shadcn/ui                                                                                     | https://github.com/shadcn-ui/ui
 image:-            | 00   | Analogue openFPGA Platform Art Set                                                            | https://github.com/spiritualized1997/openFPGA-Platform-Art-Set
 license:-          | 00   | Creative Commons Licenses for GitHub Projects                                                 | https://github.com/santisoler/cc-licenses
-cheatsheet:-       | 00   | ISO-3166-Countries-with-Regional-Codes                                                        | https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv)
-cheatsheet:-       | 00   | HTML Characters                                                                               | https://cheatsheets.zip/html-char
-cheatsheet:-       | 00   | RegEX                                                                                         | https://cheatsheets.zip/regex
 dotfile:i3         | 00   | statusBar                                                                                     | http://dotshare.it/dots/24/
 dotfile:i3         | 00   | UnaSemana                                                                                     | http://dotshare.it/dots/307/
 dotfile:i3         | 00   | boring2                                                                                       | http://dotshare.it/dots/588/
@@ -42,6 +39,7 @@ workflow:notify    | 00   | Monitor a file for changes and send an alert        
 workflow:backup    | 00   | Backup workflows to GitHub                                                                    | https://n8n.io/workflows/1222-backup-workflows-to-github/
 workflow:backup    | 00   | Save your workflows into a Gitlab repository                                                  | https://n8n.io/workflows/2385-save-your-workflows-into-a-gitlab-repository/
 workflow:backup    | 00   | Backup your credentials to GitHub                                                             | https://n8n.io/workflows/2307-backup-your-credentials-to-github/
-workflow:-         | 00  | Archive Spotify's discover weekly playlist                                                    | https://n8n.io/workflows/697-archive-spotifys-discover-weekly-playlist/
+workflow:-         | 00   | Archive Spotify's discover weekly playlist                                                    | https://n8n.io/workflows/697-archive-spotifys-discover-weekly-playlist/
 workflow:-         | 001  | Create an RSS feed based on a website's content                                               | https://n8n.io/workflows/1418-create-an-rss-feed-based-on-a-websites-content/
 workflow:translate | 00   | Translate cocktail instructions using DeepL                                                   | https://n8n.io/workflows/998-translate-cocktail-instructions-using-deepl/
+font:- | 00 | Iosevka | https://typeof.net/Iosevka/

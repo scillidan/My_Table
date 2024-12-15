@@ -1011,7 +1011,8 @@ editor:journal:tui               | 00   | Caps-Log                              
 editor:jupter:-                  | 00   | JupyterLab                                                         | https://jupyter.org
 editor:jupyter:-                 | 00   | euporie                                                            | https://github.com/joouha/euporie
 editor:latex:-                   | 00   | KLatexFormula                                                      | https://klatexformula.sourceforge.io
-editor:latex:-                   | 00   | MiKTeX                                                             | https://miktex.org
+editor:latex:-                   | 11   | MiKTeX                                                             | https://miktex.org
+editor:latex:-                   | 01   | TeXFindPkg | https://github.com/lvjr/texfindpkg
 editor:latex:-                   | 00   | Texmaker                                                           | https://xm1math.net/texmaker
 editor:lite-xl:-                 | 00   | Lite XL                                                            | https://github.com/lite-xl/lite-xl
 editor:lite-xl:-                 | 00   | Lite XL colors                                                     | https://github.com/lite-xl/lite-xl-colors
@@ -3139,6 +3140,7 @@ pcb:kit:-                        | 00   | LibrePCB                              
 pdf:2epub:-                      | 00   | tei2html                                                           | https://github.com/jhellingman/tei2html
 pdf:2epub:-                      | 001  | WordDumb                                                           | https://github.com/xxyzz/WordDumb
 pdf:2jpg:-                       | 00   | PDF to JPG                                                         | https://github.com/kubaszostak/pdf-to-jpg
+pdf:2pdf:- | 10 | dvisvgm | https://github.com/mgieseki/dvisvgm
 pdf:2pdf:-                       | 00   | Imap                                                               | https://github.com/skinan/imap-Image-to-PDF-Converter-Application-For-Windows
 pdf:2pdf:-                       | 00   | img2pdf                                                            | https://github.com/josch/img2pdf
 pdf:analysis:-                   | 00   | Pdfalyzer                                                          | https://github.com/michelcrypt4d4mus/pdfalyzer
@@ -4067,6 +4069,7 @@ video:mkv:-                      | 00   | MKVToolNix Batch Tool                 
 video:mkv:-                      | 00   | MakeMKV                                                            | https://www.makemkv.com
 video:mkv:-                      | 10   | MKVToolNix                                                         | https://mkvtoolnix.download
 video:player:-                   | 00   | GridPlayer                                                         | https://github.com/vzhd1701/gridplayer
+video:player:- |00 | Madamiru | https://github.com/mtkennerly/madamiru/
 video:player:-                   | 00   | ImPlay                                                             | https://github.com/tsl0922/ImPlay
 video:player:-                   | 00   | Kawaii-Player                                                      | https://github.com/kanishka-linux/kawaii-player
 video:player:-                   | 00   | MMP: Minimalist Media Player                                       | https://github.com/BazzaCuda/MinimalistMediaPlayerX
@@ -4205,7 +4208,8 @@ vscode:icon:-                    | 11   | Icons                                 
 vscode:image:-                   | 00   | Image Preview                                                      | https://github.com/kisstkondoros/gutter-preview
 vscode:latex:-                   | 00   | LaTeX Utilities                                                    | https://github.com/tecosaur/LaTeX-Utilities
 vscode:latex:-                   | 11   | LaTeX Workshop                                                     | https://github.com/James-Yu/LaTeX-Workshop
-vscode:latex:- | 11 |LTeX – LanguageTool grammar/spell checking | https://github.com/valentjn/vscode-ltex
+vscode:latex:- | 00 | TexLab | https://github.com/latex-lsp/texlab
+vscode:latex:- | 11 | LTeX – LanguageTool grammar/spell checking | https://github.com/valentjn/vscode-ltex
 vscode:log:-                     | 11   | Output Colorizer                                                   | https://github.com/IBM-Cloud/vscode-log-output-colorizer
 vscode:markdown:-                | 00   | Foam                                                               | https://github.com/foambubble/foam
 vscode:project:-                 | 00   | Project Manager                                                    | https://github.com/alefragnani/vscode-project-manager
