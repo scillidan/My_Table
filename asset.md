@@ -32,7 +32,6 @@ imagemagick:script | 10   | Fred's ImageMagick Scripts                          
 model:naruto       | 00   | NARUTO-HandSignDetection                                                                      | https://github.com/Kazuhito00/NARUTO-HandSignDetection
 data:visualization | 00   | 1 dataset 100 visualizations                                                                  | https://100.datavizproject.com/
 data:bibliography  | 00   | Supported entry types                                                                         | https://www.overleaf.com/learn/latex/Bibliography_management_with_biblatex
-class:latex        | 00   | CTAN                                                                                          | https://ctan.org/topic/class
 workflow:-         | 00   | Notion AI Assistant Generator                                                                 | https://n8n.io/workflows/2415-notion-ai-assistant-generator/
 workflow:-         | 00   | Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB | https://n8n.io/workflows/2180-scrape-and-summarize-posts-of-a-news-site-without-rss-feed-using-ai-and-save-them-to-a-nocodb/
 workflow:-         | 00   | Extract post titles from a blog                                                               | https://n8n.io/workflows/434-extract-post-titles-from-a-blog/
@@ -46,3 +45,5 @@ workflow:-         | 00   | Archive Spotify's discover weekly playlist          
 workflow:-         | 00   | Create an RSS feed based on a website's content                                               | https://n8n.io/workflows/1418-create-an-rss-feed-based-on-a-websites-content/
 workflow:translate | 00   | Translate cocktail instructions using DeepL                                                   | https://n8n.io/workflows/998-translate-cocktail-instructions-using-deepl/
 font:-             | 00   | Iosevka                                                                                       | https://typeof.net/Iosevka/
+poster:-           | 00   | System Design 101                                                                             | https://github.com/ByteByteGoHq/system-design-101
+krita:brush | 00 | STIPPLE BEAST EVOLVED | Brush Pack | https://tombofnull.itch.io/stipple-beast-evolved-brush-pack

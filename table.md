@@ -2329,6 +2329,9 @@ mkdocs:video:-                   | 11   | MkDocs Video                          
 mkdocs:video:-                   | 11   | mkdocs-asciinema-player                                            | https://github.com/pa-decarvalho/mkdocs-asciinema-player
 mouse:tool:-                     | 00   | EitherMouse                                                        | https://eithermouse.com
 mouse:tool:-                     | 00   | Input Director                                                     | https://inputdirector.com
+mpd:-:- | 00  | Music Player Daemon | https://github.com/MusicPlayerDaemon/MPD
+mpd:client:- | 00 | MMC4W - Minimal MPD Client for Windows | https://github.com/drgerg/mmc4w
+mpd:client:- | 00 | mpq | https://github.com/codesoap/mpq
 mpv:-:-                          | 11   | mpv                                                                | https://mpv.io
 mpv:anime:-                      | 00   | Keroro                                                             | https://github.com/hotsno/keroro
 mpv:anki:-                       | 00   | Immersive                                                          | https://github.com/Ben-Kerman/immersive
@@ -2613,6 +2616,7 @@ music:tui:-                      | 00   | grump                                 
 music:tui:-                      | 00   | musikcube                                                          | https://musikcube.com
 music:tui:linux                  | 00   | Harmony Music                                                      | https://github.com/ZingyTomato/Harmony-Music
 neovim:-:-                       | 11   | Neovim                                                             | https://neovim.io
+neovim:complete:- | 00 | Blink Completion (blink.cmp) | https://github.com/Saghen/blink.cmp
 neovim:audio:-                   | 001  | reverb.nvim                                                        | https://github.com/whleucka/reverb.nvim
 neovim:bible:-                   | 00   | bible-verse.nvim                                                   | https://github.com/anthony-halim/bible-verse.nvim
 neovim:bookmark:-                | 10   | Lspmark.nvim                                                       | https://github.com/tristone13th/lspmark.nvim
@@ -3969,6 +3973,8 @@ sync:rclone:-                    | 00   | RcloneTray                            
 sync:rclone:-                    | 10   | Rclone                                                             | https://github.com/rclone/rclone
 sync:syncthing:-                 | 00   | Syncthing                                                          | https://syncthing.net
 sync:syncthing:-                 | 11   | Syncthing Tray                                                     | https://github.com/Martchus/syncthingtray
+terminal:-:- | 00 | Wave Terminal | https://github.com/wavetermdev/waveterm
+terminal:-:- | 00 | Termo | https://termo.rajnandan.com/
 terminal:alacritty:-             | 11   | Alacritty                                                          | https://github.com/alacritty/alacritty
 terminal:alacritty:-             | 11   | Alacritty Theme                                                    | https://github.com/alacritty/alacritty-theme
 terminal:alacritty:setting       | 00   | Alacritty Settings                                                 | https://github.com/jwu/alacritty-settings
