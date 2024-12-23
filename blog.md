@@ -25,6 +25,7 @@ blog  | `typography`            | [Humane Typography in the Digital Age](https:/
 blog  | `write`                 | [Writing lessons learned after writing a book](https://www.jonashietala.se/blog/2023/11/25/writing_lessons_learned_after_writing_a_book/)
 blog  | `web-app`               | [Why Web Apps Disappoint Me](https://entropicthoughts.com/why-web-apps-disappoint-me)
 book  | `resin`                 | [Hobby CAD, CNC machining, and resin casting](https://lcamtuf.coredump.cx/gcnc/full/)
+book  | `essays`                | [HyperEssays](https://hyperessays.net/)
 note  | `beancount`             | [『Beancount指南』复式记账](https://fermi.ink/posts/2023/05/31/01/)
 note  | `cdn`                   | [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
 note  | `cloud storage`         | [We have cloud at home](https://nielscautaerts.xyz/we-have-cloud-at-home.html)

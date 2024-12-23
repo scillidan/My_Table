@@ -3479,11 +3479,14 @@ sd-webui:anime:-                 | 00   | Deforum Stable Diffusion              
 sd-webui:color:-                 | 00   | SD Webui Diffusion Color Grading                                   | https://github.com/Haoming02/sd-webui-diffusion-cg
 sd-webui:comfyui:-               | 00   | CImaGen                                                            | https://github.com/ServOKio/CImaGen
 sd-webui:comfyui:-               | 00   | ComfyUI-Inspyrenet-Rembg                                           | https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg
-sd-webui:comfyui:-               | 001  | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
-sd-webui:comfyui:-               | 001   | ComfyUI Manager                                                    | https://github.com/ltdrdata/ComfyUI-Manager
+sd-webui:comfyui:-               | 10  | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
+sd-webui:comfyui:-               | 10   | ComfyUI Manager                                                    | https://github.com/ltdrdata/ComfyUI-Manager
 sd-webui:comfyui:-               | 11   | ComfyUI                                                            | https://github.com/comfyanonymous/ComfyUI
 sd-webui:comfyui:liveportrait    | 00   | ComfyUI nodes to use LivePortrait                                  | https://github.com/kijai/ComfyUI-LivePortraitKJ
 sd-webui:comfyui:txt2img         | 00   | ComfyUI wrapper for Kwai-Kolors                                    | https://github.com/kijai/ComfyUI-KwaiKolorsWrapper
+sd-webui:video:- | 001 | ComfyUI-CogVideoXWrapper | https://github.com/kijai/ComfyUI-CogVideoXWrapper
+sd-webui:-:- | 001 | Kohya's GUI | https://github.com/bmaltais/kohya_ss
+sd-webui:krita:- | 00 | Generative AI for Krita | https://github.com/Acly/krita-ai-diffusion
 sd-webui:data:-                  | 00   | db-storage1111                                                     | https://github.com/takoyaro/db-storage1111
 sd-webui:diff:-                  | 00   | SD Webui Image Comparison                                          | https://github.com/Haoming02/sd-webui-image-comparison
 sd-webui:edit:-                  | 00   | Aspect Ratio Helper                                                | https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
@@ -3503,7 +3506,7 @@ sd-webui:edit:img2img            | 00   | Replacer                              
 sd-webui:edit:img2img            | 00   | StableSR for Stable Diffusion WebUI                                | https://github.com/pkuliyi2015/sd-webui-stablesr
 sd-webui:edit:img2img            | 00   | Topaz Photo AI integration                                         | https://github.com/light-and-ray/sd-webui-topaz-photo-ai-integration
 sd-webui:edit:img2img            | 00   | sd-webui-pixelart                                                  | https://github.com/mrreplicart/sd-webui-pixelart
-sd-webui:edit:img2img            | 001   | Horizontal Tiling Script for StableDiffusion                       | https://xanthius.itch.io/horizontal-tiling-script-for-stablediffusion
+sd-webui:edit:img2img            | 00   | Horizontal Tiling Script for StableDiffusion                       | https://xanthius.itch.io/horizontal-tiling-script-for-stablediffusion
 sd-webui:export:-                | 00   | sd-webui-compress                                                  | https://github.com/injet-zhou/sd-webui-compress
 sd-webui:extension:-             | 00   | Readme browser                                                     | https://github.com/light-and-ray/sd-webui-readme-browser
 sd-webui:face:-                  | 00   | FaceFuison extension for StableDiffusion Webui                     | https://github.com/diffus-me/sd-webui-facefusion
@@ -3511,7 +3514,7 @@ sd-webui:face:-                  | 00   | FaceSwapLab for a1111/Vlad            
 sd-webui:face:-                  | 00   | ReActor for Stable Diffusion                                       | https://github.com/Navezjt/sd-webui-reactor
 sd-webui:face:-                  | 00   | roop for StableDiffusion                                           | https://github.com/s0md3v/sd-webui-roop
 sd-webui:gif2gif:-               | 00   | gif2gif                                                            | https://github.com/LonicaMewinsky/gif2gif
-sd-webui:image:-                 | 001  | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
+sd-webui:image:-                 | 00  | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
 sd-webui:img2txt:-               | 11   | CLIP Interrogator extension ...                                    | https://github.com/pharmapsychotic/clip-interrogator-ext
 sd-webui:img2txt:-               | 11   | Danbooru Prompt                                                    | https://github.com/EnsignMK/danbooru-prompt
 sd-webui:info:-                  | 00   | Checker of "enable" statuses in SD Web UI                          | https://github.com/shirayu/sd-webui-enable-checker
@@ -3524,7 +3527,7 @@ sd-webui:lora:-                  | 00   | Weight Helper                         
 sd-webui:manager:-               | 00   | Diffusion Toolkit                                                  | https://github.com/RupertAvery/DiffusionToolkit
 sd-webui:manager:-               | 00   | Prompt Gallery                                                     | https://github.com/dr413677671/PromptGallery-stable-diffusion-webui
 sd-webui:manager:-               | 00   | stable-diffusion-webui-images-browser                              | https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
-sd-webui:manager:-               | 001   | Stable Diffusion webui Infinite Image Browsing                     | https://github.com/zanllp/sd-webui-infinite-image-browsing
+sd-webui:manager:-               | 10   | Stable Diffusion webui Infinite Image Browsing                     | https://github.com/zanllp/sd-webui-infinite-image-browsing
 sd-webui:mask:-                  | 00   | ADetailer                                                          | https://github.com/Bing-su/adetailer
 sd-webui:mask:-                  | 00   | Background Mask                                                    | https://github.com/Scholar01/sd-webui-bg-mask
 sd-webui:mask:-                  | 00   | Detection Detailer                                                 | https://github.com/dustysys/ddetailer
@@ -3533,7 +3536,7 @@ sd-webui:merge:-                 | 00   | Marge Board                           
 sd-webui:merge:-                 | 00   | Merge Block Weighted - GUI                                         | https://github.com/bbc-mc/sdweb-merge-block-weighted-gui#how-to-use
 sd-webui:merge:-                 | 00   | SuperMerger                                                        | https://github.com/hako-mikan/sd-webui-supermerger
 sd-webui:merge:-                 | 00   | multi-subject-render                                               | https://github.com/Extraltodeus/multi-subject-render
-sd-webui:merge:-                 | 001   | Checkpoint Model Mixer extension                                   | https://github.com/wkpark/sd-webui-model-mixer
+sd-webui:merge:-                 | 11   | Checkpoint Model Mixer extension                                   | https://github.com/wkpark/sd-webui-model-mixer
 sd-webui:metadata:-              | 00   | Dataset Tag Editor                                                 | https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor
 sd-webui:metadata:-              | 00   | Hardware Info in metadata                                          | https://github.com/light-and-ray/sd-webui-hardware-info-in-metadata
 sd-webui:metadata:-              | 11   | SD WebUI Tag Autocomplete                                          | https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
@@ -3552,7 +3555,7 @@ sd-webui:modify:-                | 00   | Detail Daemon                         
 sd-webui:modify:-                | 00   | SD Webui ReSharpen                                                 | https://github.com/Haoming02/sd-webui-resharpen
 sd-webui:modify:-                | 00   | sd-webui-Stable-Makeup                                             | https://github.com/kigy1/sd-webui-Stable-Makeup
 sd-webui:mov2mov:-               | 00   | Mov2mov                                                            | https://github.com/Scholar01/sd-webui-mov2mov
-sd-webui:node:-                  | 001  | sd-webui-comfyui                                                   | https://github.com/ModelSurge/sd-webui-comfyui
+sd-webui:node:-                  | 10  | sd-webui-comfyui                                                   | https://github.com/ModelSurge/sd-webui-comfyui
 sd-webui:node:prompt             | 00   | One Button Prompt                                                  | https://github.com/AIrjen/OneButtonPrompt
 sd-webui:node:prompt             | 00   | Stable Diffusion Dynamic Prompts extension                         | https://github.com/adieyal/sd-dynamic-prompts
 sd-webui:preset:-                | 00   | Aesthetic Gradients                                                | https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients
@@ -3563,10 +3566,10 @@ sd-webui:prompt:-                | 00   | Negative Prompt Weight                
 sd-webui:prompt:-                | 00   | Rich-Text-to-Image for Stable Diffusion WebUI                      | https://github.com/songweige/sd-webui-rich-text
 sd-webui:prompt:-                | 00   | Stable Diffusion Web UI Temporal Extension                         | https://github.com/Iniquitatis/sd-webui-temporal
 sd-webui:prompt:-                | 000  | Cross Attention Control with Stable Diffusion                      | https://github.com/bloc97/CrossAttentionControl
-sd-webui:prompt:-                | 001   | Neutral Prompt                                                     | https://github.com/ljleb/sd-webui-neutral-prompt
-sd-webui:prompt:-                | 001   | SD WebUI Prompt Style                                              | https://github.com/bandifiu/sd-webui-prompt-style
-sd-webui:prompt:-                | 001   | sd-webui-prompt-history                                            | https://github.com/namkazt/sd-webui-prompt-history
-sd-webui:prompt:-                | 001   | stable-diffusion-webui-prompt-utilities                            | https://github.com/hallatore/stable-diffusion-webui-prompt-utilities
+sd-webui:prompt:-                | 11   | Neutral Prompt                                                     | https://github.com/ljleb/sd-webui-neutral-prompt
+sd-webui:prompt:-                | 11   | SD WebUI Prompt Style                                              | https://github.com/bandifiu/sd-webui-prompt-style
+sd-webui:prompt:-                | 11   | sd-webui-prompt-history                                            | https://github.com/namkazt/sd-webui-prompt-history
+sd-webui:prompt:-                | 00   | stable-diffusion-webui-prompt-utilities                            | https://github.com/hallatore/stable-diffusion-webui-prompt-utilities
 sd-webui:prompt:-                | 11   | NegPiP - Negative Prompt in Prompt                                 | https://github.com/hako-mikan/sd-webui-negpip
 sd-webui:prompt:-                | 11   | Prompt Fusion                                                      | https://github.com/ljleb/prompt-fusion-extension
 sd-webui:prompt:-                | 11   | Regional Prompter                                                  | https://github.com/hako-mikan/sd-webui-regional-prompter
@@ -4271,9 +4274,9 @@ zsh:cd:-                         | 00   | ZSH Up dir                            
 zsh:cd:-                         | 00   | cdh                                                                | https://github.com/johncassol/cdh
 zsh:cd:-                         | 00   | commacd                                                            | https://github.com/shyiko/commacd
 zsh:cd:-                         | 00   | zsh-bd                                                             | https://github.com/Tarrasch/zsh-bd
-zsh:cd:-                         | 001  | enhancd                                                            | https://github.com/b4b4r07/enhancd
+zsh:cd:-                         | 11  | enhancd                                                            | https://github.com/b4b4r07/enhancd
 zsh:clear:-                      | 00   | almostontop                                                        | https://github.com/Valiev/almostontop
-zsh:clear:-                      | 001   | zsh-allclear                                                       | https://github.com/givensuman/zsh-allclear
+zsh:clear:-                      | 00   | zsh-allclear                                                       | https://github.com/givensuman/zsh-allclear
 zsh:color:-                      | 00   | zsh-shellcolors                                                    | https://github.com/SaltedBlowfish/zsh-shellcolor
 zsh:command:-                    | 00   | Pueue                                                              | https://github.com/Nukesor/pueue
 zsh:command:-                    | 00   | nostromo                                                           | https://github.com/pokanop/nostromo
@@ -4281,16 +4284,15 @@ zsh:command:-                    | 00   | zsh-abbr                              
 zsh:complete:-                   | 00   | Actiona Zsh plugin                                                 | https://github.com/matthieusb/act
 zsh:complete:-                   | 11   | zsh-completions                                                    | https://github.com/zsh-users/zsh-completions
 zsh:config:-                     | 00   | boxxy                                                              | https://github.com/queer/boxxy
-zsh:database:-                   | 001  | historikeeper                                                      | https://github.com/stiliajohny/historikeeper
+zsh:database:-                   | 00  | historikeeper                                                      | https://github.com/stiliajohny/historikeeper
 zsh:device:-                     | 00   | zsh-airpods-battery                                                | https://github.com/A-delta/zsh-airpods-battery
 zsh:doc:-                        | 00   | devdocs-offline                                                    | https://github.com/dimitry-ishenko-cpp/devdocs-offline
-zsh:dotfiles:-                   | 001   | zsh-chezmoi                                                        | https://github.com/mass8326/zsh-chezmoi
+zsh:dotfiles:-                   | 11   | zsh-chezmoi                                                        | https://github.com/mass8326/zsh-chezmoi
 zsh:env:-                        | 00   | Autoenv                                                            | https://github.com/hyperupcall/autoenv
 zsh:env:-                        | 00   | direnv                                                             | https://direnv.net
-zsh:filterpipe:-                 | 001   | zsh-snr                                                            | https://github.com/raisedadead/zsh-snr
+zsh:filterpipe:-                 | 10   | zsh-snr                                                            | https://github.com/raisedadead/zsh-snr
 zsh:find:-                       | 00   | fd                                                                 | https://github.com/aubreypwd/zsh-plugin-fd
-zsh:font:-                       | 00   | getNF                                                              | https://github.com/ronniedroid/getnf
-zsh:font:-                       | 001   | getNF                                                              | https://github.com/ronniedroid/getnf
+shell:font:-                       | 00   | getNF                                                              | https://github.com/ronniedroid/getnf
 zsh:font:ascii                   | 00   | figlet-fonts                                                       | https://github.com/xero/figlet-fonts
 zsh:font:ascii                   | 00   | pyfiglet                                                           | https://github.com/pwaller/pyfiglet
 zsh:font:preview                 | 00   | FontFor                                                            | https://github.com/7sDream/fontfor
@@ -4298,7 +4300,7 @@ zsh:font:preview                 | 00   | fontpreview                           
 zsh:fzf:-                        | 11   | fzf                                                                | https://github.com/junegunn/fzf
 zsh:fzf:-                        | 11   | fzf-tab                                                            | https://github.com/Aloxaf/fzf-tab
 zsh:fzf:-                        | 11   | fzf-tab widgets                                                    | https://github.com/tom-power/fzf-tab-widgets
-zsh:git:-                        | 001  | zeno.zsh                                                           | https://github.com/yuki-yano/zeno.zsh
+zsh:git:-                        | 00   | zeno.zsh                                                           | https://github.com/yuki-yano/zeno.zsh
 zsh:git:-                        | 11   | forgit                                                             | https://github.com/wfxr/forgit
 zsh:git:-                        | 11   | ugit                                                               | https://github.com/Bhupesh-V/ugit
 zsh:gpt:-                        | 00   | ZSH AI Commands                                                    | https://github.com/muePatrick/zsh-ai-commands
@@ -4314,7 +4316,7 @@ zsh:history:-                    | 00   | redo                                  
 zsh:jump:-                       | 00   | autojump                                                           | https://github.com/wting/autojump
 zsh:jump:-                       | 00   | z.lua                                                              | https://github.com/skywind3000/z.lua
 zsh:jump:-                       | 00   | zoxide                                                             | https://github.com/ajeetdsouza/zoxide
-zsh:jump:-                       | 001  | wd                                                                 | https://github.com/mfaerevaag/wd
+zsh:jump:-                       | 11   | wd                                                                 | https://github.com/mfaerevaag/wd
 zsh:jump:-                       | 11   | Zsh-z                                                              | https://github.com/agkozak/zsh-z
 zsh:jump:tab                     | 00   | fz                                                                 | https://github.com/changyuheng/fz.sh
 zsh:jump:tab                     | 11   | fzf-z                                                              | https://github.com/andrewferrier/fzf-z
@@ -4324,7 +4326,7 @@ zsh:ls:-                         | 11   | Zsh exa                               
 zsh:manage:-                     | 00   | zplug                                                              | https://github.com/zplug/zplug
 zsh:manage:-                     | 00   | zsh_unplugged                                                      | https://github.com/mattmc3/zsh_unplugged
 zsh:manage:-                     | 11   | zinit                                                              | https://github.com/zdharma-continuum/zinit
-zsh:neovim:-                     | 001  | zsh-nvim-switcher                                                  | https://github.com/dacarey/zsh-nvim-switcher
+zsh:neovim:-                     | 00   | zsh-nvim-switcher                                                  | https://github.com/dacarey/zsh-nvim-switcher
 zsh:network:-                    | 00   | Zsh Plugin For Tailscale                                           | https://github.com/hsrzq/PluginForTailscale
 zsh:network:-                    | 00   | zsh-tailscale-plugin                                               | https://github.com/HeroesLament/zsh-tailscale-plugin
 zsh:notify:-                     | 00   | ZSH Auto-Notify                                                    | https://github.com/MichaelAquilina/zsh-auto-notify
