@@ -110,41 +110,41 @@ andriod:wallpaper:-              | 11   | Doodle                                
 andriod:webdav:-                 | 00   | Round Sync                                                         | https://github.com/newhinton/Round-Sync
 andriod:youtube-music            | 00   | InnerTune                                                          | https://github.com/z-huang/InnerTune
 andriod:zerotier:-               | 10   | Zerotier Fix                                                       | https://github.com/kaaass/ZerotierFix
-anki:-:-                         | 001   | Anki                                                               | https://github.com/ankitects/anki
+anki:-:-                         | 001  | Anki                                                               | https://github.com/ankitects/anki
 anki:analyze:-                   | 00   | Anki History Visualization                                         | https://github.com/xiety/AnkiHistoryVisualization
 anki:analyze:-                   | 00   | Search Stats Extended                                              | https://github.com/Luc-Mcgrady/Anki-Search-Stats-Extended
 anki:analyze:pandas              | 00   | AnkiPandas                                                         | https://github.com/klieret/AnkiPandas
-anki:answer:-                    | 001   | Answer Set                                                         | https://github.com/scott2000/answerset
+anki:answer:-                    | 001  | Answer Set                                                         | https://github.com/scott2000/answerset
 anki:choice:-                    | 00   | Anki-Multiple-Choice                                               | https://github.com/ale18V/Anki-Multiple-Choice
 anki:cli:-                       | 00   | apy                                                                | https://github.com/lervag/apy
 anki:cli:-                       | 00   | vocage                                                             | https://github.com/proycon/vocage
 anki:cli:add                     | 00   | apy                                                                | https://github.com/lervag/apy
 anki:cloze:-                     | 00   | Anki Card Text Randomizer                                          | https://github.com/Yustynn/anki-card-text-randomizer
-anki:code:-                      | 001   | Anki themes                                                        | https://github.com/badlydrawnrob/anki
+anki:code:-                      | 001  | Anki themes                                                        | https://github.com/badlydrawnrob/anki
 anki:convert:-                   | 00   | Converter for LaTeX to Anki                                        | https://github.com/Iqwertz/Tum_Kontrollfragen_Physik_Anki
 anki:convert:-                   | 00   | markdown-anki-decks                                                | https://github.com/lukesmurray/markdown-anki-decks
-anki:convert:-                   | 001   | AnkiPoetry                                                         | https://github.com/xiety/AnkiPoetry
+anki:convert:-                   | 001  | AnkiPoetry                                                         | https://github.com/xiety/AnkiPoetry
 anki:convert:dev                 | 00   | yanki                                                              | https://github.com/kitschpatrol/yanki
 anki:create:-                    | 00   | Tool for creating complex Anki notes quickly                       | https://github.com/FilipTarajko/anki-card-generator
 anki:export:-                    | 00   | anki-export-as-picture                                             | https://github.com/hienstorfer/anki-export-as-picture
 anki:field:-                     | 00   | FrequencyMan                                                       | https://github.com/Rct567/FrequencyMan
-anki:field:-                     | 001   | anki-field-autocomplete                                            | https://github.com/AnKing-VIP/anki-field-autocomplete
+anki:field:-                     | 001  | anki-field-autocomplete                                            | https://github.com/AnKing-VIP/anki-field-autocomplete
 anki:flow:-                      | 00   | srs-toolbelt                                                       | https://github.com/balta2ar/srs-toolbelt
 anki:format:-                    | 00   | Anki Panky                                                         | https://github.com/kamalsacranie/anki-panky
 anki:format:-                    | 00   | Anki.md                                                            | https://github.com/timgreen/Anki.md
 anki:format:-                    | 00   | Autoanki                                                           | https://github.com/chenlijun99/autoanki
 anki:frequency:-                 | 00   | Bulk Generate Japanese Vocab Frequency                             | https://github.com/christopher-chandler/bulk_generate_japanese_vocab_frequency
-anki:game:-                      | 001   | Ankimon                                                            | https://github.com/Unlucky-Life/ankimon
+anki:game:-                      | 001  | Ankimon                                                            | https://github.com/Unlucky-Life/ankimon
 anki:generate:-                  | 00   | Dexter Note Ankify                                                 | https://github.com/duydl/dexter-tripos-notes-anki
 anki:generate:-                  | 00   | ocr_to_anki_public                                                 | https://github.com/NeverConvex/ocr_to_anki_public
-anki:generate:-                  | 001   | Yochimu                                                            | https://github.com/ernestohegi/japanese-text-parser
-anki:generate:-                  | 001   | dictpopup                                                          | https://github.com/Ajatt-Tools/dictpopup
-anki:image:-                     | 001   | AJT Media Converter                                                | https://github.com/Ajatt-Tools/PasteImagesAsWebP
-anki:image:zoom                  | 001   | Anki Image Scaler                                                  | https://github.com/gregorias/anki-image-scaler
-anki:import:-                    | 001   | Cross Profile Search and Import                                    | https://github.com/Ajatt-Tools/cropro
+anki:generate:-                  | 001  | Yochimu                                                            | https://github.com/ernestohegi/japanese-text-parser
+anki:generate:-                  | 001  | dictpopup                                                          | https://github.com/Ajatt-Tools/dictpopup
+anki:image:-                     | 001  | AJT Media Converter                                                | https://github.com/Ajatt-Tools/PasteImagesAsWebP
+anki:image:zoom                  | 001  | Anki Image Scaler                                                  | https://github.com/gregorias/anki-image-scaler
+anki:import:-                    | 001  | Cross Profile Search and Import                                    | https://github.com/Ajatt-Tools/cropro
 anki:keyboard:-                  | 00   | AJT Flexible Grading                                               | https://github.com/Ajatt-Tools/FlexibleGrading
 anki:koreader:-                  | 00   | korvo-to-anki                                                      | https://github.com/Dankoy/korvo-to-anki
-anki:koreader:-                  | 001   | Anki plugin for KOReader                                           | https://github.com/Ajatt-Tools/anki.koplugin
+anki:koreader:-                  | 001  | Anki plugin for KOReader                                           | https://github.com/Ajatt-Tools/anki.koplugin
 anki:leetcode:-                  | 00   | Leetcode Study Tool                                                | https://github.com/johnsutor/leetcode-study-tool
 anki:manga:-                     | 00   | MangAnki                                                           | https://github.com/doraeneko/MangAnki
 anki:mark:-                      | 00   | Exam Notifier for Anki                                             | https://github.com/AnKing-VIP/exam-notifierd
@@ -155,44 +155,44 @@ anki:obsidian:-                  | 00   | Flashcards                            
 anki:order:-                     | 00   | FSRS4Anki                                                          | https://github.com/open-spaced-repetition/fsrs4anki
 anki:order:-                     | 00   | FSRS4Anki Helper                                                   | https://github.com/open-spaced-repetition/fsrs4anki-helper
 anki:order:-                     | 00   | Limit New by Young                                                 | https://github.com/lune-stone/anki-addon-limit-new-by-young
-anki:order:-                     | 001   | AnkiMorphs                                                         | https://github.com/mortii/anki-morphs
-anki:order:-                     | 001   | AnnA : Anki neuronal Appendix                                      | https://github.com/thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix/
+anki:order:-                     | 001  | AnkiMorphs                                                         | https://github.com/mortii/anki-morphs
+anki:order:-                     | 001  | AnnA : Anki neuronal Appendix                                      | https://github.com/thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix/
 anki:post:-                      | 00   | CSV-to-ANKI                                                        | https://github.com/AnkiMonkey/CSV-to-ANKI
-anki:post:-                      | 001   | Anki Cards                                                         | https://github.com/MNandor/anki-cards
+anki:post:-                      | 001  | Anki Cards                                                         | https://github.com/MNandor/anki-cards
 anki:poup:-                      | 00   | JL                                                                 | https://github.com/rampaa/JL
 anki:read:-                      | 00   | Bionic Reading                                                     | https://github.com/AnKing-VIP/anki-bionic-reading
 anki:scrap:-                     | 00   | web-scraping-for-sentence-mining                                   | https://github.com/AtilioA/web-scraping-for-sentence-mining
-anki:size:-                      | 001   | Note Size Anki addon                                               | https://github.com/Aleks-Ya/note-size-anki-addon
+anki:size:-                      | 001  | Note Size Anki addon                                               | https://github.com/Aleks-Ya/note-size-anki-addon
 anki:sound:-                     | 00   | Anki Addon for Chinese Pronunciation                               | https://github.com/spkgyk/anki-pinyin
 anki:sound:-                     | 00   | Generate Batch Audio                                               | https://github.com/DillonWall/generate-batch-audio-anki-addon
 anki:sound:-                     | 00   | adjust-sound-volume                                                | https://github.com/mnogu/adjust-sound-volume
 anki:sound:-                     | 000  | vocab-tts                                                          | https://github.com/pkubowicz/vocab-tts
 anki:sound:-                     | 000  | voicevox-anki                                                      | https://github.com/0xspringtime/voicevox-anki
-anki:sound:-                     | 001   | Anki-Simple-Forvo-Audio                                            | https://github.com/Rascalov/Anki-Simple-Forvo-Audio
-anki:sound:-                     | 001   | anki-forvo-dl                                                      | https://github.com/realmayus/anki_forvo_dl
+anki:sound:-                     | 001  | Anki-Simple-Forvo-Audio                                            | https://github.com/Rascalov/Anki-Simple-Forvo-Audio
+anki:sound:-                     | 001  | anki-forvo-dl                                                      | https://github.com/realmayus/anki_forvo_dl
 anki:stroke-diagram:-            | 00   | anki-kanji                                                         | https://github.com/bzhoek/anki-kanji
 anki:style:-                     | 00   | Anki Code Highlighter                                              | https://github.com/gregorias/anki-code-highlighter
-anki:style:-                     | 001   | Rainbow Cloze                                                      | https://github.com/gyuudon3187/rainbow-cloze
-anki:style:-                     | 001   | pin1yin1 → pīnyīn                                                  | https://github.com/maltevonehren/pinyin-numbers-to-tone-marks
+anki:style:-                     | 001  | Rainbow Cloze                                                      | https://github.com/gyuudon3187/rainbow-cloze
+anki:style:-                     | 001  | pin1yin1 → pīnyīn                                                  | https://github.com/maltevonehren/pinyin-numbers-to-tone-marks
 anki:tempate:-                   | 00   | Anki Templates                                                     | https://github.com/nico-lechatnoir/Anki-Templates
 anki:tempate:-                   | 00   | Anki-Card-Templates                                                | https://github.com/dnydlk/Anki-Card-Templates
-anki:tempate:-                   | 001   | Anki Word Wizard Template                                          | https://github.com/ankiwords/anki-word-wizard-template
-anki:tempate:-                   | 001   | Anki-Card-Templates                                                | https://github.com/SweetMeh/Anki-Card-Templates
-anki:text:-                      | 001   | Anki Word Hyphenator                                               | https://github.com/gregorias/anki-word-hyphenator
+anki:tempate:-                   | 001  | Anki Word Wizard Template                                          | https://github.com/ankiwords/anki-word-wizard-template
+anki:tempate:-                   | 001  | Anki-Card-Templates                                                | https://github.com/SweetMeh/Anki-Card-Templates
+anki:text:-                      | 001  | Anki Word Hyphenator                                               | https://github.com/gregorias/anki-word-hyphenator
 anki:textograph:-                | 00   | anki-add-on                                                        | https://github.com/textograph/anki-add-on
-anki:textograph:-                | 001   | Anki Note Type for Textograph                                      | https://github.com/textograph/anki-note-type
+anki:textograph:-                | 001  | Anki Note Type for Textograph                                      | https://github.com/textograph/anki-note-type
 anki:track:-                     | 00   | Review Heatmap for Anki                                            | https://github.com/glutanimate/review-heatmap
 anki:tui:-                       | 00   | Anki TUI (morphman)                                                | https://github.com/xyaman/anki-tui
 anki:tui:-                       | 00   | Demonstration                                                      | https://github.com/fedorst/attic-anki
 anki:tui:-                       | 00   | anki_helper                                                        | https://github.com/aramrw/anki_helper
 anki:tui:-                       | 00   | donkey                                                             | https://github.com/takacs/donkey
 anki:tui:-                       | 00   | memotica                                                           | https://github.com/dnlzrgz/memotica
-anki:ui:theme                    | 001   | Prettify                                                           | https://github.com/pranavdeshai/anki-prettify
+anki:ui:theme                    | 001  | Prettify                                                           | https://github.com/pranavdeshai/anki-prettify
 anki:web:-                       | 00   | VocabSieve                                                         | https://github.com/FreeLanguageTools/vocabsieve
 anki:web:-                       | 00   | srf                                                                | https://github.com/ig3/srf
-anki:web:-                       | 001   | 2anki/server                                                       | https://github.com/2anki/server
-anki:web:-                       | 001   | Anki Note Linker                                                   | https://github.com/gugutu/Anki-Note-Linker
-anki:web:-                       | 001   | web                                                                | https://github.com/2anki/web
+anki:web:-                       | 001  | 2anki/server                                                       | https://github.com/2anki/server
+anki:web:-                       | 001  | Anki Note Linker                                                   | https://github.com/gugutu/Anki-Note-Linker
+anki:web:-                       | 001  | web                                                                | https://github.com/2anki/web
 annotate:hypothesis:-            | 00   | Hypothesis                                                         | https://hypothes.is
 annotate:hypothesis:-            | 00   | Hypothesis Direct-Link Bouncer Service                             | https://github.com/hypothesis/bouncer
 annotate:hypothesis:-            | 00   | h                                                                  | https://github.com/hypothesis/h
@@ -670,7 +670,7 @@ cli:semantic:-                   | 00   | Semantra                              
 cli:sentence:-                   | 00   | Pragmatic Segmenter                                                | https://github.com/diasks2/pragmatic_segmenter
 cli:sentence:-                   | 11   | Sentences                                                          | https://github.com/neurosnap/sentences
 cli:serve:-                      | 00   | http-server                                                        | https://github.com/http-party/http-server
-cli:serve:-                      | 00   | miniserve                                                          | https://github.com/svenstaro/miniserve
+serve:file:-                      | 00   | miniserve                                                          | https://github.com/svenstaro/miniserve
 cli:serve:-                      | 00   | serve                                                              | https://github.com/syntaqx/serve
 cli:serve:-                      | 00   | serve                                                              | https://github.com/vercel/serve
 cli:serve:-                      | 10   | Dufs                                                               | https://github.com/sigoden/dufs
@@ -715,7 +715,7 @@ css:latex:-                      | 00   | LaTeX.css                             
 css:image:hover                  | 00   | Inline Menu Layout with Gallery Panel                              | https://github.com/codrops/InlineMenuLayout
 css:image:shape                  | 00   | Shape Slideshow with Clip-path                                     | https://github.com/codrops/ShapesSlideshow
 database:sqlite:-                | 00   | pelican-to-sqlite                                                  | https://github.com/ryancheley/pelican-to-sqlite
-database:sqlite:-                | 001  | csvs-to-sqlite                                                     | https://github.com/simonw/csvs-to-sqlite
+database:sqlite:-                | 10  | csvs-to-sqlite                                                     | https://github.com/simonw/csvs-to-sqlite
 datasette:-:-                    | 001  | Datasette                                                          | https://datasette.io
 datasette:board:-                | 000  | datasette-dashboards                                               | https://github.com/rclement/datasette-dashboards
 datasette:data:-                 | 00   | datasette-gzip                                                     | https://github.com/simonw/datasette-gzip
@@ -728,11 +728,11 @@ datasette:edit:-                 | 00   | datasette-edit-templates              
 datasette:edit:-                 | 00   | datasette-saved-queries                                            | https://github.com/simonw/datasette-saved-queries
 datasette:edit:-                 | 00   | datasette-upload-dbs                                               | https://github.com/simonw/datasette-upload-dbs
 datasette:edit:-                 | 001  | datasette-copyable                                                 | https://github.com/simonw/datasette-copyable
-datasette:edit:-                 | 001  | datasette-edit-schema                                              | https://github.com/simonw/datasette-edit-schema
+datasette:edit:-                 | 00  | datasette-edit-schema                                              | https://github.com/simonw/datasette-edit-schema
 datasette:edit:-                 | 001  | datasette-export                                                   | https://github.com/simonw/datasette-export
 datasette:edit:-                 | 001  | datasette-insert                                                   | https://github.com/simonw/datasette-insert
 datasette:edit:-                 | 001  | datasette-upload-csvs                                              | https://github.com/simonw/datasette-upload-csvs
-datasette:edit:-                 | 001  | datasette-webhook-write                                            | https://github.com/mfa/datasette-webhook-write
+datasette:edit:-                 | 00  | datasette-webhook-write                                            | https://github.com/mfa/datasette-webhook-write
 datasette:edit:-                 | 001  | datasette-write-ui                                                 | https://github.com/datasette-io/datasette-write-ui
 datasette:import:-               | 00   | datapackage-to-datasette                                           | https://github.com/chris48s/datapackage-to-datasette
 datasette:metadata:-             | 00   | datasette-metadata-editable                                        | https://github.com/datasette/datasette-metadata-editable
@@ -751,7 +751,7 @@ datasette:render:-               | 00   | datasette-render-timestamps           
 datasette:render:-               | 00   | datasette-spotify-embed                                            | https://github.com/chekos/datasette-spotify-embed
 datasette:render:-               | 00   | datasette-tiddlywiki                                               | https://github.com/simonw/datasette-tiddlywiki
 datasette:render:-               | 001  | datasette-external-links-new-tabs                                  | https://github.com/ocdtrekkie/datasette-external-links-new-tabs
-datasette:render:-               | 001  | datasette-linkify                                                  | https://github.com/ernstki/datasette-linkify
+datasette:render:-               | 00   | datasette-linkify                                                  | https://github.com/ernstki/datasette-linkify
 datasette:render:-               | 001  | datasette-multiline-links                                          | https://github.com/simonw/datasette-multiline-links
 datasette:render:-               | 001  | datasette-render-markdown                                          | https://github.com/simonw/datasette-render-markdown
 datasette:render:templ           | 000  | data-tourism                                                       | https://github.com/LNshuti/data-tourism
@@ -761,13 +761,13 @@ datasette:search:-               | 001  | datasette-search-all                  
 datasette:studio:-               | 000  | Datasette Studio                                                   | https://github.com/datasette/studio
 datasette:studio:-               | 000  | datasette-studio                                                   | https://github.com/datasette/datasette-studio
 datasette:theme:-                | 001  | Datasette charcoal theme                                           | https://github.com/julien040/charcoal-datasette-theme
-datasette:tool:-                 | 001  | datasette-pins                                                     | https://github.com/datasette/datasette-pins
+datasette:tool:-                 | 00   | datasette-pins                                                     | https://github.com/datasette/datasette-pins
 datasette:user:-                 | 00   | datasette-permissions-sql                                          | https://github.com/simonw/datasette-permissions-sql
 datasette:user:-                 | 00   | datasette-public                                                   | https://github.com/simonw/datasette-public
 datasette:view:-                 | 00   | datasette-seaborn                                                  | https://github.com/simonw/datasette-seaborn
 datasette:view:-                 | 00   | datasette-total-page-time                                          | https://github.com/simonw/datasette-total-page-time
 datasette:view:-                 | 001  | datasette-mask-columns                                             | https://github.com/simonw/datasette-mask-columns
-datasette:view:-                 | 001  | datasette-nteract-data-explorer                                    | https://github.com/hydrosquall/datasette-nteract-data-explorer
+datasette:view:-                 | 00   | datasette-nteract-data-explorer                                    | https://github.com/hydrosquall/datasette-nteract-data-explorer
 datasette:web:-                  | 00   | datasette-auth-github                                              | https://github.com/simonw/datasette-auth-github
 datasette:web:-                  | 00   | datasette-block-robots                                             | https://github.com/simonw/datasette-block-robots
 datasette:web:-                  | 001  | datasette-publish-vercel                                           | https://github.com/simonw/datasette-publish-vercel
@@ -872,7 +872,7 @@ dictionary:goldendict:-          | 11   | GoldenDict                            
 dictionary:goldendict:dsl        | 10   | dictzip for Windows 10 (x64)                                       | https://github.com/KaseyJenkins/dictzip-win64
 dictionary:goldendict:tmx2       | 00   | TMX to Goldendict Convertor                                        | https://github.com/Celso-Scott/TMX-to-Goldendict-Converter
 dictionary:mdx:-                 | 10   | MDict Tool                                                         | https://github.com/liuyug/mdict-utils
-dictionary:mecab:-               | 001   | mecab-python3                                                      | https://github.com/SamuraiT/mecab-python3
+dictionary:mecab:-               | 001  | mecab-python3                                                      | https://github.com/SamuraiT/mecab-python3
 dictionary:mecab:-               | 10   | UniDic                                                             | https://clrd.ninjal.ac.jp/unidic/
 dictionary:mecab:korean          | 00   | mecab-ko-msvc                                                      | https://github.com/Pusnow/mecab-ko-msvc
 dictionary:mecab:linux           | 00   | mecab_dictionaries                                                 | https://github.com/tetutaro/mecab_dictionaries
@@ -888,8 +888,9 @@ dictionary:yomichan:-            | 001  | My Yomichan Setup                     
 dictionary:yomichan:-            | 001  | Yomichan-Custom-CSS-Template                                       | https://github.com/AmadoouXC/Yomichan-Custom-CSS
 dictionary:yomichan:-            | 001  | yomichan-dict-css                                                  | https://github.com/themoeway/yomichan-dict-css
 dictionary:yomichan:extension    | 00   | Yomichan                                                           | https://foosoft.net/projects/yomichan
-dictionary:yomitan:-             | 001   | Yomitan                                                            | https://github.com/themoeway/yomitan
+dictionary:yomitan:-             | 001  | Yomitan                                                            | https://github.com/themoeway/yomitan
 directory-opus:-:-               | 11   | Directory Opus                                                     | https://gpsoft.com.au
+directory-opus:file:- | 00 | Organize Files into Group-Based Folders | https://resource.dopus.com/t/organize-files-into-group-based-folders/53805/1
 directory-opus:backup:-          | 11   | Automatic backup of Opus config?                                   | https://resource.dopus.com/t/automatic-backup-of-opus-config/16485
 directory-opus:cd:-              | 00   | GoRootArchive                                                      | https://resource.dopus.com/t/gorootarchive-jump-back-to-the-root-of-an-archive/51408
 directory-opus:clean:-           | 00   | Folder Cleaner                                                     | https://resource.dopus.com/t/folder-cleaner-delete-folders-but-keep-files/52555
@@ -1014,7 +1015,7 @@ editor:jupter:-                  | 00   | JupyterLab                            
 editor:jupyter:-                 | 00   | euporie                                                            | https://github.com/joouha/euporie
 editor:latex:-                   | 00   | KLatexFormula                                                      | https://klatexformula.sourceforge.io
 editor:latex:-                   | 11   | MiKTeX                                                             | https://miktex.org
-editor:latex:-                   | 001   | TeXFindPkg                                                         | https://github.com/lvjr/texfindpkg
+editor:latex:-                   | 001  | TeXFindPkg                                                         | https://github.com/lvjr/texfindpkg
 editor:latex:-                   | 00   | Texmaker                                                           | https://xm1math.net/texmaker
 editor:lite-xl:-                 | 00   | Lite XL                                                            | https://github.com/lite-xl/lite-xl
 editor:lite-xl:-                 | 00   | Lite XL colors                                                     | https://github.com/lite-xl/lite-xl-colors
@@ -1044,7 +1045,7 @@ email:-:-                        | 11   | Thunderbird                           
 email:cli:-                      | 00   | PingMe CLI                                                         | https://github.com/kha7iq/pingme
 email:cli:-                      | 00   | Himalaya                                                           | https://github.com/pimalaya/himalaya
 emulator:batocera:linux          | 00   | Batocera.linux                                                     | https://github.com/batocera-linux/batocera.linux
-emulator:bios:-                  | 001   | Retro BIOSes                                                       | https://github.com/Abdess/retroarch_system
+emulator:bios:-                  | 001  | Retro BIOSes                                                       | https://github.com/Abdess/retroarch_system
 emulator:data:neo                | 00   | FinalBurn Neo                                                      | https://github.com/libretro/FBNeo
 emulator:database:-              | 00   | Arcade Database                                                    | https://adb.arcadeitalia.net/default.php
 emulator:engine:-                | 00   | TIC-80                                                             | https://tic80.com
@@ -1053,7 +1054,7 @@ emulator:es-de:theme             | 00   | Modern                                
 emulator:es-de:theme             | 00   | mister-menu-es-de                                                  | https://github.com/anthonycaccese/mister-menu-es-de
 emulator:os:linux                | 00   | Lakka                                                              | https://lakka.tv
 emulator:os:linux                | 001  | ROCKNIX                                                            | https://github.com/ROCKNIX/distribution
-emulator:pegasus:-               | 001   | Pegasus Frontend                                                   | https://github.com/mmatyas/pegasus-frontend
+emulator:pegasus:-               | 001  | Pegasus Frontend                                                   | https://github.com/mmatyas/pegasus-frontend
 emulator:pegasus:theme           | 00   | Flixnet theme for Pegasus                                          | https://github.com/mmatyas/pegasus-theme-flixnet
 emulator:pegasus:theme           | 00   | Grid Micro theme for Pegasus                                       | https://github.com/mmatyas/pegasus-theme-grid-micro
 emulator:pegasus:theme           | 00   | Pegasus Grid theme for Retroid Pocket 2                            | https://github.com/DFOXpro/rp2-pegasus-theme-grid
@@ -1061,10 +1062,10 @@ emulator:pegasus:theme           | 00   | RefiOS                                
 emulator:pegasus:theme           | 00   | Retro Mega                                                         | https://github.com/djfumberger/retromega
 emulator:pegasus:theme           | 00   | Slick theme for Pegasus                                            | https://github.com/buzz/pegasus-theme-slick
 emulator:pegasus:theme           | 00   | pegasus-theme-gpiOS                                                | https://github.com/SinisterSpatula/pegasus-theme-gpiOS
-emulator:pegasus:theme           | 001   | Retro Mega Next                                                    | https://github.com/plaidman/retromega-next
-emulator:pegasus:theme           | 001   | Sleipnir                                                           | https://github.com/y-muller/retromega-sleipnir
+emulator:pegasus:theme           | 001  | Retro Mega Next                                                    | https://github.com/plaidman/retromega-next
+emulator:pegasus:theme           | 001  | Sleipnir                                                           | https://github.com/y-muller/retromega-sleipnir
 emulator:retroarch:-             | 00   | retroarch-links-generator                                          | https://github.com/memob0x/retroarch-links-generator
-emulator:retroarch:-             | 001   | RetroArch asset server                                             | https://github.com/NickHeap2/retroarch-asset-server
+emulator:retroarch:-             | 001  | RetroArch asset server                                             | https://github.com/NickHeap2/retroarch-asset-server
 emulator:retroarch:-             | 11   | RetroArch                                                          | https://retroarch.com
 emulator:rom:-                   | 10   | igir                                                               | https://github.com/emmercm/igir
 emulator:rom:database            | 00   | RetroArch Database                                                 | https://github.com/libretro/libretro-database
@@ -1200,7 +1201,7 @@ git:commit:-                     | 10   | commitizen                            
 git:data:-                       | 00   | GitRows                                                            | https://gitrows.com
 git:data:-                       | 00   | Qri                                                                | https://qri.io
 git:dotfiles:sync                | 00   | rcm                                                                | https://github.com/thoughtbot/rcm
-git:dotfiles:sync                | 001   | chezmoi                                                            | https://chezmoi.io
+git:dotfiles:sync                | 001  | chezmoi                                                            | https://chezmoi.io
 git:download:-                   | 10   | degit                                                              | https://github.com/Rich-Harris/degit
 git:gh:-                         | 00   | GitHub CLI                                                         | https://cli.github.com
 git:gh:action                    | 00   | gh-actions-cache                                                   | https://github.com/actions/gh-actions-cache
@@ -1539,6 +1540,7 @@ graphic:-:-                      | 00   | Pixelorama                            
 graphic:-:-                      | 00   | Strike                                                             | https://github.com/dmliao/strike
 graphic:3d:-                     | 00   | Instant Neural Graphics Primitives                                 | https://github.com/NVlabs/instant-ngp
 graphic:3d:-                     | 00   | Text2Mesh                                                          | https://github.com/threedle/text2mesh
+graphic:aseprite:- | 00 | Layer Rename | https://simonstalder.itch.io/layer-rename-for-aseprite
 graphic:aseprite:-               | 00   | Aseprite                                                           | https://dacap.itch.io/aseprite
 graphic:aseprite:-               | 00   | Center Image                                                       | https://thkaspar.itch.io/center-image
 graphic:aseprite:-               | 00   | Normal Shading                                                     | https://mooosik.itch.io/shading-extension
@@ -1628,8 +1630,8 @@ hardware:ruler:-                 | 00   | PCB for the Adafruit PCB Ruler        
 hardware:mouse:-                 | 00   | Statial.b Adjustable Mouse                                         | https://github.com/PyottDesign/Statial-b
 hardware:pc:-                    | 00   | Pi Terminal                                                        | https://github.com/sb-ocr/pi-terminal
 hardware:keyboard:-              | 00   | Ocreeb MK2                                                         | https://github.com/sb-ocr/ocreeb-mk-2
-hardware:mouse:-                 | 00   | DIY Spacemouse for Fusion 360                                      | https://github.com/sb-ocr/diy-spacemouse
-hardware:mouse:-                 | 001  | Orbion The OpenSource 3D Space Mouse                               | https://github.com/FaqT0tum/Orbion_3D_Space_Mouse
+hardware:mouse:-                 | 000   | DIY Spacemouse for Fusion 360                                      | https://github.com/sb-ocr/diy-spacemouse
+hardware:mouse:-                 | 000  | Orbion The OpenSource 3D Space Mouse                               | https://github.com/FaqT0tum/Orbion_3D_Space_Mouse
 hardware:rpi:-                   | 00   | RPi UPSPack V3                                                     | https://github.com/raspberrypi-tw/UPSPACK_V3
 hardware:eink:-                  | 00   | EPDiy E-Paper Driver                                               | https://github.com/vroland/epdiy
 hardware:archivist:-             | 00   | Archivist                                                          | https://diybookscanner.org/archivist/index.html
@@ -1783,7 +1785,7 @@ joplin:codeblock:-               | 00   | Better Code Blocks                    
 joplin:codemirror:-              | 11   | CodeMirror Options                                                 | https://github.com/FelisDiligens/joplin-plugin-cmoptions
 joplin:command:-                 | 00   | Slash Commands: Datetime & More                                    | https://github.com/hieuthi/joplin-plugin-slash-commands
 joplin:command:-                 | 00   | joplin-plugin-insert-command-exec                                  | https://github.com/gateswizard/joplin-plugin-insert-command-exec
-joplin:count:-                   | 001   | Joplin Note Statistics                                             | https://github.com/Kaid00/joplin-note-statistics
+joplin:count:-                   | 001  | Joplin Note Statistics                                             | https://github.com/Kaid00/joplin-note-statistics
 joplin:edit:-                    | 00   | Search & Replace                                                   | https://github.com/FelisDiligens/joplin-plugin-search-and-replace
 joplin:edit:-                    | 11   | Menu items, Shortcuts, Toolbar icons                               | https://github.com/tessus/joplin-plugin-menu-shortcut-toolbar
 joplin:editor:-                  | 00   | joplin-plugin-whitespacer                                          | https://github.com/marph91/joplin-plugin-whitespacer
@@ -2101,6 +2103,11 @@ love:asset:-                     | 00   | require.lua                           
 love:asset:-                     | 000  | nativefs                                                           | https://github.com/EngineerSmith/nativefs
 love:color:-                     | 00   | colorchanger                                                       | https://github.com/santoslove/colorchanger
 love:deploy:-                    | 00   | love-deploy                                                        | https://github.com/tducasse/love-deploy
+love:dialogue:-                  | 00   | LoveDialogue                                                       | https://github.com/Miisan-png/Love-Dialogue
+love:library:-                   | 00   | middleclass                                                        | https://github.com/kikito/middleclass
+love:library:-                   | 00   | LowerClass                                                         | https://github.com/DevonPalma/LowerClass
+love:library:-                   | 00   | servelove                                                          | https://github.com/YellowButShort/servelove
+love:packager:-                  | 00   | Lover                                                              | https://github.com/Wolfyxon/lover
 love:ecs:-                       | 00   | concord                                                            | https://github.com/Keyslam/Concord
 love:ecs:-                       | 00   | ecs-lua                                                            | https://github.com/nidorx/ecs-lua
 love:ecs:-                       | 00   | tiny-ecs                                                           | https://github.com/bakpakin/tiny-ecs
@@ -2224,6 +2231,7 @@ midi:studio:tui                  | 00   | QasarBeach                            
 midi:synthesis:track             | 00   | Pata Tracker                                                       | https://pixwlk.itch.io/pata-tracker
 midi:transcript:sheet            | 001  | pianotrans                                                         | https://github.com/azuwis/pianotrans
 mkdocs:-:-                       | 00   | MkDocs                                                             | https://mkdocs.org/
+mkdocs:file:-                    | 00   | mkdocs-data-plugin                                                 | https://github.com/joapuiib/mkdocs-data-plugin
 mkdocs:admonition:-              | 00   | GitHub Admonitions for MkDocs                                      | https://github.com/PGijsbers/admonitions
 mkdocs:admonition:-              | 00   | markdown-callouts                                                  | https://github.com/oprypin/markdown-callouts
 mkdocs:audio:-                   | 00   | MkDocs Audio                                                       | https://github.com/jfcmontmorency/mkdocs-audio
@@ -2268,6 +2276,12 @@ mkdocs:index:-                   | 00   | mkdocs-simple-plugin                  
 mkdocs:index:-                   | 00   | mkdocs-submodule-edit-uri                                          | https://github.com/sondregronas/mkdocs-submodule-edit-uri
 mkdocs:index:-                   | 11   | File exclude plugin for mkdocs                                     | https://github.com/apenwarr/mkdocs-exclude
 mkdocs:index:-                   | 11   | mkdocs-exclude-search                                              | https://github.com/chrieke/mkdocs-exclude-search
+mkdocs:index:-                   | 00   | MkDocs Remove Sections Plugin                                      | https://github.com/six-two/mkdocs-remove-sections-plugin
+mkdocs:vercel:-                  | 00   | MkDocs Vercel Password Protection Plugin                           | https://github.com/six-two/mkdocs-vercel-pw-plugin
+mkdocs:debug:-                   | 00   | MkDocs-Test                                                        | https://github.com/fralau/mkdocs-test
+mkdocs:synax:-                   | 00   | mkdocs_puml                                                        | https://github.com/MikhailKravets/mkdocs_puml
+mkdocs:ai:-                      | 00   | mkdocs-ai-summary                                                  | https://github.com/AIboy996/mkdocs-ai-summary
+mkdocs:link:-                    | 00   | MkDocs Backlinks Section Plugin                                    | https://github.com/six-two/mkdocs-backlinks-section-plugin
 mkdocs:link:-                    | 00   | Alternate Link                                                     | https://github.com/cmitu/mkdocs-altlink-plugin
 mkdocs:link:-                    | 00   | Link Embeds Plugin: mkdocs                                         | https://github.com/Aetherinox/mkdocs-link-embeds
 mkdocs:link:-                    | 00   | mkdocs-link-favicon                                                | https://github.com/christophdebaene/mkdocs-link-favicon
@@ -2329,9 +2343,9 @@ mkdocs:video:-                   | 11   | MkDocs Video                          
 mkdocs:video:-                   | 11   | mkdocs-asciinema-player                                            | https://github.com/pa-decarvalho/mkdocs-asciinema-player
 mouse:tool:-                     | 00   | EitherMouse                                                        | https://eithermouse.com
 mouse:tool:-                     | 00   | Input Director                                                     | https://inputdirector.com
-mpd:-:- | 00  | Music Player Daemon | https://github.com/MusicPlayerDaemon/MPD
-mpd:client:- | 00 | MMC4W - Minimal MPD Client for Windows | https://github.com/drgerg/mmc4w
-mpd:client:- | 00 | mpq | https://github.com/codesoap/mpq
+mpd:-:-                          | 00   | Music Player Daemon                                                | https://github.com/MusicPlayerDaemon/MPD
+mpd:client:-                     | 00   | MMC4W - Minimal MPD Client for Windows                             | https://github.com/drgerg/mmc4w
+mpd:client:-                     | 00   | mpq                                                                | https://github.com/codesoap/mpq
 mpv:-:-                          | 11   | mpv                                                                | https://mpv.io
 mpv:anime:-                      | 00   | Keroro                                                             | https://github.com/hotsno/keroro
 mpv:anki:-                       | 00   | Immersive                                                          | https://github.com/Ben-Kerman/immersive
@@ -2616,7 +2630,10 @@ music:tui:-                      | 00   | grump                                 
 music:tui:-                      | 00   | musikcube                                                          | https://musikcube.com
 music:tui:linux                  | 00   | Harmony Music                                                      | https://github.com/ZingyTomato/Harmony-Music
 neovim:-:-                       | 11   | Neovim                                                             | https://neovim.io
-neovim:complete:- | 00 | Blink Completion (blink.cmp) | https://github.com/Saghen/blink.cmp
+neovim:complete:-                | 00   | Blink Completion (blink.cmp)                                       | https://github.com/Saghen/blink.cmp
+neovim:keymap:-                  | 10   | Houdini                                                            | https://github.com/TheBlob42/houdini.nvim
+neovim:encode:-                  | 00   | decipher.nvim                                                      | https://github.com/MisanthropicBit/decipher.nvim
+neovim:window:-                  | 00   | winmove.nvim                                                       | https://github.com/MisanthropicBit/winmove.nvim
 neovim:audio:-                   | 001  | reverb.nvim                                                        | https://github.com/whleucka/reverb.nvim
 neovim:bible:-                   | 00   | bible-verse.nvim                                                   | https://github.com/anthony-halim/bible-verse.nvim
 neovim:bookmark:-                | 10   | Lspmark.nvim                                                       | https://github.com/tristone13th/lspmark.nvim
@@ -2653,13 +2670,18 @@ neovim:console:-                 | 11   | flow.nvim                             
 neovim:console:-                 | 11   | telescope-cmdline.nvim                                             | https://github.com/jonarrien/telescope-cmdline.nvim
 neovim:console:-                 | 11   | toggleterm.nvim                                                    | https://github.com/akinsho/toggleterm.nvim
 neovim:console:-                 | 00   | Lua console                                                        | https://github.com/YaroSpace/lua-console.nvim
-neovim:copilot:-                 | 00   | ChatGPT.nvim                                                       | https://github.com/jackMort/ChatGPT.nvim
-neovim:copilot:-                 | 00   | CodeCompanion                                                      | https://github.com/olimorris/codecompanion.nvim
-neovim:copilot:-                 | 00   | Telescope GPT                                                      | https://github.com/HPRIOR/telescope-gpt
-neovim:copilot:-                 | 00   | llm.nvim                                                           | https://github.com/Kurama622/llm.nvim
-neovim:copilot:-                 | 00   | ollama.nvim                                                        | https://github.com/nomnivore/ollama.nvim
-neovim:copilot:-                 | 00   | parrot.nvim                                                        | https://github.com/frankroeder/parrot.nvim
-neovim:copilot:-                 | 11   | avante.nvim                                                        | https://github.com/yetone/avante.nvim
+neovim:ai:-                      | 00   | Aider Plugin for Neovim                                            | https://github.com/joshuavial/aider.nvim
+neovim:ai:-                      | 00   | yarepl.nvim                                                        | https://github.com/milanglacier/yarepl.nvim
+neovim:ai:-                      | 00   | Smear cursor for Neovim                                            | https://github.com/sphamba/smear-cursor.nvim
+neovim:move:-                    | 10   | Treewalker.nvim                                                    | https://github.com/aaronik/Treewalker.nvim
+neovim:move:-                    | 11   | Beacon.nvim                                                        | https://github.com/DanilaMihailov/beacon.nvim
+neovim:ai:-                      | 00   | ChatGPT.nvim                                                       | https://github.com/jackMort/ChatGPT.nvim
+neovim:ai:-                      | 00   | CodeCompanion                                                      | https://github.com/olimorris/codecompanion.nvim
+neovim:ai:-                      | 00   | Telescope GPT                                                      | https://github.com/HPRIOR/telescope-gpt
+neovim:ai:-                      | 00   | llm.nvim                                                           | https://github.com/Kurama622/llm.nvim
+neovim:ai:-                      | 00   | ollama.nvim                                                        | https://github.com/nomnivore/ollama.nvim
+neovim:ai:-                      | 00   | parrot.nvim                                                        | https://github.com/frankroeder/parrot.nvim
+neovim:ai:-                      | 11   | avante.nvim                                                        | https://github.com/yetone/avante.nvim
 neovim:css:-                     | 00   | nvim-px-to-rem                                                     | https://github.com/jsongerber/nvim-px-to-rem
 neovim:cursor:-                  | 11   | keepcursor.nvim                                                    | https://github.com/rlychrisg/keepcursor.nvim
 neovim:database:cli              | 00   | sqlpilot.nvim                                                      | https://github.com/rsdot/sqlpilot.nvim
@@ -2674,7 +2696,7 @@ neovim:dictionary:-              | 00   | dict-popup.nvim                       
 neovim:docset:-                  | 00   | dash-docs.nvim                                                     | https://github.com/sei40kr/dash-docs.nvim
 neovim:docset:-                  | 00   | nvim-telescope-zeal-cli                                            | https://gitlab.com/ivan-cukic/nvim-telescope-zeal-cli
 neovim:docset:-                  | 00   | zeal-lynx-cli                                                      | https://github.com/Sanix-Darker/zeal-lynx-cli
-neovim:docset:-                  | 001   | nvim-devdocs                                                       | https://github.com/luckasRanarison/nvim-devdocs
+neovim:docset:-                  | 001  | nvim-devdocs                                                       | https://github.com/luckasRanarison/nvim-devdocs
 neovim:edit:-                    | 00   | SuEdit                                                             | https://github.com/Grafcube/suedit.nvim
 neovim:edit:-                    | 00   | dial.nvim                                                          | https://github.com/monaqa/dial.nvim
 neovim:edit:-                    | 00   | join.nvim                                                          | https://github.com/jakeru/join.nvim
@@ -2743,7 +2765,7 @@ neovim:git:note                  | 00   | gitpad.nvim                           
 neovim:gui:-                     | 00   | Goneovim                                                           | https://github.com/akiyosi/goneovim
 neovim:gui:-                     | 00   | roarie-commands                                                    | https://github.com/lalbornoz/roarie-commands.vim
 neovim:gui:-                     | 11   | Neovide                                                            | https://github.com/neovide/neovide
-neovim:harper:-                  | 001   | Harper                                                             | https://github.com/elijah-potter/harper
+neovim:harper:-                  | 001  | Harper                                                             | https://github.com/elijah-potter/harper
 neovim:highlight:-               | 00   | NeoColumn.nvim                                                     | https://github.com/ecthelionvi/NeoColumn.nvim
 neovim:highlight:-               | 00   | Rainbow delimiters for Neovim                                      | https://gitlab.com/HiPhish/rainbow-delimiters.nvim
 neovim:highlight:-               | 00   | colorizer.lua                                                      | https://github.com/norcalli/nvim-colorizer.lua
@@ -2807,7 +2829,7 @@ neovim:mpv:-                     | 00   | neovimpv                              
 neovim:navigate:-                | 00   | aerial.nvim                                                        | https://github.com/stevearc/aerial.nvim
 neovim:navigate:-                | 00   | nvim-bqf                                                           | https://github.com/kevinhwang91/nvim-bqf
 neovim:navigate:-                | 10   | Goto Preview                                                       | https://github.com/rmagatti/goto-preview
-neovim:neovim:-                  | 11   | neovim                                                             | https://neovim.io
+neovim:-:-                       | 11   | neovim                                                             | https://neovim.io
 neovim:note:-                    | 00   | Memo.nvim                                                          | https://github.com/KIMGEONUNG/memo.nvim
 neovim:note:-                    | 00   | Neovim Simple Note Plugin                                          | https://github.com/rguruprakash/simple-note.nvim
 neovim:notice:-                  | 00   | Noice                                                              | https://github.com/folke/noice.nvim
@@ -2890,7 +2912,7 @@ neovim:tab:-                     | 00   | tele-tabby.nvim                       
 neovim:tab:-                     | 11   | tabout.nvim                                                        | https://github.com/abecodes/tabout.nvim
 neovim:tab:-                     | 11   | telescope-tabs                                                     | https://github.com/LukasPietzschmann/telescope-tabs
 neovim:table:-                   | 11   | A markdown table editor                                            | https://github.com/SCJangra/table-nvim
-neovim:table:-                   | 001   | csvview.nvim                                                       | https://github.com/hat0uma/csvview.nvim
+neovim:table:-                   | 001  | csvview.nvim                                                       | https://github.com/hat0uma/csvview.nvim
 neovim:task:-                    | 00   | Telescope tasks                                                    | https://github.com/lpoto/telescope-tasks.nvim
 neovim:task:-                    | 00   | overseer.nvim                                                      | https://github.com/stevearc/overseer.nvim
 neovim:task:-                    | 00   | telescope-asynctasks.nvim                                          | https://github.com/GustavoKatel/telescope-asynctasks.nvim
@@ -3210,8 +3232,8 @@ renpy:-:-                        | 00   | Awesome RenPy                         
 renpy:-:-                        | 00   | Ren'Py                                                             | https://www.renpy.org
 renpy:ads:google-ads             | 001  | Renpy : How to add Google Ads(Admob) to Renpy                      | https://www.youtube.com/watch?v=oUhcXlzc2a4
 renpy:ads:yandex-ads             | 001  | Yandex Mobile Ads в Ren'Py игре                                    | https://github.com/valery-iwanofu/rapt-yandex-ads
-renpy:animation:move             | 001   | Moving Clouds                                                      | https://github.com/Thediamondcryst/Ren-Py-Free-To-Use-Moving-Clouds
-renpy:animation:move             | 001   | Tutorial: How to do a cloud animation with RenPy                   | https://traumendes-madchen.com/blog/?p=1395
+renpy:animation:move             | 001  | Moving Clouds                                                      | https://github.com/Thediamondcryst/Ren-Py-Free-To-Use-Moving-Clouds
+renpy:animation:move             | 001  | Tutorial: How to do a cloud animation with RenPy                   | https://traumendes-madchen.com/blog/?p=1395
 renpy:api:bot                    | 001  | RenPyro                                                            | https://github.com/alvarensixy/RenPyro
 renpy:api:discord                | 001  | Discord Rich Presence Support                                      | https://github.com/Lezalith/RenPy-Discord-Presence
 renpy:api:epic                   | 001  | Epic Online Services extension for Ren’Py                          | https//github.com/Ayowel/renpy-epicgames-eos
@@ -3230,10 +3252,10 @@ renpy:background:camera          | 001  | Scroll any, not even seamless backgrou
 renpy:background:parallax        | 000  | Parallax                                                           | https://github.com/RuolinZheng08/renpy-awesome-template#parallax
 renpy:background:parallax        | 000  | Parallax Camera and Drunken Blur                                   | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62705
 renpy:background:parallax        | 000  | Parallax code for the Ren'Py visual novel engin                    | https://gist.github.com/midgethetree/b449be114f21974ed21b3fbf3653433f
-renpy:background:tile            | 001   | Panning background with seamless tiles                             | https://github.com/RuolinZheng08/renpy-awesome-template#panning-background-with-seamless-tiles
+renpy:background:tile            | 001  | Panning background with seamless tiles                             | https://github.com/RuolinZheng08/renpy-awesome-template#panning-background-with-seamless-tiles
 renpy:bar:-                      | 000  | Multi-Thumb Bar for Ren'Py                                         | https://feniksdev.itch.io/multi-thumb-bar-for-renpy
 renpy:bar:-                      | 000  | Radar Chart Displayable                                            | https://devilspider.itch.io/radar-chart-displayable
-renpy:bar:-                      | 001   | Scrollbutton code for the Ren'Py visual novel engine               | https://gist.github.com/midgethetree/b210ddadfb07e85873022fde0202f646
+renpy:bar:-                      | 001  | Scrollbutton code for the Ren'Py visual novel engine               | https://gist.github.com/midgethetree/b210ddadfb07e85873022fde0202f646
 renpy:bar:value                  | 00   | Extra Animated Value                                               | https://github.com/RenpyRemix/extra-animated-value
 renpy:button:-                   | 00   | BGQueue                                                            | https://patreon.renpy.org/python-tricks-2.html#bgqueue
 renpy:button:-                   | 000  | Button PRESSED state                                               | https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=57848&sid=95776df5d873ef265bcf05244d317495
@@ -3244,13 +3266,13 @@ renpy:character:zoom             | 000  | Autofocus                             
 renpy:chat-log:display           | 110  | Chat Log                                                           | https://github.com/JimTheCactus/chatlogging
 renpy:cli:headless               | 00   | renkit                                                             | https://github.com/kobaltcore/renkit
 renpy:code:python                | 00   | Inline Python for Ren'Py                                           | https://feniksdev.itch.io/inline-python-for-renpy
-renpy:code:reconstruct           | 001   | Organizing a Ren’Py Project                                        | https://feniksdev.com/organizing-a-renpy-project/
+renpy:code:reconstruct           | 001  | Organizing a Ren’Py Project                                        | https://feniksdev.com/organizing-a-renpy-project/
 renpy:code:variables             | 00   | Definitive Default                                                 | https://feniksdev.com/the-definitive-default-define-renpy-article/
 renpy:cursor:-                   | 00   | Preview Slow CPS in Ren'Py                                         | https://gist.github.com/shawna-p/3a12772369af03b85b25196275412868#file-cps_preview-rpy-L14
 renpy:cursor:icon                | 001  | Hardware-Accelerated Custom Mouse Cursor                           | https://patreon.renpy.org/dev-2020-11.html#hardware-accelerated-custom-mouse-cursor
 renpy:cursor:icon                | 001  | Mouse Displayables                                                 | https://patreon.renpy.org/dev-2021-04.html#mouse-displayables
 renpy:cursor:prop                | 000  | X-ray effect: Creator-Defined Displayable                          | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62128
-renpy:data:-                     | 001   | Dynamic Tooltips                                                   | https://github.com/HyJyncks/DynamicTooltips
+renpy:data:-                     | 001  | Dynamic Tooltips                                                   | https://github.com/HyJyncks/DynamicTooltips
 renpy:decompile:decompile        | 00   | Unrpyc                                                             | https://github.com/CensoredUsername/unrpyc
 renpy:decompile:decompile        | 00   | rpycdec                                                            | https://github.com/cnfatal/rpycdec
 renpy:development:audiobook      | 00   | AudioTextSync To Ren’Py                                            | https://github.com/asayake-b5/audiobooksync2renpy
@@ -3260,7 +3282,7 @@ renpy:development:menu-history   | 00   | Label Log                             
 renpy:development:sprite         | 000  | Expreviewer                                                        | https://github.com/Elckarow/Expreviewer
 renpy:development:sprite         | 000  | Image Tools for Ren'Py                                             | https://feniksdev.itch.io/image-tools-for-renpy
 renpy:development:sprite         | 000  | Layered Image Visualizer for Ren'Py [Addon]                        | https://feniksdev.itch.io/layered-image-visualizer-for-renpy
-renpy:development:sprite         | 001   | ActionEditor3                                                      | https://github.com/kyouryuukunn/renpy-ActionEditor3
+renpy:development:sprite         | 001  | ActionEditor3                                                      | https://github.com/kyouryuukunn/renpy-ActionEditor3
 renpy:development:tester         | 000  | Ren'Edit                                                           | https://minute.itch.io/renedit
 renpy:dialogue:-                 | 000  | Automatic Speech Bubbles                                           | https://patreon.renpy.org/speech-bubbles.html
 renpy:dialogue:block             | 110  | Multiple Dialogue Blocks                                           | https://patreon.renpy.org/multiple-dialogue.html
@@ -3279,10 +3301,10 @@ renpy:dialogue:phone-simulator   | 000  | Phone SMS                             
 renpy:dialogue:phone-simulator   | 000  | Phone interface                                                    | https://github.com/albireo-games/renpy_phone
 renpy:dialogue:tooltip           | 110  | Word Description                                                   | https://github.com/valery-iwanofu/renpy-word-description
 renpy:engine:-                   | 000  | Navigation Quest Time Routine System for Ren'py                    | https://github.com/DRincs-Productions/NQTR-System
-renpy:engine:-                   | 001   | Mysterious Messenger                                               | https://github.com/shawna-p/mysterious-messenger
+renpy:engine:-                   | 001  | Mysterious Messenger                                               | https://github.com/shawna-p/mysterious-messenger
 renpy:engine:battle              | 000  | RPG Battle Engine for Ren'Py                                       | https://github.com/Habitacle/battle-engine
-renpy:engine:item                | 001   | Free Inventory Framework for Ren'Py, by Lezalith                   | https://www.lezcave.com/lezinventory-framework/
-renpy:engine:item                | 001   | Simple Renpy Inventory                                             | https://github.com/Patchmonk/Simple-Renpy-Inventory
+renpy:engine:item                | 001  | Free Inventory Framework for Ren'Py, by Lezalith                   | https://www.lezcave.com/lezinventory-framework/
+renpy:engine:item                | 001  | Simple Renpy Inventory                                             | https://github.com/Patchmonk/Simple-Renpy-Inventory
 renpy:feature:flow               | 001  | Flowchart Plug-In                                                  | https://devilspider.itch.io/flowchart-plug-in
 renpy:formatter:convert          | 000  | Final Draft screenplay to Renpy                                    | https://github.com/RunawayHaggis/FDtoRenpy
 renpy:formatter:python-block     | 00   | renpyfmt                                                           | https://github.com/kobaltcore/renpyfmt
@@ -3297,7 +3319,7 @@ renpy:fuction:-                  | 000  | Multi Touch Gallery                   
 renpy:fuction:-                  | 001  | Achievements Framework                                             | https://bobcgames.itch.io/bobcachievements
 renpy:fuction:-                  | 001  | Gallery Framework                                                  | https://bobcgames.itch.io/bobcgallery
 renpy:fuction:-                  | 001  | Gallerynpy                                                         | https://github.com/Yoimer-Davila/gallerynpy
-renpy:fuction:-                  | 001   | Achievements for Ren'Py                                            | https://feniksdev.itch.io/achievements-for-renpy
+renpy:fuction:-                  | 001  | Achievements for Ren'Py                                            | https://feniksdev.itch.io/achievements-for-renpy
 renpy:github-action:-            | 000  | Ren'Py installer                                                   | https://github.com/Ayowel/renpy-setup-action
 renpy:glossary:api               | 000  | In-Game Wiki-Like Glossary or Codex                                | https://patreon.renpy.org/wiki.html
 renpy:glossary:page              | 110  | Encyclopaedia Framework for Ren'Py                                 | https://github.com/jsfehler/renpy-encyclopaedia
@@ -3314,11 +3336,11 @@ renpy:map:minimap                | 00   | Location Minimap System               
 renpy:menu:avater                | 001  | Image Badges                                                       | https://patreon.renpy.org/menu-arguments.html#image-badges
 renpy:menu:background            | 001  | Background                                                         | https://patreon.renpy.org/menu-arguments.html#background
 renpy:menu:background            | 001  | Menu Blurring                                                      | https://patreon.renpy.org/dev-2020-09.html#menu-blurring
-renpy:menu:disappear             | 001   | Menu Sets                                                          | https://patreon.renpy.org/very-old-features.html#menu-sets
+renpy:menu:disappear             | 001  | Menu Sets                                                          | https://patreon.renpy.org/very-old-features.html#menu-sets
 renpy:menu:layout                | 001  | Grid Menus                                                         | https://patreon.renpy.org/menu-arguments.html#grid-menus
-renpy:menu:lock                  | 001   | Condition and Sensitive                                            | https://patreon.renpy.org/menu-arguments.html#condition-and-sensitive
+renpy:menu:lock                  | 001  | Condition and Sensitive                                            | https://patreon.renpy.org/menu-arguments.html#condition-and-sensitive
 renpy:menu:menu-block            | 000  | Drop Down Menus                                                    | https://patreon.renpy.org/dev-2022-05.html#drop-down-menus
-renpy:menu:multi-select          | 001   | RadioButtonGroup Plugin                                            | https://github.com/Wendy-Nam/RenPy-RadioButtonGroup
+renpy:menu:multi-select          | 001  | RadioButtonGroup Plugin                                            | https://github.com/Wendy-Nam/RenPy-RadioButtonGroup
 renpy:menu:postion               | 001  | Positioning Menu Choices                                           | https://patreon.renpy.org/menu-arguments.html#positioning-menu-choices
 renpy:menu:timing                | 001  | Custom Preferences                                                 | https://patreon.renpy.org/custom-preferences.html
 renpy:menu:timing                | 001  | Timed Choice Menus                                                 | https://patreon.renpy.org/timed-choice-menus.html
@@ -3338,10 +3360,10 @@ renpy:mini-tool:-                | 000  | Radar Chart for Ren'Py                
 renpy:mini-tool:-                | 000  | RenPyDraw                                                          | https://github.com/NyashniyVladya/RenPyDraw
 renpy:mini-tool:-                | 000  | Ren’Py Color Picker                                                | https://github.com/Foxcapades/renpy-color-picker
 renpy:notify:audio               | 000  | Caption Tool for Ren’Py                                            | https://npckc.itch.io/caption-tool-for-renpy
-renpy:notify:feedback            | 001   | Checking for Changes and Displaying A Message                      | https://patreon.renpy.org/check-for-changes.html
-renpy:nvl:-                      | 001   | Renpy: A ctc indicator that ...                                    | https://gist.github.com/methanoliver/7671cbcabe46bcc8a0f757ba195bb1a4
-renpy:nvl:-                      | 001   | Two-column NVL mode                                                | https://gist.github.com/methanoliver/cb6ae08d432d9395cff65975733599ab
-renpy:nvl:gui                    | 001   | - E N T R O P O N A U T -                                          | https://github.com/jsfehler/entroponaut
+renpy:notify:feedback            | 001  | Checking for Changes and Displaying A Message                      | https://patreon.renpy.org/check-for-changes.html
+renpy:nvl:-                      | 001  | Renpy: A ctc indicator that ...                                    | https://gist.github.com/methanoliver/7671cbcabe46bcc8a0f757ba195bb1a4
+renpy:nvl:-                      | 001  | Two-column NVL mode                                                | https://gist.github.com/methanoliver/cb6ae08d432d9395cff65975733599ab
+renpy:nvl:gui                    | 001  | - E N T R O P O N A U T -                                          | https://github.com/jsfehler/entroponaut
 renpy:packager:-                 | 001  | Build Ren'Py Project                                               | https://github.com/ProjectAliceDev/renpy-build-action
 renpy:packager:flatpak           | 001  | renpy2flatpak                                                      | https://github.com/dcbaker/renpy2flatpak
 renpy:packager:kit               | 001  | Ren'Py Distributor                                                 | https://github.com/Andykl/renpy-distributor
@@ -3358,13 +3380,13 @@ renpy:script:word-count          | 10   | Ren'py Word Counter                   
 renpy:setting:-                  | 00   | Ren'Py Accessibility Add-On                                        | https://minute.itch.io/renpy-accessibility
 renpy:shader:blur                | 000  | Implementing better blur?                                          | https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844
 renpy:shader:collect             | 000  | Shader                                                             | https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65248
-renpy:shader:dust                | 001   | Dust                                                               | https://gist.github.com/rurubell/a30752048bbe20de546d737c2476916f
+renpy:shader:dust                | 001  | Dust                                                               | https://gist.github.com/rurubell/a30752048bbe20de546d737c2476916f
 renpy:shader:fall-leaf           | 000  | Falling Leaves                                                     | https://github.com/Thediamondcryst/Ren-Py-Free-to-Use-Falling-Leaves
 renpy:shader:glitch              | 000  | Chroma Glitch                                                      | https://github.com/Gouvernathor/renpy-ChromaGlitch
-renpy:shader:outline             | 001   | Outline Shader                                                     | https://github.com/RenpyRemix/outline-shader
-renpy:shader:particle            | 001   | Particles                                                          | https://github.com/AgentAlpha81/RenPyParticles
-renpy:shader:rain                | 001   | Neat RenPy rain effect                                             | https://gist.github.com/methanoliver/98fe9304b63fff1f7d3419120e2c11f5
-renpy:shader:rain                | 001   | Simple Rain Effect                                                 | https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37489#p406150
+renpy:shader:outline             | 001  | Outline Shader                                                     | https://github.com/RenpyRemix/outline-shader
+renpy:shader:particle            | 001  | Particles                                                          | https://github.com/AgentAlpha81/RenPyParticles
+renpy:shader:rain                | 001  | Neat RenPy rain effect                                             | https://gist.github.com/methanoliver/98fe9304b63fff1f7d3419120e2c11f5
+renpy:shader:rain                | 001  | Simple Rain Effect                                                 | https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37489#p406150
 renpy:simulator:nes              | 000  | Next-Generation Enhancement System                                 | https://github.com/renpytom/nges
 renpy:sprite:-                   | 001  | PNGTuber Plus                                                      | https://kaiakairos.itch.io/pngtuber-plus
 renpy:sprite:auto                | 000  | Sprite Face Changer                                                | https://klast-halc.itch.io/sprite-face-changer
@@ -3383,7 +3405,7 @@ renpy:stats:-                    | 00   | Ren'Py Stats Framework                
 renpy:subtitle:api               | 000  | Marquee                                                            | https://patreon.renpy.org/dev-2021-11.html#marquee
 renpy:syntax:character           | 001  | Character Customization                                            | https://patreon.renpy.org/character-customization.html
 renpy:syntax:code                | 000  | Inline Conditions for Ren'Py                                       | https://feniksdev.itch.io/inline-conditions-for-renpy
-renpy:syntax:dialogue            | 001   | Subscript/superscript tags                                         | https://gist.github.com/methanoliver/fb2ef18de4c23fadbb23b13fa3d10d48
+renpy:syntax:dialogue            | 001  | Subscript/superscript tags                                         | https://gist.github.com/methanoliver/fb2ef18de4c23fadbb23b13fa3d10d48
 renpy:syntax:menu                | 001  | Choice Screen Selection                                            | https://patreon.renpy.org/menu-arguments.html#choice-screen-selection
 renpy:syntax:scene               | 001  | Title Screens                                                      | https://patreon.renpy.org/title-screens.html
 renpy:template:-                 | 000  | Multiplayer Adventure Template                                     | https://heecawroo.itch.io/4p-template
@@ -3479,14 +3501,14 @@ sd-webui:anime:-                 | 00   | Deforum Stable Diffusion              
 sd-webui:color:-                 | 00   | SD Webui Diffusion Color Grading                                   | https://github.com/Haoming02/sd-webui-diffusion-cg
 sd-webui:comfyui:-               | 00   | CImaGen                                                            | https://github.com/ServOKio/CImaGen
 sd-webui:comfyui:-               | 00   | ComfyUI-Inspyrenet-Rembg                                           | https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg
-sd-webui:comfyui:-               | 10  | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
+sd-webui:comfyui:-               | 10   | ComfyUI Segment Anything                                           | https://github.com/storyicon/comfyui_segment_anything
 sd-webui:comfyui:-               | 10   | ComfyUI Manager                                                    | https://github.com/ltdrdata/ComfyUI-Manager
 sd-webui:comfyui:-               | 11   | ComfyUI                                                            | https://github.com/comfyanonymous/ComfyUI
 sd-webui:comfyui:liveportrait    | 00   | ComfyUI nodes to use LivePortrait                                  | https://github.com/kijai/ComfyUI-LivePortraitKJ
 sd-webui:comfyui:txt2img         | 00   | ComfyUI wrapper for Kwai-Kolors                                    | https://github.com/kijai/ComfyUI-KwaiKolorsWrapper
-sd-webui:video:- | 001 | ComfyUI-CogVideoXWrapper | https://github.com/kijai/ComfyUI-CogVideoXWrapper
-sd-webui:-:- | 001 | Kohya's GUI | https://github.com/bmaltais/kohya_ss
-sd-webui:krita:- | 00 | Generative AI for Krita | https://github.com/Acly/krita-ai-diffusion
+sd-webui:video:-                 | 001  | ComfyUI-CogVideoXWrapper                                           | https://github.com/kijai/ComfyUI-CogVideoXWrapper
+sd-webui:-:-                     | 001  | Kohya's GUI                                                        | https://github.com/bmaltais/kohya_ss
+sd-webui:krita:-                 | 00   | Generative AI for Krita                                            | https://github.com/Acly/krita-ai-diffusion
 sd-webui:data:-                  | 00   | db-storage1111                                                     | https://github.com/takoyaro/db-storage1111
 sd-webui:diff:-                  | 00   | SD Webui Image Comparison                                          | https://github.com/Haoming02/sd-webui-image-comparison
 sd-webui:edit:-                  | 00   | Aspect Ratio Helper                                                | https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
@@ -3514,7 +3536,7 @@ sd-webui:face:-                  | 00   | FaceSwapLab for a1111/Vlad            
 sd-webui:face:-                  | 00   | ReActor for Stable Diffusion                                       | https://github.com/Navezjt/sd-webui-reactor
 sd-webui:face:-                  | 00   | roop for StableDiffusion                                           | https://github.com/s0md3v/sd-webui-roop
 sd-webui:gif2gif:-               | 00   | gif2gif                                                            | https://github.com/LonicaMewinsky/gif2gif
-sd-webui:image:-                 | 00  | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
+sd-webui:image:-                 | 00   | StoryMaker                                                         | https://github.com/RedAIGC/StoryMaker
 sd-webui:img2txt:-               | 11   | CLIP Interrogator extension ...                                    | https://github.com/pharmapsychotic/clip-interrogator-ext
 sd-webui:img2txt:-               | 11   | Danbooru Prompt                                                    | https://github.com/EnsignMK/danbooru-prompt
 sd-webui:info:-                  | 00   | Checker of "enable" statuses in SD Web UI                          | https://github.com/shirayu/sd-webui-enable-checker
@@ -3555,7 +3577,7 @@ sd-webui:modify:-                | 00   | Detail Daemon                         
 sd-webui:modify:-                | 00   | SD Webui ReSharpen                                                 | https://github.com/Haoming02/sd-webui-resharpen
 sd-webui:modify:-                | 00   | sd-webui-Stable-Makeup                                             | https://github.com/kigy1/sd-webui-Stable-Makeup
 sd-webui:mov2mov:-               | 00   | Mov2mov                                                            | https://github.com/Scholar01/sd-webui-mov2mov
-sd-webui:node:-                  | 10  | sd-webui-comfyui                                                   | https://github.com/ModelSurge/sd-webui-comfyui
+sd-webui:node:-                  | 10   | sd-webui-comfyui                                                   | https://github.com/ModelSurge/sd-webui-comfyui
 sd-webui:node:prompt             | 00   | One Button Prompt                                                  | https://github.com/AIrjen/OneButtonPrompt
 sd-webui:node:prompt             | 00   | Stable Diffusion Dynamic Prompts extension                         | https://github.com/adieyal/sd-dynamic-prompts
 sd-webui:preset:-                | 00   | Aesthetic Gradients                                                | https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients
@@ -3613,7 +3635,7 @@ serve:alert:-                    | 00   | Keep                                  
 serve:activitywatch:-            | 00   | aw-watcher-input                                                   | https://github.com/ActivityWatch/aw-watcher-input
 serve:activitywatch:-            | 00   | aw-watcher-utilization                                             | https://github.com/Alwinator/aw-watcher-utilization
 serve:activitywatch:-            | 11   | ActivityWatch                                                      | https://github.com/ActivityWatch/activitywatch
-serve:analytic:-                 | 10  | Matomo                                                             | https://github.com/matomo-org/matomo
+serve:analytic:-                 | 10   | Matomo                                                             | https://github.com/matomo-org/matomo
 serve:archive:-                  | 000  | Sabnzbd                                                            | https://github.com/linuxserver/docker-sabnzbd
 serve:arr:-                      | 00   | Bazarr                                                             | https://github.com/morpheus65535/bazarr
 serve:arr:-                      | 00   | Prowlarr                                                           | https://github.com/Prowlarr/Prowlarr
@@ -3622,10 +3644,10 @@ serve:arr:-                      | 00   | Sonarr                                
 serve:audio:-                    | 00   | Lidarr                                                             | https://lidarr.audio
 serve:automation:-               | 001  | Ansible                                                            | https://github.com/ansible/ansible
 serve:backup:-                   | 00   | rsnapshot                                                          | https://github.com/linuxserver/docker-rsnapshot
-serve:backup:-                   | 10  | restic                                                             | https://github.com/restic/restic
-serve:book:-                     | 001  | LinguaCafe                                                         | https://github.com/simjanos-dev/LinguaCafe
-serve:chat:-                     | 10  | Chatwoot                                                           | https://github.com/chatwoot/chatwoot
-serve:cloud:message              | 00  | gotify                                                             | https://github.com/gotify/server
+serve:backup:-                   | 10   | restic                                                             | https://github.com/restic/restic
+serve:book:-                     | 00   | LinguaCafe                                                         | https://github.com/simjanos-dev/LinguaCafe
+serve:chat:-                     | 10   | Chatwoot                                                           | https://github.com/chatwoot/chatwoot
+serve:cloud:message              | 00   | gotify                                                             | https://github.com/gotify/server
 serve:cloud:proxy                | 00   | Traefik                                                            | https://github.com/traefik/traefik
 serve:cms:-                      | 00   | POSIFY                                                             | https://github.com/hcmut-odoo/posify
 serve:cms:-                      | 00   | Payload                                                            | https://github.com/payloadcms/payload
@@ -3649,9 +3671,9 @@ serve:gist:-                     | 00   | Drift                                 
 serve:gist:-                     | 00   | Opengist                                                           | https://github.com/thomiceli/opengist
 serve:git:-                      | 00   | Gogs                                                               | https://github.com/gogs/gogs
 serve:git:-                      | 00   | git-sync                                                           | https://github.com/kubernetes/git-sync
-serve:git:-                      | 10  | jj                                                                 | https://github.com/jj-vcs/jj
+serve:git:-                      | 10   | jj                                                                 | https://github.com/jj-vcs/jj
 serve:home-assistant:-           | 00   | Home Assistant                                                     | https://github.com/home-assistant/core
-serve:homepage:-                 | 00  | CasaOS                                                             | https://github.com/IceWhaleTech/CasaOS
+serve:homepage:-                 | 00   | CasaOS                                                             | https://github.com/IceWhaleTech/CasaOS
 serve:host:-                     | 00   | YunoHost                                                           | https://yunohost.org
 serve:host:-                     | 00   | coolify                                                            | https://github.com/coollabsio/coolify
 serve:image-board:-              | 00   | danbooru                                                           | https://github.com/danbooru/danbooru
@@ -3659,7 +3681,7 @@ serve:image:-                    | 00   | dive                                  
 serve:image:pull                 | 00   | Stargz Snapshotter                                                 | https://github.com/containerd/stargz-snapshotter
 serve:ims:-                      | 00   | Grocy                                                              | https://grocy.info
 serve:ims:-                      | 000  | HomeBox                                                            | https://github.com/hay-kot/homebox
-serve:ims:-                      | 00  | InvenTree                                                          | https://github.com/inventree/inventree
+serve:ims:-                      | 00   | InvenTree                                                          | https://github.com/inventree/inventree
 serve:jackett:-                  | 11   | Jackett                                                            | https://github.com/Jackett/Jackett
 serve:jackett:-                  | 11   | jackett.md                                                         | https://gist.github.com/wilmardo/cffb41d694edd069c28d585d2e20e0fc
 serve:jellyfin:-                 | 00   | Jellyfin                                                           | https://jellyfin.org/
@@ -3691,13 +3713,13 @@ serve:oms:-                      | 00   | Medusa                                
 serve:os:-                       | 00   | Puter                                                              | https://github.com/HeyPuter/puter
 serve:os:-                       | 00   | SerenityOS                                                         | https://github.com/SerenityOS/serenity
 serve:paper:-                    | 00   | Paperless-ngx                                                      | https://github.com/paperless-ngx/paperless-ngx
-serve:pay:-                      | 10  | Hyperswitch                                                        | https://github.com/juspay/hyperswitch
+serve:pay:-                      | 10   | Hyperswitch                                                        | https://github.com/juspay/hyperswitch
 serve:photo:-                    | 00   | Immich                                                             | https://github.com/immich-app/immich
 serve:plex:-                     | 00   | MPV Shim for Plex                                                  | https://github.com/iwalton3/plex-mpv-shim
 serve:plex:-                     | 00   | Plex                                                               | https://plex.tv/
-serve:prod:-                     | 10  | PostHog                                                            | https://github.com/PostHog/posthog
-serve:qa:-                       | 00  | Answer                                                             | https://github.com/apache/incubator-answer
-hardware:sdr:-                      | 00  | CaribouLite                                                        | https://github.com/cariboulabs/cariboulite
+serve:prod:-                     | 10   | PostHog                                                            | https://github.com/PostHog/posthog
+serve:qa:-                       | 00   | Answer                                                             | https://github.com/apache/incubator-answer
+hardware:sdr:-                   | 00   | CaribouLite                                                        | https://github.com/cariboulabs/cariboulite
 serve:search:-                   | 00   | Manticore Search                                                   | https://manticoresearch.com
 serve:search:-                   | 00   | Meilisearch                                                        | https://github.com/meilisearch/MeiliSearch
 serve:sync:-                     | 00   | Resilio-sync                                                       | https://github.com/linuxserver/docker-resilio-sync
@@ -3713,8 +3735,8 @@ serve:voice-assistant:-          | 00   | Leon                                  
 serve:voice-assistant:-          | 00   | Naomi                                                              | https://github.com/NaomiProject/Naomi
 serve:web-security:-             | 00   | BunkerWeb                                                          | https://github.com/bunkerity/bunkerweb
 serve:webdav:-                   | 00   | webdav                                                             | https://github.com/hacdias/webdav
-serve:wireles:-                  | 10  | Unifi-network-application                                          | https://github.com/linuxserver/docker-unifi-network-application
-serve:write:-                    | 00  | HedgeDoc                                                           | https://github.com/linuxserver/docker-hedgedoc
+serve:wireles:-                  | 10   | Unifi-network-application                                          | https://github.com/linuxserver/docker-unifi-network-application
+serve:write:-                    | 00   | HedgeDoc                                                           | https://github.com/linuxserver/docker-hedgedoc
 shell:-:-                        | 00   | Nushell                                                            | https://nushell.sh
 shell:ai:complete                | 00   | tabby                                                              | https://github.com/TabbyML/tabby
 shell:cygwin:-                   | 00   | Cygwin                                                             | https://cygwin.com
@@ -3976,20 +3998,20 @@ sync:rclone:-                    | 00   | RcloneTray                            
 sync:rclone:-                    | 10   | Rclone                                                             | https://github.com/rclone/rclone
 sync:syncthing:-                 | 00   | Syncthing                                                          | https://syncthing.net
 sync:syncthing:-                 | 11   | Syncthing Tray                                                     | https://github.com/Martchus/syncthingtray
-terminal:-:- | 00 | Wave Terminal | https://github.com/wavetermdev/waveterm
-terminal:-:- | 00 | Termo | https://termo.rajnandan.com/
+terminal:-:-                     | 00   | Wave Terminal                                                      | https://github.com/wavetermdev/waveterm
+terminal:-:-                     | 00   | Termo                                                              | https://termo.rajnandan.com/
 terminal:alacritty:-             | 11   | Alacritty                                                          | https://github.com/alacritty/alacritty
 terminal:alacritty:-             | 11   | Alacritty Theme                                                    | https://github.com/alacritty/alacritty-theme
 terminal:alacritty:setting       | 00   | Alacritty Settings                                                 | https://github.com/jwu/alacritty-settings
 terminal:asciinema:-             | 00   | asciinema-edit                                                     | https://github.com/cirocosta/asciinema-edit
-terminal:asciinema:-             | 001  | asciinema-automation                                               | https://github.com/PierreMarchand20/asciinema_automation
-terminal:asciinema:-             | 001  | autocast                                                           | https://github.com/k9withabone/autocast
+terminal:asciinema:-             | 00  | asciinema-automation                                               | https://github.com/PierreMarchand20/asciinema_automation
+terminal:asciinema:-             | 10  | autocast                                                           | https://github.com/k9withabone/autocast
 terminal:asciinema:-             | 11   | asciinema                                                          | https://github.com/asciinema/asciinema
 terminal:asciinema:fake          | 00   | demo-magic                                                         | https://github.com/paxtonhare/demo-magic
 terminal:asciinema:gif           | 11   | agg                                                                | https://github.com/asciinema/agg
 terminal:asciinema:konsole       | 00   | asciifx                                                            | https://github.com/apparebit/asciifx
 terminal:asciinema:movie         | 00   | asciicast2movie                                                    | https://github.com/opcode-eu-org-libs/asciicast2movie
-terminal:asciinema:movie         | 001  | ASCII art movie Telnet player                                      | https://github.com/nitram509/ascii-telnet-server
+terminal:asciinema:movie         | 00  | ASCII art movie Telnet player                                      | https://github.com/nitram509/ascii-telnet-server
 terminal:tabby:-                 | 00   | Docker plugin for Tabby Terminal                                   | https://github.com/eugeny/tabby-docker
 terminal:tabby:-                 | 00   | tabby-trzsz                                                        | https://github.com/trzsz/tabby-trzsz
 terminal:tabby:-                 | 10   | Save Output                                                        | https://github.com/eugeny/tabby-save-output
@@ -4076,7 +4098,7 @@ video:interpolate:-              | 00   | Flowframes                            
 video:library:-                  | 00   | FFmpeg                                                             | https://ffmpeg.org
 video:library:-                  | 00   | VidGear                                                            | https://github.com/abhiTronix/vidgear
 video:library:track              | 00   | Norfair                                                            | https://github.com/tryolabs/norfair
-video:loop:-                     | 10  | loopi                                                              | https://github.com/zebradots/loopi
+video:loop:-                     | 10   | loopi                                                              | https://github.com/zebradots/loopi
 video:metadata:-                 | 00   | MediaInfo.NET                                                      | https://github.com/stax76/MediaInfo.NET
 video:metadata:-                 | 11   | MediaInfo                                                          | https://mediaarea.net/en/MediaInfo
 video:mkv:-                      | 00   | MKV Muxing Batch GUI                                               | https://github.com/yaser01/mkv-muxing-batch-gui
@@ -4274,7 +4296,7 @@ zsh:cd:-                         | 00   | ZSH Up dir                            
 zsh:cd:-                         | 00   | cdh                                                                | https://github.com/johncassol/cdh
 zsh:cd:-                         | 00   | commacd                                                            | https://github.com/shyiko/commacd
 zsh:cd:-                         | 00   | zsh-bd                                                             | https://github.com/Tarrasch/zsh-bd
-zsh:cd:-                         | 11  | enhancd                                                            | https://github.com/b4b4r07/enhancd
+zsh:cd:-                         | 11   | enhancd                                                            | https://github.com/babarot/enhancd
 zsh:clear:-                      | 00   | almostontop                                                        | https://github.com/Valiev/almostontop
 zsh:clear:-                      | 00   | zsh-allclear                                                       | https://github.com/givensuman/zsh-allclear
 zsh:color:-                      | 00   | zsh-shellcolors                                                    | https://github.com/SaltedBlowfish/zsh-shellcolor
@@ -4284,7 +4306,7 @@ zsh:command:-                    | 00   | zsh-abbr                              
 zsh:complete:-                   | 00   | Actiona Zsh plugin                                                 | https://github.com/matthieusb/act
 zsh:complete:-                   | 11   | zsh-completions                                                    | https://github.com/zsh-users/zsh-completions
 zsh:config:-                     | 00   | boxxy                                                              | https://github.com/queer/boxxy
-zsh:database:-                   | 00  | historikeeper                                                      | https://github.com/stiliajohny/historikeeper
+zsh:database:-                   | 00   | historikeeper                                                      | https://github.com/stiliajohny/historikeeper
 zsh:device:-                     | 00   | zsh-airpods-battery                                                | https://github.com/A-delta/zsh-airpods-battery
 zsh:doc:-                        | 00   | devdocs-offline                                                    | https://github.com/dimitry-ishenko-cpp/devdocs-offline
 zsh:dotfiles:-                   | 11   | zsh-chezmoi                                                        | https://github.com/mass8326/zsh-chezmoi
@@ -4292,7 +4314,7 @@ zsh:env:-                        | 00   | Autoenv                               
 zsh:env:-                        | 00   | direnv                                                             | https://direnv.net
 zsh:filterpipe:-                 | 10   | zsh-snr                                                            | https://github.com/raisedadead/zsh-snr
 zsh:find:-                       | 00   | fd                                                                 | https://github.com/aubreypwd/zsh-plugin-fd
-shell:font:-                       | 00   | getNF                                                              | https://github.com/ronniedroid/getnf
+shell:font:-                     | 00   | getNF                                                              | https://github.com/ronniedroid/getnf
 zsh:font:ascii                   | 00   | figlet-fonts                                                       | https://github.com/xero/figlet-fonts
 zsh:font:ascii                   | 00   | pyfiglet                                                           | https://github.com/pwaller/pyfiglet
 zsh:font:preview                 | 00   | FontFor                                                            | https://github.com/7sDream/fontfor
@@ -4317,7 +4339,7 @@ zsh:jump:-                       | 00   | autojump                              
 zsh:jump:-                       | 00   | z.lua                                                              | https://github.com/skywind3000/z.lua
 zsh:jump:-                       | 00   | zoxide                                                             | https://github.com/ajeetdsouza/zoxide
 zsh:jump:-                       | 11   | wd                                                                 | https://github.com/mfaerevaag/wd
-zsh:jump:-                       | 11   | Zsh-z                                                              | https://github.com/agkozak/zsh-z
+zsh:jump:-                       | 00   | Zsh-z                                                              | https://github.com/agkozak/zsh-z
 zsh:jump:tab                     | 00   | fz                                                                 | https://github.com/changyuheng/fz.sh
 zsh:jump:tab                     | 11   | fzf-z                                                              | https://github.com/andrewferrier/fzf-z
 zsh:ls:-                         | 00   | eza                                                                | https://github.com/eza-community/eza
@@ -4355,8 +4377,8 @@ zsh:sugges:-                     | 00   | Audogombleed                          
 zsh:sugges:-                     | 11   | zsh-autosuggestions                                                | https://github.com/zsh-users/zsh-autosuggestions
 zsh:theme:-                      | 00   | berghain.zsh-theme                                                 | https://github.com/meshkinyar/berghain.zsh-theme
 zsh:theme:-                      | 00   | club-house                                                         | https://github.com/skippyr/club-house
-zsh:theme:-                      | 00   | minimal                                                            | https://github.com/subnixr/minimal
-zsh:theme:-                      | 11   | alien-minimal                                                      | https://github.com/eendroroy/alien-minimal
+zsh:theme:-                      | 10   | minimal                                                            | https://github.com/subnixr/minimal
+zsh:theme:-                      | 10   | alien-minimal                                                      | https://github.com/eendroroy/alien-minimal
 zsh:tmux:-                       | 00   | Artimux                                                            | https://github.com/tribhuwan-kumar/Artimux
 zsh:tmux:-                       | 00   | Session Sauce                                                      | https://github.com/ChrisPenner/session-sauce
 zsh:tmux:-                       | 00   | Tmuxinator                                                         | https://github.com/tmuxinator/tmuxinator
