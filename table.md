@@ -14,6 +14,7 @@ ai:audio:-                       | 00   | Amphion                               
 ai:audio:tta                     | 00   | AudioLDM                                                           | https://github.com/haoheliu/AudioLDM
 ai:audio:tta                     | 00   | Coqui.ai TTS                                                       | https://github.com/coqui-ai/TTS
 ai:audio:tta                     | 00   | GPT-SoVITS-WebUI                                                   | https://github.com/RVC-Boss/GPT-SoVITS
+stream:-:- | 00 | go2rtc | https://github.com/AlexxIT/go2rtc
 ai:chat:-                        | 00   | Dify                                                               | https://github.com/langgenius/dify
 ai:chat:-                        | 00   | Letta                                                              | https://github.com/cpacker/MemGPT
 ai:chat:webui                    | 00   | Text generation web UI                                             | https://github.com/oobabooga/text-generation-webui
@@ -1625,6 +1626,7 @@ gui:git:github                   | 00   | GitHub Desktop                        
 gui:rename:-                     | 00   | ReNamer                                                            | https://den4b.com/products/renamer
 gui:rename:-                     | 11   | Advanced Renamer                                                   | https://advancedrenamer.com
 gui:thumbnail:-                  | 00   | qmtn                                                               | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
+hardware:gpu:- | 00 | XG Mobile Dock | https://github.com/osy/XG_Mobile_Station
 hardware:mouse:-                 | 00   | The Ploopy Nano Trackball                                          | https://github.com/ploopyco/nano-trackball
 hardware:ruler:-                 | 00   | PCB for the Adafruit PCB Ruler                                     | https://github.com/adafruit/Adafruit-PCB-Ruler
 hardware:mouse:-                 | 00   | Statial.b Adjustable Mouse                                         | https://github.com/PyottDesign/Statial-b
@@ -1656,11 +1658,11 @@ hardware:info:system             | 00   | HWinfo                                
 hardware:info:system             | 00   | System Information                                                 | https://ale-margo.itch.io/system-information
 hardware:keyboard:-              | 00   | BM16A V2                                                           | https://git.maglab.space/inkOne/ieneko42c/-/tree/master/keyboards/kprepublic/bm16a/v2
 hardware:keyboard:-              | 00   | PMK - Pimoroni Mechanical/Mushy Keypad - CircuitPython             | https://github.com/pimoroni/pmk-circuitpython
-hardware:keyboard:-              | 00   | MacroKeyboardV2                                                    | https://github.com/retrobuiltRyan/MacroKeyboardV2
+hardware:keyboard:-              | 000   | MacroKeyboardV2                                                    | https://github.com/retrobuiltRyan/MacroKeyboardV2
 hardware:keyboard:-              | 00   | Mini-Macro-Keyboard-v2                                             | https://github.com/retrobuiltRyan/Mini-Macro-Keyboard-v2
 hardware:keyboard:-              | 00   | MixStick-Arcade-Controller                                         | https://github.com/retrobuiltRyan/MixStick-Arcade-Controller
-hardware:keyboard:-              | 001  | Adafruit MacroPad RP2040 PCB                                       | https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB
-hardware:keyboard:-              | 001  | duckyPad                                                           | https://github.com/dekuNukem/duckyPad
+hardware:keyboard:-              | 00  | Adafruit MacroPad RP2040 PCB                                       | https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB
+hardware:keyboard:-              | 01  | duckyPad                                                           | https://github.com/dekuNukem/duckyPad
 hardware:knob:-                  | 00   | SmartKnob                                                          | https://github.com/scottbez1/smartknob
 hardware:knob:-                  | 00   | X-Knob                                                             | https://github.com/SmallPond/X-Knob
 hardware:memory:-                | 11   | Reduce Memory                                                      | https://sordum.org/9197/reduce-memory-v1-6/
@@ -1928,6 +1930,7 @@ keyboard:-:tool                  | 00   | Mouseable                             
 keyboard:-:tool                  | 00   | hamster                                                            | https://github.com/h3lstudios/hamster
 keyboard:-:tool                  | 00   | iwck                                                               | https://github.com/Nigh/I-wanna-clean-keyboard
 keypirinha:-:-                   | 11   | Keypirinha                                                         | https://keypirinha.com
+keypirinha:hardware:- | 000 | keypirinha-monitorcontrol | https://github.com/ccarpo/keypirinha-monitorcontrol
 keypirinha:app:-                 | 00   | Keypirinha WindowsApps                                             | https://github.com/ueffel/Keypirinha-WindowsApps
 keypirinha:app:-                 | 001  | Keypirinha Plugin: Svc                                             | https://github.com/DrorHarari/keypirinha-svc
 keypirinha:app:-                 | 11   | Keypirinha-Plugin-Kill                                             | https://github.com/ueffel/Keypirinha-Plugin-Kill
@@ -2330,6 +2333,7 @@ mkdocs:synax:-                   | 00   | mknotebooks                           
 mkdocs:synax:obsidian            | 001  | mkdocs-callouts                                                    | https://github.com/sondregronas/mkdocs-callouts
 mkdocs:theme:-                   | 00   | Gallery of MkDocs themes                                           | https://github.com/pawamoy/mkdocs-gallery
 mkdocs:theme:-                   | 00   | Lantana                                                            | https://github.com/WSOFT-Project/lantana
+bin:wol:- | 00 | rallyup | https://github.com/darwindarak/rallyup
 mkdocs:theme:mkdocs-material     | 11   | Material for MkDocs                                                | https://squidfunk.github.io/mkdocs-material
 mkdocs:toc:-                     | 00   | PageListPlugin for MkDocs                                          | https://github.com/alanpt/mkdocs-pagelist-plugin
 mkdocs:toc:-                     | 00   | mkdocs-enumerate-headings-plugin                                   | https://github.com/timvink/mkdocs-enumerate-headings-plugin
@@ -3631,6 +3635,7 @@ security:hash:-                  | 00   | QuickDash                             
 security:hash:-                  | 00   | QuickSFV                                                           | https://quicksfv.org/
 security:hash:-                  | 00   | RapidCRC Unicode                                                   | https://ov2.eu/programs/rapidcrc-unicode
 security:hash:-                  | 11   | OpenHashTab                                                        | https://github.com/namazso/OpenHashTab
+serve:karaok:- | 00 | Karaoke Mugen Server | https://github.com/karaokemugen/karaokemugen-server
 serve:alert:-                    | 00   | Keep                                                               | https://github.com/keephq/keep
 serve:activitywatch:-            | 00   | aw-watcher-input                                                   | https://github.com/ActivityWatch/aw-watcher-input
 serve:activitywatch:-            | 00   | aw-watcher-utilization                                             | https://github.com/Alwinator/aw-watcher-utilization
@@ -4266,6 +4271,7 @@ vscode:text:-                    | 00   | Text Marker (Highlighter)             
 vscode:text:-                    | 00   | Text Power Tools                                                   | https://github.com/qcz/vscode-text-power-tools.git
 vscode:theme:-                   | 00   | e-ink                                                              | https://gitlab.com/eddjrn/vs-code-e-ink-theme
 vscode:theme:-                   | 11   | Tokyo Night Themes                                                 | https://github.com/AvetisDN/tokyo-dark-theme.git
+window:-:- | 11 | Virtual Display Driver | https://github.com/VirtualDisplay/Virtual-Display-Driver
 window:-:-                       | 10   | GlazeWM                                                            | https://github.com/glzr-io/glazewm
 window:-:-                       | 00   | GridMove                                                           | https://github.com/mirtlecn/GridMove
 window:-:-                       | 00   | Simple Dynamic Window Manager for Windows                          | https://github.com/ahrm/SDWM
@@ -4296,7 +4302,7 @@ zsh:cd:-                         | 00   | ZSH Up dir                            
 zsh:cd:-                         | 00   | cdh                                                                | https://github.com/johncassol/cdh
 zsh:cd:-                         | 00   | commacd                                                            | https://github.com/shyiko/commacd
 zsh:cd:-                         | 00   | zsh-bd                                                             | https://github.com/Tarrasch/zsh-bd
-zsh:cd:-                         | 11   | enhancd                                                            | https://github.com/babarot/enhancd
+zsh:cd:-                         | 00   | enhancd                                                            | https://github.com/babarot/enhancd
 zsh:clear:-                      | 00   | almostontop                                                        | https://github.com/Valiev/almostontop
 zsh:clear:-                      | 00   | zsh-allclear                                                       | https://github.com/givensuman/zsh-allclear
 zsh:color:-                      | 00   | zsh-shellcolors                                                    | https://github.com/SaltedBlowfish/zsh-shellcolor
