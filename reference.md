@@ -70,6 +70,8 @@ pdfjs                 | 00  | [How to Build a JavaScript PDF Viewer with PDF.js]
 conda                 | 00  | [Minconda Portable Installation](https://gist.github.com/CypherpunkSamurai/359503fa3a23ea5e493c5eeeaf2de8d4)
 python                | 00  | [How to set environment variables in Python?](https://stackoverflow.com/questions/5971312/how-to-set-environment-variables-in-python)
 python:jupyter        | 00  | [Using Virtual Environments in Jupyter Notebook and Python](https://janakiev.com/blog/jupyter-virtual-envs/)
+python:beautifulsoup4 | 00 | [Which movie should I watch?](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
+python:scrapy | 00 | [Web Scraping With Scrapy and MongoDB](https://realpython.com/web-scraping-with-scrapy-and-mongodb/)
 python:pip            | 00  | [How to solve ReadTimeoutError: HTTPSConnectionPool(host='pypi.python.org', port=443) with pip?](https://stackoverflow.com/questions/43298872/how-to-solve-readtimeouterror-httpsconnectionpoolhost-pypi-python-org-port)
 python:pip            | 00  | [What is the meaning of "Failed building wheel for X" in pip install?](https://stackoverflow.com/questions/53204916/what-is-the-meaning-of-failed-building-wheel-for-x-in-pip-install)
 python:unicode        | 00  | [UnicodeEncodeError when redirecting Python output on Windows](https://isaacong.me/posts/unicodeencodeerror-when-redirecting-python-output/)

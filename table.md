@@ -1,5 +1,7 @@
 tag                              | mark | title                                                              | url
 :-                               | :-   | :-                                                                 | :-
+ai:browser:- | 00 | Stagehand | https://github.com/browserbase/stagehand
+ai:video:- | 00 | Animated Drawings | https://github.com/facebookresearch/AnimatedDrawings
 ai:audio:-                       | 00   | DeepFilterNet                                                      | https://github.com/Rikorose/DeepFilterNet
 ai:audio:-                       | 00   | AniPortrait                                                        | https://github.com/Zejun-Yang/AniPortrait
 ai:audio:-                       | 00   | CosyVoice                                                          | https://github.com/FunAudioLLM/CosyVoice
@@ -49,6 +51,9 @@ andriod:app:-                    | 00   | Qalculate!                            
 andriod:app:-                    | 00   | Stride                                                             | https://github.com/stride-tasks/stride
 andriod:app:-                    | 11   | Neo Store                                                          | https://github.com/NeoApplications/Neo-Store
 andriod:app:-                    | 11   | Readium Kotlin Toolkit                                             | https://github.com/readium/kotlin-toolkit
+andriod:camera:- | 00 | AsciiCam | https://github.com/dozingcat/AsciiCam
+andriod:camera:- | 00 | Vector Camera | https://github.com/dozingcat/VectorCamera
+andriod:apk:- | 10 | Kanade | https://github.com/alexrintt/kanade
 andriod:bible:-                  | 00   | and-bible                                                          | https://github.com/AndBible/and-bible
 andriod:bookmark:-               | 00   | floccus bookmark sync                                              | https://github.com/floccusaddon/floccus
 andriod:browser:-                | 00   | Brave                                                              | https://github.com/brave/brave-browser
@@ -72,8 +77,8 @@ andriod:lan:-                    | 00   | Vector Camera                         
 andriod:lan:-                    | 00   | tailscale                                                          | https://github.com/tailscale/tailscale
 andriod:lan:-                    | 11   | Zerotier Fix                                                       | https://github.com/kaaass/ZerotierFix
 andriod:log:-                    | 00   | LogFox                                                             | https://github.com/F0x1d/LogFox
-andriod:map:-                    | 00   | OpenTracks                                                         | https://github.com/OpenTracksApp/OpenTracks
-andriod:map:-                    | 00   | Organic Maps                                                       | https://github.com/organicmaps/organicmaps
+andriod:map:-                    | 00   | OpenTracks                                                         | https://opentracksapp.com/
+andriod:map:-                    | 00   | Organic Maps                                                       | https://organicmaps.app/
 andriod:map:-                    | 00   | Trail-Sense                                                        | https://github.com/kylecorry31/Trail-Sense
 andriod:note:-                   | 00   | 蜜蜂便签                                                           | https://mp.weixin.qq.com/s/6v_1CnkOGsUgGaRIiXKFIg
 andriod:photo:-                  | 00   | Photok                                                             | https://github.com/leonlatsch/Photok
@@ -336,7 +341,8 @@ autohotkey:window:-              | 00   | ahk-scripts                           
 autohotkey:window:-              | 00   | desktop.ahk                                                        | https://github.com/TheCrether/ahkscripts#desktopahk
 autohotkey:window:-              | 00   | windows-desktop-switcher                                           | https://github.com/pmb6tz/windows-desktop-switcher
 autohotkey:window:-              | 00   | 「見苦窓経営」笑                                                   | https://github.com/imawizard/MiguruWM
-autohotkey:window:-              | 11   | ahk-resize-windows                                                 | https://github.com/IsacEkeroth/ahk-resize-windows
+autohotkey:window:-              | 00   | ahk-resize-windows                                                 | https://github.com/IsacEkeroth/ahk-resize-windows
+window:resize:- | 11 | resizer2 | https://github.com/alvesvaren/resizer2
 autohotkey:workflow:-            | 00   | CJK Material Processing                                            | https://github.com/ahlisbon/CJKmaterialProcessing
 autohotkey:workflow:-            | 00   | Kevin's AutoHotKey Application                                     | https://github.com/KevinHJoe/Auto-App
 autohotkey:workflow:-            | 00   | ahk                                                                | https://github.com/Tomshiii/ahk
@@ -801,6 +807,7 @@ development:api:-                | 00   | Infisical                             
 development:database:-           | 00   | sqlite-vec                                                         | https://github.com/asg017/sqlite-vec
 device:bluetooth:-               | 00   | toolBLEx                                                           | https://github.com/emericg/toolBLEx
 device:camera:-                  | 00   | Frigate                                                            | https://github.com/blakeblackshear/frigate
+device:camera:- | 00 | ASCIIcam | https://bitbucket.org/grumdrig/asciicam
 device:cb1:-                     | 00   | CB1                                                                | https://github.com/bigtreetech/CB1
 device:cb1:drive                 | 00   | CB1 3d Acceleration running Armbian Bookworm                       | https://gist.github.com/adelyser/4e31409cd9c99ba4cb78a31fa9d12bb1
 device:cb1:os                    | 00   | RatOS-on-CB1                                                       | https://github.com/koder-guy/RatOS-on-CB1
@@ -1832,7 +1839,8 @@ joplin:tool:-                    | 00   | Joplin Backstage Plugin               
 joplin:tool:-                    | 00   | Simsapa Joplin plugin                                              | https://github.com/simsapa/simsapa-joplin
 joplin:tui:-                     | 00   | Joplin Terminal Application                                        | https://joplinapp.org/help/apps/terminal/
 joplin:viewer:-                  | 00   | Joplin disable markdown renderer                                   | https://github.com/JJ-8/joplin-disable-pdf
-js::-                            | 00   | Exifr                                                              | https://github.com/MikeKovarik/exifr
+js:-:-                            | 00   | Exifr                                                              | https://github.com/MikeKovarik/exifr
+js:-:- | 01 | Subscapes | https://github.com/mattdesl/subscapes
 js:alert:-                       | 00   | SweetAlert                                                         | https://sweetalert.js.org
 js:analyze:-                     | 00   | Umami                                                              | https://umami.is
 js:animate:-                     | 00   | Manim                                                              | https://docs.manim.community/en/stable/index.html
@@ -3661,6 +3669,7 @@ serve:community:-                | 00   | Flarum                                
 serve:data-optimize:-            | 00   | Unmanic                                                            | https://github.com/Unmanic/unmanic
 serve:database:-                 | 00   | ParadeDB                                                           | https://github.com/paradedb/paradedb
 serve:database:-                 | 00   | SurrealDB                                                          | https://github.com/surrealdb/surrealdb
+serve:tag:- | 00 | FeatBit | https://github.com/featbit/featbit
 serve:dns:-                      | 00   | AdGuardHome                                                        | https://github.com/AdguardTeam/AdGuardHome
 serve:dns:-                      | 00   | Pi-hole                                                            | https://github.com/pi-hole/pi-hole
 serve:dns:monitor                | 00   | AdGuardian-Term                                                    | https://github.com/Lissy93/AdGuardian-Term
@@ -4293,6 +4302,7 @@ windows:window:-                 | 11   | zVirtualDesktop                       
 write:grammer:comment            | 001  | languagetool-code-comments                                         | https://github.com/dustinblackman/languagetool-code-comments
 write:mrammar:-                  | 001  | LanguageTool                                                       | https://github.com/languagetool-org/languagetool
 zsh:-:-                          | 11   | Oh My Zsh                                                          | https://github.com/ohmyzsh/ohmyzsh
+zsh:database:- | 00 | PostgreSQL Connection Plugin for Oh My Zsh | https://github.com/ruslan-korneev/pgconnect-zsh
 zsh:history:-                    | 11   | zsh-history-on-success                                             | https://github.com/nyoungstudios/zsh-history-on-success
 zsh:backup:-                     | 00   | zshrc-sync                                                         | https://github.com/Skylor-Tang/zshrc-sync
 zsh:backup:-                     | 10   | Zsnapshot                                                          | https://github.com/zdharma-continuum/zsnapshot
