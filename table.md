@@ -4222,6 +4222,7 @@ vim:wiki:-                       | 00   | vim-zim                               
 vim:wiki:-                       | 00   | wiki.vim                                                           | https://github.com/lervag/wiki.vim
 vim:write:-                      | 00   | goyo.vim                                                           | https://github.com/junegunn/goyo.vim
 vim:write:-                      | 00   | limelight.vim                                                      | https://github.com/junegunn/limelight.vim
+vim:synax:- | 00 | VPolyglot | https://github.com/sheerun/vim-polyglot
 vscode:-:-                       | 11   | Visual Studio Code                                                 | https://code.visualstudio.com
 vscode:action:-                  | 00   | GitHub Actions                                                     | https://github.com/github/vscode-github-actions
 vscode:archive:-                 | 00   | VSCode Archive                                                     | https://github.com/tjx666/vscode-archive
