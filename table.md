@@ -45,6 +45,7 @@ ai:video:-                       | 00   | VideoReTalking                        
 ai:video:-                       | 00   | vid2vid                                                            | https://github.com/NVIDIA/vid2vid
 ai:video:camera                  | 00   | Disclaimer                                                         | https://github.com/hacksider/Deep-Live-Cam
 andirod:-:-                      | 00   | love-11.3-android                                                  | https://github.com/love2d/love/releases
+andriod:windows:- | 00 | MiceWine Emulator | https://github.com/KreitinnSoftware/MiceWine-Application
 andriod:app:-                    | 00   | App Manager                                                        | https://github.com/MuntashirAkon/AppManager
 andriod:app:-                    | 00   | Obtainium                                                          | https://github.com/ImranR98/Obtainium
 andriod:app:-                    | 00   | Qalculate!                                                         | https://f-droid.org/packages/com.jherkenhoff.qalculate
@@ -1746,6 +1747,7 @@ image:rezise:-                   | 00   | Real-ESRGAN-GUI                       
 image:rezise:-                   | 00   | Real-ESRGAN_GUI                                                    | https://github.com/net2cn/Real-ESRGAN_GUI
 image:rezise:-                   | 00   | Waifu2x-Extension-GUI                                              | https://github.com/AaronFeng753/Waifu2x-Extension-GUI
 image:rezise:-                   | 00   | waifu2x - Snowshell                                                | https://github.com/YukihoAA/waifu2x_snowshell
+image:resize:- | 00 | Upscayl | https://github.com/upscayl/upscayl
 image:tag:-                      | 00   | Hydrus                                                             | https://github.com/hydrusnetwork/hydrus
 image:tag:-                      | 000  | Tsuki-tag                                                          | https://github.com/ngelsi/tsuki-tag-native
 image:tag:ai                     | 00   | TagGUI                                                             | https://github.com/jhc13/taggui
