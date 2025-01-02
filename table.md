@@ -2651,6 +2651,7 @@ neovim:window:-                  | 00   | winmove.nvim                          
 neovim:audio:-                   | 001  | reverb.nvim                                                        | https://github.com/whleucka/reverb.nvim
 neovim:bible:-                   | 00   | bible-verse.nvim                                                   | https://github.com/anthony-halim/bible-verse.nvim
 neovim:bookmark:-                | 10   | Lspmark.nvim                                                       | https://github.com/tristone13th/lspmark.nvim
+neovim:bookmark:- | 00 | navimark.nvim | https://github.com/zongben/navimark.nvim
 neovim:bookmark:-                | 10   | bookmarks.nvim                                                     | https://github.com/crusj/bookmarks.nvim
 neovim:bookmark:-                | 10   | spelunk.nvim                                                       | https://github.com/EvWilson/spelunk.nvim
 neovim:bracket:-                 | 11   | Auto Pairs                                                         | https://github.com/LunarWatcher/auto-pairs

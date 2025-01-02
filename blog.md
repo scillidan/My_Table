@@ -13,6 +13,7 @@ blog  | `immutable`             | [Immutable Linux Distros: Are They Right for Y
 blog  | `ink trap`              | [Ink traps and pals](https://tosche.net/blog/ink-traps-and-pals)
 blog  | `insurance`             | [When Is Insurance Worth It?](https://entropicthoughts.com/when-is-insurance-worth-it)
 blog  | `life lessons`          | [40 Life Lessons I Know at 40 (That I Wish I Knew at 20)](https://markmanson.medium.com/40-life-lessons-i-know-at-40-that-i-wish-i-knew-at-20-6fa878ce49c1)
+blog  | `llm`                   | [How I run LLMs locally](https://abishekmuthian.com/how-i-run-llms-locally)
 blog  | `maintainer`            | [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 blog  | `neumann architecture`  | [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 blog  | `ninja`                 | [The Success and Failure of Ninja](https://neugierig.org/software/blog/2020/05/ninja.html)
