@@ -2643,6 +2643,7 @@ music:tui:-                      | 00   | Gomu                                  
 music:tui:-                      | 00   | grump                                                              | https://github.com/dhulihan/grump
 music:tui:-                      | 00   | musikcube                                                          | https://musikcube.com
 music:tui:linux                  | 00   | Harmony Music                                                      | https://github.com/ZingyTomato/Harmony-Music
+neovim:edit:- | 10 | move-lines.nvim | https://github.com/kobbikobb/move-lines.nvim
 neovim:-:-                       | 11   | Neovim                                                             | https://neovim.io
 neovim:complete:-                | 00   | Blink Completion (blink.cmp)                                       | https://github.com/Saghen/blink.cmp
 neovim:keymap:-                  | 10   | Houdini                                                            | https://github.com/TheBlob42/houdini.nvim
@@ -2781,6 +2782,7 @@ neovim:gui:-                     | 00   | Goneovim                              
 neovim:gui:-                     | 00   | roarie-commands                                                    | https://github.com/lalbornoz/roarie-commands.vim
 neovim:gui:-                     | 11   | Neovide                                                            | https://github.com/neovide/neovide
 neovim:harper:-                  | 001  | Harper                                                             | https://github.com/elijah-potter/harper
+neovim:highlight:- | 11 | colorizer.lua | https://github.com/catgoose/nvim-colorizer.lua
 neovim:highlight:-               | 00   | NeoColumn.nvim                                                     | https://github.com/ecthelionvi/NeoColumn.nvim
 neovim:highlight:-               | 00   | Rainbow delimiters for Neovim                                      | https://gitlab.com/HiPhish/rainbow-delimiters.nvim
 neovim:highlight:-               | 00   | colorizer.lua                                                      | https://github.com/norcalli/nvim-colorizer.lua
